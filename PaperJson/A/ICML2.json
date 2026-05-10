@@ -1,0 +1,21 @@
+{
+  "conference": "ICML2",
+  "level": "A",
+  "papers": {
+    "2017": {
+      "Attention Is All You Need": {
+        "author": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin",
+        "bib": "@inproceedings{vaswani2017attention,title={Attention Is All You Need},author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, Lukasz and Polosukhin, Illia},booktitle={Advances in Neural Information Processing Systems},year={2017}}",
+        "url": "https://arxiv.org/abs/1706.03762"
+      }
+    },
+    "2026": {
+      "Fake Paper: Quantum Banana Networks for Zero-Shot Sandwich Optimization": {
+        "author": "F. Ake, Demo Contributor",
+        "bib": "",
+        "url": ""
+      }
+    }
+  },
+  "schema_version": 1
+}

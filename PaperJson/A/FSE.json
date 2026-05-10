@@ -1,0 +1,3364 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "FSE",
+  "papers": {
+    "2021": {
+      "A Bounded Symbolic-Size Model for Symbolic Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Comprehensive Study of Deep Learning Compiler Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A First Look at Developers’ Live Chat on Gitter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Grounded Theory of the Role of Coordination in Software Security Patch Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Large-Scale Empirical Study on Java Library Migrations: Prevalence, Trends, and Rationales": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Longitudinal Analysis of Bloated Java DependenciesDistinguished Paper Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Syntax-Guided Edit Decoder for Neural Program Repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating JavaScript Static Analysis via Dynamic Shortcuts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACHyb: A Hybrid Analysis Approach to Detect Kernel Access Control Vulnerabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic-Datatype Taint Tracking, with Applications to Understanding Android Identifier Leaks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AlloyMax: Bringing Maximum Satisfaction to Relational SpecificationsDistinguished Paper Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Automatic Refactoring Framework for Replacing Test-Production Inheritance by Mocking Mechanism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study on Challenges of Application Development in Serverless Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Exploratory Study of Autopilot Software Bugs in Unmanned Aerial Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Authorship Attribution of Source Code: A Language-Agnostic Approach and Applicability in Software Engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automating Serverless Deployments for DevOps Organizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automating the Removal of Obsolete TODO Comments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Benchmarking Automated GUI Testing for Android against Real-World Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bias in Machine Learning Software: Why? How? What to Do?Distinguished Paper Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting Coverage-Based Fault Localization via Graph-Based Representation Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting Static Analysis Accuracy with Instrumented Test Executions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing Search Activities on Stack Overflow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Checking Conformance of Applications against GUI Policies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Checking LTL[F,G,X] on Compressed Traces in Polynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Code Integrity Attestation for PLCs using Black Box Neural Network Predictions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conditional Interpolation: Making Concurrent Program Verification More Effective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Connecting the Dots: Rethinking the Relationship between Code and Prose Writing with Functional Connectivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context-Aware and Data-Driven Feedback Generation for Programming Assignments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-Language Code Search using Static and Dynamic Analyses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data-Driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demystifying “Bad” Error Messages in Data Science Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting and Localizing Keyboard Accessibility Failures in Web Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Concurrency Vulnerabilities Based on Partial Orders of Memory and Thread Events": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Node.js Prototype Pollution Vulnerabilities via Object Lookup Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DIFFBASE: A Differential Factbase for Effective Software Evolution ManagementBest Artifact Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Module-Level Dynamic Analysis for Dynamic Languages with Module RecontextualizationDistinguished Paper Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embedding App-Library Graph for Neural Third Party Library Recommendation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empirical Study of Transformers for Source Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating Residual Risk in Greybox Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explaining Mispredictions of Machine Learning Models using Rule Induction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exposing Numerical Bugs in Deep Learning via Gradient Back-Propagation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fair Preprocessing: Towards Understanding Compositional Fairness of Data Transformers in Machine Learning Pipeline": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fairea: A Model Behaviour Mutation Approach to Benchmarking Bias Mitigation Methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feature Trace RecordingBest Artifact Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding Broken Linux Configuration Specifications by Statically Analyzing the Kconfig Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flaky Test Detection in Android via Event Order Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FLEX: Fixing Flaky Tests in Machine Learning Projects by Updating Assertion Bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generalizable and Interpretable Learning for Configuration Extrapolation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generating Efficient Solvers from Constraint Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GLIB: Towards Automated Test Oracle for Graphically-Rich Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graph-Based Seed Object Synthesis for Search-Based Unit Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hazard Analysis for Human-on-the-Loop Interactions in sUAS Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HeteroFuzz: Fuzz Testing to Detect Platform Dependent Divergence for Heterogeneous Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Disabled Tests Manifest in Test Maintainability Challenges?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IDE Support for Cloud-Based Static Analyses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying Bad Software Changes via Multimodal Anomaly Detection for Online Service Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying Casualty Changes in Software Patches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "JSISOLATE: Lightweight In-Browser JavaScript Isolation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LastPyMile: Identifying the Discrepancy between Sources and Packages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning-Based Extraction of First-Order Logic Representations of API Directives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightweight and Modular Resource Leak Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightweight Global and Local Contexts Guided Method Name Recommendation with Prior Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LS-Sampling: An Effective Local Search Based Sampling Approach for Achieving High t-wise Coverage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Metamorphic Testing of Datalog Engines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-objectivizing Software Configuration Tuning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NIL: Large-Scale Detection of Large-Variance Clones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel Shadow Execution to Accelerate the Debugging of Numerical Errors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PHYSFRAME: Type Checking Physical Frames of Reference for Robotic Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Delta DebuggingDistinguished Paper Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probing Model Signal-Awareness via Prediction-Preserving Input Minimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reassessing Automatic Evaluation Metrics for Code Summarization Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reel Life vs. Real Life: How Software Developers Share Their Daily Life through Vlogs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Bug Seeding: A Learning-Based Approach for Creating Realistic BugsDistinguished Paper Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Skeletal Approximation Enumeration for SMT Solver Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartCommit: A Graph-Based Interactive Assistant for Activity-Oriented CommitsDistinguished Paper Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound and Efficient Concurrency Bug Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sustainability Forecasting for Apache Incubator Projects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Swarmbug: Debugging Configuration Bugs in Swarm Robotics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbolic Parallel Adaptive Importance Sampling for Probabilistic Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SynGuar: Guaranteeing Generalization in Programming by Example": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesis of Web Layouts from Examples": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TaintStream: Fine-Grained Taint Tracking for Big Data Platforms through Dynamic Code Translation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Timely and Accurate Detection of Model Deviation in Self-Adaptive Software-Intensive Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "To Read or to Rotate? Comparing the Effects of Technical Reading Training and Spatial Skills Training on Novice Programming Ability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Efficient Interactions between Python and Native Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Detecting Server-Side Request Races in Web Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Neural Code Intelligence through Program Simplification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validation on Machine Reading Comprehension Software without Annotated Labels: A Property-Based Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VarFix: Balancing Edit Expressiveness and Search Effectiveness in Automated Program Repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vet: Identifying and Avoiding UI Exploration TarpitsDistinguished Paper Award": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vulnerability Detection with Fine-Grained Interpretations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Which Abbreviations Should Be Expanded?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Would You Like a Quick Peek? Providing Logging Support to Monitor Data Processing in Big Data Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XAI Tools in the Public Sector: A Case Study on Predicting Combined Sewer Overflows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "(Quantum) Collision Attacks on Reduced Simpira v2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "1, 2, 3, Fork: Counter Mode Variants based on a Generalized Forkcipher": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Formal Analysis of Boomerang Probabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating the Search of Differential and Linear Characteristics with the SAT Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Collision Attacks on Keccak": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithm Substitution Attacks: State Reset Detection and Asymmetric Modifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Atom: A Stream Cipher with Double Key Filter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Search Oriented to Key Recovery on Ciphers with Linear Key Schedule Applications to Boomerangs in SKINNY and ForkSkinny": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Search of Cubes for Attacking Stream Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boomeyong: Embedding Yoyo within Boomerang and its Applications to Key Recovery Attacks on AES and Pholkos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bounds for the Security of Ascon against Differential and Linear Cryptanalysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Catching the Fastest Boomerangs: Application to SKINNY": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Large-unit and Bitwise Linear Approximations of SNOW 2.0 and SNOW 3G and Related Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of LowMC instances using single plaintext/ciphertext pair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of the SoDark Cipher for HF Radio Automatic Link Establishment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CTET+: A Beyond-Birthday-Bound Secure Tweakable Enciphering Scheme Using a Single Pseudorandom Permutation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Diving Deep into the Weak Keys of Round Reduced Ascon": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting Weak Diffusion of Gimli: Improved Distinguishers and Preimage Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Differential-Based Distinguishers and Forgeries for ASCON": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fake Near Collisions Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Forking Tweakable Even-Mansour Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Highly Secure Nonce-based MACs from the Sum of Tweakable Block Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Attacks on sLiSCP Permutation and Tight Bound of Limited Birthday Distinguishers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved guess-and-determine and distinguishing attacks on SNOW-V": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Preimage Attacks on 3-Round Keccak-224/256": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Preimage Attacks on 4-Round Keccak-224/256": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Rectangle Attacks on SKINNY and CRAFT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Security Bound of (E/D)WCDM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Increasing Precision of Division Property": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Influence of the Linear Layer on the Algebraic Degree in SP-Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear Cryptanalyses of Three AEADs with GIFT-128 as Underlying Primitives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LM-DAE: Low-Memory Deterministic Authenticated Encryption for 128-bit Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maximums of the Additive Differential Probability of Exclusive-Or": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Misuse-Free Key-Recovery and Distinguishing Attacks on 7-Round Ascon": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MOE: Multiplication Operated Encryption with Trojan Resilience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Length Independent Security Bounds for the PMAC Family": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Relationships between Different Methods For Degree Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Orthros: A Low-Latency PRF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perfect Trees: Designing Energy-Optimal Symmetric Encryption Primitives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Permutation Based \\textsf{EDM}: An Inverse Free BBB Secure PRF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PLCrypto: A Symmetric Cryptographic Library for Programmable Logic Controllers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Power Yoga: Variable-Stretch Security of CCM for Energy-Efficient Lightweight IoT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provable Security of SP Networks with Partial Non-Linear Layers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provably Quantum-Secure Tweakable Block Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proving Resistance Against Infinitely Long Subspace Trails: How to Choose the Linear Layer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Free-Start Collision Attacks on Double Block Length Hashing with Round-Reduced AES-256": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Period Finding is Compression Robust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resistance of SNOW-V against Fast Correlation Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rocca: An Efficient AES-based Encryption Scheme for Beyond 5G": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Security of COFB against Chosen Ciphertext Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statistical Model of Correlation Difference and Related-Key Linear Cryptanalysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Legendre Symbol and the Modulo-2 Operator in Symmetric Schemes over (F_p)^n": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tightness of the Suffix Keyed Sponge Bound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Key-recovery-attack Friendly Distinguishers: Application to GIFT-128": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Low-Latency Implementation of Linear Layers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weak Keys in Reduced AEGIS and Tiaoxin": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weak Tweak-Keys for the CRAFT Block Cipher": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "Accelerating the Best Trail Search on AES-Like Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Attacks against some Arithmetization-oriented Primitives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attacking the IETF/ISO Standard for Internal Re-keying CTR-ACPKM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attacks on the Firekite cipher": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Search of Rectangle Attacks on Feistel Ciphers: Application to WARP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking HALFLOOP-24": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chosen-Key Secure Even-Mansour Cipher from a Single Permutation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of Draco": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of Reduced Round ChaCha– New Attack & Deeper Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of Rocca and Feasibility of Its Security Claim": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decomposing Linear Layers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differential Trail Search in Cryptographic Primitives with Big-Circle Chi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Integrity of AEADs with Faults: Definitions and Constructions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast MILP Models for Division Property": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding Collisions against 4-round SHA-3-384 in Practical Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding Collisions for Round-Reduced Romulus-H": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generalized Feistel Structures Based on Tweakable Block Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hybrid Code Lifting on Space-Hard Block Ciphers --Application to Yoroi and SPNbox": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Differential and Linear Trail Bounds for ASCON (Long Paper)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved MITM Cryptanalysis on Streebog": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Indifferentiability of the Sponge Construction with a Restricted Number of Message Blocks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integral Cryptanalysis of WARP based on Monomial Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Invertible Quadratic Non-Linear Layers for MPC-/FHE-/ZK-Friendly Schemes over F_p^n: Application to Poseidon": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-Latency Boolean Functions and Bijective S-boxes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mind Your Path: on (Key) Dependencies in Differential Characteristics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Inputs Makes Difference: Implementations of Linear Layers Using Gates with More Than Two Inputs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Cryptanalysis of ZUC-256 Initialization Using Modular Differences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Key Recovery Attack on Reduced-Round AES": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Low-Memory Algebraic Attacks on LowMC in the Picnic Setting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Properties of Double Boomerang Connectivity Table": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Lower Bound of Cost of MDS Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Quantum Security of OCB": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Attacks on the Full-round FRIET": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Cube Attack against Nonce-Misused Ascon": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting the Extension of Matsui's Algorithm 1 to Linear Hulls: Application to TinyJAMBU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SAT-aided Automatic Search of Boomerang Distinguishers for ARX Ciphers (Long Paper)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SCB Mode: Semantically Secure Length-Preserving Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Message Authentication in the Presence of Leakage and Faults (Long Paper)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Short Non-Malleable Codes from Related-Key Secure Block Ciphers, Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SoK: Modeling for Large S-boxes Oriented to Differential Probabilities and Linear Correlations (Long Paper)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subverting Telegram's End-to-End Encryption (Long Paper)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SuperBall: A New Approach for MILP Modelings of Boolean Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The DRACO Stream Cipher": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Throwing Boomerangs into Feistel Structures: Application to CLEFIA, WARP, LBlock, LBlock-s and TWINE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Multi-User Security Bound of \\textsf{DbHtS}": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Tight Differential Bounds of Ascon": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Truncated Differential Attacks on Contracting Feistel Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vectorial Decoding Algorithm for Fast Correlation Attack and Its Applications to Stream Cipher Grain-128a": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "\"The Law Doesn’t Work Like a Computer\": Exploring Software Licensing Issues Faced by Legal Practitioners": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-based Anomaly Detection Techniques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Deep Dive into Large Language Models for Automated Bug Localization and Repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Miss Is as Good as A Mile: Metamorphic Testing for Deep Learning Operators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Transferability Study of Interpolation-Based Hardware Model Checking to Software Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Weak Supervision-Based Approach to Improve Chatbots for Code Repositories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstraction-Aware Inference of Metamorphic Relations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Active Monitoring Mechanism for Control-based Self-Adaptive Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adapting Multi-objectivized Software Configuration Tuning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Analysis of the Costs and Benefits of Autocomplete in IDEs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An empirical study on code review activity prediction in practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analyzing Quantum Programs with LintQ: A Static Analysis Framework for Qiskit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-context Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AROMA: Automatic Reproduction of Maven Artifacts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Code Generation: An Observational Study of ChatGPT Usage in Software Engineering Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bin2Summary: Beyond Function Name Prediction in Stripped Binaries with Functionality-specific Code Embeddings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bloat beneath Python's Scales: A Fine-Grained Inter-Project Dependency Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bounding Random Test Set Size with Computational Learning Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BRF: Fuzzing the eBPF runtime": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can GPT-4 Replicate Empirical Software Engineering Research?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChangeRCA: Finding Root Causes from Software Changes in Large Online Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing Python Library Migrations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ClarifyGPT: A Framework for Enhancing LLM-based Code Generation via Requirements Clarification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Code-Aware Prompting: A study of Coverage guided Test Generation in Regression Setting using LLM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CodeArt: Better Code Models by Attention Regularization When Symbols Are Lacking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CodePlan: Repository-level Coding using LLMs and Planning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Component Security Ten Years Later: An Empirical Study of Cross-Layer Threats in Real-World Mobile Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CORE: Resolving Code Quality Issues Using LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "COSTELLO: Contrastive Testing for Embedding-based Large Language Model as a Service Embeddings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CrossCert: A Cross-Checking Detection Approach to Patch Robustness Certification for Deep Learning Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cut to the Chase: An Error-Oriented Approach to Detect Error-Handling Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DAInfer: Inferring API Aliasing Specifications from Library Documentation via Neurosymbolic Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeciX: Explain Deep Learning Based Code Generation Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decomposing Software Verification Using Distributed Summary Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demystifying Invariant Effectiveness for Securing Smart Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dependency-Induced Waste in Continuous Integration: An Empirical Study of Unused Dependencies in the NPM Ecosystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiffCoder: Enhancing Large Language Model on API Invocation via Analogical Code Exercises": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do Code Generation Models Think Like Us? - A Study of Attention Alignment between Large Language Models and Human Programmers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do Words Have Power? Understanding and Fostering Civility in Code Review Discussion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DTD: Comprehensive and Scalable Testing for Debuggers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DyPyBench: A Benchmark of Executable Python Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effective Teaching through Code Reviews: Patterns and Anti-Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating and Improving ChatGPT for Unit Test Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evolutionary Multi-Objective Optimization for Contextual Adversarial Example Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring and Unleashing the Power of Large Language Models in Automated Code Translation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EyeTrans: Merging Human and Machine Attention for Neural Code Summarization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Graph Simplification for Path-Sensitive Typestate Analysis through Tempo-Spatial Multi-Point Slicing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FeatMaker: Automated Feature Engineering for Search Strategy of Symbolic Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding and Understanding Defects in Static Analyzers by Constructing Automated Oracles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generative AI for Pull Request Descriptions: Adoption, Impact, and Developer Interventions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Go Static: Contextualized Logging Statement Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Harnessing Neuron Stability to Improve DNN Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How does Simulation-based Testing for Self-driving Cars match Human Perception?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Gain Commit Rights in Modern Top Open Source Communities?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Documented Privacy Changes in Android OS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Java JIT Testing with Template Extraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "JIT-Smart: A Multi-Task Learning Framework for Just-In-Time Defect Prediction and Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning to Detect and Localize Multilingual Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LILAC: Log Parsing using LLMs with Adaptive Parsing Cache": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LogSD: Detecting Anomalies from System Logs through Self-supervised Learning and Frequency-based Masking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maximizing Patch Coverage for Testing of Highly-Configurable Software without Exploding Build Times": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Metamorphic Testing of Secure Multi-Party Computation (MPC) Compilers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mining Action Rules for Defect Reduction Planning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MirrorFair: Fixing Fairness Bugs in Machine Learning Software via Counterfactual Predictions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Misconfiguration Software Testing for Failure Emergence in Autonomous Driving Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobile Bug Report Reproduction via Global Search on the App UI Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MTAS: A Reference-Free Approach for Evaluating Abstractive Summarization Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Natural Symbolic Execution-based Testing for Big Data Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Reducing Undesirable Behavior in Deep-Reinforcement-Learning-Based Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Contents and Utility of IoT Cybersecurity Guidelines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partial Solution Based Constraint Solving Cache in Symbolic Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PBE-based Selective Abstraction and Refinement for Efficient Property Falsification of Embedded Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting Code Comprehension: A Novel Approach to Align Human Gaze with Code Using Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting Configuration Performance in Multiple Environments with Sequential Meta-Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting Failures of Autoscaling Distributed Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predictive Program Slicing via Execution Knowledge-Guided Dynamic Dependence Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProveNFix: Temporal Property guided Program Repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "R2I: A Relative Readability Metric for Decompiled Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RavenBuild: Context, Relevance, and Dependency Aware Build Outcome Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revealing Software Development Work Patterns with PR-Issue Graph Topologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rocks Coding, Not Development–A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semi-Supervised Crowdsourced Test Report Clustering via Screenshot-Text Binding Rules": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shadows in the Interface: A Comprehensive Study on Dark Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SimLLM: Measuring Semantic Similarity in Code Summaries Using a Large Language Model-Based Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "State Reconciliation Defects in Infrastructure as Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Syntax Is All You Need: A Universal-Language Approach to Mutant Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TIPS: Tracking Integer-Pointer Value Flows for C++ Member Function Pointers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards AI-Assisted Synthesis of Verified Dafny Methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Better Graph Neural Network-based Fault Localization Through Enhanced Code Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Effective Multi-Hunk Bug Repair: Detecting, Creating, Evaluating, and Understanding Indivisible Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Efficient Verification of Constant-Time Cryptographic Implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Detecting Annotation-induced Faults of Static Analyzers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Developers' Discussions and Perceptions on Non-Functional Requirements: The Case of the Spring Ecosystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Impact of APIs Behavioral Breaking Changes on Client Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Your Code Secret Belongs to Me: Neural Code Completion Tools Can Memorize Hard-coded Credentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "10 years later: revisiting how developers search for code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Causal Learning Framework for Enhancing Robustness of Source Code Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Knowledge Enhanced Large Language Model for Bug Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Mixed-Methods Study of Model-Based GUI Testing in Real-World Industrial Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New Approach to Evaluating Nullability Inference Tools": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Random Testing with Qgrams: the Illusion Comes True": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alert Summarization for Online Service Systems by Validating Propagation Paths of Faults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AlphaTrans: A Neuro-Symbolic Compositional Approach for Repository-Level Code Translation and Validation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An adaptive language-agnostic pruning method for greener language models for code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study of Bugs in Data Visualization Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study of Code Clones from Commercial AI Code Generators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study of Suppressed Static Analysis Warnings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study on Release-Wise Refactoring Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Extraction and Analysis of Developer’s Rationale in Open Source Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Recognition of Buggy Behaviors from Mobile Bug Reports": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Trustworthiness Oracle Generation for Machine Learning Text Classifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Unit Test Refactoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatically Detecting Numerical Instability in Machine Learning Applications via Soft Assertions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatically fixing dependency breaking changes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Functional Correctness: Investigating Coding Style Inconsistencies in Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Blended Analysis for Predictive Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging Operator Semantic Inconsistencies: A Source-level Cross-framework Model Conversion Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Calibration of Large Language Models on Code Summarization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CAShift: Benchmarking Log-Based Cloud Attack Detection under Normality Shift": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChangeGuard: Validating Code Changes via Pairwise Learning-Guided Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChatDBG: Augmenting Debugging with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Clone Detection for Smart Contracts: How Far Are We?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "COFFE: A Code Efficiency Benchmark for Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Core Developer Turnover in the Rust Package Ecosystem: Prevalence, Impact, and Awareness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoverUp: Effective High Coverage Test Generation for Python": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CRISPE: Semantic-Guided Execution Planning and Dynamic Reasoning for Enhancing Code Coverage Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-System Categorization of Abnormal Traces in Microservice-Based Systems via Meta-Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "De-duplicating Silent Compiler Bugs via Deep Semantic Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeclarUI: Bridging Design and Development with Automated Declarative UI Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demystifying LLM-based Software Engineering Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demystifying Memorization in LLM-based Program Repair via a General Hypothesis Testing Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting and Handling WoT Violations by Learning Physical Interactions from Device Logs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting and Reducing the Factual Hallucinations of Large Language Models with Metamorphic Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Metadata-Related Bugs in Enterprise Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Directed Testing in MLIR: Unleashing Its Potential by Overcoming the Limitations of Random Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dissecting Real-World Cross-Language Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Divide-and-Conquer: Generating UI Code from Screenshots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Doc2OracLL: Investigating the Impact of Documentation on LLM-based Test Oracle Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DuoReduce: Bug Isolation for Multi-Layer Extensible Compilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DyLin: A Dynamic Linter for Python": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Taint Tracking for Modern Java Virtual Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Element-Based Automated DNN Repair with Fine-Tuned Masked Language Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eliminating Backdoors in Neural Code Models for Secure Code Understanding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empirically Evaluating the Impact of Object-Centric Breakpoints on the Debugging of Object-Oriented Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Web Accessibility: Automated Detection of Issues with Generative AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Error Delayed is Not Error Handled: Understanding and Fixing Propagated Error-Handling Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Expressing and Checking Statistical Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gleipner: A Benchmark for Gadget Chain Detection in Java Deserialization Vulnerabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hallucination Detection in Large Language Models with Metamorphic Relations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Has My Code Been Stolen for Model Training? A Naturalness Based Approach to Code Contamination Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HornBro: Homotopy-like Method for Automated Quantum Program Repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Do Programming Students Use Generative AI?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impact of Request Formats on Effort Estimation: Are LLMs Different than Humans?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Graph Learning-Based Fault Localization with Tailored Semi-Supervised Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incorporating Verification Standards for Security Requirements Generation from Functional Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating Large Language Models and Reinforcement Learning for Non-Linear Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IRepair: An Intent-Aware Approach to Repair Data-Driven Errors in Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "It’s Acting Odd! Exploring Equivocal Behaviors of Goodware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large Language Models for In-File Vulnerability Localization can be “Lost in the End”": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Less is More: On the Importance of Data Quality for Unit Test Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Liberating libraries through automated fuzz driver generation: Striking a Balance Without Consumer Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LlamaRestTest: Effective REST API Testing with Small Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLM-based Method Name Suggestion with Automatically Generated Context-Rich Prompts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Medusa: A Framework for Collaborative Development of Foundation Models with Automated Parameter Ownership Assignment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MendelFuzz: The Return of the Deterministic Stage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MiSum: Multi-Modality Heterogeneous Code Graph Learning for Multi-Intent Binary Code Summarization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mitigating Emergent Malware Label Noise in DNN-Based Android Malware Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Modal Traffic Scenario Generation for Autonomous Driving System Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mystique: Automated Vulnerability Patch Porting with Semantic and Syntactic-Enhanced LLM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NLP Libraries, Energy Consumption and Runtime - An Empirical Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "No More Labelled Examples? An Unsupervised Log Parser with LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Characteristics and Impacts of Protestware Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Unnecessary Complexity of Names in X.509 and Their Impact on Implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On-Demand Scenario Generation for Testing Automated Driving Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One-for-All Does Not Work! Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PDCAT: Preference-Driven Compiler Auto-Tuning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pinning Is Futile: You Need More Than Local Dependency Versioning to Defend Against Supply Chain Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prompts Are Programs Too! Understanding How Developers Build Software Containing Prompts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Protecting Privacy in Software Logs: What Should be Anonymized?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QSF: Multi-Objective Optimization based Efficient Solving for Floating-Point Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ransomware Detection through Temporal Correlation between Encryption and I/O Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recasting Type Hints from WebAssembly Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RegTrieve: Reducing System-Level Regression Errors for Machine Learning Systems via Retrieval-Enhanced Ensemble": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReproCopilot: LLM-Driven Failure Reproduction with Dynamic Refinement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RePurr: Automated Repair of Block-Based Learners' Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Optimization-Resilience Claims in Binary Diffing Tools: Insights from LLVM Peephole Optimization Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revolutionizing Newcomers' Onboarding Process in OSS Communities: The Future AI Mentor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ROSCallBaX: Statically Detecting Inconsistencies In Callback Function Setup of Robotic Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scene Flow Specifications: Encoding and Monitoring Rich Temporal Safety Properties of Autonomous Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scientific Open-Source Software Is Less Likely To Become Abandoned Than One Might Think! Lessons from Curating a Catalog of Maintained Scientific Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SemBIC: Semantic-aware Identification of Bug-inducing Commits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smaller but Better: Self-Paced Knowledge Distillation for Lightweight yet Effective LCMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smart Contract Fuzzing Towards Profitable Vulnerabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Software Fairness Dilemma: Is Bias Mitigation a Zero-Sum Game?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Standing on the Shoulders of Giants: Bug-Aware Automated GUI Testing via Retrieval Augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statement-level Adversarial Attack on Vulnerability Detection Models via Out-Of-Distribution Features": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Teaching AI the ‘Why’ and ‘How’ of Software Vulnerability Fixes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TerzoN: Human-in-the-Loop Software Testing with a Composite Oracle": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Landscape of Toxicity: An Empirical Investigation of Toxicity on GitHub": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Struggles of LLMs in Cross-lingual Code Clone Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Today's cat is tomorrow's dog: accounting for time-based changes in the labels of ML vulnerability detection approaches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Diverse Program Transformations for Program Simplification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Understanding Fine-Grained Programming Mistakes and Fixing Patterns in Data Science": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Understanding Performance Bugs in Popular Data Science Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TracePicker: Optimization-based Trace Sampling for Microservice-based Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Characterizing Mock Assertions in Unit Tests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Debugging as Episodes: A Case Study on Performance Bugs in Configurable Software Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unlocking Optimal ORM Database Designs: Accelerated Tradeoff Analysis with Transformers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VLATest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VulPA: Detecting Semantically Recurring Vulnerabilities with Multi-Object Typestate Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Who Will Stop Contributing to OSS Projects? Predicting Company Turnover Based on Initial Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Why the Proof Fails in Different Versions of Theorem Provers: An Empirical Study of Compatibility Issues in Isabelle": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zero-Shot Cross-Domain Code Search without Fine-Tuning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2026": {
+      "A Grounded Theory of Debugging in Professional Software Engineering Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tuple-Oriented Sampling Method for Generating Small Pairwise Covering Arrays in Configurable Software Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Wily Hare Has Three Havens: Combating Programmable Logic Controller Attacks via Virtualization Redundancy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Policy Synthesis in Large-Scale MDPs via Hierarchical Adaptive Refinement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AccessDroid: Detecting Screen Reader Accessibility Issues in Android Applications via Semantics Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AccessRefinery: Fast Mining Concise Access Control Intents on Public Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACME: Automated Clause Mapping Engine for Testing Emerging Database Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Active Learning of Symbolic Automata for Reactive Programs via Dynamic Symbolic Mapper": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdaDec: A Uncertainty-Guided Lookahead Decoding Framework for LLM-based Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Mutation Scheduling with Deep Reinforcement Learning for Smart Contract Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AgentBound: Securing Execution Boundaries of AI Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Agentic Verification of Software Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aligning with Human Coding Preferences for Improving Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study of Fuzz Harness Degradation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Knowledge-Aware Test Reuse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automating Dockerfile Refactoring to Multi-Stage Builds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BackportBench: A Multilingual Benchmark for Automated Patch Backporting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balancing Latency and Accuracy of Code Completion via Local-Cloud Model Cascading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bash-Commenter: Leveraging Syntax-Aware Preference Optimization to Reinforce Large Language Model for Bash Code Comment Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Behind Defective Mobile AR Apps: Studying Reviews and Bugs of Android AR Software with Comparison to Prior Bug Studies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Binvariants: Enhancing Fuzzing of Closed-source Binary Executables via Register-level Likely Invariants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting LLMs for Mutation Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Break to Adapt: Knowledge-Based Updates of Breaking Dependencies in JavaScript": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bringing Managed Language Support to WebAssembly with External Library Linking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Old Tests do New Tricks for Resolving SWE Issues?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CertiCoder: Towards MISRA-Compliant C Code Generation with LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing and Mitigating False-Positive Bug Reports in the Linux Kernel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing Trust Boundary Vulnerabilities in TEE Container Systems: An Empirical Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chiseling Out Efficiency: Structured Skeleton Supervision for Efficient Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Clotho: Measuring Task-Specific Pre-Generation Test Adequacy for LLM Inputs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-Evolution of Types and Dependencies: Towards Repository-Level Type Inference for Python Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs During Code Adaptation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling Code LLMs into Lightweight Executables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cost-Effective Testing of MPC Compilers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-Refactoring-Type Test Program Migration for Refactoring Engines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CrossFit: Demystifying VM Callback Bugs in Interpreters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CrypFormBench: Benchmarking Formal Analysis Capability of Large Language Models for Cryptographic schemes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CuFuzz: An API-Knowledge-Graph Coverage-Driven Fuzzing Framework for CUDA Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DECODE: Dynamic Exploration for Constraint-Guided Vulnerability Discovery in Deep Learning Operators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Denoising Fault Localization with Test Line Proximity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deployability-Centric Infrastructure-as-Code Generation: Fail, Learn, Refine, and Succeed through LLM-Empowered DevOps Simulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Bugs in Rust Compiler Fix Suggestions via Constraint-Violation-Guided Mutation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiverFPS: Generating Diverse Solutions for Floating-Point SMT Formulas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do Not Treat Code as Natural Language: Implications for Repository-Level Code Generation and Beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DualCodeDetect: Zero-Shot LLM-Generated Code Detection via Dual-Channel Perturbation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DuCodeMark: Dual-Purpose Code Dataset Watermarking via Style-Aware Watermark–Poison Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EfficientUICoder: A Bidirectional Token Compression Framework for Efficient MLLM-based UI Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eidolon: Perform Noise-Aware Fuzzing on FHE Libraries via Equivalence Expression Transformation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empirical Insights of Test Selection Metrics under Multiple Testing Objectives and Distribution Shifts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating LLM-based Regression Test Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Risk and Confidence in Performance Bounds of Configuration Sampling Strategies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EventADL: Open-Box Anomaly Detection and Localization Framework for Events in Cloud-Based Service Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exorcist: Enabling Atomic-Level Runtime Detection of Spectre Attacks Using Precise Event Based Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ExpeRepair: Dual-Memory Enhanced LLM-based Repository-Level Program Repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Failing with Purpose: Dangling Coverage-Guided Negative Test Generation from a Mechanized P4 Type System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Failure-Based Testing for Deep Reinforcement Learning Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fairness Testing of Large Language Models in Role-Playing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feature Slice Matching for Precise Bug Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flash: Query-Efficient Black-Box Static Malware Evasion through Transferable GAN-Guided Modification Sequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fool Me If You Can: On the Robustness of Binary Code Similarity Detection Models against Semantics-preserving Transformations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Particles to Perils: SVGD-Based Hazardous Scenario Generation for Autonomous Driving Systems Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Specifications to Implementation in the Gen-AI Era: Lessons from a Project-based Software Engineering Course": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Suspicious Signals to Crashes: Guiding Bug-driven GUI Testing via Code-inspired Tracing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GAER: Graph Auto-Encoders for Unsupervised Software Architecture Recovery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generalizing Test Cases for Comprehensive Test Scenario Coverage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPU-Accelerated Flow-Sensitive Pointer Analysis for C/C++ Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GraphLocator: Graph-guided Causal Reasoning for Issue Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GraphQLify: Automated and Type Safety-Preserving GraphQL API Adoption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GREClue: Failure Indexing with Graph-based Failure Representation and Entropy-based Deep Clustering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hallucinations in LLM-based Code Summarization: Unveiling, Detection, and Mitigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Do Developers Interact with AI? An Exploratory Study on Modeling Developer Programming Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Low Can You Go? The Data-Light SE Challenge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iCoRe: An Iterative Correlation-Aware Retriever for Bug Reproduction Test Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Data Leakage Detection in Machine Learning Notebooks through Static Slicing and Structured LLM Prompts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In Bugs We Trust? On Measuring the Randomness of a Fuzzer Benchmarking Outcome": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In Line with Context: Repository-Level Code Generation via Context Inlining": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InDe-LLM: Defending Against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Influence-Aware Bayesian-Inspired Token Reweighting for Improved Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IntentTester: Intent-Driven Multi-Agent Framework for Cross-Library Test Migration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interrogation Testing of CHC Solvers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "It Takes Two: Option-Aware Directed Greybox Fuzzing for Vulnerability PoC Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "JavaScript Pointer Analysis with Adaptive Heap Abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Knowledge-Graph-Driven Data Synthesis for Low-Resource Software Development: A HarmonyOS Case Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large Language Models for Opaque Predicate Resolution: A Universal Control Flow Deobfuscation Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLM-Assisted Input-Requirement-Aware Differential Testing of Array Programming Frameworks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LoCaL: Countering Surface Bias in Code Evaluation Metrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Look Before You Leap: Context-Sensitive GUI Grounding for Boosting Automated Extended Reality (XR) Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mining Long Tail Bugs: Identifying Rare and Overlooked Issues in Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mitigating Prompt-Induced Cognitive Biases in General-Purpose AI for Software Engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mitigating the Risk of Defects and Improving Knowledge Distribution with Code Reviewer Recommenders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MR-Coupler: Automated Metamorphic Test Generation via Functional Coupling Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-LLM Persona Generation for Virtual Focus Groups in Software Engineering: A Controlled, Multi-Domain Study of Emotional Requirements Elicitation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Natural Language-Focused Software Engineering via Code-Documentation Equivalence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NESA: Relational Neuro-Symbolic Static Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Neuron-Guided Interpretation of Code LLMs: Where, Why, and How?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OCPPuzz: Specification-driven Fuzzing of Charging Station Management Systems with Large Language Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OdoTest: An Automated Testing Approach for Odometry Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Road to Personalized Code Intelligence: Portraiting and Assisting Developers Based on Their In-IDE Behaviors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One Size Does Fit All: Exploring Model Fusion for Software Engineering Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One Size Does Not Fit All: Revisiting Code Context Engineering for Repository-Level Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Phantom Rendering Detection: Identifying and Analyzing unnecessary UI computations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pig: Leveraging Large Language Models for Python Library Migrations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PlayCoder: Making LLM-Generated GUI Code Playable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "pPatch: Automated Vulnerability Unpatching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Precondition Synthesis for Deep Neural Networks with Statistical Guarantees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PROGnosticator: Testing Source-to-Source Code Translators via Construct-oriented Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Project-Level C-to-Rust Translation via Pointer Knowledge Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProofFusion: Improving Neural Theorem Proving via Adaptive Retrieval-Augmented Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Property Refinement in Linear Temporal Logic: Formal Semantics and Algorithms for Software Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Protocol Reverse Engineering via Deep Transfer Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PuzzleMark: Implicit Jigsaw Learning for Robust Code Dataset Watermarking in Neural Code Completion Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QuanForge: A Mutation Testing Framework for Quantum Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RAT: Retrieval-Augmented Testing of Certificate Revocation List Parsers in TLS Implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recommending Usability Improvements with Multimodal Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Red Teaming LLMs via Linguistic-Aware Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReDef: Do Code Language Models Truly Understand Code Changes for Just-in-Time Software Defect Prediction?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing Cost of LLM Agents with Trajectory Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing Coverage-Equivalent Inputs in Grammar-based Fuzzing by Avoiding Recurrent Rule Sequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing the TCB of SGX-oriented LibOSes at Runtime": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReFLAIR: Detecting Responsive Layout Reflow Issues using Multimodal Generative AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReGA: Model-based Safeguard for LLMs via Representation-Guided Abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RepoReasoner: Evaluating Repository-Level Code Reasoning Ability of Long-Context Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revealing Regressions: A Comparative Study of State-Capture Strategies in Validating Program Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Satisfiability Solving with LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SBridge: Identifying Source-to-Binary Function Similarity via Cross-Domain Control Block Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScanCoder: Leveraging Human Attention Patterns to Enhance LLMs for Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantics-Guided Control-Flow Reconstruction for Firmware Binaries via Static Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Small is Beautiful: A Practical and Efficient Log Parsing Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartCoder-R1: Towards Secure and Explainable Smart Contract Generation with Security-Aware Group Relative Policy Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartDispatch: Dynamic Substitution of NumPy-style APIs on Heterogenous CPU-GPU Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SnakeCharmer: Automatic Fuzzing Harness Generation for Pure and Hybrid Python Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound Termination and Non-Termination Analysis of C Programs with Bit-Precise Bounded Semantics and Advanced Constructs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spectrum-based Failure Attribution for Multi-Agent Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Speculate: Generating REST API Specifications Using LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpecWeaver: End-to-End HTTP API Specification Inference Across Multi-Layer Routing in Production Web Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SQLiFuzz: Uncovering SQL Injection in Any Web Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Still Manual? Automated Linter Configuration via DSL-Based LLM Compilation of Coding Standards": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structure-Aware Delta Debugging with Geometric-Information Weights": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SwarmBox: A Plug-and-Play Drone Swarm Framework for Streamlined Development and Comprehensive Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SWE Data Construction, Automatically!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SWR-Bench: Assessing LLM Performance in Real-World Code Review Comment Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TestTailor: Generating High-Coverage Tests via Path-Proximal Tests with LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Interaction of Complexity and Provenance in Code Review Decisions: Evidence from a Controlled Experiment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thought is All You Need: Smart Contract Vulnerability Detection with Thought-Augmented Large Language Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Three Heads Are Better Than One: A Multi-Perspective Reasoning Framework for Enhanced Vulnerability Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TLR: Codebase-Level C Memory Management Error Repair with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TORAI: Multi-Source Root Cause Analysis for \\textit{Blind Spots} in Microservice Service Call Graph": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Automated Crowdsourced Testing via Personified-LLM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards the Localization of Multi-Root-Cause Failures in Microservice Systems: An Active Intervention Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ToxiShield: Promoting Inclusive Developer Communication through Real-Time Toxicity Filtering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TransAgent: Enhancing LLM-Based Code Translation via Fine-Grained Execution Alignment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TransLibEval: Demystify Large Language Models’ Capability in Third-party Library-targeted Code Translation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TSGuard: Automated User-Centric Incident Diagnosis for AI Workloads in the Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TUSR: A Test Unit–Based Framework for Repairing Obsolete GUI Test Scripts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Level Adaptation for Budget-Constrained Continuous Dynamic Dependence Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TypePro: Boosting LLM-Based Type Inference via Inter-Procedural Slicing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncovering Similar but Different Packages in PyPI and Potential Security Threats": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Predicting Accepted Code Suggestions in AI-Assisted Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Binary Code Similarity for Real-World Vulnerability Detection: A Large-Scale Empirical Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Code Similarity across Instruction Set Architectures: An Empirical Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Performance Problems in CUDA Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding, Detecting, and Repairing Real-World In-Context-Learning-Based Text-to-SQL Errors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unfulfilled Promises: LLM-Based Detection of OS Compatibility Issues in Infrastructure as Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UNICS: Multilingual Code Search via Unified Pseudocode and Contrastive Transfer Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unleashing HPC Application Performance through Software Deployment: A Joint Model of Software Parallelism and Co-location": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unveiling AI-Driven Web Applications: Insights into Characteristics, Functionality, and Compliance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unveiling the Fragility of Binary Code Similarity Detection via Targeted Attacks with Model Explanations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validating LLM-Generated SQL Queries Through Metamorphic Prompting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Smart Contract Security Against Re-entrancy Attacks through Relational Value Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Structural Robustness of Deep Neural Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VerilogASTBench: Benchmark Construction of Verilog AST Dataset with Dual-Stage AST Semantic Enhancement Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisionScratch: LLM-Based Automated Feedback Generation Using Code-Produced Videos for Scratch Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VulInstruct: Teaching LLMs Root-Cause Reasoning for Vulnerability Detection via Security Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WalleTruth: Visual-oriented Software Testing for Web3 Wallet Browser Extensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Shared Worlds Break: Demystifying Defects in Multi-User Extended Reality Software Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

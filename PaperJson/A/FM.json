@@ -1,0 +1,788 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "FM",
+  "papers": {
+    "2021": {
+      "Apply Formal Methods in Certifying the SyberX High-Assurance Kernel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BanditFuzz: Fuzzing SMT Solvers with Multi-agent Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Business Processes Meet Spatial Concerns: The sBPMN Verification Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cabean 2.0: Efficient and Efficacious Control of Asynchronous Boolean Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combined Online Checking and Control Synthesis: A Study on a Vehicle Platoon Testbed": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Forces: How to Formally Verify Informally Defined Embedded Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concise Outlines for a Complex Logic: A Proof Outline Checker for TaDA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Congruence Relations for Büchi Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Divide et Impera: Efficient Synthesis of Cyber-Physical System Architectures from Formal Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Reconfiguration via Typed Modalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Algorithms for Omega-Regular Energy Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Featured Team Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fingerprinting Bluetooth Low Energy Devices via Active Automata Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Analysis of Neural Network-Based Systems in the Aircraft Domain": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Methods - 24th International Symposium, FM 2021, Virtual Event, November 20-26, 2021, Proceedings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Verification of a JavaCard Virtual Machine with Frama-C": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Verification of Complex Data Paths: An Industrial Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Verification of Consensus in the Taurus Distributed Database": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Verification of Intelligent Hybrid Systems that are Modeled with Simulink and the Reinforcement Learning Toolbox": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formally Guaranteed Tight Dynamic Future Occupancy of Autonomous Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formally Verified Safety Net for Waypoint Navigation Neural Network Controllers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Partial to Global Assume-Guarantee Contracts: Compositional Realizability Analysis in FRET": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fuel in Markov Decision Processes (FiMDP): A Practical Approach to Consumption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gaussian Process-Based Confidence Estimation for Hybrid System Falsification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generalizing Non-punctuality for Timed Temporal Logic with Freeze Quantifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HStriver: A Very Functional Extensible Tool for the Runtime Verification of Real-Time Event Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hybrid System Falsification for Multiple-Constraint Parameter Synthesis: A Gas Turbine Case Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hybrid Systems Verification with Isabelle/HOL: Simpler Syntax, Better Models, Faster Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HyperProb: A Model Checker for Probabilistic Hyperproperties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying Overly Restrictive Matching Patterns in SMT-Based Program Verifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating ADTs in KeY and Their Application to History-Based Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model Checking Collision Avoidance of Nonlinear Autonomous Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model Checking for Verification of Quantum Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model-Free Reinforcement Learning for Lexicographic Omega-Regular Objectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Lexicographic Proof Rules for Probabilistic Termination": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Owicki-Gries Reasoning for C11 Programs with Relaxed Dependencies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Verification of Neural Networks Against Group Fairness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rely/Guarantee Reasoning for Multicopy Atomic Weak Memory Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Some Lessons Learned in the Industrialization of Formal Methods for Financial Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Probabilistic Termination Tool Amber": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trace Abstraction-Based Verification for Uninterpreted Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two Decades of Formal Methods in Industrial Products at BTC Embedded Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two Mechanisations of WebAssembly 1.0": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verification of the Incremental Merkle Tree Algorithm with Dafny": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verified Quadratic Virtual Substitution for Real Arithmetic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Secure Speculation in Isabelle/HOL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Z3str4: A Multi-armed String Solver": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "A Coq Formalization of Lebesgue Induction Principle and Tonelli's Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Decision Diagram Operation for Reachability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Fine-Grained Semantics for Arrays and Pointers Under Weak Memory Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Runtime Environment for Contract Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Systematic Approach to Automotive Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstract Alloy Instances": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Backdoor Mitigation in Deep Neural Networks via Strategic Retraining": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can We Communicate? Using Dynamic Logic to Verify Team Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient SMT-Based Network Fault Tolerance Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Energy Büchi Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal and Executable Semantics of the Ethereum Virtual Machine in Dafny": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Methods - 25th International Symposium, FM 2023, Lübeck, Germany, March 6-10, 2023, Proceedings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Modelling of Safety Architecture for Responsibility-Aware Autonomous Vehicle via Event-B Refinement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formalising the Prevention of Microarchitectural Timing Channels by Operating Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HHLPy: Practical Verification of Hybrid Systems Using Hoare Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intelligent and Dependable Decision-Making Under Uncertainty": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimisation of Spatial Models Using Branching Bisimilarity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monitoring the Internet Computer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Program Semantics and Verification Technique for AI-Centred Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QMaude: Quantitative Specification and Verification in Rewriting Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Railway Scheduling Using Boolean Satisfiability Modulo Simulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reasoning About Promises in Weak Memory Models with Event Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Runtime Monitoring for Out-of-Distribution Detection in Object Detection Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "sfPFL: A Probabilistic Logic for Fault Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shifting Left for Early Detection of Machine-Learning Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMPT: A Testbed for Reachability Methods in Generalized Petri Nets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMT Sampling via Model-Guided Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Specification-Guided Critical Scenario Identification for Automated Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbolic Computation in Automated Program Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "symQV: Automated Symbolic Verification of Quantum Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tableaux for Realizability of Safety Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Next Big Thing: From Embedded Systems to Embodied Actors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Octatope Abstract Domain for Verification of Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The ScalaFix Equation Solver": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "veriFIRE: Verifying an Industrial, Learning-Based Wildfire Detection System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Feedforward Neural Networks for Classification in Isabelle/HOL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Functional Correctness Properties at the Level of Java Bytecode": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VeyMont: Parallelising Verified Programs Instead of Verifying Parallel Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Word Equations in Synergy with Regular Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "A Case Study on Formal Equivalence Verification Between a C/C++ Model and Its RTL Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Divide-and-Conquer Approach to Variable Elimination in Linear Real Arithmetic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Local Search Algorithm for MaxSMT(LIA)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Pyramid Of (Formal) Software Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tutorial on Stream-Based Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Zonotopic Dempster-Shafer Approach to the Quantitative Verification of Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accurate Static Data Race Detection for C": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Advancing Quantum Computing with Formal Methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adversarial Robustness Certification for Bayesian Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AGVTS: Automated Generation and Verification of Temporal Specifications for Aeronautics SCADE Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alloy Repair Hint Generation Based on Historical Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ASMETA Tool Set for Rigorous System Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Repair of Information Flow Security in Android Implicit Inter-App Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Static Analysis of Quality of Service Properties of Communicating Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "B2SAT: A Bare-Metal Reduction of B to SAT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Bottleneck: Enhancing High-Concurrency Systems with Lock Tuning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging Dimensions: Confident Reachability for High-Dimensional Controllers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CauMon: An Informative Online Monitor for Signal Temporal Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Certified Quantization Strategy Synthesis for Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "cfaults: Model-Based Diagnosis for Fault Localization in C with Multiple Test Cases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chamelon : A Delta-Debugger for OCaml": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Code-Level Safety Verification for Automated Driving: A Case Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Classical and Probabilistic Independence Reasoning to Verify the Security of Oblivious Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Verification of Cryptographic Circuits Against Fault Injection Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Speculative Execution Vulnerabilities on Weak Memory Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DFAMiner: Mining Minimal Separating DFAs from Labelled Samples": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Discourje: Run-Time Verification of Communication Protocols in Clojure - Live at Last": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Formally Verified Maximal End Component Decomposition for MDPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extending Isabelle/HOL's Code Generator with Support for the Go Programming Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Attack Graph Defense Localization via Bisimulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FM-Weck: Containerized Execution of Formal-Methods Tools": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Methods - 26th International Symposium, FM 2024, Milan, Italy, September 9-13, 2024, Proceedings, Part I": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Methods - 26th International Symposium, FM 2024, Milan, Italy, September 9-13, 2024, Proceedings, Part II": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Semantics and Analysis of Multitask PLC ST Programs with Preemption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Free Facts: An Alternative to Inefficient Axioms in Dafny": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Getting Chip Card Payments Right": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating Loop Acceleration Into Bounded Model Checking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Introducing SWIRL: An Intermediate Representation Language for Scientific Workflows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Branching-Time Properties in CTL and ATL via Constraint Solving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Misconceptions in Finite-Trace and Infinite-Trace Linear Temporal Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "No Risk, No Fun - A Tutorial on Risk Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nonlinear Craig Interpolant Generation Over Unbounded Domains by Separating Semialgebraic Sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Completeness of SDP-Based Barrier Certificate Synthesis over Unbounded Domains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterized Verification of Round-Based Distributed Algorithms via Extended Threshold Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partially Observable Stochastic Games with Neural Perception Mechanisms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Approximate Quantifier Elimination for Non-linear Real Arithmetic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Deductive Verification of OCaml Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proving Functional Program Equivalence via Directed Lemma Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PyBDR: Set-Boundary Based Reachability Analysis Toolkit in Python": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reachability Analysis for Multiloop Programs Using Transition Power Abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reusable Specification Patterns for Verification of Resilience in Autonomous Hybrid Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rigorous Floating-Point Round-Off Error Analysis in PRECiSA 4.0": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Runtime Verification in Real-Time with the Copilot Language: A Tutorial": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Satisfiability Modulo Theories: A Beginner's Tutorial": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Software Verification with CPAchecker 3.0: Tutorial and User Guide": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound and Complete Witnesses for Template-Based Verification of LTL Properties on Polynomial Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Staged Specification Logic for Verifying Higher-Order Imperative Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "State Matching and Multiple References in Adaptive Active Automata Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stochastic Games for User Journeys": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Switching Controller Synthesis for Hybrid Systems Against STL Formulas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Java Verification Tool KeY:A Tutorial": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Nonexistence of Unicorns and Many-Sorted Löwenheim-Skolem Theorems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Opacity of Timed Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tolerance of Reinforcement Learning Controllers Against Deviations in Cyber Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Synthesized Reactive Systems Through Invariants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unifying Weak Memory Verification Using Potentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UnsafeCop: Towards Memory Safety for Real-World Unsafe Rust Code with Practical Bounded Model Checking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VeriQR: A Robustness Verification Tool for quantum Machine Learning Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Game-Based Certificates for Hyperproperty Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

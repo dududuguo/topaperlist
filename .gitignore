@@ -3,3 +3,6 @@ target/
 dist/
 search.exe
 search-linux
+__pycache__/
+*.py[cod]
+*.bak

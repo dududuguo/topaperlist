@@ -1,0 +1,1042 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "HPDC",
+  "papers": {
+    "2021": {
+      "A Serverless Framework for Distributed Bulk Metadata Extraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Achieving Scalable Consensus by Being Less Writey": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Configuration of In Situ Lossy Compression for Cosmology Simulations via Fine-Grained Rate-Quality Modeling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AITurbo: Unified Compute Allocation for Partial Predictable Training in Commodity Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Oracle for Guiding Large-Scale Model/Hybrid Parallel Training of Convolutional Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Apollo: : An ML-assisted Real-Time Storage Resource Observer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARC: An Automated Approach to Resiliency for Lossy Compressed Data via Error Correcting Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cache-aware Sparse Patterns for the Factorized Sparse Approximate Inverse Preconditioner": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CharminG: A Scalable GPU-resident Runtime System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing Challenges for High Energy Physics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DLion: Decentralized Distributed Deep Learning in Micro-Clouds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DRLPart: A Deep Reinforcement Learning Framework for Optimally Efficient and Robust Resource Partitioning on Commodity Servers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DStore: A Fast, Tailless, and Quiescent-Free Object Store for PMEM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "File System Semantics Requirements of HPC Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hardware Specialization for Distributed Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HPDC '21: The 30th International Symposium on High-Performance Parallel and Distributed Computing, Virtual Event, Sweden, June 21-25, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jigsaw: A High-Utilization, Interference-Free Job Scheduler for Fat-Tree Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LaSS: Running Latency Sensitive Serverless Computations at the Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Machine Learning Augmented Hybrid Memory Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MPI-CorrBench: Towards an MPI Correctness Benchmark Suite": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel Program Scaling Analysis using Hardware Counters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Productive Programming of Distributed Systems with the SHAD C++ Library": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Q-adaptive: A Multi-Agent Reinforcement Learning Based Routing on Dragonfly Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable All-pairs Shortest Paths for Huge Graphs on Multi-GPU Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SnuRHAC: A Runtime for Heterogeneous Accelerator Clusters with CUDA Unified Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Superscalar Programming Models: A Perspective from Barcelona": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TEMPI: An Interposed MPI Library with a Canonical Representation of CUDA-aware Datatypes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Exploiting CPU Elasticity via Efficient Thread Oversubscription": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Pilot Jobs and CernVM File System for Simplified Use of Containers and Software Distribution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "A Reflection on Methodologies, Algorithms and Software for HPDC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Access Patterns and Performance Behaviors of Multi-layer Supercomputer I/O Subsystems under Production Load": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Auctioning Cluster Resources": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Capri: Compiler and Architecture Support for Whole-System Persistence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Communication-aware Sparse Patterns for the Factorized Approximate Inverse Preconditioner": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Composing Pipeline Parallelism using Control Taskflow Graph": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DAOS: Data Access-aware Operating System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data-Management for Extreme Science: Experiences in Translational Computer Science Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decentralization of Two Phase Locking based Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Design Space Exploration for Sparse Mixed Precision Neural Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EMOSS '22: Workshop on Emerging Open Storage Systems and Solutions for Data Intensive Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlexScience'22: 12th Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FPVM: Towards a Floating Point Virtual Machine": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FRAME 2022: The 2nd Workshop on Flexible Resource and Application Management on the Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hare: Exploiting Inter-job and Intra-job Parallelism of Distributed Machine Learning on Heterogeneous GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Heterogeneous Systems Resilience: From Research to Industry Standards": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HiPS2022: The 2nd Workshop on High Performance Serverless Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Holmes: SMT Interference Diagnosis and CPU Scheduling for Job Co-location": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HPDC '22: The 31st International Symposium on High-Performance Parallel and Distributed Computing, Minneapolis, MN, USA, 27 June 2022 - 1 July 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lifting and Dropping VMs to Dynamically Transition Between Time- and Space-sharing for Large-Scale HPC Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locality-aware Load-Balancing For Serverless Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Machine Learning Assisted HPC Workload Trace Generation for Leadership Scale Storage Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NSDF-Cloud: Enabling Ad-Hoc Compute Clusters Across Academic and Commercial Clouds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NSDF-FUSE: A Testbed for Studying Object Storage via FUSE File Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing the Bruck Algorithm for Non-uniform All-to-all Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "P-RECS'22: 5th International Workshop on Practical Reproducible Evaluation of Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PERMAVOST '22: Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn Strategy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Efficient Microservice Autoscaling with QoS Assurance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PROV-IO: An I/O-Centric Provenance Framework for Scientific Data on HPC Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SciStream: Architecture and Toolkit for Data Streaming between Federated Science Instruments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SNTA'22: The 5th Workshop on Systems and Network Telemetry and Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TAC: Optimizing Error-Bounded Lossy Compression for Three-Dimensional Adaptive Mesh Refinement Simulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ultrafast Error-bounded Lossy Compression for Scientific Datasets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Memory Failures on a Petascale Arm System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "Accelerating MPI Collectives with Process-in-Process-based Multi-object Techniques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Sparse General Matrix-Matrix Multiplication for NVIDIA Volta GPU and Hygon DCU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AIIO: Using Artificial Intelligence for Job-Level and Automatic I/O Performance Bottleneck Diagnosis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Allocation Policies Matter for Hybrid Memory Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate for High-Performance Computing Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Closing the Performance Gap between Leveling and Tiering Compaction via Bundle Compaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "COLTI: Towards Concurrent and Co-located DNN Training and Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing Everywhere, All at Once: Harnessing the Computing Continuum for Science": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deconstructing Alibaba Cloud's Preemptible Instance Pricing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Evaluation of GPU-FPX: A Low-Overhead tool for Floating-Point Exception Detection in NVIDIA GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Logical Timestamp Allocation for DBMS Concurrency Control on Many-core Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Multi-agent Reinforcement Learning for Directional UAV Network Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Early Exploration of Using ChatGPT for Log-based Anomaly Detection on Parallel File Systems Logs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Algorithm Design of Optimizing SpMV on GPU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Execution of SpGEMM on Long Vector Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlexLog: A Shared Log for Stateful Serverless Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FT-GEMM: A Fault Tolerant High Performance GEMM Implementation on x86 CPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FZ-GPU: A Fast and High-Ratio Lossy Compressor for Scientific Computing Applications on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GEOtiled: A Scalable Workflow for Generating Large Datasets of High-Resolution Terrain Parameters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPU-Enabled Asynchronous Multi-level Checkpoint Caching and Prefetching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HM2: Efficient Host Memory Management for RDMA-Enabled Distributed Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ilúvatar: A Fast Control Plane for Serverless Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kairos: Building Cost-Efficient Machine Learning Inference Systems with Heterogeneous Cloud Resources": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Let It Go: Relieving Garbage Collection Pain for Latency Critical Applications in Golang": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging Keys In Key-Value SSD for Production Workloads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Libra: Harvesting Idle Resources Safely and Timely in Serverless Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mixed Modality Workflows in TaskVine": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Performance Optimization using Multimodal Modeling and Heterogeneous GNN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2023, Orlando, FL, USA, June 16-23, 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProPack: Executing Concurrent Serverless Functions Faster and Cheaper": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rapidgzip: Parallel Decompression and Seeking in Gzip Files Using Cache Prefetching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RAPIDS: Reconciling Availability, Accuracy, and Performance in Managing Geo-Distributed Scientific Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time PageRank on Dynamic Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Redundancy-Free High-Performance Dynamic GNN Training with Hierarchical Pipeline Parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RHIK: Re-configurable Hash-based Indexing for KVSSD": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming Task Graph Scheduling for Dataflow Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Studying Latency and Throughput Constraints for Geo-Distributed Data in the National Science Data Fabric": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thicket: Seeing the Performance Experiment Forest for the Individual Run Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "A Portable, Fast, DCT-based Compressor for AI Accelerators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Practical Introduction to Quantum Computing and Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A runtime infrastructure for the Continuum of Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Function-Centric Applications by Discovering, Distributing, and Retaining Reusable Context in Workflow Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Acceleration of Ultrasound Neurostimulation Using Mixed-Precision Arithmetic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ADTopk: All-Dimension Top-k Compression for High-Performance Data-Parallel DNN Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Large Language Models Write Parallel Code?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CereSZ: Enabling and Scaling Error-bounded Lossy Compression on Cerebras CS-2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constrained Approximate Query Processing with Error and Response Time-Bound Guarantees for Efficient Big Data Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DLHT: A Non-blocking Resizable Hashtable with Fast Deletes and Memory-awareness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EDGELESS: A Software Architecture for Stateful FaaS at the Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient all-to-all Collective Communication Schedules for Direct-connect Topologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Stream Join Processing: Novel Approaches and Challenges": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ElasticRoom: Multi-Tenant DNN Inference Engine via Co-design with Resource-constrained Compilation and Strong Priority Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EMPYREAN: Trustworthy, Cognitive and AI-driven Collaborative Associations of IoT Devices and Edge Resources for Data Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ETS: Deep Learning Training Iteration Time Prediction based on Execution Trace Sliding Window": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EvoStore: Towards Scalable Storage of Evolving Learning Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extending Sparse Patterns to Improve Inverse Preconditioning on GPU Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FaaSKeeper: Learning from Building Serverless Services with ZooKeeper as an Example": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FaaSRail: Employing Real Workloads to Generate Representative Load for Serverless Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faast: An Efficient Serverless Framework Made Snapshot-based Function Response Fast": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FASOP: Fast yet Accurate Automated Search for Optimal Parallelization of Transformers on Heterogeneous GPU Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast, Accurate and Distributed Simulation of novel HPC systems incorporating ARM and RISC-V CPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FPBOXer: Efficient Input-Generation for Targeting Floating-Point Exceptions in GPU Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Full-Stack Revision of Memory and Data Management in PDES on Multi-Core Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GNNOne: A Unified System Optimizations for GNN Kernels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HAM-SpMSpV: an Optimized Parallel Algorithm for Masked Sparse Matrix-Sparse Vector Multiplications on multi-core CPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IDT: Intelligent Data Placement for Multi-tiered Main Memory with Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "k-Dispatch: Enabling Cost-Optimized Biomedical Workflow Offloading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "K-RAF: A Kubernetes-based Resource Augmentation Framework for Edge Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Loki: A System for Serving ML Inference Pipelines with Hardware and Accuracy Scaling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Wafer-Scale Reduce": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network Management and Orchestration with Data Engineering: A Practical Guide": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2024, Pisa, Italy, June 3-7, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programming Tools for High-Performance Data Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reinforcement Learning-based Adaptive Mitigation of Uncorrected DRAM Errors in the Field": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScaleDFS: Accelerating Decentralized and Private File Sharing via Scaling Directed Acyclic Graph Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Seamless HW-accelerated AI serving in heterogeneous MEC Systems with AI@EDGE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic-Aware Log Understanding and Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SIMCoV-GPU: Accelerating an Agent-Based Model for Exascale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Swarm Storm: An Automated Chaos Tool for Docker Swarm Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TEACHING Platform for Human-Centric Autonomous Applications: Design and Overview": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Techniques for Efficient Fourier Transform Computation in Ultrasound Simulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Comprehensive Approach to Resource and Conflict Management in Cloud-Edge Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trade-off Analysis between Knowledge Distillation and Federated Learning in Distributed Edge System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tutorial on Variational Quantum Algorithms for Resource Management in Cloud/Edge Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "A Quantum Virtual Machine for Execution of Oracles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive GPU Power Capping: Balancing Energy Efficiency, Thermal Control and Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Advancing Scientific Data Compression via Cross-Field Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Advancing the GEOtiled Framework Through Scalable Terrain Parameter Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assigning Cartesian grid area to processes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoSSD: CXL-Enhanced Autonomous SSDs for Low Tail Latency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BanditWare: A Contextual Bandit-based Framework for Hardware Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bringing Differential Privacy to HPC: Privacy-Preserving Transformations of HPC Traces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Building Flexible Physics-Informed Neural Networks with Fast Fourier Transform Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Large Language Models Predict Parallel Code Performance?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CarbonEdge: Leveraging Mesoscale Spatial Carbon-Intensity Variations for Low Carbon Edge Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DPU-KV: On the Benefits of DPU Offloading for In-Memory Key-Value Stores at the Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient and Cost-Effective HPC on the Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "F3: An FPGA-accelerated FaaS Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Factors Impacting I/O Time Proportion in AI Workloads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FloatGuard: Efficient Whole-Program Detection of Floating-Point Exceptions in AMD GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FluidFaaS: A Dynamic Pipelined Solution for Serverless Computing with Strong Isolation-based GPU Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flux Emulator: First Insights into Optimizing Scheduling for Exascale HPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FT2: First-Token-Inspired Online Fault Tolerance on Critical Layers for Generative Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grudon: A System for Deploying Graph Workloads on Disaggregated Architectures with Near-Data Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-level quantum algorithm programming using Silq": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HYPERF: End-to-End Autotuning Framework for High-Performance Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LegoIndex: A Scalable and Modular Indexing Framework for Efficient Analysis of Extreme-Scale Particle Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiteForm: Lightweight and Automatic Format Composition for Sparse Matrix-Matrix Multiplication on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ModelX : A Novel Transfer Learning Approach Across Heterogeneous Datasets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Node Spot Instances Availability Score Collection System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Matching in Multipartite Quantum Routers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Optimizing Checkpoint Restoration for HPC Applications: Leveraging Merkle Trees and Asynchronous I/O": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimization of GNN Training Through Half-precision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Out-of-Core Parallel Spatial Join Outperforming In-Memory Systems: A BFS-DFS Hybrid Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterized Algorithms for Non-uniform All-to-all": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PathFence: Reducing Cross-Path Dependencies in Microservices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Performance Evaluation of Machine Learning Applications Using WebAssembly Across Different Programming Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 34th International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2025, University of Notre Dame Conference Facilities, Notre Dame, IN, USA, July 20-23, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum-Based SMT Solving for String Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RAPTOR: Reconfigurable Advanced Platform for Transdisciplinary Open Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Refactoring TEZip: Integrating Python-Based Predictive Compression into an HPC C++/LibTorch Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rusty-Cracker: A Multi-core Connected Components Library in Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SAFusion: Efficient Tensor Fusion with Sparsification Ahead for High-Performance Distributed DNN Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling Grover's Search for Large Solution Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SibylOpt: Managing Green Data Centers Using Off-Online Deep Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpeedLLM: An FPGA Co-design of Large Language Model Inference Accelerator": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thicket Workflow for Classifying Parallel Sorting Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Top-Down SBP: Turning Graph Clustering Upside Down": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Federated Approach to Complex Digital Twins": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TSUE: A Two-Stage Data Update Method for an Erasure Coded Cluster File System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Error Sensitivity in Checkpointing for Linear System Solvers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtualization So Light, it Floats! Accelerating Floating Point Virtualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weight-Sharing NAS with Architecture-Agnostic Intermediate Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XPF: Agentic AI System for Business Workflow Automation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

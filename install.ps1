@@ -8,7 +8,7 @@ $ErrorActionPreference = "Stop"
 
 $projectRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
 $manifestPath = Join-Path $projectRoot "Cargo.toml"
-$sourcePaperDir = [System.IO.Path]::GetFullPath((Join-Path $projectRoot "Paper"))
+$sourceDataDir = [System.IO.Path]::GetFullPath((Join-Path $projectRoot "PaperJson"))
 
 function Test-IsSameOrInside {
     param(
@@ -34,16 +34,16 @@ if ($installRootTrimmed -ieq $driveRoot) {
 }
 
 $binDir = Join-Path $InstallRoot "bin"
-$paperDir = Join-Path $InstallRoot "Paper"
+$dataDir = Join-Path $InstallRoot "PaperJson"
 $installedBinary = Join-Path $binDir "$CommandName.exe"
 
-if ((Test-IsSameOrInside -Path $paperDir -BasePath $sourcePaperDir) -or
-    (Test-IsSameOrInside -Path $sourcePaperDir -BasePath $paperDir)) {
-    throw "InstallRoot must not place installed Paper data inside, above, or equal to the source Paper directory."
+if ((Test-IsSameOrInside -Path $dataDir -BasePath $sourceDataDir) -or
+    (Test-IsSameOrInside -Path $sourceDataDir -BasePath $dataDir)) {
+    throw "InstallRoot must not place installed PaperJson data inside, above, or equal to the source PaperJson directory."
 }
 
-if (-not (Test-Path -LiteralPath $sourcePaperDir)) {
-    throw "Paper directory was not found at $sourcePaperDir"
+if (-not (Test-Path -LiteralPath $sourceDataDir)) {
+    throw "PaperJson directory was not found at $sourceDataDir"
 }
 
 $cargoCommand = (Get-Command cargo -ErrorAction SilentlyContinue).Source
@@ -67,10 +67,10 @@ if (-not (Test-Path -LiteralPath $builtBinary)) {
 New-Item -ItemType Directory -Force -Path $binDir | Out-Null
 Copy-Item -LiteralPath $builtBinary -Destination $installedBinary -Force
 
-if (Test-Path -LiteralPath $paperDir) {
-    Remove-Item -LiteralPath $paperDir -Recurse -Force
+if (Test-Path -LiteralPath $dataDir) {
+    Remove-Item -LiteralPath $dataDir -Recurse -Force
 }
-Copy-Item -LiteralPath $sourcePaperDir -Destination $paperDir -Recurse -Force
+Copy-Item -LiteralPath $sourceDataDir -Destination $dataDir -Recurse -Force
 
 $expectedSmokeOutput = "B`tEMNLP`t2020`tAttention Is All You Need for Chinese Word Segmentation."
 $smokeArgs = @(
@@ -135,6 +135,6 @@ if (-not $NoPath) {
 }
 
 Write-Host "Installed $CommandName to $installedBinary"
-Write-Host "Paper data installed to $paperDir"
+Write-Host "PaperJson data installed to $dataDir"
 Write-Host "Install smoke test passed"
 Write-Host "Try: $CommandName --conference AAAI --year 2024 diffusion"

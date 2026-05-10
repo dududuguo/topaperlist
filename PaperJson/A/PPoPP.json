@@ -1,0 +1,1202 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "PPoPP",
+  "papers": {
+    "2021": {
+      "A fast work-efficient SSSP algorithm for GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A lock-free relaxed concurrent queue for fast work distribution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A more pragmatic implementation of the lock-free, ordered, linked list": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A novel memory-efficient deep learning training framework via error-bounded lossy compression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Advanced synchronization techniques for task-based runtime systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An efficient uncertain graph processing framework for heterogeneous architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An ownership policy and deadlock detector for promises": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ApproxTuner: a compiler and runtime system for adaptive approximations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Are dynamic memory managers on GPUs slow?: a survey and benchmarks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asynchrony versus bulk-synchrony for a generalized N-body problem from genomics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BiPart: a parallel and deterministic hypergraph partitioner": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bundled references: an abstraction for highly-concurrent linearizable range queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiler support for near data computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constant-time snapshots with applications to concurrent data structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Corder: cache-aware reordering for optimizing graph analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DAPPLE: a pipelined data parallel approach for training large models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DFOGraph: an I/O- and communication-efficient system for distributed fully-out-of-core graph processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic scaling for low-precision learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient algorithms for persistent transactional memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficiently reclaiming memory in concurrent search data structures while bounding wasted memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficiently running SpMV on long vector architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EGEMM-TC: accelerating scientific computing on tensor cores with extended precision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring deep reuse in winograd CNN inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extending MapReduce framework with locality keys": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extracting clean performance models from tainted programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FFT blitz: the tensor cores strike back": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPTune: multitask learning for autotuning exascale applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I/O lower bounds for auto-tuning of convolutions in CNNs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving communication by optimizing on-node data movement with data layout": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In-situ workflow auto-tuning through combining component models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating the semantics of futures in transactional memory systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightweight preemptive user-level threads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modernizing parallel code with pattern analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NBR: neutralization based reclamation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On group mutual exclusion for dynamic systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the parallel I/O optimality of linear algebra kernels: near-optimal LU factorization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OrcGC: automatic lock-free memory reclamation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel binary code analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PPoPP '21: 26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Virtual Event, Republic of Korea, February 27- March 3, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reasoning about recursive tree traversals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling implicit parallelism via dynamic control replication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShadowVM: accelerating data plane for data analytics with bare metal CPUs and GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simplifying low-level GPU programming with GAS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparta: high-performance, element-wise sparse tensor contraction on heterogeneous memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing optimal collective algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TurboTransformers: an efficient GPU serving system for transformer models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding a program's resiliency through error propagation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and bridging the gaps in current GNN performance optimizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying C11-style weak memory libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "A parallel branch-and-bound algorithm with history-based domination": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A W-cycle algorithm for efficient batched SVD on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An LLVM-based open-source compiler for NVIDIA GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asymmetry-aware scalable locking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic differentiation of parallel loops with formal methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic synthesis of parallel unix commands and pipelines with KumQuat": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BaGuaLu: targeting brain scale pretrained models with over 37 million cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bundling linked data structures for linearizable range queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CASE: a compiler-assisted SchEduling framework for multi-GPU systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deadlock-free asynchronous message reordering in rust with multiparty session types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detectable recovery of lock-free data structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dopia: online parallelism management for integrated CPU/GPU architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Elimination (a, b)-trees with fast, durable updates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FliT: a library for simple and efficient persistent algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hardening selective protection across multiple program inputs for HPC applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High performance GPU concurrent B+tree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interference relation-guided SMT solving for multi-threaded program verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jiffy: a lock-free skip list with batch updates and snapshots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LB-HM: load balance-aware data placement on heterogeneous memory for task-parallel HPC applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lock-free locks revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LOTUS: locality optimizing triangle counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mashup: making serverless computing useful for HPC workflows via hybrid execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-queues can be state-of-the-art priority schedulers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-optimal sparse allreduce for distributed deep learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing consistency for partially replicated data stores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing sparse computations jointly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel algorithms for masked sparse matrix-matrix products": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel block-delayed sequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ParGeo: a library for parallel computational geometry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PathCAS: an efficient middle ground for concurrent search data structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PerFlow: a domain specific framework for automatic performance analysis of parallel applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PPoPP '22: 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Seoul, Republic of Korea, April 2 - 6, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QGTC: accelerating quantized graph neural networks via GPU tensor core": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Remote OpenMP offloading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking graph data placement for graph neural network training on multiple GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RTNN: accelerating neighbor search using hardware ray tracing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling graph traversal to 281 trillion edges with 40 million cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stream processing with dependency-guided synchronization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The performance power of software combining in persistence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The problem-based benchmark suite (PBBS), V2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TileSpGEMM: a tiled algorithm for parallel sparse general matrix-matrix multiplication on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards OmpSs-2 and OpenACC interoperation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and detecting deep memory persistency bugs in NVM programs with DeepMC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vapro: performance variance detection and diagnosis for production-run parallel applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "wCQ: a fast wait-free queue with bounded memory usage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "2PLSF: Two-Phase Locking with Starvation-Freedom": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Programming Model for GPU Load Balancing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Scalable Hybrid Total FETI Method for Massively Parallel FEM Simulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AArch64 Atomics: Might They Be Harming Your Performance?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Block-STM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting Performance and QoS for Concurrent GPU B+trees by Combining-Based Synchronization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CuPBoP: A Framework to Make CUDA Portable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DSP: Efficient GNN Training with Multiple GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic N: M Fine-Grained Structured Sparse Attention Mechanism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient All-Reduce for Distributed DNN Training in Optical Interconnect Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Direct Convolution Using Long SIMD Instructions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Elastic Averaging for Efficient Pipelined DNN Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "End-to-End LU Factorization of Large Matrices on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Use of WebAssembly in HPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and Scalable Channels in Kotlin Coroutines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Parallel Exact Inference on Bayesian Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Symmetric Eigenvalue Decomposition via WY Representation on Tensor Core": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generating Fast FFT Kernels on CPUs via FFT-Specific Intrinsics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-Performance and Scalable Agent-Based Simulation with BioDynaMo": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-Performance Filters for GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-Throughput GPU Random Walk with Fine-Tuned Concurrent Query Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Energy Saving of One-Sided Matrix Decompositions on CPU-GPU Heterogeneous Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iQAN: Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning to Parallelize in a Shared-Memory Environment with Transformers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lifetime-Based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Merchandiser: Data Placement on Heterogeneous Memory for Task-Parallel HPC Applications with Load-Balance Awareness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practically and Theoretically Efficient Garbage Collection for Multiversioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2023, Montreal, QC, Canada, 25 February 2023 - 1 March 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provably Fast and Space-Efficient Parallel Biconnectivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provably Good Randomized Strategies for Data Placement in Distributed Key-Value Stores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stream-K: Work-Centric Parallel Decomposition for Dense Matrix-Matrix Multiplication on the GPU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Swift: Expedited Failure Recovery for Large-Scale DNN Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TDC: Towards Extremely Efficient CNNs on GPUs via Hardware-Aware Tucker Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TGOpt: Redundancy-Aware Optimizations for Temporal Graph Attention Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The ERA Theorem for Safe Memory Reclamation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The State-of-the-Art LCRQ Concurrent Queue Algorithm Does NOT Require CAS2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TL4x: Buffered Durable Transactions on Disk as Fast as in Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transactional Composition of Nonblocking Data Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unexpected Scaling in Path Copying Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visibility Algorithms for Dynamic Dependence Analysis and Distributed Coherence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WISE: Predicting the Performance of Sparse Matrix Vector Multiplication with Machine Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Row Decomposition-based Approach for Sparse Matrix Multiplication on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Are Your Epochs Too Epic? Batch Free Can Be Harmful": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConvStencil: Transform Stencil Computation to Matrix Multiplication on Tensor Cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting Fine-Grained Redundancy in Set-Centric Graph Pattern Mining": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extreme-scale Direct Numerical Simulation of Incompressible Turbulence on the Heterogeneous Many-core System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast American Option Pricing using Nonlinear Stencils": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Kronecker Matrix-Matrix Multiplication on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gallatin: A General-Purpose GPU Memory Manager": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GraphCube: Interconnection Hierarchy-aware Graph Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "INFINEL: An efficient GPU-based processing method for unpredictable large output graph queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Language-Agnostic Static Deadlock Detection for Futures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locks as a Resource: Fairly Scheduling Lock Occupation with CFL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Memory Bounds for Concurrent Bounded Queues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OsirisBFT: Say No to Task Replication for Scalable Byzantine Fault Tolerant Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel Integer Sort: Theory and Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel k-Core Decomposition with Batched Updates and Asynchronous Reads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ParlayANN: Scalable and Deterministic Parallel Graph-Based Approximate Nearest Neighbor Search Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: Accelerating High-Precision Integer Multiplication used in Cryptosystems with GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: Enabling Extreme-Scale Phase Field Simulation with In-situ Feature Extraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: FineCo: Fine-grained Heterogeneous Resource Management for Concurrent DNN Inferences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: OCToPus: Semantic-aware Concurrency Control for Blockchain Transactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: Optimizing Collective Communications with Error-bounded Lossy Compression for GPU Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: Optimizing Sparse Tensor Contraction with Revisiting Hash Table Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: ParGNN: Efficient Training for Large-Scale Graph Neural Network on GPU Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: Pattern-Aware Sparse Communication for Scalable Recommendation Model Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: RadiK: Scalable Radix Top-K Selection on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: RELAX: Durable Data Structures with Swift Recovery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSTER: StructMG: A Fast and Scalable Structured Multigrid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Hardware Transactional vEB Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2024, Edinburgh, United Kingdom, March 2-6, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pure: Evolving Message Passing To Better Leverage Shared Memory Within Nodes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recurrence Analysis for Automatic Parallelization of Subscripted Subscripts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling Up Transactions with Slower Clocks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparsity in Deep Neural Nets (Keynote)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tetris: Accelerating Sparse Convolution by Exploiting Memory Reuse on GPU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Scalable Unstructured Mesh Computations on Shared Memory Many-Cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Training one DeePMD Model in Minutes: a Step towards Online Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VERLIB: Concurrent Versioned Pointers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "A General and Scalable GCN Training Framework on CPU Supercomputers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AC-Cache: A Memory-Efficient Caching System for Small Objects via Exploiting Access Correlations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating GNNs on GPU Sparse Tensor Cores through N: M Sparsity-Oriented Graph Reordering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Parallel Training for Graph Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aggregating Funnels for Faster Fetch&Add and Queues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An AI-Enhanced 1km-Resolution Seamless Global Weather and Climate Model to Achieve Year-Scale Simulation Speed using 34 Million Cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ATTNChecker: Highly-Optimized Fault Tolerant Attention for Large Language Model Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balanced Allocations over Efficient Queues: A Fast Relaxed FIFO Queue": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BerryBees: Breadth First Search by Bit-Tensor-Cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Big Atomics and Fast Hash Tables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boost Lock-free Queue and Stack with Batching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "COMPSO: Optimizing Gradient Compression for Distributed Training with Second-Order Optimizers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crystality: A Programming Model for Smart Contracts on Parallel EVMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DORADD: Deterministic Parallel Execution in the Era of Microsecond-Scale Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effectively Virtual Page Prefetching via Spatial-Temporal Patterns for Memory-intensive Cloud Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EVeREST: An Effective and Versatile Runtime Energy Saving Tool for GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fairer and More Scalable Reader-Writer Locks by Optimizing Queue Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FastBWA: Practical and Cost-Efficient Genome Sequence Alignment Pipeline": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlashFFTStencil: Bridging Fast Fourier Transforms to Memory-Efficient Stencil Computations on Tensor Core Units": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlashSparse: Minimizing Computation Redundancy for Fast Sparse Matrix Multiplications on Tensor Cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlashTensor: Optimizing Tensor Programs by Leveraging Fine-grained Tensor Property": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Frontier-guided Graph Reordering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GLumin: Fast Connectivity Check Based on LUTs For Efficient Graph Pattern Mining": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Harnessing Inter-GPU Shared Memory for Seamless MoE Communication-Computation Fusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Helios: Efficient Distributed Dynamic Graph Sampling for Online GNN Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-performance Visual Semantics Compression for AI-Driven Science": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Tridiagonalization Performance on GPU Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jigsaw: Toward Conflict-free Vectorized Stencil Computation by Tessellating Swizzled Registers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LibRTS: A Spatial Indexing Library by Ray Tracing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Magneto: Accelerating Parallel Structures in DNNs via Co-Optimization of Operators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mario: Near Zero-cost Activation Checkpointing in Pipeline Parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimizing speculation overhead in a parallel recognizer for regular texts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PANNS: Enhancing Graph-based Approximate Nearest Neighbor Search through Recency-aware Construction and Parameterized Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Popcorn: Accelerating Kernel K-means on GPUs through Sparse Linear Algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2025, Las Vegas, NV, USA, March 1-5, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Publish on Ping: A Better Way to Publish Reservations in Memory Reclamation for Concurrent Data Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reciprocating Locks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RT-BarnesHut: Accelerating Barnes-Hut Using Ray-Tracing Hardware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SBMGT: Scaling Bayesian Multinomial Group Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semi-StructMG: A Fast and Scalable Semi-Structured Algebraic Multigrid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Setting a Course for Post-Moore Software Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SGDRC: Software-Defined Dynamic Resource Control for Concurrent DNN Inference on NVIDIA GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Swift Unfolding of Communities: GPU-Accelerated Louvain Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TensorMD: Molecular Dynamics Simulation with Ab Initio Accuracy of 50 Billion Atoms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transactional Data Structures with Orthogonal Metadata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Triangle Counting on Tensor Cores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TurboFFT: Co-Designed High-Performance and Fault-Tolerant Fast Fourier Transform on GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WaterWise: Co-optimizing Carbon- and Water-Footprint Toward Environmentally Sustainable Cloud Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WeiPipe: Weight Pipeline Parallelism for Communication-Effective Long-Context Large Model Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

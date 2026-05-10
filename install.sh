@@ -21,16 +21,16 @@ case "$BIN_DIR" in
         ;;
 esac
 
-if [ ! -d "$ROOT/Paper" ]; then
-    echo "Paper directory was not found at $ROOT/Paper" >&2
+if [ ! -d "$ROOT/PaperJson" ]; then
+    echo "PaperJson directory was not found at $ROOT/PaperJson" >&2
     exit 1
 fi
 
 mkdir -p "$INSTALL_ROOT" "$BIN_DIR"
 INSTALL_ROOT=$(CDPATH= cd -- "$INSTALL_ROOT" && pwd)
 BIN_DIR=$(CDPATH= cd -- "$BIN_DIR" && pwd)
-SOURCE_PAPER=$(CDPATH= cd -- "$ROOT/Paper" && pwd)
-DEST_PAPER="$INSTALL_ROOT/Paper"
+SOURCE_DATA=$(CDPATH= cd -- "$ROOT/PaperJson" && pwd)
+DEST_DATA="$INSTALL_ROOT/PaperJson"
 
 is_same_or_inside() {
     case "$1" in
@@ -39,8 +39,8 @@ is_same_or_inside() {
     esac
 }
 
-if is_same_or_inside "$DEST_PAPER" "$SOURCE_PAPER" || is_same_or_inside "$SOURCE_PAPER" "$DEST_PAPER"; then
-    echo "INSTALL_ROOT must not place installed Paper data inside, above, or equal to the source Paper directory." >&2
+if is_same_or_inside "$DEST_DATA" "$SOURCE_DATA" || is_same_or_inside "$SOURCE_DATA" "$DEST_DATA"; then
+    echo "INSTALL_ROOT must not place installed PaperJson data inside, above, or equal to the source PaperJson directory." >&2
     exit 1
 fi
 
@@ -64,8 +64,8 @@ fi
 
 mkdir -p "$INSTALL_ROOT/bin"
 cp "$BUILT_BINARY" "$INSTALL_ROOT/bin/search"
-rm -rf "$DEST_PAPER"
-cp -R "$SOURCE_PAPER" "$DEST_PAPER"
+rm -rf "$DEST_DATA"
+cp -R "$SOURCE_DATA" "$DEST_DATA"
 
 WRAPPER="$BIN_DIR/$COMMAND_NAME"
 cat > "$WRAPPER" <<EOF
@@ -88,7 +88,7 @@ if [ "$SMOKE_OUTPUT" != "$EXPECTED_SMOKE_OUTPUT" ]; then
 fi
 
 echo "Installed $COMMAND_NAME to $WRAPPER"
-echo "Paper data installed to $INSTALL_ROOT/Paper"
+echo "PaperJson data installed to $INSTALL_ROOT/PaperJson"
 echo "Install smoke test passed"
 case ":$PATH:" in
     *":$BIN_DIR:"*) ;;

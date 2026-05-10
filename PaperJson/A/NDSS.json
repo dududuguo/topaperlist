@@ -1,0 +1,3117 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "NDSS",
+  "papers": {
+    "2021": {
+      "28th Annual Network and Distributed System Security Symposium, NDSS 2021, virtually, February 21-25, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Devil of a Time: How Vulnerable is NTP to Malicious Timeservers?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Formal Analysis of the FIDO UAF Protocol": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ALchemist: Fusing Application and Audit Logs for Precise Attack Provenance without Instrumentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "All the Numbers are US: Large-scale Abuse of Contact Discovery in Mobile Messengers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bitcontracts: Supporting Smart Contracts in Legacy Blockchains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bringing Balance to the Force: Dynamic Analysis of the Android Application Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "C^2SR: Cybercrime Scene Reconstruction for Post-mortem Forensic Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CV-Inspector: Towards Automating Detection of Adblock Circumvention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Poisoning Attacks to Deep Learning Based Recommender Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deceptive Deletions for Protecting Withdrawn Posts on Social Media Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differential Training: A Generic Framework to Reduce Label Noises for Android Malware Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Does Every Second Count? Time-based Evolution of Malware Behavior in Sandboxes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DOVE: A Data-Oblivious Virtual Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarArray: Defending against DolphinAttack via Acoustic Attenuation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Emilia: Catching Iago in Legacy Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evading Voltage-Based Intrusion Detection on Automotive CAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FARE: Enabling Fine-grained Attack Categorization under Low-quality Labeled Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Favocado: Fuzzing the Binding Code of JavaScript Engines Using Semantically Correct Test Cases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flexsealing BGP Against Route Leaks: Peerlock Active Measurement and Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlowLens: Enabling Efficient Flow Classification for ML-based Network Security Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Forward and Backward Private Conjunctive Searchable Symmetric Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Library Portability to Para-rehosting: Natively Executing Microcontroller Software on Commodity Hardware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From WHOIS to WHOWAS: A Large-Scale Measurement Study of Domain Registration Privacy under the GDPR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HERA: Hotpatching of Embedded Real-time Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hey Alexa, is this Skill Safe?: Taking a Closer Look at the Alexa Skill Ecosystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hunting the Haunter - Efficient Relational Symbolic Execution for Spectre with Haunted RelSE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Signal's Sealed Sender": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IoTSafe: Enforcing Safety and Security Policy with Real IoT Physical Interaction Discovery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KUBO: Precise and Scalable Detection of User-triggerable Undefined Behavior Bugs in OS Kernel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LaKSA: A Probabilistic Proof-of-Stake Protocol": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Let's Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MINOS: A Lightweight Real-Time Cryptojacking Detection System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mondrian: Comprehensive Inter-domain Network Zoning Architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More than a Fair Share: Network Data Remanence Attacks against Secret Sharing-based Schemes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NetPlier: Probabilistic Network Protocol Reverse Engineering from Message Traces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Obfuscated Access and Search Patterns in Searchable Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OblivSketch: Oblivious Network Measurement as a Cloud Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Insecurity of SMS One-Time Password Messages against Local Attackers in Modern Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PFirewall: Semantics-Aware Customizable Data Flow Control for Smart Home Privacy Protection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PHOENIX: Device-Centric Cellular Network Protocol Monitoring using Runtime Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POP and PUSH: Demystifying and Defending against (Mach) Port-oriented Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSEIDON: Privacy-Preserving Federated Neural Network Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Blind Membership Inference Attack via Differential Comparisons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Non-Interactive Searchable Encryption with Forward and Backward Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preventing and Detecting State Inference Attacks on Android": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PrivacyFlash Pro: Automating Privacy Policy Generation for Mobile Apps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Processing Dangerous Paths - On Security and Privacy of the Portable Document Format": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QPEP: An Actionable Approach to Secure and Performant Broadband From Geostationary Orbit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RandRunner: Distributed Randomness from Trapdoor VDFs with Strong Uniqueness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Refining Indirect Call Targets at the Binary Level": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reining in the Web's Inconsistencies with Site Policy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rosita: Towards Automatic Elimination of Power-Analysis Leakage in Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ROV++: Improved Deployable Defense against BGP Hijacking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting an Electromagnetic Side Channel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SerialDetector: Principled and Practical Exploration of Object Injection Vulnerabilities for the Web": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shadow Attacks: Hiding and Replacing Content in Signed PDFs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SymQEMU: Compilation-based symbolic execution for binaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tales of Favicons and Caches: Persistent Tracking in Modern Browsers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TASE: Reducing Latency of Symbolic Execution with Transactional Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Abuser Inside Apps: Finding the Culprit Committing Mobile Ad Fraud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Bluetooth CYBORG: Analysis of the Full Human-Machine Passkey Entry AKE Protocol": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "To Err.Is Human: Characterizing the Threat of Unintended URLs in Social Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Understanding and Detecting Cyberbullying in Real-world Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trust the Crowd: Wireless Witnessing to Detect Attacks on ADS-B-Based Air-Traffic Surveillance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Detecting International Revenue Share Fraud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Growth and Security Considerations of ECS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Worldwide Private Information Collection on Android": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WATSON: Abstracting Behaviors from Audit Logs via Aggregation of Contextual Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Who's Hosting the Block Party? Studying Third-Party Blockage of CSP and SRI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XDA: Accurate, Robust Disassembly with Transfer Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zoom on the Keystrokes: Exploiting Video Calls for Keystroke Inference Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Доверя'й, но проверя'й: SFI safety for native-compiled Wasm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "29th Annual Network and Distributed System Security Symposium, NDSS 2022, San Diego, California, USA, April 24-28, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lightweight IoT Cryptojacking Detection Mechanism in Heterogeneous Smart Home Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Above and Beyond: Organizational Efforts to Complement U.S. Digital Security Compliance Mandates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An In-depth Analysis of Duplicated Linux Kernel Bug Reports": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ATTEQ-NN: Attention-based QoE-aware Evasive Backdoor Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Binary Search in Secure Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Building Embedded Systems Like It's 1996": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CFInsight: A Comprehensive Metric for CFI Policies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chosen-Instruction Attack Against Commercial Code Virtualization Obfuscators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chunked-Cache: On-Demand and Scalable Cache Isolation for Security Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Clarion: Anonymous Communication from Multiparty Shuffling Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-Language Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "D-Box: DMA-enabled Compartmentalization for Embedded Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demystifying Local Business Search Poisoning for Illicit Drug Promotion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ditto: WAN Traffic Obfuscation at Line Rate": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DRAWN APART: A Device Identification Technique based on Remote GPU Fingerprinting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EMS: History-Driven Mutation for Coverage-based Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Euler: Detecting Network Lateral Movement via Scalable Temporal Graph Link Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Susceptibility of VPN Implementations to DoS Attacks Using Adversarial Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "F-PKI: Enabling Innovation and Trust Flexibility in the HTTPS Public-Key Infrastructure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FakeGuard: Exploring Haptic Response to Mitigate the Vulnerability in Commercial Fingerprint Anti-Spoofing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FANDEMIC: Firmware Attack Construction and Deployment on Power Management Integrated Circuit and Impacts on IoT Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FedCRI: Federated Mobile Cyber-Risk Intelligence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fighting Fake News in Encrypted Messaging with the Fuzzy Anonymous Complaint Tally System (FACTS)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FirmWire: Transparent Dynamic Analysis for Cellular Baseband Firmware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fooling the Eyes of Autonomous Vehicles: Robust Physical Adversarial Examples Against Traffic Sign Recognition Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Forensic Analysis of Configuration-based Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Get a Model! Model Hijacking Attack Against Machine Learning Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GhostTalk: Interactive Attack on Smartphone Voice System Through Power Line": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HARPO: Learning to Subvert Online Behavioral Advertising": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hazard Integrated: Understanding Security Risks in App Extensions to Team Chat Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "hbACSS: How to Robustly Share Many Secrets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HeadStart: Efficiently Verifiable and Low-Latency Participatory Randomness Generation at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hiding My Real Self! Protecting Intellectual Property in Additive Manufacturing Systems Against Optical Side-Channel Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hybrid Trust Multi-party Computation with Trusted Execution Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interpretable Federated Transformer Log Learning for Cloud Threat Forensics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kasper: Scanning for Generalized Transient Execution Gadgets in the Linux Kernel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Let's Authenticate: Automated Certificates for User Authentication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local and Central Differential Privacy for Robustness and Privacy in Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LogicMEM: Automatic Profile Generation for Binary-Only Memory Forensics via Logic Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Certificate Attacks against Proof-of-Elapsed-Time and Their Countermeasures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NC-Max: Breaking the Security-Performance Tradeoff in Nakamoto Consensus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Utility and Privacy in Synthetic Genomic Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Packet-Level Open-World App Fingerprinting on Wireless Traffic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PHYjacking: Physical Input Hijacking for Zero-Permission Authorization Attacks on Android": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PMTUD is not Panacea: Revisiting IP Fragmentation Attacks against TCP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PoF: Proof-of-Following for Vehicle Platoons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preventing Kernel Hacks with HAKCs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy in Urban Sensing with Instrumented Fleets, Using Air Pollution Monitoring As A Usecase": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probe the Proto: Measuring Client-Side Prototype Pollution Vulnerabilities of One Million Real-world Websites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Property Inference Attacks Against GANs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProvTalk: Towards Interpretable Multi-level Provenance Analysis in Networking Functions Virtualization (NFV)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RamBoAttack: A Robust and Query Efficient Deep Neural Network Decision Exploit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Remote Memory-Deduplication Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Repttack: Exploiting Cloud Schedulers to Guide Co-Location Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ROV-MI: Large-Scale, Accurate and Efficient Measurement of ROV Deployment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RVPLAYER: Robotic Vehicle Forensics by Replay with What-if Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScriptChecker: To Tame Third-party Script Execution With Task Capabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic-Informed Driver Fuzzing Without Both the Hardware Devices and the Emulators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SemperFi: Anti-spoofing GPS Receiver for UAVs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shaduf: Non-Cycle Payment Channel Rebalancing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpiralSpy: Exploring a Stealthy and Practical Covert Channel to Attack Air-gapped Computing Devices via mmWave Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subverting Stateful Firewalls with Protocol States": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SynthCT: Towards Portable Constant-Time Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tetrad: Actively Secure 4PC for Secure Training and Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Droid is in the Details: Environment-aware Evasion of Android Sandboxes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Taming of the Stack: Isolating Stack Data from Memory Errors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Truth Shall Set Thee Free: Enabling Practical Forensic Capabilities in Smart Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Titanium: A Metadata-Hiding File-Sharing System with Malicious Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Too Afraid to Drive: Systematic Discovery of Semantic DoS Vulnerability in Autonomous Driving Planning under Physical-World Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transparency Dictionaries with Succinct Proofs of Correct Operation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncovering Cross-Context Inconsistent Access Control Enforcement in Android": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "V-Range: Enabling Secure Ranging in 5G Wireless Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VPNInspector: Systematic Investigation of the VPN Ecosystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What You See is Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "30th Annual Network and Distributed System Security Symposium, NDSS 2023, San Diego, California, USA, February 27 - March 3, 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Robust Counting Sketch for Data Plane Intrusion Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Security Study about Electron Applications and a Programming Methodology to Tame DOM Functionalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Systematic Study of the Consistency of Two-Factor Authentication User Journeys on Top-Ranked Websites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Access Your Tesla without Your Awareness: Compromising Keyless Entry System of Model 3": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accountable Javascript Code Delivery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adversarial Robustness for Tabular Data through Cost and Utility Awareness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An OS-agnostic Approach to Memory Forensics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anomaly Detection in the Open World: Normality Shift Detection, Explanation, and Adaptation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attacks as Defenses: Designing Robust Audio CAPTCHAs Using Attacks on Automatic Speech Recognition Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AuthentiSense: A Scalable Behavioral Biometrics Authentication Scheme using Few-Shot Learning for Mobile Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Backdoor Attacks Against Dataset Distillation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BARS: Local Robustness Certification for Deep Learning based Traffic Analysis Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BinaryInferno: A Semantic-Driven Approach to Field Inference for Binary Message Formats": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking and Fixing Virtual Channels: Domino Attack and Donner": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brokenwire : Wireless Disruption of CCS Electric Vehicle Charging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Browser Permission Mechanisms Demystified": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChargePrint: A Framework for Internet-Scale Discovery and Security Analysis of EV Charging Management Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CHKPLUG: Checking GDPR Compliance of WordPress Plugins via Cross-language Code Property Graph": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Copy-on-Flip: Hardening ECC Memory Against Rowhammer Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptographic Oracle-based Conditional Payments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DARWIN: Survival of the Fittest Fuzzing Mutators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiffCSP: Finding Browser Bugs in Content Security Policy Enforcement through Differential Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do Not Give a Dog Bread Every Time He Wags His Tail: Stealing Passwords through Content Queries (CONQUER) Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DOITRUST: Dissecting On-chain Compromised Internet Domains via Graph Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Drone Security and the Mysterious Case of DJI's DroneID": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EdgeTDC: On the Security of Time Difference of Arrival Measurements in CAN Bus Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Dynamic Proof of Retrievability for Cold Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evasion Attacks and Defenses on Smart Home Physical Event Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extrapolating Formal Analysis to Uncover Attacks in Bluetooth Passkey Entry Pairing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-Grained Trackability in Protocol Executions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Focusing on Pinocchio's Nose: A Gradients Scrutinizer to Thwart Split-Learning Hijacking Attacks Using Intrinsic Attributes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Folk Models of Misinformation on Social Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fusion: Efficient and Secure Inference Resilient to Malicious Servers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FUZZILLI: Fuzzing for JavaScript JIT Compiler Vulnerabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ghost Domain Reloaded: Vulnerable Links in Domain Name Delegation and Revocation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "He-HTLC: Revisiting Incentives in HTLC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HeteroScore: Evaluating and Mitigating Cloud Security Threats Brought by Heterogeneity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Him of Many Faces: Characterizing Billion-scale Adversarial and Benign Browser Fingerprints on Commercial Websites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hope of Delivery: Extracting User Locations From Mobile Instant Messengers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Count Bots in Longitudinal Datasets of IP Addresses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I Still Know What You Watched Last Sunday: Privacy of the HbbTV Protocol in the European Smart TV Landscape": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InfoMasker: Preventing Eavesdropping Using Phoneme-Based Noise": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Let Me Unwind That For You: Exceptions to Backward-Edge Protection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Machine Unlearning of Features and Labels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetaWave: Attacking mmWave Sensing with Meta-material-enhanced Tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MyTEE: Own the Trusted Execution Environment on Embedded Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Navigating Murky Waters: Automated Browser Feature Testing for Uncovering Tracking Vectors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OBI: a multi-path oblivious RAM for forward-and-backward-secure searchable encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OBSan: An Out-Of-Bound Sanitizer to Harden DNN Executables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Anonymity of Peer-To-Peer Network Anonymity Schemes Used by Cryptocurrencies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OptRand: Optimistically Responsive Reconfigurable Distributed Randomness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parakeet: Practical Key Transparency for End-to-End Encrypted Messaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partitioning Ethereum without Eclipsing It": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POSE: Practical Off-chain Smart Contract Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Post-GDPR Threat Hunting on Android Phones: Dissecting OS-level Safeguards of User-unresettable Identifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PPA: Preference Profiling Attack Against Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preventing SIM Box Fraud Using Device Model Fingerprinting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-Preserving Database Fingerprinting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Private Certifier Intersection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProbFlow : Using Probabilistic Programming in Anonymous Communication Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QUICforge: Client-side Request Forgery in QUIC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RAI2: Responsible Identity Audit Governing the Artificial Intelligence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real Threshold ECDSA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "REDsec: Running Encrypted Discretized Neural Networks in Seconds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReScan: A Middleware Framework for Realistic and Robust Black-box Web Application Scanning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RoVISQ: Reduction of Video Service Quality via Adversarial Attacks on Deep Learning-based Video Compression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RR: A Fault Model for Efficient TEE Replication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Securing Federated Sensitive Topic Classification against Poisoning Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sometimes, You Aren't What You Do: Mimicry Attacks against Provenance Graph Host Intrusion Detection Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SoundLock: A Novel User Authentication Scheme for VR Devices Using Auditory-Pupillary Response": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StealthyIMU: Stealing Permission-protected Private Information From Smartphone Voice Assistant Using Zero-Permission Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SynthDB: Synthesizing Database via Program Analysis for Security Testing of Web Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tactics, Threats & Targets: Modeling Disinformation and its Mitigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The \"Beatrix\" Resurrections: Robust Backdoor Detection via Gram Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Power of Bamboo: On the Post-Compromise Security for Searchable Symmetric Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thwarting Smartphone SMS Attacks at the Radio Interface Layer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Automatic and Precise Heap Layout Manipulation for General-Purpose Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trellis: Robust and Scalable Metadata-private Anonymous Broadcast": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Un-Rocking Drones: Foundations of Acoustic Injection Attacks and Recovery Thereof": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VICEROY: GDPR-/CCPA-compliant Enforcement of Verifiable Accountless Consumer Requests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VulHawk: Cross-architecture Vulnerability Detection with Entropy-based Binary Code Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Your Router is My Prober: Measuring IPv6 Networks via ICMP Rate Limiting Side Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "31st Annual Network and Distributed System Security Symposium, NDSS 2024, San Diego, California, USA, February 26 - March 1, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "50 Shades of Support: A Device-Centric Analysis of Android Security Updates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "5G-Spector: An O-RAN Compliant Layer-3 Cellular Attack Detection Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine Unlearning Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Security and Usability Analysis of Local Attacks Against FIDO2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Unified Symbolic Analysis of WireGuard": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AAKA: An Anti-Tracking Cellular Authentication Scheme Leveraging Anonymous Credentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abusing the Ethereum Smart Contract Verification Services for Fun and Profit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Acoustic Keystroke Leakage on Smart Televisions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ActiveDaemon: Unconscious DNN Dormancy and Waking Up via User-specific Invisible Token": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AnonPSI: An Anonymity Assessment Framework for PSI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Architecting Trigger-Action Platforms for Security, Performance and Functionality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attributions for ML-based ICS Anomaly Detection: From Theory to Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Adversarial Adaption for Stealthy Poisoning Attacks in Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bernoulli Honeywords": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Surface: Uncovering the Unprotected Components of Android Against Overlay Attack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BGP-iSec: Improved Security of Internet Routing Against Post-ROV Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BliMe: Verifiably Secure Outsourced Computation with Hardware-Enforced Taint Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BreakSPF: How Shared Infrastructures Magnify SPF Vulnerabilities Across the Internet": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CAGE: Complementing Arm CCA with GPU Extensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CamPro: Camera-based Anti-Facial Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compensating Removed Frequency Components: Thwarting Voice Spectrum Reduction Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compromising Industrial Processes using Web-Based Programmable Logic Controller Malware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Content Censorship in the InterPlanetary File System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CP-IoT: A Cross-Platform Monitoring System for Smart Home": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crafter: Facial Feature Crafting against Inversion-based Identity Theft on Deep Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CrowdGuard: Federated Backdoor Detection in Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decentralized Information-Flow Control for ROS2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepGo: Predictive Directed Greybox Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeGPT: Optimizing Decompiler Output with LLM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DEMASQ: Unmasking the ChatGPT Wordsmith": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Voice Cloning Attacks via Timbre Watermarking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Don't Interrupt Me - A Large-Scale Study of On-Device Permission Prompt Quieting in Chrome": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DorPatch: Distributed and Occlusion-Robust Adversarial Patch to Evade Certifiable Defenses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "dRR: A Decentralized, Scalable, and Auditable Architecture for RPKI Repository": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DynPRE: Protocol Reverse Engineering via Dynamic Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eavesdropping on Black-box Mobile Devices via Audio Amplifier's EMR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eavesdropping on Controller Acoustic Emanation for Keystroke Inference Attack in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient and Timely Revocation of V2X Credentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Use-After-Free Prevention with Opportunistic Page-Level Sweeping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EnclaveFuzz: Finding Vulnerabilities in SGX Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhance Stealthiness and Transferability of Adversarial Attacks with Class Activation Mapping Ensemble Attack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experimental Analyses of the Physical Surveillance Risks in Client-Side Content Scanning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Facilitating Non-Intrusive In-Vivo Firmware Testing with Stateless Instrumentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster and Better: Detecting Vulnerabilities in Linux-based IoT Firmware with Optimized Reaching Definition Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faults in Our Bus: Novel Bus Fault Attack to Break ARM TrustZone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "File Hijacking Vulnerability: The Elephant in the Room": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flow Correlation Attacks on Tor Onion Service Sessions with Sliding Subset Sum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Hardware Fingerprint to Access Token: Enhancing the Authentication on IoT Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive Remote Attestation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GNNIC: Finding Long-Lost Sibling Functions with Abstract Similarity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Group-based Robustness: A General Framework for Customized Robustness in the Real World": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HEIR: A Unified Representation for Cross-Scheme Compilation of Fully Homomorphic Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IDA: Hybrid Attestation with Support for Interrupts and TOCTOU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IdleLeak: Exploiting Idle State Side Effects for Information Leakage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inaudible Adversarial Perturbation: Manipulating the Recognition of User Speech in Real Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Information Based Heavy Hitters for Real-Time DNS Data Exfiltration Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic Sign Perception": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IRRedicator: Pruning IRR with RPKI-Valid BGP Insights": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "K-LEAK: Towards Automating the Generation of Multi-Step Infoleak Exploits against the Linux Kernel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large Language Model guided Protocol Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LARMix: Latency-Aware Routing in Mix Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LDR: Secure and Efficient Linux Driver Runtime for Embedded TEE Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leaking the Privacy of Groups and More: Understanding Privacy Risks of Cross-App Content Sharing in Mobile Ecosystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions, and New Attack Strategies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Like, Comment, Get Scammed: Characterizing Comment Scams on Media Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LoRDMA: A New Low-Rate DoS Attack in RDMA Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted Malicious Network Traffic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maginot Line: Assessing a New Cross-app Threat to PII-as-Factor Authentication in Chinese Mobile Apps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MirageFlow: A New Bandwidth Inflation Attack on Tor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MOCK: Optimizing Kernel Fuzzing Mutation with Context-aware Dependency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modeling and Detecting Internet Censorship Events": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Precisely Detecting Censorship Circumvention in Real-World Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box Audio Attacks against Speaker Recognition Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pencil: Private and Extensible Collaborative Learning without the Non-Colluding Assumption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Phoenix: Surviving Unpatched Vulnerabilities via Accurate and Efficient Filtering of Syscall Sequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pisces: Private and Compliable Cryptocurrency Exchange": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Powers of Tau in Asynchrony": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predictive Context-sensitive Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PrintListener: Uncovering the Vulnerability of Fingerprint Authentication via the Finger Friction Sound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PriSrv: Privacy-Enhanced and Highly Usable Service Discovery in Wireless Communications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Private Aggregate Queries to Untrusted Databases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proof of Backhaul: Trustfree Measurement of Broadband Bandwidth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QUACK: Hindering Deserialization Attacks via Static Duck Typing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "REPLICAWATCHER: Training-less Anomaly Detection in Containerized Microservices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReqsMiner: Automated Discovery of CDN Forwarding Request Inconsistencies and DoS Attacks with Grammar-based Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scrappy: SeCure Rate Assuring Protocol with PrivacY": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secret-Shared Shuffle with Malicious Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Multiparty Computation of Threshold Signatures Made More Efficient": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SENSE: Enhancing Microarchitectural Awareness for TEEs via Subscription-Based Notification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separation is Good: A Faster Order-Fairness Byzantine Consensus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShapFuzz: Efficient Fuzzing via Shapley-Guided Byte Selection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sharing cyber threat intelligence: Does it really help?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SSL-WM: A Black-Box Watermarking Approach for Encoders Pre-trained by Self-Supervised Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symphony: Path Validation at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SyzBridge: Bridging the Gap in Exploitability Assessment of Linux Kernel Bugs in the Linux Ecosystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TALISMAN: Tamper Analysis for Reference Monitors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TEE-SHirT: Scalable Leakage-Free Cache Hierarchies for TEEs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TextGuard: Provable Defense against Backdoor Attacks on Text Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The CURE to Vulnerabilities in RPKI Validation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Timing Channels in Adaptive Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Automated Regulation Analysis for Effective Privacy Compliance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Precise Reporting of Cryptographic Misuses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transpose Attack: Stealing Datasets with Bidirectional Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Analyzing Appraisal Systems in the Underground Marketplaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Route Origin Validation (ROV) Deployment in the Real World and Why MANRS Action 1 Is Not Followed": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Implementation and Security Implications of Protective DNS Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UniID: Spoofing Face Authentication System by Universal Identity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Untangle: Multi-Layer Web Server Fingerprinting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UntrustIDE: Exploiting Weaknesses in VS Code Extensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unus pro omnibus: Multi-Client Searchable Encryption via Access Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VETEOS: Statically Vetting EOSIO Contracts for the \"Groundhog Day\" Vulnerabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Cryptography Needs a Hand: Practical Post-Quantum Authentication for V2V Communications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "\"Where Are We On Cyber?\" - A Qualitative Study On Boards' Cybersecurity Risk Decision Making": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"Who is Trying to Access My Account?\" Exploring User Perceptions and Reactions to Risk-based Authentication Notifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "32nd Annual Network and Distributed System Security Symposium, NDSS 2025, San Diego, California, USA, February 24-28, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Comprehensive Memory Safety Analysis of Bootloaders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Formal Approach to Multi-Layered Privileges for Enclaves": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Key-Driven Framework for Identity-Preserving Face Anonymization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Large-Scale Measurement Study of the PROXY Protocol and its Security Implications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Method to Facilitate Membership Inference Attacks in Deep Learning Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Multifaceted Study on the Use of TLS and Auto-detect in Email Ecosystems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New PPML Paradigm for Quantized Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Systematic Evaluation of Novel and Existing Cache Side Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alba: The Dawn of Scalable Bridges for Blockchains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "All your (data)base are belong to us: Characterizing Database Ransom(ware) Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AlphaDog: No-Box Camouflage Attacks via Alpha Channel Oversight": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study on Fingerprint API Misuse with Lifecycle Analysis in Real-world Android Apps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ASGARD: Protecting On-Device Deep Neural Networks with Virtualization-Based Trusted Execution Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attributing Open-Source Contributions is Critical but Difficult: A Systematic Analysis of GitHub Practices and Their Impact on Software Supply Chain Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Expansion of Privacy Data Taxonomy for Compliant Data Breach Notification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Mass Malware Factory: The Convergence of Piggybacking and Adversarial Example in Android Malicious Software Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Insecurity: Exploring Email Auto-configuration in the Wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Library Fuzzing through API Relation Evolvement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balancing Privacy and Data Utilization: A Comparative Vignette Study on User Acceptance of Data Trustees in Germany and the US": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BARBIE: Robust Backdoor Detection Based on Latent Separability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Be Careful of What You Embed: Demystifying OLE Vulnerabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Classification: Inferring Function Names in Stripped Binaries via Domain Adapted LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BinEnhance: An Enhancement Framework Based on External Environment Semantics for Binary Code Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BitShield: Defending Against Bit-Flip Attacks on DNN Executables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Black-box Membership Inference Attacks against Fine-tuned Diffusion Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Blindfold: Confidential Memory Management by Untrusted Operating System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BULKHEAD: Secure, Scalable, and Efficient Kernel Compartmentalization with PKS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BumbleBee: Secure Two-party Inference Framework for Large Transformers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cascading Spy Sheets: Exploiting the Complexity of Modern CSS for Email and Browser Fingerprinting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CASPR: Context-Aware Security Policy Recommendation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CCTAG: Configurable and Combinable Tagged Architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CHAOS: Exploiting Station Time Synchronization in 802.11 Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing the Impact of Audio Deepfakes in the Presence of Cochlear Implant": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CounterSEVeillance: Performance-Counter Attacks on AMD SEV-SNP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crosstalk-induced Side Channel Threats in Multi-Tenant NISQ Computers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ctrl+Alt+Deceive: Quantifying User Exposure to Online Scams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Defending Against Membership Inference Attacks on Iteratively Pruned Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Delay-allowed Differentially Private Data Stream Release": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting IMSI-Catchers by Characterizing Identity Exposing Messages in Cellular Traffic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Ransomware Despite I/O Overhead: A Practical Multi-Staged Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Diffence: Fencing Membership Privacy With Diffusion Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dissecting Payload-based Transaction Phishing on Ethereum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Function Secret Sharing and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DLBox: New Model Training Framework for Protecting Training Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do (Not) Follow the White Rabbit: Challenging the Myth of Harmless Open Redirection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do We Really Need to Design New Byzantine-robust Aggregation Rules?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Duumviri: Detecting Trackers and Mixed Trackers with a Breakage Detector": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EAGLEYE: Exposing Hidden Web Interfaces in IoT Devices via Routing Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eclipse Attacks on Monero's Peer-to-Peer Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Security in Third-Party Library Reuse - Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ERW-Radar: An Adaptive Detection System against Evasive Ransomware by Contextual Behavior Detection and Fine-grained Content Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Machine Learning-Based IoT Device Identification Models for Security Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EvoCrawl: Exploring Web Application Code and State using Evolutionary Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring User Perceptions of Security Auditing in the Web3 Ecosystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Large to Mammoth: A Comparative Evaluation of Large Language Models in Vulnerability Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FUZZUER: Enabling Fuzzing of UEFI Interfaces on EDK-2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GadgetMeter: Quantitatively and Accurately Gauging the Exploitability of Speculative Gadgets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GAP-Diff: Protecting JPEG-Compressed Images from Diffusion-based Facial Customization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generating API Parameter Security Rules with LLM for API Misuse Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GhostShot: Manipulating the Image of CCD Cameras with Electromagnetic Interference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HADES Attack: Understanding and Evaluating Manipulation Risks of Email Blocklists": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Heimdall: Towards Risk-Aware Network Management Outsourcing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hidden and Lost Control: on Security Design Risks in IoT User-Facing Matter Controller": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hitchhiking Vaccine: Enhancing Botnet Remediation With Remote Code Deployment Reuse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Horcrux: Synthesize, Split, Shift and Stay Alive; Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I know what you MEME! Understanding and Detecting Harmful Memes with Multimodal Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ICSQuartz: Scan Cycle-Aware and Vendor-Agnostic Fuzzing for Industrial Control Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impact Tracing: Identifying the Culprit of Misinformation in Encrypted Messaging Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interventional Root Cause Analysis of Failures in Multi-Sensor Fusion Perception Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Iris: Dynamic Privacy Preserving Search in Authenticated Chord Peer-to-Peer Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IsolateGPT: An Execution Isolation Architecture for LLM-Based Agentic Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "JBomAudit: Assessing the Landscape, Compliance, and Security Implications of Java SBOMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KernelSnitch: Side Channel-Attacks on Kernel Data Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "L-HAWK: A Controllable Physical Adversarial Patch Against a Long-Distance Target": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LADDER: Multi-Objective Backdoor Attack via Evolutionary Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LAMP: Lightweight Approaches for Latency Minimization in Mixnets with Practical Deployment Considerations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LeakLess: Selective Data Protection against Memory Leakage Attacks for Serverless Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LightAntenna: Characterizing the Limits of Fluorescent Lamp-Induced Electromagnetic Interference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLMPirate: LLMs for Black-box Hardware IP Piracy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Magmaw: Modality-Agnostic Adversarial Attacks on Machine Learning-Based Wireless Communication Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MALintent: Coverage Guided Intent Fuzzing Framework for Android": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mens Sana In Corpore Sano: Sound Firmware Corpora for Vulnerability Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MineShark: Cryptomining Traffic Detection at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MingledPie: A Cluster Mingling Approach for Mitigating Preference Profiling in CFL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Misdirection of Trust: Demystifying the Abuse of Dedicated URL Shortening Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Moneta: Ex-Vivo GPU Driver Fuzzing by Recalling In-Vivo Execution States": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mysticeti: Reaching the Latency Limits with Uncertified DAGs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NodeMedic-FINE: Automatic Detection and Exploit Synthesis for Node.js Vulnerabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-intrusive and Unconstrained Keystroke Inference in VR Platforms via Infrared Side Channel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Borrowed Time - Preventing Static Side-Channel Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Realism of LiDAR Spoofing Attacks against Autonomous Driving Vehicle at High Speed and Long Distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Onion Franking: Abuse Reports for Mix-Based Private Messaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oreo: Protecting ASLR Against Microarchitectural Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Passive Inference Attacks on Split Learning via Adversarial Regularization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PBP: Post-training Backdoor Purification for Malware Classifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PolicyPulse: Precision Semantic Role Extraction for Enhanced Privacy Policy Comprehension": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Power-Related Side-Channel Attacks using the Android Sensor Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PowerRadio: Manipulate Sensor Measurement via Power GND Radiation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PQConnect: Automated Post-Quantum End-to-End Tunnels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-Preserving Data Deduplication for Enhancing Federated Learning of Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probe-Me-Not: Protecting Pre-trained Encoders from Malicious Probing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provably Unlearnable Data Examples": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProvGuard: Detecting SDN Control Policy Manipulation via Contextual Semantics of Provenance Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QMSan: Efficiently Detecting Uninitialized Memory Errors During Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RadSee: See Your Handwriting Through Walls Using FMCW Radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RAIFLE: Reconstruction Attacks on Interaction-based Federated Learning with Adversarial Data Manipulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RContainer: A Secure Container Architecture through Extending ARM CCA Hardware Primitives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recurrent Private Set Intersection for Unbalanced Databases with Cuckoo Hashing and Leveled FHE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rediscovering Method Confusion in Proposed Security Fixes for Bluetooth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reinforcement Unlearning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Repurposing Neural Networks for Efficient Cryptographic Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Trust in Forge-Based Git Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Retrofitting XoM for Stripped Binaries without Embedded Data Relocation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revealing the Black Box of Device Search Engine: Scanning Assets, Strategies, and Ethical Consideration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Concept Drift in Windows Malware Detection: Adaptation to Real Drifted Malware with Minimal Samples": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting EM-based Estimation for Locally Differentially Private Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Physical-World Adversarial Attack on Traffic Sign Recognition: A Commercial Systems Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ring of Gyges: Accountable Anonymous Broadcast via Secret-Shared Shuffle": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Safety Misalignment Against Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SCAMMAGNIFIER: Piercing the Veil of Fraudulent Shopping Website Campaigns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScopeVerif: Analyzing the Security of Android's Scoped Storage via Differential Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SCRUTINIZER: Towards Secure Forensics on Compromised TrustZone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secret Spilling Drive: Leaking User Behavior through SSD Contention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Data Analytics in Apache Spark with Fine-grained Policy Enforcement and Isolated Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure IP Address Allocation at Cloud Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Transformer Inference Made Non-interactive": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Securing BGP ASAP: ASPA and other Post-ROV Defenses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SHAFT: Secure, Handy, Accurate and Fast Transformer Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sheep's Clothing, Wolf's Data: Detecting Server-Induced Client Vulnerabilities in Windows Remote IPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SIGuard: Guarding Secure Inference with Post Data Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Siniel: Distributed Privacy-Preserving zkSNARK": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SketchFeature: High-Quality Per-Flow Feature Extractor Towards Security-Aware Data Plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SKILLPoV: Towards Accessible and Effective Privacy Notice for Amazon Alexa Skills": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spatial-Domain Wireless Jamming with Reconfigurable Intelligent Surfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Speak Up, I'm Listening: Extracting Speech from Zero-Permission VR Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Starshields for iOS: Navigating the Security Cosmos in Satellite Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statically Discover Cross-Entry Use-After-Free Vulnerabilities in the Linux Kernel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The (Un)usual Suspects - Studying Reasons for Lacking Updates in WordPress": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Discriminative Power of Cross-layer RTTs in Fingerprinting Proxy Traffic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Forking Way: When TEEs Meet Consensus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Guardians of Name Street: Studying the Defensive Registration Practices of the Fortune 500": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Kids Are All Right: Investigating the Susceptibility of Teens and Adults to YouTube Giveaway Scams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Midas Touch: Triggering the Capability of LLMs for RM-API Misuse Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Philosopher's Stone: Trojaning Plugins of Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Power of Words: A Comprehensive Analysis of Rationales and Their Effects on Users' Permission Decisions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Road to Trust: Building Enclaves within Confidential VMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Skeleton Keys: A Large Scale Analysis of Credential Leakage in Mini-apps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "THEMIS: Regulating Textual Inversion for Personalized Concept Censorship": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TME-Box: Scalable In-Process Isolation through Intel TME-MK Memory Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Too Subtle to Notice: Investigating Executable Stack Issues in Linux Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Understanding Unsafe Video Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TrajDeleter: Enabling Trajectory Forgetting in Offline Reinforcement Learning Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Translating C To Rust: Lessons from a User Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transparency or Information Overload? Evaluating Users' Comprehension and Perceptions of the iOS App Privacy Report": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Truman: Constructing Device Behavior Models from OS Drivers to Fuzz Virtual Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Try to Poison My Deep Learning Data? Nowhere to Hide Your Trajectory Spectrum!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tweezers: A Framework for Security Event Detection via Event Attribution-centric Tweet Embedding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TWINFUZZ: Differential Testing of Video Hardware Acceleration Stacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "type++: Prohibiting Type Confusion with Inline Type Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TZ-DATASHIELD: Automated Data Protection for Embedded Systems via Data-Flow-Based Compartmentalization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UI-CTX: Understanding UI Behaviors with Code Contexts for Mobile Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncovering the iceberg from the tip: Generating API Specifications for Bug Detection via Specification Propagation Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Data Importance in Machine Learning Attacks: Does Valuable Data Pose Greater Harm?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Miniapp Malware: Identification, Dissection, and Characterization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unleashing the Power of Generative Model in Recovering Variable Names from Stripped Binary": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "URVFL: Undetectable Data Reconstruction Attack on Vertical Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VeriBin: Adaptive Verification of Patches at the Binary Level": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VoiceRadar: Voice Deepfake Detection using Micro-Frequency and Compositional Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VulShield: Protecting Vulnerable Code Before Deploying Patches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Was This You? Investigating the Design Considerations for Suspicious Login Notifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WAVEN: WebAssembly Memory Virtualization for Enclaves": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Welcome to Jurassic Park: A Comprehensive Study of Security Risks in Deno and its Ecosystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What's Done Is Not What's Claimed: Detecting and Interpreting Inconsistencies in App Behaviors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You Can Rand but You Can't Hide: A Holistic Security Analysis of Google Fuchsia's (and gVisor's) Network Stack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "YuraScanner: Leveraging LLMs for Task-driven Web App Scanning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

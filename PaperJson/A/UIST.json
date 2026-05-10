@@ -1,0 +1,3392 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "UIST",
+  "papers": {
+    "2021": {
+      "Adroid: Augmenting Hands-on Making with a Collaborative Robot": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AirConstellations: In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Altering Perceived Softness of Real Rigid Objects by Restricting Fingerpad Deformation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Aligned Rank Transform Procedure for Multifactor Contrast Tests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "App-Based Task Shortcuts for Virtual Assistants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assuage: Assembly Synthesis Using A Guided Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "autoAssembler: Automatic Reconstruction of Laser-Cut 3D Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Accessory Rigs for Layered 2D Character Illustrations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Instructional Video Creation from a Markdown-Formatted Tutorial": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bi-3D: Bi-Manual Pen-and-Touch Interaction for 3D Manipulation on Tablets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bit Whisperer: Enabling Ad-hoc, Short-range, Walk-Up-and-Share Data Transmissions via Surface-restricted Acoustics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Capturing Tactile Properties of Real Surfaces for Haptic Reproduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chemical Haptics: Rendering Haptic Sensations via Topical Stimulants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Daedalus in the Dark: Designing for Non-Visual Accessible Construction of Laser-Cut Architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DextrEMS: Increasing Dexterity in Electrical Muscle Stimulation by Combining it with Brakes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do We Need a Faster Mouse? Empirical Evaluation of Asynchronicity-Induced Jitter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Guidance for Decluttering Photographic Compositions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EIT-kit: An Electrical Impedance Tomography Toolkit for Health and Motion Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Etna: Harvesting Action Graphs from Websites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Effects of Saccade Types and Directions on Eye Pointing Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FabHydro: Printing Interactive Hydraulic Devices with an Affordable SLA 3D Printer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "False Positives vs. False Negatives: The Effects of Recovery Time and Cognitive Costs on Input Error Preference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FaraPy: An Augmented Reality Feedback System for Facial Paralysis using Action Unit Intensity Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Game Illusionization: A Workflow for Applying Optical Illusions to Video Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GazeChat: Enhancing Virtual Conferences with Gaze-aware 3D Photos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GesturAR: An Authoring System for Creating Freehand Interactive Augmented Reality Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GestuRING: A Web-based Tool for Designing Gesture Input with Rings, Ring-Like, and Ring-Ready Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HandyTrak: Recognizing the Holding Hand on a Commodity Smartphone from Body Silhouette Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HapticBots: Distributed Encountered-type Haptics for VR with Multiple Shape-changing Mobile Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HelpViz: Automatic Generation of Contextual Visual Mobile Tutorials from Text-Based Instructions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hierarchical Summarization for Longform Spoken Dialog": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HoloBoard: a Large-format Immersive Teaching Board based on pseudo HoloGraphics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying Contact Fingers on Touch Sensitive Surfaces by Ring-Based Vibratory Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Idyll Studio: A Structured Editor forAuthoring Interactive & Data-Driven Articles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iText: Hands-free Text Entry on an Imaginary Keyboard for Augmented Reality Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Just Speak It: Minimize Cognitive Load for Eyes-Free Text Editing with a Smart Voice Assistant": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KondoCloud: Improving Information Management in Cloud Storage via Recommendations Based on File Similarity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lenticular Objects: 3D Printed Objects with Lenticular Lens Surfaces That Can Change their Appearance Depending on the Viewpoint": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LipNotif: Use of Lips as a Non-Contact Tactile Notification Interface Based on Ultrasonic Tactile Presentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Marcelle: Composing Interactive Machine Learning Workflows and Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MARS: Nano-Power Battery-free Wireless Interfaces for Touch, Swipe and Speech Input": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MedKnowts: Unified Documentation and Information Retrieval for Electronic Health Records": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetaSense: Integrating Sensing Capabilities into Mechanical Metamaterial": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Midair Balloon Interface: A Soft and Lightweight Midair Object for Proximate Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modeling Touch Point Distribution with Rotational Dual Gaussian Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ModularHMD: A Reconfigurable Mobile Head-Mounted Display Enabling Ad-hoc Peripheral Interactions with the Real World": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoiréBoard: A Stable, Accurate and Low-cost Camera Tracking Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MotionRing: Creating Illusory Tactile Motion around the Head using 360° Vibrotactile Headbands": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NavStick: Making Video Games Blind-Accessible via the Ability to Look Around": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OmniFiber: Integrated Fluidic Fiber Actuators for Weaving Movement based Interactions into the 'Fabric of Everyday Life'": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Per Garment Capture and Synthesis for Real-time Virtual Try-on": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Planning Epidemic Interventions with EpiPolicy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PneuSeries: 3D Shape Forming with Modularized Serial-Connected Inflatables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PocketView: Through-Fabric Information Displays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rapido: Prototyping Interactive AR Experiences through Programming by Demonstration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "reCode : A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReflecTrack: Enabling 3D Acoustic Position Tracking Using Commodity Dual-Microphone Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relevance and Applicability of Hardware-independent Pointing Transfer Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Retargeted Self-Haptics for Increased Immersion in VR without Instrumentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Roadkill: Nesting Laser-Cut Objects for Fast Assembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Route Tapestries: Navigating 360° Virtual Tour Videos Using Slit-Scan Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScaffoldSketch: Accurate Industrial Design Drawing in VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Screen Parsing: Towards Reverse Engineering of UI Models from Screenshots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SemanticAdapt: Optimization-based Adaptation of Mixed Reality Layouts Leveraging Virtual-Physical Semantic Connections": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SensiCut: Material-Aware Laser Cutting Using Speckle Sensing and Deep Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shapir: Standardizing and Democratizing Access to Web APIs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SimpModeling: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Situated Live Programming for Human-Robot Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snowy: Recommending Utterances for Conversational Visual Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "So Predictable! Continuous 3D Hand Trajectory Prediction in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SoundsRide: Affordance-Synchronized Music Mixing for In-Car Audio Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Space, Time, and Choice: A Unified Approach to Flexible Personal Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sporq: An Interactive Environment for Exploring Code using Query-by-Example": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "STRIVE: String-Based Force Feedback for Automotive Engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SymbolFinder: Brainstorming Diverse Symbols Using Local Semantic Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tabs.do: Task-Centric Browser Tab Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taming fNIRS-based BCI Input for Better Calibration and Broader Use": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taxon: a Language for Formal Reasoning with Digital Fabrication Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ten Million Users and Ten Years Later: Python Tutor's Design Guidelines for Building Scalable and Sustainable Research Software in Academia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tilt-Explore: Making Tilt Gestures Usable for Low-Vision Smartphone Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TouchPose: Hand Pose Prediction, Depth Estimation, and Touch Classification from Capacitive Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trusscillator: a System for Fabricating Human-Scale Human-Powered Oscillating Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TypeBoard: Identifying Unintentional Touch on Pressure-Sensitive Touchscreen Keyboards": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UIST '21: The 34th Annual ACM Symposium on User Interface Software and Technology, Virtual Event, USA, October 10-14, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Umitation: Retargeting UI Behavior Examples for Website Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unravel: A Fluent Code Explorer for Data Wrangling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Urban Brush: Intuitive and Controllable Urban Layout Editing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Variance and Distribution Models for Steering Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VEmotion: Using Driving Context for Indirect Emotion Prediction in Real-Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VHP: Vibrotactile Haptics Platform for On-body Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weaving Schematics and Code: Interactive Visual Editing for Hardware Description Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weirding Haptics: In-Situ Prototyping of Vibrotactile Feedback in Virtual Reality through Vocalization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "X-Rings: A Hand-mounted 360° Shape Display for Grasping in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "AirLogic: Embedding Pneumatic Computation and I/O in 3D Models to Fabricate Electronics-Free Interactive Objects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARDW: An Augmented Reality Workbench for Printed Circuit Board Debugging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARnnotate: An Augmented Reality Interface for Collecting Custom Dataset of 3D Hand-Object Interaction Pose Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Chironomia for Presenting Data to Remote Audiences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AUIT - the Adaptive User Interfaces Toolkit for Designing XR Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Filament Inking for Multi-color FFF 3D Printing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bayesian Hierarchical Pointing Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Text Generation: Supporting Writers with Continuous Automatic Text Summaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BO as Assistant: Using Bayesian Optimization for Asynchronously Generating Design Suggestions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breathing Life Into Biomechanical User Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chatbots Facilitating Consensus-Building in Asynchronous Co-Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CodeToon: Story Ideation, Auto Comic Generation, and Structure Mapping for Code-Driven Storytelling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Color-to-Depth Mappings as Depth Cues in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Design of Active Kinesthetic Garments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concept-Annotated Examples for Library Comparison": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CrossA11y: Identifying Video Accessibility Issues via Cross-modal Grounding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DEEP: 3D Gaze Pointing in Virtual Reality Leveraging Eyelid Movement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeltaPen: A Device with Integrated High-Precision Translation and Rotation Sensing on Passive Surfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Input Recognition Errors and User Errors using Gaze Dynamics in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Diffscriber: Describing Visual Design Changes to Support Mixed-Ability Collaborative Presentation Authoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DigituSync: A Dual-User Passive Exoskeleton Glove That Adaptively Shares Hand Gestures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiscoBand: Multiview Depth-Sensing Smartwatch Strap for Hand, Body and Environment Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DualVoice: Speech Interaction that Discriminates between Normal and Whispered Voice Input": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ELAXO : Rendering Versatile Resistive Force Feedback for Fingers Grasping and Twisting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EtherPose: Continuous Hand Pose Tracking with Wrist-Worn Antenna Impedance Characteristic Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Sensory Conflict Effect Due to Upright Redirection While Using VR in Reclining & Lying Positions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Learnability of Program Synthesizers by Novice Programmers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FeedLens: Polymorphic Lenses for Personalizing Exploratory Search over Knowledge Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fibercuit: Prototyping High-Resolution Flexible and Kirigami Circuits with a Fiber Laser Engraver": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flaticulation: Laser Cutting Joints with Articulated Angles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FLEX-SDK: An Open-Source Software Development Kit for Creating Social Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flexel: A Modular Floor Interface for Room-Scale Tactile Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ForceSight: Non-Contact Force Sensing with Laser Speckle Imaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fuse: In-Situ Sensemaking Support in the Browser": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GANzilla: User-Driven Direction Discovery in Generative Adversarial Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gesture-aware Interactive Machine Teaching with In-situ Object Annotations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grid-Coding: An Accessible, Efficient, and Structured Coding Paradigm for Blind and Low-Vision Programmers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HapTag: A Compact Actuator for Rendering Push-Button Tactility on Soft Surfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HingeCore: Laser-Cut Foamcore for Fast Assembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating Living Organisms in Devices to Implement Care-based Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating Real-World Distractions into Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "INTENT: Interactive Tensor Transformation Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Public Displays and Wheelchair Users: Between Direct, Personal and Indirect, Assisted Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "interiqr: Unobtrusive Edible Tags using Food 3D Printing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InterWeave: Presenting Search Suggestions in Context Scaffolds Information Search and Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iWood: Makeable Vibration Sensor for Interactive Plywood": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kinergy: Creating 3D Printable Motion using Embedded Kinetic Energy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Look over there! Investigating Saliency Modulation for Visual Guidance with Augmented Reality Glasses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagneShape: A Non-electrical Pin-Based Shape-Changing Display": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MechARspace: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetamorphX: An Ungrounded 3-DoF Moment Display that Changes its Physical Properties through Rotational Impedance Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mimic: In-Situ Recording and Re-Use of Demonstrations to Support Robot Teleoperation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mixels: Fabricating Interfaces using Programmable Magnetic Pixels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Muscle Synergies Learning with Electrical Muscle Stimulation for Playing the Piano": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MuscleRehab: Improving Unsupervised Physical Rehabilitation by Monitoring and Visualizing Muscle Engagement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NFCStack: Identifiable Physical Building Blocks that Support Concurrent Construction and Frictionless Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Notational Programming for Notebook Environments: A Case Study with Quantum Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OmniScribe: Authoring Immersive Audio Descriptions for 360° Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Opal: Multimodal Image Generation for News Illustration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing the Timing of Intelligent Suggestion in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PassengXR: A Low Cost Platform for Any-Car, Multi-User, Motion-Based Passenger XR Experiences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Personalized Game Difficulty Prediction Using Factorization Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Photographic Lighting Design with Photographer-in-the-Loop Bayesian Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Phrase-Gesture Typing on Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Project Primrose: Reflective Light-Diffuser Modules for Non-Emissive Flexible Display Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prolonging VR Haptic Experiences by Harvesting Kinetic Energy from the User": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prototyping Soft Devices with Interactive Bioplastics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PSST: Enabling Blind or Visually Impaired Developers to Author Sonifications of Streaming Sensor Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RealityLens: A User Interface for Blending Customized Physical World View into Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RealityTalk: Real-Time Speech-Driven Augmented Presentation for AR Live Storytelling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReCapture: AR-Guided Time-lapse Photography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reconfigurable Elastic Metamaterials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Record Once, Post Everywhere: Automatic Shortening of Audio Stories for Social Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RemoteLab: A VR Remote Study Toolkit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RIDS: Implicit Detection of a Selection Gesture Using Hand Motion Dynamics During Freehand Pointing in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scholastic: Graphical Human-AI Collaboration for Inductive and Interpretive Text Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scrapbook: Screenshot-Based Bookmarks for Effective Digital Resource Curation across Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students' Awareness of Visual Impairment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SemanticOn: Specifying Content-Based Semantic Conditions for Web Automation Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SenSequins: Smart Textile Using 3D Printed Conductive Sequins": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sketch-Based Design of Foundation Paper Pieceable Quilts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sketched Reality: Sketching Bi-Directional Interactions Between Virtual and Physical Worlds with AR and Actuated Tangible UI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SleepGuru: Personalized Sleep Planning System for Real-life Actionability and Negotiability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Social Simulacra: Creating Populated Prototypes for Social Computing Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "spaceR: Knitting Ready-Made, Tactile, and Highly Responsive Spacer-Fabric Force Sensors for Continuous Input": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Summarizing Sets of Related ML-Driven Recommendations for Improving File Management in Cloud Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesis-Assisted Video Prototyping From a Document": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TangibleGrid: Tangible Web Layout Design for Blind Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The 35th Annual ACM Symposium on User Interface Software and Technology, UIST 2022, Bend, OR, USA, 29 October 2022 - 2 November 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Threddy: An Interactive System for Personalized Thread-based Exploration and Organization of Scientific Literature": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TipTrap: A Co-located Direct Manipulation Technique for Acoustically Levitated Content": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Annotations for Sensemaking About Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VRhook: A Data Collection Tool for VR Motion Sickness Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WaddleWalls: Room-scale Interactive Partitioning System using a Swarm of Robotic Partitions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "We-toon: A Communication Support System between Writers and Artists in Collaborative Webtoon Sketch Revision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wigglite: Low-cost Information Collection and Triage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wikxhibit: Using HTML and Wikidata to Author Applications that Link Data Across the Web": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "X-Bridges: Designing Tunable Bridges to Enrich 3D Printed Objects' Deformation and Stiffness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "3D Printing Magnetophoretic Displays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AirCharge: Amplifying Ungrounded Impact Force by Accumulating Air Propulsion Momentum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AirTied: Automatic Personal Fabrication of Truss Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Adaptable Workflow for Manual-Computational Ceramic Surface Ornamentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Math: Authoring AR-Based Explorable Explanations by Augmenting Static Math Textbooks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Conversion of Music Videos into Lyric Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Artifact: Power as a Lens for Creativity Support Tools": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Biohybrid Devices: Prototyping Interactive Devices with Growable Materials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BioWeave: Weaving Thread-Based Sweat-Sensing On-Skin Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BrightMarker: 3D Printed Fluorescent Markers for Object Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BrushLens: Hardware Interaction Proxies for Accessible Touchscreen Interface Actuation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cells, Generators, and Lenses: Design Framework for Object-Oriented Interaction with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Color Field: Developing Professional Vision by Visualizing the Effects of Color Filters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Design of Personalized Wearable Robotic Limbs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constraint-Driven Robotic Surfaces, At Human-Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CriTrainer: An Adaptive Training Tool for Critical Paper Reading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CrossTalk: Intelligent Substrates for Language-Oriented Interaction in Video-Based Communication and Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CubeSense++: Smart Environment Sensing with Interaction-Powered Corner Reflector Mechanisms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CurveCrafter: A System for Animated Curve Manipulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiLogics: Creating Web Automation Programs with Diverse Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Double-Sided Tactile Interactions for Grasping in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Toolchains: Software Infrastructure for Digital Fabrication Workflows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ecoEDA: Recycling E-waste During Electronics Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EmTex: Prototyping Textile-Based Interfaces through An Embroidered Construction Kit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Engraft: An API for Live, Rich, and Composable Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Locomotion Methods with Upright Redirected Views for VR Users in Reclining & Lying Positions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FeetThrough: Electrotactile Foot Interface that Preserves Real-World Sensations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FFL: A Language and Live Runtime for Styling and Labeling Typeset Math Formulas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FibeRobo: Fabricating 4D Fiber Interfaces by Continuous Drawing of Temperature Tunable Liquid Crystal Elastomers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fluid Reality: High-Resolution, Untethered Haptic Gloves using Electroosmotic Pump Arrays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Gap to Synergy: Enhancing Contextual Understanding through Human-Machine Collaboration in Personalized Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Front Row: Automatically Generating Immersive Audio Representations of Tennis Broadcasts for Blind Viewers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GenAssist: Making Image Generation Accessible": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generative Agents: Interactive Simulacra of Human Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GestureCanvas: A Programming by Demonstration System for Prototyping Compound Freehand Interaction in VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Going Incognito in the Metaverse: Achieving Theoretically Optimal Privacy-Usability Tradeoffs in VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graphologue: Exploring Large Language Model Responses with Interactive Diagrams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Haptic Rendering of Neural Radiance Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HoloBots: Augmenting Holographic Telepresence with Mobile Robots for Tangible Remote Collaboration in Mixed Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HRTF Estimation in the Wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hypothesizer: A Hypothesis-Based Debugger to Find and Test Debugging Hypotheses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InteractionAdapt: Interaction-driven Workspace Adaptation for Situated Virtual Reality Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Benefits from Switching Electrical to Magnetic Muscle Stimulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Flexible Style Transfer for Vector Graphics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Joie: a Joy-based Brain-Computer Interface (BCI)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KnitScript: A Domain-Specific Scripting Language for Advanced Machine Knitting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Custom Experience Ontologies via Embedding-based Feedback Loops": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Living Papers: A Language Toolkit for Augmented Scholarly Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lorgnette: Creating Malleable Code Projections": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagKnitic: Machine-knitted Passive and Interactive Haptic Textiles with Integrated Binary Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mirrorverse: Live Tailoring of Video Conferencing Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MIWA: Mixed-Initiative Web Automation for Better User Control and Confidence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Neighbor-Environment Observer: An Intelligent Agent for Immersive Working Companionship": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Never-ending Learning of User Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Odyssey: An Interactive Workbench for Expert-Driven Floating-Point Expression Rewriting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Olio: A Semantic Search Interface for Data Repositories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pantœnna: Mouth pose estimation for ar/vr headsets using low-profile antenna and impedance characteristic sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Papeos: Augmenting Research Papers with Talk Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PaperToPlace: Transforming Instruction Documents into Spatialized and Context-Aware Mixed Reality Experiences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parametric Haptics: Versatile Geometry-based Tactile Feedback Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PColorizor: Re-coloring Ancient Chinese Paintings with Ideorealm-congruent Poems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PEANUT: A Human-AI Collaborative Tool for Annotating Audio-Visual Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PoseVEC: Authoring Adaptive Pose-aware Effects using Visual Programming and Demonstrations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PressurePick: Muscle Tension Estimation for Guitar Players Using Unobtrusive Pressure Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology, UIST 2023, San Francisco, CA, USA, 29 October 2023- 1 November 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Promptify: Text-to-Image Generation through Interactive Prompt Exploration with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RadarFoot: Fine-grain Ground Surface Context Awareness for Smart Shoes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RadarVR: Exploring Spatiotemporal Visual Guidance in Cinematic VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reframe: An Augmented Reality Storyboarding Tool for Character-Driven Analysis of Security & Privacy Concerns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reprogrammable Digital Metamaterials for Interactive Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Riffle: Reactive Relational State for Local-First Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Finger Interactions with COTS Smartwatches via Unsupervised Siamese Adaptation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scene Responsiveness for Visuotactile Illusions in Mixed Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Hearing: Programming Acoustic Scenes with Binaural Hearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sensecape: Enabling Multilevel Exploration and Sensemaking with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShadowTouch: Enabling Free-Form Touch-Based Hand-to-Surface Interaction with Wrist-Mounted Illuminant by Shadow Projection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Skinergy: Machine-Embroidered Silicone-Textile Composites as On-Skin Self-Powered Input Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SleeveIO: Modular and Reconfigurable Platform for Multimodal Wearable Haptic Feedback Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartPoser: Arm Pose Estimation with a Smartphone and Smartwatch Using UWB and IMU Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soundify: Matching Sound Effects to Video": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPEERLoom: An Open-Source Loom Kit for Interdisciplinary Engagement in Math, Engineering, and Textiles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spellburst: A Node-based Interface for Exploratory Creative Coding with Natural Language Prompts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "STAR: Smartphone-analogous Typing in Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Starrypia: An AR Gamified Music Adjuvant Treatment Application for Children with Autism Based on Combined Therapy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statslator: Interactive Translation of NHST and Estimation Statistics Reporting Styles in Scientific Documents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stereoscopic Viewing and Monoscopic Touching: Selecting Distant Objects in VR Through a Mobile Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Storyfier: Exploring Vocabulary Learning Support with Text Generation Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structured Light Speckle: Joint Ego-Centric Depth Estimation and Low-Latency Contact Detection via Remote Vibrometry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Style2Fab: Functionality-Aware Segmentation for Fabricating Personalized 3D Models with Generative AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Substiports: User-Inserted Ad Hoc Objects as Reusable Structural Support for Unmodified FDM 3D Printers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SUPREYES: SUPer Resolutin for EYES Using Implicit Neural Representation Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sustainflatable: Harvesting, Storing and Utilizing Ambient Energy for Pneumatic Morphing Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SwarmFidget: Exploring Programmable Actuated Fidgeting with Swarm Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synergi: A Mixed-Initiative System for Scholarly Synthesis and Sensemaking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TacNote: Tactile and Audio Note-Taking for Non-Visual Access": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TactTongue: Prototyping ElectroTactile Stimulations on the Tongue": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TaleStream: Supporting Story Ideation with Trope Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taste Retargeting via Chemical Taste Modulators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Telextiles: End-to-end Remote Transmission of Fabric Tactile Sensation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The View from MARS: Empowering Game Stream Viewers with Metadata Augmented Real-time Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ThermalRouter: Enabling Users to Design Thermally-Sound Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TouchType-GAN: Modeling Touch Typing with Generative Adversarial Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Flexible and Robust User Interface Adaptations With Multiple Objectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transferable Microgestures Across Hand Posture and Location Constraints: Leveraging the Middle, Ring, and Pinky Fingers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Turn-It-Up: Rendering Resistance for Knobs in Virtual Reality through Undetectable Pseudo-Haptics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ubi-TOUCH: Ubiquitous Tangible Object Utilization through Consistent Hand-object interaction in Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Usable and Fast Interactive Mental Face Reconstruction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Use of an AI-powered Rewriting Support Software in Context with Other Tools: A Study of Non-Native English Speakers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "V-DAT (Virtual Reality Data Analysis Tool): Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VegaProf: Profiling Vega Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Video2Action: Reducing Human Interactions in Action Annotation of App Tutorial Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VISAR: A Human-AI Argumentative Writing Assistant with Visual Programming and Rapid Draft Prototyping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VoxelHap: A Toolkit for Constructing Proxies Providing Tactile and Kinesthetic Haptic Feedback in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VRoxy: Enabling Remote Collaboration in Large Spaces Beyond Local Boundaries via a VR-Driven Robotic Proxy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wakey-Wakey: Animate Text by Mimicking Characters in a GIF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WavoID: Robust and Secure Multi-modal User Identification via mmWave-voice Mechanism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XCreation: A Graph-based Crossmodal Generative Creativity Support Tool": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "\"The Data Says Otherwise\" - Towards Automated Fact-checking and Communication of Data Claims": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accessible Gesture Typing on Smartphones for People with Low Vision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AccessTeleopKit: A Toolkit for Creating Accessible Web-Based Interfaces for Tele-Operating an Assistive Robot": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Interactive System for Supporting Creative Exploration of Cinematic Composition Designs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AniCraft: Crafting Everyday Objects as Physical Proxies for Prototyping 3D Character Animation in Mixed Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Breathing via Thermal Feedback in the Nose": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Object Intelligence with XR-Objects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Auptimize: Optimal Placement of Spatial Audio Cues for Extended Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoSpark: Supporting Automobile Appearance Design Ideation with Kansei Engineering and Generative AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "avaTTAR: Table Tennis Stroke Training with Embodied and Detached Visualization in Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Chat: Executable and Verifiable Text-Editing with LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BlendScape: Enabling End-User Customization of Video-Conferencing Environments through Generative AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Block and Detail: Scaffolding Sketch-to-Image Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bluefish: Composing Diagrams with Declarative Relations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can a Smartwatch Move Your Fingers? Compact and Practical Electrical Muscle Stimulation in a Smartwatch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Capacitive Touch Images Enhance Mobile Keyboard Decoding?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CARDinality: Interactive Card-shaped Robots with Locomotion and Haptics using Vibration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chromaticity Gradient Mapping for Interactive Control of Color Contrast in Images and Video": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Clarify: Improving Model Robustness With Natural Language Corrections": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoLadder: Manipulating Code Generation via Multi-Level Blocks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ComPeer: A Generative Conversational Agent for Proactive Peer Support": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Trichromacy Reconstruction: Empowering the Color-Vision Deficient to Recognize Colors Using Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CookAR: Affordance Augmentations in Wearable AR to Support Kitchen Tool Interactions for People with Low Vision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Degrade to Function: Towards Eco-friendly Morphing Devices that Function Through Programmed Sequential Degradation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DesignChecker: Visual Design Support for Blind and Low Vision Web Developers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Desk2Desk: Optimization-based Mixed Reality Workspace Integration for Remote Side-by-side Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DexteriSync: A Hand Thermal I/O Exoskeleton for Morphing Finger Dexterity Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiscipLink: Unfolding Interdisciplinary Information Seeking Process via Human-AI Co-Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DisMouse: Disentangling Information from Mouse Movement Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Don't Mesh Around: Streamlining Manual-Digital Fabrication Workflows with Domain-Specific 3D Scanning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DrawTalking: Building Interactive Worlds by Sketching and Speaking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "E-Joint: Fabrication of Large-Scale Interactive Objects Assembled by 3D Printed Conductive Parts with Copper Plated Joints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarHover: Mid-Air Gesture Recognition for Hearables Using Sound Leakage Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of Computer Mouse Lift-off Distance Settings in Mouse Lifting Action": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EgoTouch: On-Body Touch Input Using AR/VR Headset Cameras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embrogami: Shape-Changing Textiles with Machine Embroidery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empower Real-World BCIs with NIRS-X: An Adaptive Learning Framework that Harnesses Unlabeled Brain Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EVE: Enabling Anyone to Train Robots using Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Effects of Sensory Conflicts on Cognitive Fatigue in VR Remappings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eye-Hand Movement of Objects in Near Space Extended Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EyeFormer: Predicting Personalized Scanpaths with Transformer-Guided Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Facilitating the Parametric Definition of Geometric Properties in Programming-Based CAD": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FathomGPT: A natural language interface for interactively exploring ocean science data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feminist Interaction Techniques: Social Consent Signals to Deter NCIM Screenshots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fiery Hands: Designing Thermal Glove through Thermal and Tactile Integration for Virtual Object Manipulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flip-Pelt: Motor-Driven Peltier Elements for Rapid Thermal Stimulation and Congruent Pressure Feedback in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gait Gestures: Examining Stride and Foot Strike Variation as an Input Method While Walking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GradualReality: Enhancing Physical Object Interaction in Virtual Reality via Interaction State-Aware Blending": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HandPad: Make Your Hand an On-the-go Writing Pad via Human Capacitance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hands-on, Hands-off: Gaze-Assisted Bimanual 3D Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HoloChemie - Sustainable Fabrication of Soft Biochemical Holographic Devices for Ubiquitous Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hydroptical Thermal Feedback: Spatial Thermal Feedback Using Visible Lights and Water": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Steering and Verification in AI-Assisted Data Analysis with Interactive Task Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IRIS: Wireless ring for vision-based smart home interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "JetUnit: Rendering Diverse Force Feedback in Virtual Reality Using Water Jets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KODA: Knit-program Optimization by Dependency Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LessonPlanner: Assisting Novice Teachers to Prepare Pedagogy-Driven Lesson Plans with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LoopBot: Representing Continuous Haptics of Grounded Objects in Room-scale VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lumina: A Software Tool for Fostering Creativity in Designing Chinese Shadow Puppets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagneDot: Integrated Fabrication and Actuation Methods of Dot-Based Magnetic Shape Displays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Memolet: Reifying the Reuse of User-AI Conversational Memories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Memory Reviver: Supporting Photo-Collection Reminiscence for People with Visual Impairment via a Proactive Chatbot": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MobilePoser: Real-Time Full-Body Pose Estimation and 3D Human Translation from IMUs in Mobile Consumer Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MobiPrint: A Mobile 3D Printer for Environment-Scale Design and Fabrication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modulating Heart Activity and Task Performance using Haptic Heartbeat Feedback: A Study Across Four Body Placements": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MouthIO: Fabricating Customizable Oral User Interfaces with Integrated Sensing and Actuation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mul-O: Encouraging Olfactory Innovation in Various Scenarios Through a Task-Oriented Development Platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MyWebstrates: Webstrates as Local-first Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Natural Expression of a Machine Learning Model's Uncertainty Through Verbal and Non-Verbal Behavior of Intelligent Virtual Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NotePlayer: Engaging Computational Notebooks for Dynamic Presentation of Analytical Processes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OptiBasePen: Mobile Base+Pen Input on Passive Surfaces by Sensing Relative Base Motion Plus Close-Range Pen Position": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Palmrest+: Expanding Laptop Input Space with Shear Force on Palm-Resting Area": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Patchview: LLM-powered Worldbuilding with Generative Dust and Magnet Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Patterns of Hypertext-Augmented Sensemaking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Personal Time-Lapse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "picoRing: battery-free rings for subtle thumb-to-index input": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PointerVol: A Laser Pointer for Swept Volumetric Displays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PortaChrome: A Portable Contact Light Source for Integrated Re-Programmable Multi-Color Textures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PortalInk: 2.5D Visual Storytelling with SVG Parallax and Waypoint Transitions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Power-over-Skin: Full-Body Wearables Powered By Intra-Body RF Energy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting the Limits: Tailoring Unnoticeable Hand Redirection Offsets in Virtual Reality to Individuals' Perceptual Boundaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PrISM-Observer: Intervention Agent to Help Users Perform Everyday Procedures Sensed using a Smartwatch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pro-Tact: Hierarchical Synthesis of Proprioception and Tactile Exploration for Eyes-Free Ray Pointing on Out-of-View VR Menus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology, UIST 2024, Pittsburgh, PA, USA, October 13-16, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProgramAlly: Creating Custom Visual Access Programs via Multi-Modal End-User Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProtoDreamer: A Mixed-prototype Tool Combining Physical Model and Generative AI to Support Conceptual Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RFTIRTouch: Touch Sensing Device for Dual-sided Transparent Plane Based on Repropagated Frustrated Total Internal Reflection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rhapso: Automatically Embedding Fiber Materials into 3D Prints for Enhanced Interactivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScrapMap: Interactive Color Layout for Scrap Quilting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScriptViz: A Visualization Tool to Aid Scriptwriting based on a Large Movie Database": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SeamPose: Repurposing Seams as Capacitive Sensors in a Shirt for Upper-Body Pose Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Selfrionette: A Fingertip Force-Input Controller for Continuous Full-Body Avatar Manipulation and Diverse Haptic Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SERENUS: Alleviating Low-Battery Anxiety Through Real-time, Accurate, and User-Friendly Energy Consumption Prediction of Mobile Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShadowMagic: Designing Human-AI Collaborative Support for Comic Professionals' Shadowing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SHAPE-IT: Exploring Text-to-Shape-Display for Generative Shape-Changing Behaviors with LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Silent Impact: Tracking Tennis Shots from the Passive Arm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SIM2VR: Towards Automated Biomechanical Testing in VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SituationAdapt: Contextual UI Optimization in Mixed Reality with Situation Awareness via LLM Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SkipWriter: LLM-Powered Abbreviated Writing on Tablets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SolePoser: Full Body Pose Estimation using a Single Pair of Insole Sensor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SonifyAR: Context-Aware Sound Generation in Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SonoHaptics: An Audio-Haptic Cursor for Gaze-Based Object Selection in XR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpaceBlender: Creating Context-Rich Collaborative Spaces Through Generative 3D Scene Blending": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Speed-Modulated Ironing: High-Resolution Shade and Texture Gradients in Single-Material 3D Printing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpinShot: Optimizing Both Physical and Perceived Force Feedback of Flywheel-Based, Directional Impact Handheld Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SQLucid: Grounding Natural Language Database Queries with Interactive Explanations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StegoType: Surface Typing from Egocentric Cameras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Story-Driven: Exploring the Impact of Providing Real-time Context Information on Automated Storytelling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StreetNav: Leveraging Street Cameras to Support Precise Outdoor Navigation for Blind Pedestrians": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StructCurves: Interlocking Block-Based Line Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StyleFactory: Towards Better Style Alignment in Image Creation through Style-Strength-Based Control and Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TorqueCapsules: Fully-Encapsulated Flywheel Actuation Modules for Designing and Prototyping Movement-Based and Kinesthetic Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TouchInsight: Uncertainty-aware Rapid Touch and Text Input for Mixed Reality from Egocentric Vision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TouchpadAnyWear: Textile-Integrated Tactile Sensors for Multimodal High Spatial-Resolution Touch Inputs with Motion Artifacts Tolerance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Touchscreen-based Hand Tracking for Remote Whiteboard Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Music-Aware Virtual Assistants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TRAvel Slicer: Continuous Extrusion Toolpaths for 3D Printing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tyche: Making Sense of PBT Effectiveness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UIClip: A Data-driven Model for Assessing User Interface Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UICrit: Enhancing Automated Design Evaluation with a UI Critique Dataset": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Supporting Debugging Workflows in CAD": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Effects of Restraining Finger Coactivation in Mid-Air Typing: from a Neuromechanical Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VIME: Visual Interactive Model Explorer for Identifying Capabilities and Limitations of Machine Learning Models for Sequential Decision-Making": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VirtualNexus: Enhancing 360-Degree Video AR/VR Collaboration with Environment Cutouts and Virtual Replicas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vision-Based Hand Gesture Customization from a Single Demonstration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VizAbility: Enhancing Chart Accessibility with LLM-based Conversational Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VizGroup: An AI-assisted Event-driven System for Collaborative Programming Learning Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VoicePilot: Harnessing LLMs as Speech Interfaces for Physically Assistive Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VRCopilot: Authoring 3D Layouts with Generative AI Models in VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WaitGPT: Monitoring and Steering Conversational LLM Agent in Data Analysis with On-the-Fly Code Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WasteBanned: Supporting Zero Waste Fashion Design Through Linked Edits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WatchLink: Enhancing Smartwatches with Sensor Add-Ons via ECG Interface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What is Affective Touch Made Of? A Soft Capacitive Sensor Array Reveals the Interplay between Shear, Normal Stress and Individuality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What's in a cable? Abstracting Knitting Design Elements with Blended Raster/Vector Primitives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What's the Game, then? Opportunities and Challenges for Runtime Behavior Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wheeler: A Three-Wheeled Input Device for Usable, Efficient, and Versatile Non-Visual Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Who did it? How User Agency is influenced by Visual Properties of Generated Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WorldScribe: Towards Context-Aware Live Visual Descriptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "X-Hair: 3D Printing Hair-like Structures with Multi-form, Multi-property and Multi-function": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "\"This is My Fault\", Really? Understanding Blind and Low-Vision People's Perception of Hallucination in Large Vision Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "3D Sketching + 2D Generative AI for Car Exterior Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AbstractExplorer: Leveraging Structure-Mapping Theory to Enhance Comparative Close Reading at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accessibility Scout: Personalized Accessibility Scans of Built Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptique: Multi-objective and Context-aware Online Adaptation of Selection Techniques in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "agentAR: Creating Augmented Reality Applications with Tool-Augmented LLM-based Autonomous Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AmbigChat: Interactive Hierarchical Clarification for Ambiguous Open-Domain Question Answering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Answering Developer Questions with Annotated Agent-Discovered Program Traces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AROMA: Mixed-Initiative AI Assistance for Non-Visual Cooking by Grounding Multimodal Information Between Reality and Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assessing Dynamic Flow Experience from EEG Signals: A Processing-based Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "At a Glance to Your Fingertips: Enabling Direct Manipulation of Distant Objects Through SightWarp": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ATCion: Exploring the Design of Icon-based Visual Aids for Enhancing In-cockpit Air Traffic Control Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AttentionAR: AR Adaptation and Warning for Real-World Safety via Attention Modeling and MLLM Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AttraCar: Multisensory In-Car VR with Thermal, Airflow, and Motion Feedback through Built-In Vehicle Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BandEI: A Flexible Electrical Impedance Sensing Bandage for Deep Muscles and Tendons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BaroPoser: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Page: Enriching Academic Paper Reading with Social Media Discussions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BIOGEM: A Fully Biodegradable Gelatin-Based McKibben Actuator with Embedded Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BioLIG: Functionalizing Biocomposites with Laser-induced Graphene for Bio-Rapid Prototyping of Electronics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BloomIntent: Automating Search Evaluation with LLM-Generated Fine-Grained User Intents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Branch Explorer: Leveraging Branching Narratives to Support Interactive 360° Video Viewing for Blind and Low Vision Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Buoyancé: Reeling Helium-Inflated Balloons with Mobile Robots on the Ground for Mid-Air Tangible Display, Interaction, and Assembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can You Move These Over There? Exploring an LLM-based VR Mover to Support Natural Multi-object Manipulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CAnnotator: Photo-Guided Color Annotation for Degraded Ancient Paintings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChairPose: Pressure-based Chair Morphology Grounded Sitting Pose Estimation through Simulation-Assisted Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CineVision: An Interactive Pre-visualization Storyboard System for Director-Cinematographer Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoGrader: Transforming Instructors' Assessment of Project Reports through Collaborative LLM Integration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Content-Independent Avatar Ownership Detection for Preventing Sockpuppet-Enabled Violations in the Social Metaverse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cooperative Design Optimization through Natural Language Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoSight: Exploring Viewer Contributions to Online Video Accessibility Through Descriptive Commenting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Creating General User Models from Computer Use": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Delusionized? Potential Harms of Proprioceptive Manipulations through Hand Redirection in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demystifying Reward Design in Reinforcement Learning for Upper Extremity Interaction: Practical Guidelines for Biomechanical Simulations in HCI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Denicek: Computational Substrate for Document-Oriented End-User Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Looms as Kits for Collaborative Assembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DialogLab: Authoring, Simulating, and Testing Dynamic Human-AI Group Conversations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DissolvPCB: Fully Recyclable 3D-Printed Electronics Using Liquid Metal Conductors and PVA Substrates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do You See What I See? Bring Live Pedestrians into an Outdoor Collaborative Mixed Reality Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DropPop: Designing Drop-to-Deploy Mechanisms with Bistable Scissors Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DxHF: Providing High-Quality Human Feedback for LLM Alignment with Interactive Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarPressure VR: Ear Canal Pressure Feedback for Enhancing Environmental Presence in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EchoLadder: Progressive AI-Assisted Design of Immersive VR Scenes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EclipseTouch: Touch Segmentation on Ad Hoc Surfaces using Worn Infrared Shadow Casting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ecolor: Synthesis of EInk Microcapsules for Fabricating DIY Displays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Finger Model and Accurate Tracking for Hover-and-Touch, Mid-air and Microgesture Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Visual Appearance Optimization by Learning from Prior Preferences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EI-Lite: Electrical Impedance Sensing for Micro-gesture Recognition and Pinch Force Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EmbroChet: A Hybrid Textile Fabrication Approach for 3D Personalized Handicraft via Heat-Shrinking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embroidering Resonant Circuits for Inductive Pressure Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EmoShortcuts: Emotionally Expressive Body Augmentation for Social Mixed Reality Avatars": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empowering Children to Create AI-Enabled Augmented Reality Experiences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Auto-Correction on Soft Braille Keyboard": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing XR Auditory Realism via Multimodal Scene-Aware Acoustic Rendering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "eTactileKit: A Toolkit for Design Exploration and Rapid Prototyping of Electro-Tactile Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EvalAssist: Insights on Task-Specific Evaluations and AI-Assisted Judgment Strategy Preferences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extendlibur: Dynamic Haptic Retargeting for Length-Mismatched Proxies in Co-Located VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FabObscura: Computational Design and Fabrication for Interactive Barrier-Grid Animations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FEDT: Supporting experiment design and execution in HCI fabrication research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FiberCircuits: A Miniaturization Framework To Manufacture Fibers That Embed Integrated Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flowco: Mixed-Initiative Authoring of Reliable End-to-End Data Analyses via Dataflow Graphs and LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ForcePinch: Force-Responsive Spatial Interaction for Tracking Speed Control in XR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Sports Videos to Immersive Training: Augmenting Human Motion to Enrich Basketball Training Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Garden of Papers: Finding, Reading, and Organizing Research Papers in a Visual, Integrated, and Flexible Workspace": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GaussianNexus: Room-Scale Real-Time AR/VR Telepresence with Gaussian Splatting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GaussianShopVR: Facilitating Immersive 3D Authoring Using Gaussian Splatting in VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generative Trigger-Action Programming with Ply": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GestureCoach: Rehearsing for Engaging Talks with LLM-Driven Gesture Recommendations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GLITTER: An AI-assisted Platform for Material-Grounded Asynchronous Discussion in Flipped Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GraspR: A Computational Model of Spatial User Preferences for Adaptive Grasp UI Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Guided Reality: Generating Visually-Enriched AR Task Guidance with LLMs and Vision Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GuitarPie: Using the Fretboard of an Electric Guitar for Audio-Based Pie Menu Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GyFoam: Fabricating Lattice Foam with Customizable Stiffness through Uniform Expansion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HAGI: Head-Assisted Gaze Imputation for Mobile Eye Trackers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HandOver: Enabling Precise Selection & Manipulation of 3D Objects with Mouse and Hand Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HeatFlow: A Thermal-Tactile Display for Dynamic 2D Thermal Movements": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HiLT: A Library for Generating Human-in-the-Loop Data Transformation GUIs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HydroHaptics: High-Fidelity Force-Feedback on Soft Deformable Interfaces using Hydrostatic Transmission": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Illusory-UMH: A Systematic Comparison of Tactile Illusions and Modulation Techniques in Ultrasonic Mid-air Haptics: Illusory-UMH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Image-based Tactile Rendering Method Using Frequency Modulation under the Weber Fractions Constraint by Electrovibration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Imaginary Joint: Proprioceptive Feedback for Virtual Body Extensions via Skin Stretch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ImaginationVellum: Generative-AI Ideation Canvas with Spatial Prompts, Generative Strokes, and Ideation History": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Imago Obscura: An Image Privacy AI Co-pilot to Enable Identification and Mitigation of Risks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IMUCoCo: Enabling Flexible On-Body IMU Placement for Human Pose Estimation and Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InReAcTable: LLM-powered Interactive Visual Data Story Construction from Tabular Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InSituTale: Enhancing Augmented Data Storytelling with Physical Objects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InterQuest: A Mixed-Initiative Framework for Dynamic User Interest Modeling in Conversational Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Invisibility Cloak: Personalized Smartwatch-Guided Camera Obfuscation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KinemaFX: A Kinematic-Driven Interactive System for Particle Effect Exploration and Customization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kinethreads: Soft Full-Body Haptic Exosuit using Low-Cost Motor-Pulley Mechanisms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KiriInflate: Fabricating Cross-Scale Inflatables with Large Contraction and Tunable Stretchability for Tangible Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Knoll: Creating a Knowledge Ecosystem for Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "L.ink: Procedural Ink Growth for Controllable Surprise": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LegisFlow: Enhancing Korean Legal Research with Temporal-Aware LLM Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiDArgus: Accommodating Diverse Privacy Preferences in LiDAR Sensing Through Configurable Sub-Zoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LightLink: Enhancing Smartwatch Sensing and Actuation Through Visible Light Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Log2Plan: An Adaptive GUI Automation Framework Integrated with Task Mining Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LuxAct: Enhance Everyday Objects for Visual Sensing with Interaction-Powered Illumination": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MACEDON : Supporting Programmers with Real-Time Multi-Dimensional Code Evaluation and Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagnePins: A Modular, Affordable, and DIY Refreshable Braille and Tactile Display": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagTex: Machine-Knitted Magnetoactive Textiles for Bidirectional Human-Machine Interface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mallet-Based Assembly: Enabling Load-Bearing Laser-Cut Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MapStory: Prototyping Editable Map Animations with LLM Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MEDebiaser: A Human-AI Feedback System for Mitigating Bias in Multi-label Medical Image Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Meridian: A Design Framework for Malleable Overview-Detail Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Meta-antenna: Mechanically Frequency Reconfigurable Metamaterial Antennas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mod2Hap: Two Level Modular Haptic System for Body- and Hand- Interactions using Magnetorheological Fluid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Morae: Proactively Pausing UI Agents for User Choices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MorphingSkin: A Skin-like Platform that Integrates Multimodal Hydraulic Actuators Based on Flexible Electroosmotic Pumps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MorphKeys: A Reconfigurable Keyboard System Using Switched NFC Tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Move with Style! Enhancing Avatar Embodiment in Virtual Reality through Proprioceptive Motion Feedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Click: Cross-Tab Web Automation via Action Generalization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NarraGuide: an LLM-based Narrative Mobile Robot for Remote Place Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NFCGest: Contactless Gestural Interactions with NFC Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NoteIt: A System Converting Instructional Videos to Interactable Notes Through Multimodal Video Understanding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oak Story: Improving Learner Outcomes with LLM-Mediated Interactive Narratives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn Dialogue with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Outline and Detail: A Semantic-Driven Framework for Layered 2D Character Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PaperBridge: Crafting Research Narratives through Human-AI Co-Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Personalized Bistable Orthoses for Rehabilitation of Finger Joints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POET: Supporting Prompting Creativity and Personalization with Automated Expansion of Text-to-Image Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Policy Maps: Tools for Guiding the Unbounded Space of LLM Behaviors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PosterMate: Audience-driven Collaborative Persona Agents for Poster Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preference-Guided Multi-Objective UI Adaptation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PricoEye: The Eye of Primary Colors for Fast and Convenient 3D Reconstruction of Fine-grained Palmprint on Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Primed Action: Preserving Agency while Accelerating Reaction Time via Subthreshold Brain Stimulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy Equilibrium: Balancing Privacy Needs in Dynamic Multi-User Augmented Reality Scenarios": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology, UIST 2025, Busan, Korea, 28 September 2025 - 1 October 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProForm: Solder-Free Circuit Assembly Using Thermoforming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProMemAssist: Exploring Timely Proactive Assistance Through Working Memory Modeling in Multi-Modal Wearable Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QUILT: Supporting Modular Design of Machine-Knitting Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ragged Blocks: Rendering Structured Text with Style": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RAGTrace: Understanding and Refining Retrieval-Generation Dynamics in Retrieval-Augmented Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reality Promises: Virtual-Physical Decoupling Illusions in Mixed Reality via Invisible Mobile Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reality Proxy: Fluid Interactions with Real-World Objects in MR via Abstract Representations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Refashion: Reconfigurable Garments via Modular Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Repurposing Audio Playback Tools to Test Human Localization with 6DoF Sound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReSpark: Leveraging Previous Data Reports as References to Generate New Reports with LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Dataset Discovery with DataScout": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RhythmTA: A Visual-Aided Interactive System for ESL Rhythm Training via Dubbing Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RingByte: Enhancing Text-Entry Practicality via A Singular Wearable Rotating Smart Ring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling Context-Aware Task Assistants that Learn from Demonstration and Adapt through Mixed-Initiative Dialogue": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SCENIC: A Location-based System to Foster Cognitive Development in Children During Car Rides": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sculpin: Direct-Manipulation Transformation of JSON": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sculptable Mesh Structures for Large-Scale Form-Finding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sensible Agent: A Framework for Unobtrusive Interaction with Proactive AR Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shape n' Swarm: Hands-on, Shape-aware Generative Authoring with Swarm UI and LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShoeGenAI: A Creativity Support Tool Bridging Design Intention and Feasibility in Shoe Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SignGlass: First-Person View Comprehensive and Generalizable ASL Translation Using Wearable Glass": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SketchGPT: A Sketch-based Multimodal Interface for Application-Agnostic LLM Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SlideAudit: A Dataset and Taxonomy for Automated Evaluation of Presentation Slides": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SoilSense: Appropriating Soil-based Microbial Fuel Cells to Create Tangible Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SparseEMG: Computational Design of Sparse EMG Layouts for Sensing Gestures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Squidgets: Sketch-based Widget Design for Scene Manipulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Squiggle: Multimodal Lasso Selection in the Real World": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SQUIRE: Interactive UI Authoring via Slot QUery Intermediate REpresentations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StabilizAR: Enabling Hands-Free Head Pointing while Mobile": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Steering Semantic Data Processing With DocWrangler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StepWrite: Adaptive Planning for Speech-Driven Text Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns With Stitch Tracking and Process Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StoryEnsemble: Enabling Dynamic Exploration & Iteration in the Design Process with AI and Forward-Backward Propagation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StorySage: Conversational Autobiography Writing Powered by a Multi-Agent Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming, Fast and Slow: Cognitive Load-Aware Streaming for Efficient LLM Serving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StreetViewAI: Making Street View Accessible Using Context-Aware Multimodal AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StringTouch: A Non-occlusive 3DoF Haptic Interface Using String Structures for Modulating Finger Sensations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subthreshold Jitter in VR Can Induce Visual Discomfort": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SustainaPrint: Making the Most of Eco-Friendly Filaments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SwitchAR: Perceptual Manipulations in Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthia: Visually Interpreting and Synthesizing Feedback for Writing Revision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Talking Spell: A Wearable System Enabling Real-Time Anthropomorphic Voice Interaction with Everyday Objects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TalkLess: Blending Extractive and Abstractive Summarization for Editing Speech to Preserve Content and Style": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Texergy: Textile-based Harvesting, Storing, and Releasing of Mechanical Energy for Passive On-Body Actuation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Potential of Cognitive Circles to Measure Mental Load": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thing2Reality: Enabling Spontaneous Creation of 3D Objects from 2D Content using Generative AI in XR Meetings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Touch-n-Curl: Designing and Constructing Skeletal Form through 3D Printing Flattened Zipper Assembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Touchscreens in Motion: Quantifying the Impact of Cognitive Load on Distracted Drivers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Unobtrusive Physical AI: Augmenting Everyday Objects with Intelligence and Robotic Movement for Proactive Assistance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transforming Everyday Objects into Dynamic Interfaces using Smart Flat-Foldable Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tweeq: Parameter-Tuning GUI Widgets by/for Creative Professionals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TwinSpin: A Virtual Ball in a VR Controller Enabling In-Hand 3DoF Rotation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Typing Haptically: Towards Enabling Non-auditory Smartphone Text Entry with Haptic Feedback for Blind and Low Vision Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ultra-low-power ring-based wireless tinymouse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UltraEdit: In-Situ Design Environment for Ultrasound Haptization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UltraPoser: Pushing the Limits of IMU-based Full-Body Pose Estimation with Ultrasound Sensing on Consumer Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Users' Perceptions and Expectations toward a Social Balloon Robot via an Exploratory Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understood: Real-Time Communication Support for Adults with ADHD Using Mixed Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UniKey: Enabling Surface-Based Typing with Commodity Smartwatches via Cross-Modal Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using an Array of Needles to Create Solid Knitted Shapes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vestibular Stimulation Enhances Hand Redirection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Viago: Exploring Visual-Audio Modality Transitions for Social Media Consumption on the Go": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vid2Coach: Transforming How-To Videos into Task Assistants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VideoCraft: A Mixed Reality-empowered Video Generation Workflow with Spatial Layer Editing for Concept Video Creation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VIP-Sim: A User-Centered Approach to Vision Impairment Simulation for Accessible Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ViseGPT: Towards Better Alignment of LLM-generated Data Wrangling Scripts and User Prompts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisMimic: Integrating Motion Chain in Feedback Video Generation for Motor Coaching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisRing: A Display-Extended Smartring for Nano Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Story-Writing: Writing by Manipulating Visual Representations of Stories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ViviClay: Designing and Fabricating Ceramics with Animation Effects on Physical Surfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VR Side-Effects: Memory & Proprioceptive Discrepancies After Leaving Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VRSight: An AI-Driven Scene Description System to Improve Virtual Reality Accessibility for Blind People": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weight-Induced Consumed Endurance (WICE): A Model to Quantify Shoulder Fatigue with Weighted Objects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WORM: Programming Collaborative Robots Through Manual Actions for Craft-Aligned Digital Fabrication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wrist2Finger: Sensing Fingertip Force for Force-Aware Hand Interaction with a Ring-Watch Wearable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

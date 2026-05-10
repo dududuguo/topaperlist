@@ -1,0 +1,1297 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "RTSS",
+  "papers": {
+    "2021": {
+      "42nd IEEE Real-Time Systems Symposium, RTSS 2021, Dortmund, Germany, December 7-10, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Middleware Protocol for Time-Critical Wireless Communication of Large Data Samples": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Multi-Level DPM Approach for Real-Time DAG Tasks in Heterogeneous Processors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Real-Time Virtio-Based Framework for Predictable Inter-VM Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A ROS 2 Response-Time Analysis Exploiting Starvation Freedom and Execution-Time Variance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Addressing Multi-core Timing Interference using Co-Runner Locking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AegisDNN: Dependable and Timely Execution of DNN Tasks with SGX": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AI Meets Real-Time: Addressing Real-World Complexities in Graph Response-Time Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Energy-Hotspot Detection and Elimination in Real-Time Deeply Embedded Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balancing Energy Efficiency and Real-Time Performance in GPU Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Calculating Worst-Case Response Time Bounds for OpenMP Programs with Loop Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Catch Me If You Learn: Real-Time Attack Detection and Mitigation in Learning Enabled CPS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cluster-Based Network Time Synchronization for Resilience with Energy Efficiency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Composite Resource Scheduling for Networked Control Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concurrent Order Dispatch for Instant Delivery with Time-Constrained Actor-Critic Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conditionally Optimal Parallelization of Real-Time DAG Tasks for Global EDF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data-Driven Structured Thermal Modeling for COTS Multi-core Processors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficiently Approximating the Worst-Case Deadline Failure Probability Under EDF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enumeration and Deduction Driven Co-Synthesis of CCSL Specifications using Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Event-Triggered and Time-Triggered Duration Calculus for Model-Free Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extending EDF for Soft Real-Time Scheduling on Unrelated Multiprocessors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Heterogeneous Quasi-Partitioned Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Joint Model and Data Adaptation for Cloud Inference Serving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Keep Fresh: Real-Time Data Retrieval with Speed Adaptation in Mobile Cyber-Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LAG-Based Analysis Techniques for Scheduling Multiprocessor Hard Real-Time Sporadic DAGs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LaLaRAND: Flexible Layer-by-Layer CPU/GPU Scheduling for Real-Time DNN Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monte Carlo Response-Time Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partitioned Scheduling of Recurrent Real-Time Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resilient Mixed-Trust Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Response-Time Analysis and Optimization for Probabilistic Conditional Parallel DAG Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Speculative Execution and Timing Predictability in an Open Source RISC-V Core": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sub-Linear Overhead in Static Schedules for Fault-Tolerant Transmission": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Suspension-Aware Fixed-Priority Schedulability Test with Arbitrary Deadlines and Arrival Curves": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tighter Bounds of Speedup Factor of Partitioned EDF for Constrained-Deadline Sporadic Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-Predictable Acceleration of Deep Neural Networks on FPGA SoC Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TimeWall: Enabling Time Partitioning for Real-Time Multicore+Accelerator Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TORTIS: Retry-Free Software Transactional Memory for Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtually-Federated Scheduling of Parallel Real-Time Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vulnerability of Controller Area Network to Schedule-Based Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Analysis of TSN Time-Aware Shapers using Schedule Abstraction Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Automatically Generated Response-Time Proofs as Evidence of Timeliness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Cloud Computing for Time-Triggered Safety-Critical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Cooling by Core-Idling: Thermal-Aware Thread Scheduling for Mobile Multicore Processors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Enabling Secure Boot for Real-Time Restart-Based Cyber-Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Evaluating Task Dropping Strategies for Overloaded Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Evaluation Framework for Self-Suspending Schedulability Tests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Improving Resilience of Distributed Real-Time Applications via Security and Fault Tolerance Co-Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Models and Tools to Detect Real-Time Scheduling Anomalies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Partial-Order Reduction in Reachability-Based Response-Time Analyses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Reinforcement Learning-Based DAG Scheduling Algorithm in Clustered Many-Core Platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Run-Time pWCET Estimation and Quality Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Worst-Case Response Time of Intersection Management Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "A Theoretical Approach to Determine the Optimal Size of a Thread Pool for Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Utilization-based Test for Non-preemptive Gang Tasks on Multiprocessors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analytical Approximations in Probabilistic Analysis of Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bounding the Response Time of DAG Tasks Using Long Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CAESAR: Coherence-Aided Elective and Seamless Alternative Routing via on-chip FPGA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context-based Latency Guarantees Considering Channel Degradation in 5G Network Slicing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Critical Instant for Probabilistic Timing Guarantees: Refuted and Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demand Layering for Real-Time DNN Inference with Minimized Memory Usage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Timing Guarantee for Non-Preemptive Gang Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EDF-Like Scheduling for Self-Suspending Real-Time Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Edge-RT: OS Support for Controlled Latency in the Multi-Tenant, Real-Time Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling GPU Memory Oversubscription via Transparent Paging to an NVMe SSD": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "End-To-End Timing Analysis in ROS2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Response-Time Bounds of Periodic DAG Tasks under Server-Based Global Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fail-Safe: Securing Cyber-Physical Systems against Hidden Sensor Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixed-Parameter Analysis of Preemptive Uniprocessor Scheduling Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Intuition to Coq: A Case Study in Verified Response-Time Analysis 1 of FIFO Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Future aware Dynamic Thermal Management in CPU-GPU Embedded Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Real-Time Systems Symposium, RTSS 2022, Houston, TX, USA, December 5-8, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Results for Guaranteeing Safety Despite Physical Errors in CPS's": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In-ConcReTeS: Interactive Consistency meets Distributed Real-Time Systems, Again!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jellyfish: Timely Inference Serving for Dynamic Edge Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Job Scheduling with Battery Recharging Constraints: Applications to UAV Flight Planning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Latency-driven Optimization of Switching Pipeline Design in Network Chips": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making Powerful Enemies on NVIDIA GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mixed-Criticality Scheduling of Energy-Harvesting Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-mode on Multi-core: Making the best of both worlds with Omni": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Batching Task Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PolyRhythm: Adaptive Tuning of a Multi-Channel Attack Template for Timing Interference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prophet: Realizing a Predictable Real-time Perception Pipeline for Autonomous Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Scheduling and Analysis of Processing Chains on Multi-threaded Executor in ROS 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Scheduling with Predictions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Response Time Analysis for Prioritized DAG Task with Mutually Exclusive Vertices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Response Time Analysis for Real-Time Global Gang Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RT-MOT: Confidence-Aware Real-Time Scheduling Framework for Multi-Object Tracking Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Task Allocation for Real-time Earth Observation Service with LEO Satellites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Energy-Efficient Real-Time Scheduling of Heterogeneous Multi-GPU Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: A Holistic Approach to WCRT Analysis for Multicore Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Control Skipping Sequence Synthesis to Counter Schedule-based Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Deadline-Constrained Multi-Resource Allocation in Edge-Cloud System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Exploring the Composition of Synchronous Intelligent Intersections": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Generalized Demand-Based Schedulability Test for Dual-Criticality Sporadic Task Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Measuring Security Protection in Real-time Embedded Firmware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Optimal Checkpointing Strategy for Real-time Systems with Both Logical and Timing Correctness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Real-Time On-board Processing for Cloud Detection in FACSAT-2 Multispectral Satellite Imagery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Victim-Aware Scheduling for Robust Operations in Safety-Critical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Worst-Case Time Disparity Analysis of Message Synchronization in ROS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "$\\mathrm{R}^{3}$: On-Device Real-Time Deep Reinforcement Learning for Autonomous Robotics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AgileShard: Turning the Sharded Blockchain into a Real-Time Transaction Processing System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: A DAG Generator with Full Topology Coverage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: Directed Kernel Fuzz Testing on Real-time Linux": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: Evaluating Robustness of Deep Learning-Based Recommendation Systems Against Hardware Errors: A Case Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: Latency-Driven Optimization of Instruction Blocks Orchestration on Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: Real-Time Image Dehazing for Automated Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: Response Time Evaluation of Cross-Domain Communication in CAN-FD and TSN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: Retention-Based Energy-Efficient Scheduling of Arbitrary-Deadline DAG Tasks on Multicore Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: RTLight: Digital Twin-Based Real-Time Federated Traffic Signal Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Industry Paper: Towards Efficient Task Scheduling for AUTOSAR using Parallel Pruning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Catch You if Pay Attention: Temporal Sensor Attack Diagnosis Using Attention Mechanisms for Cyber-Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-Located Parallel Scheduling of Threads to Optimize Cache Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-Optimizing Cache Partitioning and Multi-Core Task Scheduling: Exploit Cache Sensitivity or Not?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CollabVr: Reprojection-Based Edge-Client Collaborative Rendering for Real-Time High-Quality Mobile Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CTA: A Correlation-Tolerant Analysis of the Deadline-Failure Probability of Dependent Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GitFL: Uncertainty-Aware Real-Time Asynchronous Federated Learning Using Version Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Holistically Budgeting Processing Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Real-Time Systems Symposium, RTSS 2023, Taipei, Taiwan, December 5-8, 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Timing-Related Guarantees for Main Memory in Multicore Critical Embedded Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learn-to-Respond: Sequence-Predictive Recovery from Sensor Attacks in Cyber-Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging LLVM's ScalarEvolution for Symbolic Data Cache Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Link Between Real-Time Scheduling and Time-Triggered Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Message from the Program, Track, and General Chairs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimizing AoI of Non-Uniform Multi-Source Real-Time Data Updates: Model Generalization, Analysis and Performance Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modeling and Analysis of Inter-Process Communication Delay in ROS 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing End-to-End Latency of Sporadic Cause-Effect Chains Using Priority Inheritance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Progressive Neural Compression for Adaptive Image Offloading Under Timing Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Flow Scheduling in Industrial 5G New Radio": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RED: A Systematic Real-Time Scheduling Approach for Robotic Environmental Dynamics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resource Virtualization with End-to-End Timing Guarantees for Multi-Hop Multi-Channel Real-Time Wireless Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Tractability for Schedulability Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RT-Blockchain: Achieving Time-Predictable Transactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RT-LM: Uncertainty-Aware Resource Management for Real-Time Inference of Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RTailor: Parameterizing Soft Error Resilience for Mixed-Criticality Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RTISM: Real-Time Inter-VM Communication Based on Shared Memory for Mixed-Criticality Flows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SEAM: An Optimal Message Synchronizer in ROS with Well-Bounded Time Disparity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMG: A System-Level Modality Gating Facility for Fast and Energy-Efficient Multimodal Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soft Real-Time Gang Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stealing Static Slack Via WCRT and Sporadic P-Servers in Deadline-Driven Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What Really is pWCET? A Rigorous Axiomatic Proposal": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Who's Afraid of Butterflies? A Close Examination of the Butterfly Attack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Algorithms for Canvas-Based Attention Scheduling with Resizing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-In-Progress: Could Tensorflow Applications Benefit from a Mixed-Criticality Approach?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Federated and Bundled-Based DAG Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Generating Counter-Examples to Schedulability Using the Schedule Abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Impacts of Critical-Section Granularity When Accessing Shared Resources": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Model Dependability Constrained Differentiable Architecture Search for Safety Critical DNN Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Tight Response-Time Analysis for Periodic Preemptive Tasks Under Global Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Time-Aware Formation Control of Connected and Automated Vehicle Platoon Based on Weighted Graph Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Towards an Autonomous Real-Time Scheduling Framework for Multi-Core Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Towards Real-Time IDS via RNN and Programmable Switches Co-Designed Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Worst-Case Latency Analysis of Message Synchronization in ROS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "A Distribution-Agnostic and Correlation-Aware Analysis of Periodic Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Improved Worst-Case Response Time Analysis for AVB Traffic in Time-Sensitive Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Argus: Real-Time HQ Video Decoding with CPU Coordinating on Consumer Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BOXR: Body and head motion Optimization framework for eXtended Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Burst-MAC: A MAC Protocol for Handling Burst Traffic in LoRa Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coherence-Aided Memory Bandwidth Regulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deadline-Safe Reach-Avoid Control Synthesis for Cyber-Physical Systems with Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Drawing Lines for Measurement-Based Probabilistic Timing Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DuoJoule: Accurate On-Device Deep Reinforcement Learning for Energy and Timeliness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Energy-Efficient Real-Time Job Mapping and Resource Management in Mobile-Edge Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Real-Time Satellite Computing: From Energy and Thermal Perspectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FLEX: Adaptive Task Batch Scheduling with Elastic Fusion in Multi-Modal Multi-View Machine Perception": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FRAP: A Flexible Resource Accessing Protocol for Multiprocessor Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IDK Cascades for Time-Series Input Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Real-Time Systems Symposium, RTSS 2024, York, UK, December 10-13, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In Search of Butterflies: Exceedance Analysis for Real-Time Systems under Transient Overload": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interference-free Operating System: A 6 Years' Experience in Mitigating Cross-Core Interference in Linux": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jigsaw: Taming BEV-centric Perception on Dual-SoC for Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Job-Level Batching for Software-Defined Radio on Multi-Core": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MESC: Re-thinking Algorithmic Priority and/or Criticality Inversions for Heterogeneous MCSs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mixed-Criticality Federated Scheduling for Relaxed-Deadline DAG Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Quantum Assignment for DRR in TSN: A Network Calculus-Based Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partial Context-Sensitive Pointer Integrity for Real-time Embedded Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Per-Bank Bandwidth Regulation of Shared Last-Level Cache for Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Performance Optimization and Stability Guarantees for Multi-tier Real-Time Control Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Priority Optimization for Autonomous Driving Systems to Meet End-to-End Latency Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Response-Time Analysis for Limited-Preemptive Self-Suspending and Event-Driven Delay-Induced Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Response-Time Analysis of a Soft Real-time NVIDIA Holoscan Application": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ROTA-I/O: Hardware/Algorithm Co-design for Real-Time I/O Control with Improved Timing Accuracy and Robustness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RT-BEV: Enhancing Real-Time BEV Perception for Autonomous Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SCENIC: Capability and Scheduling Co-Design for Intelligent Controller on Heterogeneous Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subtask-Level Elastic Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Principled Budget Enforcement in Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Analyzing Worst-Case DDoS Traffic Scrub Effect and Recovery Delay via Attack Vector Combination": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Dynamic Modeling and Real-time Simulation for Performance Analysis of Electric Vehicle Powertrain": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-In-Progress: Energy and Thermal-Aware Scheduling based on HMARL for OpenMP DAG Workloads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Exploring Limited Preemption Approaches for the Phased Execution Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Real-Time Neural Network Inference on a Custom RISC-V Multicore Vector Processor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Response-Time Analysis of Partitioned and Clustered Systems with the Schedule-Abstraction Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Towards Real-time Collaborative 3D Object Detection Systems with Request-free Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Using Interaction Between Vehicles to Reduce Deadline Tardiness from a Route Assignment Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Utilizing Probabilistic Analysis to Fine-Tune Optimal IDK Cascades": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "A Soft-Real-Time Optimal Scheduler for DAG Tasks with Node-Level Self Dependencies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Timing Specification Verification of Interrupt-Driven Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CARTEL: Consensus Adapting Real-Time and Efficient Logging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CF-DETR: Coarse-to-Fine Transformer for Real-Time Object Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoEdge-RAG: Optimizing Hierarchical Scheduling for Retrieval-Augmented LLMs in Collaborative Edge Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Control Synthesis of Cyber-Physical Systems for Real-Time Specifications Through Causation-Guided Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DERCA: DetERministic Cycle-Level Accelerator on Reconfigurable Platforms in DNN-Enabled Real-Time Safety-Critical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Fuzzing-Based Whole-System Timing Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EMR: Removing Multicollinear Event Monitors to Improve Timing Modelling of Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting Burstiness to Improve Multi-Core Interference Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FALCON: FPGA Accelerated Real-Time Intelligent Controller for Autonomous Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster, Exact, More General Response-Time Analysis for NVIDIA Holoscan Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flexibility-Aware Network Resource Partitioning for Multi-State Real-Time Mission-Critical Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Timing Analysis of CQF Interference in TSN: A Network Calculus-Based Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grape: Efficient Spatiotemporal Prediction Services with Stale Sensing Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HCInfer: Hierarchical Coordination for Real-Time Collaborative Inference of LLM on the Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Real-Time Systems Symposium, RTSS 2025, Boston, MA, USA, December 2-5, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jitter Propagation in Task Chains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lemix: Unified Scheduling for Llm Training and Inference on Multi-Gpu Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lyapunov-Based Stability and Delay Bounds for IEEE 802.1Qbv in Imperfectly Synchronized TSN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MEMSCOPE: Open-Source Kernel-Level Framework for Heterogeneous Memory Characterization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modern Llvm-Based Compiler Autotuning for Wcet Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nova: Real-Time Agentic Vision-Language Model Serving With Adaptive Cross-Stage Parallelization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Synthesis of Timed Regular Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Scalability and Efficiency of Intra-Process Communication in Ros 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partitioning Kernel With Capability Controlled Temporal and Spatial Partitioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predictable and Secure System Auditing for Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predictable Real-Time Video Latency Control with Frame-Level Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Priority-Aware Attention Meets Generative Flow Networks for Global Fixed-Priority Assignment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Response-Time-Aware Search for Transient Astrophysical Phenomena": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Multitasking of Deep Neural Networks With Nvidia Tensorrt": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Service Subscription and Adaptive Offloading Control in Vehicular Edge Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recursive Partitioned Scheduling for Real-Time Gang Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing Worst-Case Deadline Failure Probability for EDF Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Requirement-Based Analysis of Self-Suspending Tasks under EDF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Response Time Analysis for Probabilistic Dag Tasks in Multicore Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ros ${ }^{\\text {RT }}$: Enabling Flexible Scheduling in Ros 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stability-Guaranteed Scheduling for Mesh Networked Control Systems with Fine-Grained Timing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Cache Contention Analysis for WCET Estimation on Multicore Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Timely Classification of Hierarchical Classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TSI: A Time-Semantic Instruction Set for Deterministic Data-Flow Execution in Real-Time Embedded Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Watwaos: A Framework for Worst-Case-Aware Tailoring and Whole-System Analysis of Energy-Constrained Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WCDFP Analysis for Real-Time Tasks with Stochastic Release Patterns using Chernoff Bound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: A First Practical Look at Arm's MPAM for Real-Time Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: A Practical Linux Framework for Weakly-Hard Tasks with Constant Bandwidth Server": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: A Timing-Anomaly Free Dynamic Scheduling on Heterogeneous Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: A WCET Estimation Model of Programs on Real-Time GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: An Open-Source Evaluation Framework for Time-Sensitive Networking Scheduling Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Enabling Transparent Priority Scheduling for NVIDIA GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Function-as-Subtask API Replacing Publish/Subscribe for OS-Native DAG Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Learning to Refine Priority Assignment in Fixed-Priority Real-Time Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: LEETMIC: Reinforcement Learning-Based Energy-Efficient Task Scheduling in Multicore Cyber-Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-In-Progress: Modeling and Analysis of Inference Latency on Usb Edge Tpus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Optimizing IDK Cascades Skip Decisions Utilizing Random Forest Predictions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Real-Time Deep Neural Inference on Resource-Constrained Edge Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Time-Aware Regional Coverage Search Using UGV-UAV Cluster Based on an Improved PPO Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Toward Real-Time Cross-ISA Execution on the AMD Embedded+ Architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work-in-Progress: Vulnerability of TSN TAS with Frame Preemption to Schedule-Based Attack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,3689 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "CRYPTO",
+  "papers": {
+    "2021": {
+      "A Black-Box Approach to Post-Quantum Zero-Knowledge in Constant Rounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Compressed Sigma-Protocol Theory for Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Logarithmic Lower Bound for Oblivious RAM (for all parameters)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New Simple Technique to Bootstrap Various Lattice Zero-Knowledge Proofs to QROM Secure NIZKs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Rational Protocol Treatment of 51% Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Extractors and their Application to Leakage Resilient Secret Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Algebraic Framework for Universal and Updatable SNARKs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asymptotically-Good Arithmetic Secret Sharing over Z/p^{\\ell}Z with Strong Multiplication and Its Applications to Efficient MPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ATLAS: Efficient and Scalable MPC in the Honest Majority Setting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Authenticated Key Exchange and Signatures with Tight Security in the Standard Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Broadcast Encryption with Size N^{1/3} and More from k-Lin": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Broadcast-Optimal Two Round MPC with an Honest Majority": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compact Ring Signatures from Learning With Errors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Composition with Knowledge Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compressing Proofs of k-Out-Of-n Partial Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Hardness of Optimal Fair Computation: Beyond Minicrypt": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constructing Locally Leakage-resilient Linear Secret-sharing Schemes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counterexamples to Circular Security-Based iO": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of Full LowMC and LowMC-M with Algebraic Techniques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deniable Fully Homomorphic Encryption from Learning With Errors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differential-Linear Cryptanalysis from an Algebraic Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Does Fiat-Shamir Require a Cryptographic Hash Function?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DualRing: Generic Construction of Ring Signatures with Efficient Instantiations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Information-Theoretic Multi-Party Computation over Non-Commutative Rings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Key Recovery for all HFE Signature Variants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-grained Secure Attribute-based Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fluid MPC: Secure Multiparty Computation with Dynamic Participants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Functional Encryption for Turing Machines with Dynamic Bounded Collusion from LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Game-Theoretic Fairness Meets Multi-Party Protocols: The Case of Leader Election": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Halo Infinite: Proof-Carrying Data from Additive Polynomial Commitments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hidden Cosets and Applications to Unclonable Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Meet Ternary LWE Keys": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impossibility of Quantum Virtual Black-Box Obfuscation of Classical Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Computational Extractors and their Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved torsion-point attacks on SIDH variants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KHAPE: Asymmetric PAKE from Key-Hiding Key Exchange": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large Message Homomorphic Secret Sharing from DCR and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice Reduction with Approximate Enumeration Oracles: Practical Algorithms and Concrete Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Limits on the Adaptive Security of Yao’s Garbling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear Cryptanalysis of FF3-1 and FEA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-Complexity Weak Pseudorandom Functions in AC0[MOD2]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower bounds on lattice sieving and information set decoding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mac'n'Cheese: Zero-Knowledge Proofs for Boolean and Arithmetic Circuits with Nested Disjunctions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Meet-in-the-Middle Attacks Revisited: Key-recovery, Collision, and Preimage Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MHz2k: MPC from HE over $\\mathbb{Z}_{2^k}$ with New Packing, Simpler Reshare, and Better ZKP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoSS: Modular Security Specifications Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MPC-Friendly Symmetric Cryptography from Alternating Moduli: Candidates, Protocols, and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Input Quadratic Functional Encryption from Pairings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-theorem Designated-Verifier NIZK for QMA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MuSig2: Simple Two-Round Schnorr Multi-Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Approaches for Quantum Copy-Protection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "No Time to Hash:On Super-Efficient Entropy Accumulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Interactive Batch Arguments for NP from Standard Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Interactive Secure Multiparty Computation for Symmetric Functions, Revisited: More Efficient Constructions and Extensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Malleable Codes for Bounded Parallel-Time Tampering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oblivious Key-Value Stores and Amplification for Private Set Intersection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oblivious RAM with Worst-Case Logarithmic Overhead": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Concurrent Composition of Quantum Zero-Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Possibility of Basing Cryptography on $\\EXP \\neq \\BPP$": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Round Complexity of Black-Box Secure MPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Round Complexity of Secure Quantum Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Tight Quantum Security of HMAC and NMAC in the Quantum Random Oracle Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One-Way Functions Imply Secure Computation in a Quantum World": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proof-Carrying Data without Succinct Arguments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provable Security Analysis of FIDO2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Puncturable Pseudorandom Sets and Private Information Retrieval with Near-Optimal Online Bandwidth and Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pushing the Limits of Valiant's Universal Circuits: Simpler, Tighter and More Compact": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quadratic Secret Sharing and Conditional Disclosure of Secrets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Collision Attacks on Reduced SHA-256 and SHA-512": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Receiver-Anonymity in Reradomizable RCCA-Secure Cryptosystems Resolved": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting the Security of DbHtS MACs: Beyond-Birthday-Bound in the Multi-User Setting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Computation from One-Way Noisy Communication, or: Anti-Correlation via Anti-Concentration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Wire Shuffling in the Probing Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separating Adaptive Streaming from Oblivious Streaming using the Bounded Storage Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Silver: Silent VOLE and Oblivious Transfer from Hardness of Decoding Structured LDPC Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMILE: Set Membership from Ideal Lattices with Applications to Ring Signatures and Confidential Transactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smoothing Out Binary Linear Codes and Worst-case Sub-exponential Hardness for LPN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SSE and SSD: Page-Efficient Searchable Symmetric Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sublinear GMW-Style Compiler for MPC with Preprocessing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subquadratic SNARGs in the Random Oracle Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subtractive Sets over Cyclotomic Rings: Limits of Schnorr-like Arguments over Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sumcheck Arguments and their Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Targeted Lossy Functions and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The $t$-wise Independence of Substitution-Permutation Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Cost to Break SIKE: A Comparative Hardware-Based Analysis with AES and SHA-3": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thinking Outside the Superbox": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Three Halves Make a Whole? Beating the Half-Gates Lower Bound for Garbled Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Three-Round Secure Multiparty Computation from Black-Box Two-Round Oblivious Transfer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Threshold Schnorr with Stateless Deterministic Signing from Standard Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight State-Restoration Soundness in the Algebraic Group Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tighter Security for Schnorr Identification and Signatures: A High-Moment Forking Lemma for ${\\Sigma}$-Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time- and Space-Efficient Arguments from Groups of Unknown Order": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Unified Approach to Black-Box Constructions of Zero-Knowledge Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards faster polynomial-time lattice reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Tight Random Probing Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Traceable Secret Sharing and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Round Trip Schnorr Multi-Signatures via Delinearized Witnesses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unconditional Communication-Efficient MPC via Hall's Marriage Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Upslices, Downslices, and Secret-Sharing with Complexity of $1.5^n$": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "White Box Traitor Tracing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Witness Authenticating NIZKs and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You Only Speak Once: Secure MPC with Stateless Ephemeral Roles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "(Nondeterministic) Hardness vs. Non-Malleability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A More Complete Analysis of the Signal Double Ratchet Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New Approach to Efficient Non-Malleable Zero-Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New Framework For More Efficient Round-Optimal Lattice-Based (Partially) Blind Signature via Trapdoor Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating the Delfs-Galbraith algorithm with fast subfield root detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Algebraic Framework for Silent Preprocessing with Trustless Setup and Active Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Random Oracles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Authenticated garbling from simple correlations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Batch Arguments for NP and More from Standard Bilinear Group Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Better than Advertised Security for Non-Interactive Threshold Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Csiszár-Korner Bound: Best-Possible Wiretap Coding via Obfuscation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Block-Cipher-Based Tree Hashing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking Rainbow Takes a Weekend on a Laptop": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Candidate Witness Encryption from Lattice Techniques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Certified Everlasting Zero-Knowledge Proof for QMA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CHIP and CRISP: Protecting All Parties Against Compromise through Identity-Binding PAKEs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collision-Resistance from Multi-Collision-Resistance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constructing and Deconstructing Intentional Weaknesses in Symmetric Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constructive Post-Quantum Reductions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correlated Pseudorandomness from Expand-Accumulate Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptography from Pseudorandom Quantum States": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differential Cryptanalysis in the Fixed-Key Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Local Searchable Symmetric Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient NIZKs and Signatures from Commit-and-Open Protocols in the QROM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Sounder Succinct Arguments and IOPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Verification of Saber’s Public-Key Encryption Scheme in EasyCrypt": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formalizing Delayed Adaptive Corruptions and the Security of Flooding Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gossiping for Communication-Efficient Broadcast": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Implicit White-Box Implementations: White-Boxing ARX Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Support-Minors rank attacks: applications to GeMSS and Rainbow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice-Based SNARKs: Publicly Verifiable, Preprocessing, and Recursively Composable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice-Based Zero-Knowledge Proofs and Applications: Shorter, Simpler, and More General": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Le Mans: Dynamic and Fluid MPC for Dishonest Majority": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locally Verifiable Signature and Key Aggregation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "log∗-Round Game-Theoretically-Fair Leader Election": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low Communication Complexity Protocols, Collision Resistant Hash Functions and Secret Key-Agreement Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower Bound on SNARGs in the Random Oracle Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maliciously Secure Massively Parallel Computation for All-but-One Corruptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Efficient Dishonest Majority Secure Computation over $\\mathbb{Z}_{2^k}$ via Galois Rings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Moz$\\mathbb{Z}_{2^k}$zarella: Efficient Vector-OLE and Zero-Knowledge Proofs Over $\\mathbb{Z}_{2^k}$": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Input Attribute Based Encryption and Predicate Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multimodal Private Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MuSig-L: Lattice-Based Multi-Signature With Single-Round Online Phase": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Optimal Property Preserving Hashing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Constructions of Collapsing Hashes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nova: Recursive Zero-Knowledge Arguments from Folding Schemes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oblivious Message Retrieval": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ofelimos: Combinatorial Optimization via Proof-of-Useful-Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Codes and Learning with Errors over Function Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Feasibility of Unclonable Encryption and, More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Impossibility of Key Agreements from Quantum Random Oracles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Insider Security of MLS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Time-Space Tradeoffs for Bounded-Length Collisions in Merkle-Damgård Hashing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Orion: Zero Knowledge Proof with Linear Prover Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Overloading the Nonce: Rugged PRPs, Nonce-Set AEAD, and Order-Resilient Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel Repetition of $(k_1,\\dots,k_{\\mu})$-Special-Sound Multi-Round Interactive Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partial Key Exposure Attacks on BIKE, Rainbow and NTRU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Password-Authenticated Key Exchange from Group Actions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PI-Cut-Choo and Friends: Compact Blind Signatures via Parallel Instance Cut-and-Choose and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Post-Quantum Simulatable Extraction with Minimal Assumptions: Black-Box and Constant-Round": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Statistically-Sound Proofs of Exponentiation in any Group": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Sublinear Proofs for R1CS from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programmable Distributed Point Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provably Secure Reflection Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Public Randomness Extraction with Ephemeral Roles and Worst-Case Corruptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Public-Coin 3-Round Zero-Knowledge from Learning with Errors and Keyless Multi-Collision-Resistant Hash": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Public-Key Watermarking Schemes for Pseudorandom Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quadratic Multiparty Randomized Encodings Beyond Honest Majority and Their Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Commitments and Signatures without One-Way Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rotational Differential-Linear Distinguishers of ARX Ciphers with Arbitrary Output Linear Masks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secret Can Be Public: Low-Memory AEAD Mode for High-Order Masking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Securing Approximate Homomorphic Encryption using Differential Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semi-Quantum Tokenized Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sharing Transformation and Dishonest Majority MPC with Packed Secret Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Short Leakage Resilient and Non-malleable Secret Sharing Schemes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shorter Hash-and-Sign Lattice-Based Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simon's Algorithm and Symmetric Crypto: Generalizations and Automatized Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simplified MITM Modeling for Permutations: New (Quantum) Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snapshot-Oblivious RAMs: Sub-Logarithmic Efficiency for Short Transcripts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SoftSpokenOT: Quieter OT Extension From Small-Field Silent VOLE in the Minicrypt Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Some Easy Instances of Ideal-SVP and Implications to the Partial Vandermonde Knapsack Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statistically Sender-Private OT From LPN and Derandomization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structure-Aware Private Set Intersection, With Applications to Fuzzy Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Succinct Classical Verification of Quantum Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Succinct Interactive Oracle Proofs: Applications and Limitations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Superposition Meet-in-the-Middle Attacks: Updates on Fundamental Security of AES-like Hashing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sustained Space and Cumulative Complexity Trade-offs for Data-Dependent Memory-Hard Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Syndrome Decoding in the Head: Shorter Signatures from Zero-Knowledge Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Gap Is Sensitive to Size of Preimages: Collapsing Property Doesn't Go Beyond Quantum Collision-Resistance for Preimages Bounded Hash Functions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Threshold Signatures with Private Accountability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Bounds on the Randomness Complexity of Secure Multiparty Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Preimage Resistance of the Sponge Construction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-Space Lower Bounds for Finding Collisions in Merkle-Damgard Hash Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-Space Tradeoffs for Sponge Hashing: Attacks and Limitations for Short Collisions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "To Label, or Not To Label (in Generic Groups)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Triangulating Rebound Attack on AES-like Hashing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Round MPC without Round Collapsing Revisited -- Towards Efficient Malicious Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universally Composable End-to-End Secure Messaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifiable Relation Sharing and Multi-Verifier Zero-Knowledge in Two Rounds: Trading NIZKs with Honest Majority": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "A Detailed Analysis of Fiat-Shamir with Aborts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Practical Anonymous Credentials from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Statistically Sender Private OT with Optimal Rate": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lower Bound for Proving Hardness of Learning with Rounding with Polynomial Modulus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Note on Non-Interactive Zero-Knowledge from CDH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating HE Operations from Key Decomposition Technique": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Additive Randomized Encodings and Their Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Reductions of Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost Tight Multi-User Security under Adaptive Corruptions from LWE in the Standard Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analysis of the security of the PSSI problem and cryptanalysis of the Durandal signature scheme": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anamorphic Signatures: Secrecy From a Dictator Who Only Permits Authentication!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anonymous Tokens with Stronger Metadata Bit Hiding from Algebraic MACs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Arithmetic Sketching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attribute-Based Multi-Input FE (and more) for Attribute-Weighted Sums": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Best of Both Worlds: Revisiting the Spymasters Double Agent Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bingo: Adaptivity and Asynchrony in Verifiable Secret Sharing and Distributed Key Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Black-Hole Radiation Decoding is Quantum Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brakedown: Linear-time and field-agnostic SNARKs for R1CS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cloning Games: A General Framework for Unclonable Primitives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coefficient Grouping for Complex Affine Layers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combined Fault and Leakage Resilience: Composability, Constructions and Compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compact Lattice Gadget and Its Applications to Hash-and-Sign Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Completeness Theorems for Adaptively Secure Broadcast": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Wiretap Coding from Indistinguishability Obfuscation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constant Input Attribute Based (and Predicate) Encryption from Evasive and Tensor LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correlated Pseudorandomness from the Hardness of Quasi-Abelian Decoding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correlation Intractability and SNARGs from Sub-exponential DDH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of Symmetric Primitives over Rings and a Key Recovery Attack on Rubato": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptography with Certified Deletion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptography with Weights: MPC, Encryption and Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CSI-Otter: Isogeny-based (Partially) Blind Signatures from the Class Group Action with a Twist": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cuckoo Hashing in Cryptography: Optimal Parameters, Robustness and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differential Meet-In-The-Middle Cryptanalysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Does the Dual-Sieve Attack on Learning with Errors even Work?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DualMS: Efficient Lattice-Based Two-Round Multi-Signature with Trapdoor-Free Simulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Hybrid Exact/Relaxed Lattice Proofs and Applications to Rounding and VRFs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Error Correction and Ciphertext Quantization in Lattice Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Expand-Convolute Codes for Pseudorandom Correlation Generators from LPN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Decryption Failures of BIKE: New Class of Weak Keys and Key Recovery Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extractors: Low Entropy Requirements Colliding With Non-Malleability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Blind Rotation for Bootstrapping FHEs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Practical Lattice Reduction through Iterated Compression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding short integer solutions when the modulus is small": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixing and Mechanizing the Security Proof of Fiat-Shamir with Aborts and Dilithium": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fork-Resilient Continuous Group Key Agreement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Adaptive Schnorr Threshold Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graph-Theoretic Algorithms for the Alternating Trilinear Form Equivalence Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HERMES: Efficient Ring Packing using MLWE Ciphertexts and Application to Transciphering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Horst Meets Fluid-SPN: Griffin for Zero-Knowledge Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Recover a Secret with O(n) Additions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Use (Plain) Witness Encryption: Registered ABE, Flexible Broadcast, and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Multi-User Security Using the Squared-Ratio Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Individual Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LaBRADOR: Compact Proofs for R1CS from Module-SIS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice Signature with Efficient Protocols, Application to Anonymous Credentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice-based Authenticated Key Exchange with Tight Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice-Based Succinct Arguments for NP with Polylogarithmic-Time Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice-based Succinct Arguments from Vanishing Polynomials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice-Based Timed Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Layout Graphs, Random Walks and the $t$-wise Independence of SPN Block Ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning With Physical Rounding for Linear and Quadratic Leakage Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Limits of Breach-Resistant and Snapshot-Oblivious RAMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "List Oblivious Transfer and Applications to Round-Optimal Black-Box Multiparty Coin Tossing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Machine-Checked Security for XMSS as in RFC 8391 and SPHINCS+": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MacORAMa: Optimal Oblivious RAM with Integrity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Malicious Secure, Structure-Aware Private Set Intersection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Moving a Step of ChaCha in Syncopated Rhythm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Party Homomorphic Secret Sharing and Sublinear MPC from Sparse LPN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network-Agnostic Security Comes (Almost) for Free in DKG and MPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Bounds on the Local Leakage Resilience of Shamir's Secret Sharing Scheme": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Design Techniques for Efficient Arithmetization-Oriented Hash Functions: Anemoi Permutations and Jive Compression Mode": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-interactive Universal Arguments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Interactive Zero-Knowledge from Non-Interactive Batch Arguments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Active Attack Detection in Messaging with Immediate Decryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Concurrent Multi-Party Quantum Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Linear Communication Complexity for (Maximally) Fluid MPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Optimal Tightness for Key Exchange with Full Forward Secrecy via Key Confirmation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Perfect Linear Approximations and Differentials over Two-Round SPNs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Impossibility of Algebraic NIZK In Pairing-Free Groups": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Security of Keyed Hashing Based on Public Permutations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One-Message Secure Reductions: On the Cost of Converting Correlations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One-way Functions and the Hardness of (Probabilistic) Time-Bounded Kolmogorov Complexity w.r.t. Samplable Distributions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Orbweaver: Succinct Linear Functional Commitments from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PAC Privacy: Automatic Privacy Measurement and Control of Data Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perfect MPC over Layered Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Schnorr Threshold Signatures Without the Algebraic Group Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Settlement Bounds for Longest-Chain Consensus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical-Time Related-Key Attack on GOST with Secret S-boxes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prouﬀ & Rivain’s Formal Security Proof of Masking, Revisited: Tight Bounds in the Noisy Leakage Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Publicly Verifiable Zero-Knowledge and Post-Quantum Signatures From VOLE-in-the-Head": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Publicly-Verifiable Deletion via Target-Collapsing Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Linear Key-recovery Attacks Using the QFT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Random Oracle Combiners: Breaking the Concatenation Barrier for Collision-Resistance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reductions from module lattices to free module lattices, and application to dequantizing module-LLL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reusable Secure Computation in the Plain Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting cycles of pairing-friendly elliptic curves": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Security Estimation for LWE with Hints from a Geometric Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting the Constant-sum Winternitz One-time Signature with Applications to SPHINCS+ and XMSS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting the Indifferentiability of the Sum of Permutations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Time-Space Tradeoffs for Function Inversion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Round-Optimal Black-Box MPC in the Plain Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Computation with Shared EPR Pairs (Or: How to Teleport in Zero-Knowledge)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Multiparty Computation from Threshold Encryption based on Class Groups": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Security Analysis of the WhatsApp End-to-End Encrypted Backup Protocol": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Security-Preserving Distributed Samplers: How to Generate any CRS in One Round without Random Oracles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simple Tests of Quantumness Also Certify Qubits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SNARGs for Monotone Policy Batch NP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snowblind: A Threshold Blind Signature in Pairing-Free Groups": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming Functional Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Succinct Arguments for RAM Programs via Projection Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Power of Undirected Rewindings for Adaptive Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Pseudorandom Oracle Model and Ideal Obfuscation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Query-Complexity of Preprocessing Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tighter QCCA-Secure Key Encapsulation Mechanism with Explicit Rejection in the Quantum Random Oracle Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Practical Lattice-based Proof of Knowledge from Hint-MLWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tracing Quantum State Distinguishers via Backtracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TreePIR: Sublinear-Time and Polylog-Bandwidth Private Information Retrieval from DDH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tri-State Circuits: A Better Model of Computation for Garbling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Twin Column Parity Mixers and Gaston": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Round Stateless Deterministic Two-Party Schnorr Signatures From Pseudorandom Correlation Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unifying Freedom and Separation for Tight Probing-Secure Composition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Amplification of KDM Security: From 1-Key Circular to Multi-Key KDM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weak instances of class group action based cryptography via self-pairings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Messages are Keys: Is HMAC a dual-PRF?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "$k$-SUM in the Sparse Regime: Complexity and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "10-Party Sublinear Secure Computation from Standard Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Formal Treatment of End-to-End Encrypted Cloud Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Modular Approach to Registered ABE for Unbounded Predicates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Modular Approach to Unclonable Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Systematic Study of Sparse LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating SLH-DSA by Two Orders of Magnitude with a Single Hash Unit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accountability in Threshold Decryption via Threshold Traitor Tracing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Security in SNARGs via iO and Lossy Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptively Secure 5 Round Threshold Signatures from MLWE/MSIS and DL with Rewinding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptively Secure BLS Threshold Signatures from DDH and co-CDH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptively Sound Zero Knowledge SNARKs for UP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aggregating Falcon Signatures With LaBRADOR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Structure of the Iterates of $\\chi$": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Amplification of Non-Interactive Zero Knowledge, Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attribute Based Encryption for Turing Machines from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bare PAKE: Universally Composable Key Exchange from just Passwords": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BaseFold: Efficient Field-Agnostic Polynomial Commitment Schemes from Foldable Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Black-Box (and Fast) Non-Malleable Zero Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CDS Composition of Multi-Round Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Certifying Private Probabilistic Mechanisms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cheater Identification on a Budget: MPC with Identifiable Abort from Pairwise MACs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Circuit ABE with poly(depth, λ)-sized Ciphertexts and Keys from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collision Resistance from Multi-Collision Resistance for all Constant Parameters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compact Key Storage: A Modern Approach to Key Backup and Delegation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compressing Unit-Vector Correlations via Sparse Pseudorandom Generators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computation Efficient Structure-Aware PSI From Incremental Function Secret Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concretely Efficient Lattice-based Polynomial Commitment from Standard Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constant-Round Arguments for Batch-Verification and Bounded-Space Computations from One-Way Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of Algebraic Verifiable Delay Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of Lattice-Based Sequentiality Assumptions and Proofs of Sequential Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CryptAttackTester: high-assurance attack analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Doubly Efficient Cryptography: Commitments, Arguments and RAM MPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feistel-like Structures Revisited: Classification and Cryptanalysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Field-Agnostic SNARKs from Expand-Accumulate Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-Grained Non-Interactive Key Exchange, Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-Grained Non-Interactive Key-Exchange without Idealized Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flood and submerse: Verifiable short secret sharing and application to robust threshold signatures on lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Security Proofs via Doeblin Coefficients: Optimal Side-channel Factorization from Noisy Leakage to Random Probing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formally Verifying Kyber Episode V: Machine-checked IND-CCA security and correctness of ML-KEM in EasyCrypt": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FRIDA: Data Availability Sampling from FRI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FuLeakage: Breaking FuLeeca by Learning Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Malicious Authenticated PIR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Secure MPC and zk-FLIOP Over Rings: New Constructions, Improvements and Extensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully-Succinct Multi-Key Homomorphic Signatures from Standard Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Game-Theoretically Fair Distributed Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generic and Algebraic Computation Models: When AGM Proofs Transfer to the GGM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generic MitM Attack Frameworks on Sponge Constructions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Greyhound: Fast Polynomial Commitments from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HAWKEYE – Recovering Symmetric Cryptography From Hardware Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hintless Single-Server Private Information Retrieval": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How (not) to Build Quantum PKE in Minicrypt": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Construct Quantum FHE, Generically": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Prove Statements Obliviously?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HyperNova: Recursive arguments for customizable constraint systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved algorithms for finding fixed-degree isogenies between supersingular elliptic curves": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Alternating-Moduli PRFs and Post-Quantum Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Reductions from Noisy to Bounded and Probing Leakages via Hockey-Stick Divergences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Generic Attacks Using Exceptional Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Information-theoretic security with asymmetries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Is ML-Based Cryptanalysis Inherently Limited? Simulating Cryptographic Adversaries via Gradient-Based Methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Laconic Function Evaluation and ABE for RAMs from (Ring-)LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LATKE: A Framework for Constructing Identity-Binding PAKEs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leakage Certification Made Simple": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Limits of Black-Box Anamorphic Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Limits on the Power of Prime-Order Groups: Separating Q-Type from Static Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear-Communication Asynchronous Complete Secret Sharing with Optimal Resilience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Loquat: A SNARK-Friendly Post-Quantum Signature based on the Legendre PRF with Applications in Ring and Aggregate Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lossy Cryptography from Code-Based Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Malicious Security for SCALES: Outsourced Computation with Ephemeral Servers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mangrove: A Scalable Framework for Folding-based SNARKs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Memory-Sample Lower Bounds for LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Efficient Zero-Knowledge Protocols over $\\mathbb{Z}_{2^k}$ via Galois Rings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MPC for Tech Giants (GMPC): Enabling Gulliver and the Lilliputians to Cooperate Amicably": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MPC in the head using the subfield bilinear collision problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Approaches for Estimating the Bias of Differential-Linear Distinguishers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Interactive Zero-Knowledge from LPN and MQ": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Not Just Regular Decoding: Asymptotics and Improvements of Regular Syndrome Decoding Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oblivious issuance of proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Central Primitives for Quantum Cryptography with Classical Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On cycles of pairing-friendly abelian varieties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On round elimination for special-sound multi-round identification and the generality of the hypercube for MPCitH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Sequential Functions and Fine-Grained Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the (In)Security of the BUFF Transform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the practical CPAD security of \"exact\" and threshold FHE schemes and libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pairing-Free Blind Signatures from CDH Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pairing-Free Blind Signatures from Standard Assumptions in the ROM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PIR with Client-Side Preprocessing: Information-Theoretic Constructions and Lower Bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plaintext-Ciphertext Matrix Multiplication and FHE Bootstrapping: Fast and Fused": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polymath: Groth16 Is Not The Limit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial Commitments from Lattices: Post-Quantum Security, Fast Verification and Transparent Setup": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polytopes in the Fiat-Shamir with Aborts Paradigm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-Preserving Dijkstra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Linearization: Internal Differential Collisions in up to 6 Rounds of SHA-3": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provable security against decryption failure attacks from LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pseudorandom Error-Correcting Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Public-Key Anamorphism in (CCA-secure) Public-Key Encryption and Beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QFESTA: Efficient Algorithms and Parameters for FESTA using Quaternion Algebras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Advantage from One-Way Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Complexity for Discrete Logarithms and Related Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Lattice Enumeration in Limited Depth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum One-Wayness of the Single-Round Sponge with Invertible Permutations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Public-Key Encryption with Tamper-Resilient Public Keys from One-Way Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Raccoon: A Masking-Friendly Signature Proven in the Probing Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Radical Vélu Isogeny Formulae": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing the CRS Size in Registered ABE Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resettable Statistical Zero-Knowledge for NP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reusable Online-Efficient Commitments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Differential-Linear Attacks via a Boomerang Perspective With Application to AES, Ascon, CLEFIA, SKINNY, PRESENT, KNOT, TWINE, WARP, LBlock, Simeck and SERPENT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ring Signatures for Deniable AKEM: Gandalf's Fellowship": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Additive Randomized Encodings from IO and Pseudo Non-Linear Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Quantum Public-Key Encryption with Applications to Quantum Key Distribution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Round-Optimal Fully Secure Distributed Key Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable Multiparty Computation from Non-linear Secret Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secret Sharing with Certified Deletion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Multiparty Computation with Identifiable Abort from Vindicating Release": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sometimes You Can't Distribute Random Oracle Based Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Space-Efficient and Noise-Robust Quantum Factoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Speeding up Preimage and Key-Recovery Attacks with Highly Biased Differential-Linear Approximations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "STIR: Reed–Solomon Proximity Testing with Fewer Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stochastic Secret Sharing with 1-Bit Shares and Applications to MPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structural Lower Bounds on Black-Box Constructions of Pseudorandom Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Succinctly-Committing Authenticated Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "That’s not my signature! Fail-stop signatures for a post-quantum world": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Algebraic Freelunch: Efficient Gröbner Basis Attacks Against Arithmetization-Oriented Primitives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Committing Security of MACs with Applications to Generic Composition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The One-Wayness of Jacobi Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Threshold Encryption with Silent Setup": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Characterizations for Preprocessing against Cryptographic Salting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-Lock Puzzles from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-memory Trade-offs Sound the Death Knell for GPRS and GSM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Achieving Asynchronous MPC with Linear Communication and Optimal Resilience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Breaking the Half-barrier of Local Leakage-resilient Shamir's Secret Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Permissionless Consensus in the Standard Model via Fine-Grained Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Traceable Secret Sharing: Strong Security and Efficient Constructions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Round Threshold Signature from Algebraic One-More Learning with Errors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unconditionally Secure Commitments with Quantum Auxiliary Inputs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unconditionally secure quantum commitments with preprocessing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Composable Transaction Serialization with Order Fairness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zero-knowledge IOPs Approaching Witness Length": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "(Inefficient Prover) ZAPs from Hard-to-Invert Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "(Un)breakable curses - re-encryption in the Fujisaki-Okamoto transform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Generic Approach to Adaptively-Secure Broadcast Encryption in the Plain Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Generic Framework for Side-Channel Attacks against LWE-based Cryptosystems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Meta-complexity Characterization of Quantum Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New World in the Depths of Microcrypt: Separating OWSGs and Quantum Money from QEFID": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A reduction from Hawk to the principal ideal problem in a quaternion algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Simple Framework for Secure Key Leasing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost Optimal KP and CP-ABE for Circuits from Succinct LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analysis of the Telegram Key Exchange": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analyzing Group Chat Encryption in MLS, Session, Signal, and Matrix": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anamorphism Beyond One-To-One Messaging: Public-Key with Anamorphic Broadcast Mode": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asymptotically Optimal Early Termination for Dishonest Majority Broadcast": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Binary Codes for Error Detection and Correction in a Computationally Bounded World": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BitGC: Garbled Circuits with 1 Bit per Gate": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Black Box Crypto is Useless for Doubly Efficient PIR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Black-Box Constant-Round Secure 2PC with Succinct Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Black-Box Non-Interactive Zero Knowledge from Vector Trapdoor Hash": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Blaze: Fast SNARKs from Interleaved RAA Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking the 1/λ-Rate Barrier for Arithmetic Garbling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChiLow and ChiChi: New Constructions for Code Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Outputs of a Random Permutation: New Constructions and Tight Security Bounds by Fourier Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Committing Authenticated Encryption: Generic Transforms with Hash Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing the endomorphism ring of a supersingular elliptic curve from a full rank suborder": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constructing Quantum Implementations with the Minimal T-depth or Minimal Width and Their Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of Full SCARF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cryptanalysis of rank-2 module-LIP: a single real embedding is all it takes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Disincentivize Collusion in Verifiable Secret Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Randomness using Weighted VUFs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do Not Disturb a Sleeping Falcon: Floating-Point Error Sensitivity of the Falcon Sampler and Its Consequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Drifting Towards Better Error Probabilities in Fully Homomorphic Encryption Schemes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Distributed Randomness Generation from Minimal Assumptions where PArties Speak Sequentially Once": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Instances of Docked Double Decker With AES, and Application to Authenticated Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Mixed Garbling from Homomorphic Secret Sharing and GGM-Tree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Multiparty Private Simultaneous Messages for Symmetric Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Pseudorandom Correlation Generators for Any Finite Field": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhanced Trapdoor Hashing from DDH and DCR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exponent-VRFs and Their Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster ABE for Turing Machines from Circular Evasive LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-Grained Complexity in a World without Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Analysis of Multi-Device Group Messaging in WhatsApp": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Homomorphic Encryption for Cyclotomic Prime Moduli": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generic Anamorphic Encryption, Revisited: New Limitations and Constructions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Glacius: Threshold Schnorr Signatures from DDH with Full Adaptive Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Good Things Come to Those Who Wait: Dishonest-Majority Coin-Flipping Requires Delay Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gröbner Basis Cryptanalysis of Anemoi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Halving differential additions on Kummer lines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hard Quantum Extrapolations in Quantum Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hollow LWE: A New Spin, Unbounded Updatable Encryption from LWE and PCE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Honest Majority MPC with $\\Tilde{O}(|C|)$ Communication in Minicrypt": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hybrid Password Authentication Key Exchange in the UC Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Cryptanalysis of ChaCha: Beating PNBs with Bit Puncturing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Cryptanalysis of SNOVA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "INDIANA - Verifying (Random) Probing Security through Indistinguishability Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Instance Compression, Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Juggernaut: Efficient Crypto-Agnostic Byzantine Agreement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Key Derivation Functions Without a Grain of Salt": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LEAP: A Fast, Lattice-based OPRF with Application to Private Set Intersection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging Small Message Spaces for CCA1 Security in Additively Homomorphic and BGN-type Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-Bandwidth Mixed Arithmetic in VOLE-Based ZK from Low-Degree PRGs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making GCM Great Again: Toward Full Security and Longer Nonces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Malleable SNARKs and Their Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MiniCast: Minimizing the Communication Complexity of Reliable Broadcast": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MPC with Publicly Identifiable Abort from Pseudorandomness and Homomorphic Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Authority Registered Attribute-Based Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-key Homomorphic Secret Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Techniques for Preimage Sampling: Improved NIZKs and More from LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Techniques for Random Probing Security and Application to Raccoon Signature Scheme": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Interactive Blind Signatures from RSA Assumption and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Algebraic Homomorphic Encryption and its Applications to Doubly-Efficient PIR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Quantum Money and Evasive Obfuscation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Reusable Proof Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Adaptive Security of Free-XOR-based Garbling Schemes in the Plain Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Soundness of Algebraic Attacks against Code-based Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Traitor Tracing from Pairings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oracle Separation Between Quantum Commitments and Quantum One-wayness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PAKE Combiners and Efficient Post-Quantum Instantiations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Peeking Into the Future: MPC Resilient to Super-Rushing Adversaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Physical-bit Leakage Resilience of Linear Code-based Secret Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plinko: Single-Server PIR with Efficient Updates via Invertible PRFs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POKÉ: A Compact and Efficient PKE from Higher-dimensional Isogenies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polocolo: A ZK-Friendly Hash Function Based on S-boxes Using Power Residues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial Time Cryptanalytic Extraction of Deep Neural Networks in the Hard-Label Setting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Post-Quantum PKE from Unstructured Noisy Linear Algebraic Assumptions: Beyond LWE and Alekhnovich's LPN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preimage Attacks on up to 5 Rounds of SHA-3 Using Internal Differentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pseudorandom Functions with Weak Programming Privacy and Applications to Private Information Retrieval": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pseudorandomness in the (Inverseless) Haar Random Oracle Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Key Leasing for PKE and FHE with a Classical Lessor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quasi-Linear Indistinguishability Obfuscation via Mathematical Proofs of Equivalence and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Random Oracle Combiners: Merkle-Damgård Style": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Re-Randomize and Extract: A Novel Commitment Construction Framework Based on Group Actions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relaxed Vector Commitment for Shorter Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Round-Optimal Black-Box Multiparty Computation from Polynomial-Time Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secret Sharing with Publicly Verifiable Deletion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SHIP: A Shallow and Highly Parallelizable CKKS Bootstrapping Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simultaneous-Message and Succinct Secure Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Single-Server Client Preprocessing PIR with Tight Space-Time Trade-oﬀ": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Singular points of UOV and VOX": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snake-eye Resistant PKE from LWE for Oblivious Message Retrieval and Robust Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SNARKs for Virtual Machines are Non-Malleable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving Multivariate Coppersmith Problems with Known Moduli": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Somewhat Homomorphic Encryption from Linear Homomorphism and Sparse LPN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stronger Security for Threshold Blind Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Succinct Arguments over Towers of Binary Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Succinct Randomized Encodings from Laconic Function Evaluation, Faster and Simpler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The 2Hash OPRF Framework and Efficient Post-Quantum Instantiations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Complexity of Memory Checking with Covert Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Reversibility on Parallel Pebbling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The power of a single Haar random state: constructing and separating quantum pseudorandomness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The syzygy distinguisher": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tighter Security Notions for a Modular Approach to Private Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TinyLabels: How to Compress Garbled Circuit Input Labels, Efficiently": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Optimally Secure Deterministic Authenticated Encryption Schemes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Triple Ratchet: A Bandwidth Efficient Hybrid-Secure Signal Protocol": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Under What Conditions Is Encrypted Key Exchange Actually Secure?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unique NIZKs and Steganography Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Computational Extractors and Multi-Bit AIPO from Lattice Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifiable random function from the Deuring correspondence and higher dimensional isogenies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weakly Super-Invertible Matrices and Constant Communication Dishonest Majority MPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WHIR: Reed–Solomon Proximity Testing with Super-Fast Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zero-Knowledge RAM: Doubly Efficient and Black-Box": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2026": {
+      "$k$-out-of-$n$ Proofs and Applications to Privacy-Preserving Cryptocurrencies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Closer Look at Falcon": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Gaussian Leftover Hash Lemma for Modules over Number Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Minrank-based Encryption Scheme à la Alekhnovich-Regev": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Modular Approach to Succinct Arguments for QMA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating and verifying constant-time modular inversion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptively Secure Partially Non-Interactive Threshold Schnorr Signatures in the AGM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptively-Secure Three Round Threshold Schnorr from DL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithmic Toolkit for Linearization of S-boxes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Another Look at the Quantum Security of the Vectorization Problem with Shifted Inputs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "At-Compromise Security: The Case for Alert Blindness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attacks on Goldreich's Pseudorandom Generators by Grouping and Solving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Better Bounds for Finding Fixed-Degree Isogenies via Coppersmith’s Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bird of Prey: Practical Signature Combiners Preserving Strong Unforgeability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BitGC Made (More) Efficient": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Client-Server Homomorphic Secret Sharing in the CRS Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collision Attacks on SHA-256 up to 37 Steps with Improved Trail Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collusion-Resistant Quantum Secure Key Leasing Beyond Decryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Oblivious Pseudorandom Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computationally Succinct Authentication from DCR: Attribute-Based Laconic Function Evaluation and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conditionally Input-Revealing 2PC and Fuzzy Password-Authenticated Key Exchange": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cool + Cruel = Dual, and New Benchmarks for Sparse LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Copy-Protection from UPO, Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counter Galois Onion: Fast Non-Malleable Onion Encryption for Tor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Critical Rounds in Multi-Round Proofs: Proof of Partial Knowledge and Trapdoor Commitments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cyclo: Lightweight Lattice-based Folding via Partial Range Checks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deep Neural Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Device-Bound Anonymous Credentials With(out) Trusted Hardware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DGSP: An Efficient Scalable Fully Dynamic Group Signature Scheme Using SPHINCS+": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dimension-Reducing Algorithms for Quaternion Ideal-SVP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Monotone-Policy Encryption for DNFs from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dual-Syncopation Meet-in-the-Middle Attacks: New Results on SHA-2 and MD5": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic zk-SNARKs (with Applications to Sparse zk-SNARKs and IVC)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynark: Making Groth16 Dynamic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Earpicks: Tightly Secure Two-Round Multi- and Threshold Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ETK: External-Operations TreeKEM and the Security of MLS in RFC 9420": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fair Multiparty Coin Tossing from Minimal Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and Efficient Perfectly Secure Network-Agnostic Secure Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Asymmetric Anamorphic Homomorphic Encryption from LWE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully-Adaptive Two-Round Threshold Schnorr Signatures from DDH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Game Theory Does Not Always Help: The Case of Statistical Multi-Party Coin Tossing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Group Key Progression: Strong Security for Shared Persistent Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HERDS: Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-Precision Functional Bootstrapping for CKKS from Fourier Extension": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Build a Short-Input Random Oracle from Public Random Permutations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Copy-Protect Malleable-Puncturable Cryptographic Functionalities Under Arbitrary Challenge Distributions: A Unified Solution to Quantum Protection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Prove Post-Quantum Security for Succinct Non-Interactive Reductions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HQC Beyond the Standard: Ciphertext Compression and Refined DFR Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impossibility of VDFs in the ROM: The Complete Picture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Radix-based Approximate Homomorphic Encryption for Large Integers via Lightweight Bootstrapped Digit Carry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Search-to-Decision Reduction for Random Local Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Information-Theoretic Network-Agnostic MPC with Polynomial Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Is PSI Really Faster Than PSU? Achieving Efficient PSU with Invertible Bloom Filters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jagged Polynomial Commitments (or: How to Stack Multilinears)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Just Guess: Improved (Quantum) Algorithm for the Underdetermined MQ problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Key Attack on the ACDGV Matrix Encryption Scheme": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lattice EPID with Efficient Revocation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leftover Hash Lemma(s) Over Cyclotomic Rings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lie algebras and the security of cryptosystems based on classical varieties in disguise": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Look Ahead! Practical CCA-secure Steganography: Cover-Source Switching meets Lattice Gaussian Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower Bounding Update Frequency in Short Accumulators and Vector Commitments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower Bounds on the Overhead of Indistinguishability Obfuscation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Magic Pot: Cryptanalysis of full AIM2 in the standard and related-/reused-key settings using new elimination framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maintaining Sublinear Locality Over Time: Adaptively Secure MPC on a Reusable Hidden Graph": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Malicious Private Set Union with Two-Sided Output": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Navigating the Deep: End-to-End Extraction on Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Neural-Inspired Advances in Integral Cryptanalysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Techniques for Analyzing Differentials with Application to AES": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Upper and Lower Bounds for Perfectly Secure MPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Interactive Secure Computation with Constant Communication Overhead": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oblivious Ciphertext Compression via Linear Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Succinct Non-Interactive Secure Computation with Malicious Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Communication Complexity of PSM and CDS for Symmetric Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Cryptographic Futility of Non-collapsing Measurements": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Security of Linear Secret Sharing with General Noisy Side-Channel Leakage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OneTwoPAKE: Two-Round Strong Asymmetric PAKE with Ideal Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Good-Case Latency for Sleepy Consensus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Threshold Traitor Tracing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PaCMan – Partition-Code Masking for Combined Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pairwise independence of AES-like block ciphers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel Spooky Pebbling Makes Regev Factoring More Practical": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partial Fraction Techniques for Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perfectly Secure Network-Agnostic MPC Comes for Free": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PERSEUS – Probabilistic Evaluation of Random probing SEcurity Using efficient Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polylogarithmic Proofs for Multilinears over Binary Towers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Post-Quantum TLS 1.3 Handshake from CPA-Secure KEMs with Tighter Reductions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proofs of No Intrusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provable Security and Privacy Analysis of WPA3's SAE and SAE-PK Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Public-Key Encryption from the MinRank Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PUFF: Maximally Proactive Security for Free in Perfectly Secure MPC with Guaranteed Output Delivery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Putting Multi into Multi-Signatures: Tight Security for Multiple Signers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "qt-Pegasis: Simpler and Faster Effective Class Group Actions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Query-Optimal IOPPs for Linear-Time Encodable Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Random-Access AEAD for Fast Lightweight Online Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing the Number of Qubits in Quantum Discrete Logarithms on Elliptic Curves": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "REFHE: Fully homomorphic ALU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resizable Oblivious RAM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Non-Interactive Zero-Knowledge Combiners": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Round-Based Approximation of (Higher-Order) Differential-Linear Correlation -- A Geometric Approach Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Round-Optimal Byzantine Agreement without Trusted Setup": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Cloud Storage: Modularization, Network Adversaries and Adaptive Corruptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Onion Encryption and the Case of Counter Galois Onion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separating Verifiable Delay Functions and Time-Lock Puzzles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Short Signatures from DDH without Pairings or Random Oracles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Silent Threshold Cryptography from Pairings: Expressive Policies in the Plain Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simultaneous-Message and Succinct Secure Computation: Reusable and Multiparty Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Single-Trace Key Recovery Attacks on HQC Using Valid and Invalid Ciphertexts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soloist: Distributed SNARK for R1CS with Constant Proof Size": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving the Shortest Vector Problem in $2^{0.63269n+o(n)}$ time on Random Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Special Soundness and Binding Properties: A Framework for Tightly Secure zk-SNARKs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spectra: Interval-Agnostic Vector Range Argument for Unstructured Range Assertions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SQIsign2DPush: Faster Signature Scheme Using 2-Dimensional Isogenies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Succinct Garbled Circuits with Low Depth Garbling Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sum-check protocol for approximate computations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Super-Quadratic Quantum Speed-ups and Guessing Many Likely Keys": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TalonG: Bandwidth-Efficient Two-Round Threshold Signatures from Lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Algebraic Isogeny Model: A General Model with Applications to SQIsign and Key Exchanges": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Black-Box Simulation Barrier Persists in a Fully Quantum World": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Malice of ELFs: Practical Anamorphic-Resistant Encryption without Random Oracles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Structured Generic-Group Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Threshold Batched Identity-Based Encryption from Pairings in the Plain Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Bounds on Uniform-Challenge Reductions from Sigma Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Quantum Time-Space Tradeoffs for Permutation Inversion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Security for BBS Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Large-Scale Lattice Attack: New Lattice Records by Disk-Based Sieving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Traceable Secret Sharing Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Traceable Secret Sharing Schemes for General Access Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tweed: Adaptively Secure Lattice-Based Two-Round Threshold Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Factor Authentication Can Harden Servers Against Offline Password Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-party ECDSA Signing at Constant Communication Overhead": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Server Private Information Retrieval in Sublinear Time and Quasilinear Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UC4Free! Existing Threshold Signatures are UC Secure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Updatable Private Set Intersection from Symmetric-Key Techniques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Upper Bound on Information-Theoretic Security of Permutation-Based Pseudorandom Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WaterSQI and PRISMO: Quaternion Signatures for Supersingular Isogeny Group Actions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wedges, oil, and vinegar -- An analysis of UOV in the exterior algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Simple Permutations Mix Poorly: Limited Independence Does Not Imply Pseudorandomness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When the Wrong Key Lives On: The Key-Recovery Procedure in Integral Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Trying to Catch Cheaters Breaks the MPC: Breaking and Fixing Delayed Consistency Checks in Trident, Fantastic Four, SWIFT, and Quad": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WOMBAT: Post-Quantum Blind Signature from Standard Group Action Assumptions and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zebra: Arithmetic Garbled RAM for Large Words from DCR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

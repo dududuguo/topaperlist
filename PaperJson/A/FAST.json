@@ -1,0 +1,989 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "FAST",
+  "papers": {
+    "2021": {
+      "19th USENIX Conference on File and Storage Technologies, FAST 2021, February 23-25, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Community Cache with Complete Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An In-Depth Study of Correlated Failures in Production SSD-Based Data Centers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ArchTM: Architecture-Aware, High Performance Transaction for Persistent Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CheckFreq: Frequent, Fine-Grained DNN Checkpointing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CNSBench: A Cloud Native Storage Benchmark": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concordia: Distributed Shared Memory with In-Network Cache Coherence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "D2FQ: Device-Direct Fair Queueing for NVMe SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "eMRC: Efficient Miss Ratio Approximation for Multi-Tier Caching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting Combined Locality for Wide-Stripe Erasure Coding in Distributed Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Facebook's Tectonic Filesystem: Efficiency from Exascale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FusionRAID: Achieving Consistent Low Latency for Commodity SSD Arrays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High Velocity Kernel File Systems with Bento": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Cache Replacement with CACHEUS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Feasibility of Parser-based Log Compression in Large-Scale Cloud Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pattern-Guided File Compression with User-Experience Enhancement for Log-Structured File System on Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "pFSCK: Accelerating File System Checking and Repair for Modern Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Remap-SSD: Safely and Efficiently Exploiting SSD Address Remapping to Eliminate Duplicate Writes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "REMIX: Efficient Range Query for LSM-trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking File Mapping for Persistent Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ROART: Range-query Optimized Persistent ART": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable Persistent Memory File System with Kernel-Userspace Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpanDB: A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPHT: Scalable Persistent Hardware Transactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Dilemma between Deduplication and Locality: Can Both be Achieved?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "20th USENIX Conference on File and Storage Technologies, FAST 2022, Santa Clara, CA, USA, February 22-24, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "25 Years of Storage Research and Education: A Retrospective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Log-Structured Merge Tree-aware Message Authentication Scheme for Persistent Key-Value Stores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aurogon: Taming Aborts in All Phases for Distributed In-Memory Transactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CacheSifter: Sifting Cache Files for Boosted Mobile Performance and Lifetime": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Closing the B+-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ctFS: Replacing File Indexing with Hardware Memory Translation through Contiguous File Allocation for Persistent Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DedupSearch: Two-Phase Deduplication Aware Keyword Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepSketch: A New Machine Learning-Based Reference Search Technique for Post-Deduplication Delta Compression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DEPART: Replica Decoupling for Distributed Key-Value Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DUPEFS: Leaking Data Over the Network With Filesystem Deduplication Side Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "exF2FS: Transaction Support in Log-Structured Filesystem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FusionFS: Fusing I/O Operations using CISCOps in Firmware File Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GuardedErase: Extending SSD Lifetimes by Protecting Weak Wordlines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HTMFS: Strong Consistency Comes for Free with Hardware Transactional Memory in Persistent Memory File Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hydra : Resilient and Highly Available Remote Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving the Reliability of Next Generation SSDs using WOM-v Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MT^2: Memory Bandwidth Regulation on Hybrid NVM/DRAM Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NyxCache: Flexible and Efficient Multi-tenant Persistent Memory Caching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PAIO: General, Portable I/O Optimizations With Minor Application Modifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practicably Boosting the Processing Performance of BFS-like Algorithms on Semi-External Graph System via I/O-Efficient Graph Ordering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Removing Double-Logging with Passive Data Persistence in LSM-tree based Relational Databases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScaleXFS: Getting scalability of XFS back on the ring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separating Data via Block Invalidation Time Inference for Write Amplification Reduction in Log-Structured Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The what, The from, and The to: The Migration Games in Deduplicated Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TVStore: Automatically Bounding Time Series Storage via Time-Varying Compression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "21st USENIX Conference on File and Storage Technologies, FAST 2023, Santa Clara, CA, USA, February 21-23, 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ADOC: Automatically Harmonizing Dataflow Between Components in Log-Structured Key-Value Stores for Improved Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Citron: Distributed Range Lock Management with One-sided RDMA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CJFS: Concurrent Journaling for Better Scalability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConfD: Analyzing Configuration Dependencies of File Systems for Fun and Profit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Application Launch on Personal Computing/Communication Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fisc: A Large-scale Cloud-native-oriented File System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FUSEE: A Fully Memory-Disaggregated Key-Value Store": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GL-Cache: Group-level learning for efficient and high-performance caching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HadaFS: A File System Bridging the Local and Shared Burst Buffer for Exascale Supercomputers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InftyDedup: Scalable and Cost-Effective Cloud Tiering with Deduplication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrated Host-SSD Mapping Table Management for Improving User Experience of Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intelligent Resource Scheduling for Co-located Latency-critical Services: A Multi-Model Collaborative Learning Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MadFS: Per-File Virtualization for Userspace Persistent Memory Filesystems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Than Capacity: Performance-oriented Evolution of Pangu in Alibaba": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-view Feature-based SSD Failure Prediction: What, When, and Why": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NVMeVirt: A Versatile Software-defined Virtual NVMe Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Stacking a Persistent Memory File System on Legacy File Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ParaRC: Embracing Sub-Packetization for Repair Parallelization in MSR-Coded Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Patronus: High-Performance and Protective Remote Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Design Considerations for Wide Locally Recoverable Codes (LRCs)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revitalizing the Forgotten On-Chip DMA to Expedite Data Movement in NVM-based Storage Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ROLEX: A Scalable RDMA-oriented Learned Key-Value Store for Disaggregated Memory Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SHADE: Enable Fundamental Cacheability for Distributed Deep Learning Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMRSTORE: A Storage Engine for Cloud Object Storage on HM-SMR Drives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TENET: Memory Safe and Fault Tolerant Persistent Transactional Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unsafe at Any Copy: Name Collisions from Mixing Case Sensitivities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "λ-IO: A Unified IO Stack for Computational Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "22nd USENIX Conference on File and Storage Technologies, FAST 2024, Santa Clara, CA, USA, February 27-29, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Baleen: ML Admission & Prefetching for Flash Caches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "COLE: A Column-based Learned Storage for Blockchain Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Buffered I/O and Direct I/O in Distributed File Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ELECT: Enabling Erasure Coding Tiering for LSM-tree-based Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I/O in a Flash: Evolution of ONTAP to Low-Latency SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I/O Passthru: Upstreaming a flexible and efficient I/O Path in Linux": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In-Memory Key-Value Store Live Migration with NetMigrate": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IONIA: High-Performance Replication for Modern Disk-based KV Stores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kosmo: Efficient Online Miss Ratio Curve Generation for Eviction Policy Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Metis: File System Model Checking via Versatile Input and State Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MIDAS: Minimizing Write Amplification in Log-Structured Systems through Adaptive Group Number and Size Configuration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MinFlow: High-performance and Cost-efficient Data Passing for I/O-intensive Stateful Serverless Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OmniCache: Collaborative Caching for Near-storage Accelerators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing File Systems on Heterogeneous Memory by Integrating DRAM Cache with Virtual Memory Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Physical vs. Logical Indexing with IDEA: Inverted Deduplication-Aware Index": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RFUSE: Modernizing Userspace Filesystem Framework through Scalable Kernel-Userspace Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Seraph: Towards Scalable and Efficient Fully-external Graph Computation via On-demand Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbiosis: The Art of Application and Kernel Cache Cooperation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TeRM: Extending RDMA-Attached Memory with SSD": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Design and Implementation of a Capacity-Variant Storage System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "We Ain't Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What's the Story in EBS Glory: Evolutions and Lessons in Building Cloud Block Store": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "23rd USENIX Conference on File and Storage Technologies, FAST 2025, Santa Clara, CA, February 25-27, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "3L-Cache: Low Overhead and Precise Learning-based Eviction Policy for Caches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AegonKV: A High Bandwidth, Low Tail Latency, and Low Storage Cost KV-Separated LSM Store with SmartSSD-based GC Offloading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Archer: Adaptive Memory Compression with Page-Association-Rule Awareness for High-Speed Response of Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AtomicDisk: A Secure Virtual Disk for TEEs against Eviction Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AWUPF Rediscovered: Atomic Writes to Unleash Pivotal Fault-Tolerance in SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cloudscape: A Study of Storage Services in Modern Cloud Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "D2FS: Device-Driven Filesystem Garbage Collection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DJFS : Directory-Granularity Filesystem Journaling for CMM-H SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DNA data storage: A generative tool for Motif-based DNA storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Don't Maintain Twice, It's Alright: Merged Metadata Management in Deduplication File System with GogetaFS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast, Transparent Filesystem Microkernel Recovery with Ananke": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlacIO: Flat and Collective I/O for Container Image Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GeminiFS: A Companion File System for GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPHash: An Efficient Hash Index for GPU with Byte-Granularity Persistent Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HaSiS: A Hardware-assisted Single-index Store for Hybrid Transactional and Analytical Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HiDPU: A DPU-Oriented Hybrid Indexing Scheme for Disaggregated Storage Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IMPRESS: An Importance-Informed Multi-Tier Prefix KV Storage System for Large Language Model Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LeapGNN: Accelerating Distributed GNN Training Leveraging Feature-Centric Model Migration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Liquid-State Drive: A Case for DNA Block Device for Enormous Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maat: Analyzing and Optimizing Overcharge on Blockchain Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MedFS: Pursuing Low Update Overhead via Metadata-Enabled Delta Compression for Log-structured File System on Mobile Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mooncake: Trading More Storage for Less Computation - A KVCache-centric Architecture for Serving LLM Chatbot": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oasis: An Out-of-core Approximate Graph System via All-Distances Sketches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Scalable Integrity Checking for Secure Cloud Disks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OPIMQ: Order Preserving IO stack for Multi-Queue Block Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PIMLex: A High-Performance Learned Index with Processing-in-Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PolyStore: Exploiting Combined Capabilities of Heterogeneous Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking the Request-to-IO Transformation Process of File Systems for Full Utilization of High-Bandwidth SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Network Coding for Warm Blob Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScaleLFS: A Log-Structured File System with Scalable Garbage Collection for Commodity SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Selective On-Device Execution of Data-Dependent Read I/Os": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShiftLock: Mitigate One-sided RDMA Lock Contention via Handover": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Silhouette: Leveraging Consistency Mechanisms to Detect Bugs in Persistent Memory-Based File Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards High-throughput and Low-latency Billion-scale Vector Search via CPU/GPU Collaborative Filtering and Re-ranking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VectorCDC: Accelerating Data Deduplication with Vector Instructions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2026": {
+      "\"Range as a Key\" is the Key! Fast and Compact Cloud Block Store Index with RASK": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "24th USENIX Conference on File and Storage Technologies, FAST 2026, Santa Clara, CA, USA, February 24-26, 2026": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Model Loading in LLM Inference by Programmable Page Cache": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACOS: Apple's Geo-Distributed Object Store at Exabyte Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdaCheck: An Adaptive Checkpointing System for Efficient LLM Training with Redundancy Utilization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Advancing Data Integrity in Linux": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Efficient Cloud Storage Model with Compacted Metadata Management for Performance Monitoring Timeseries Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bidaw: Enhancing Key-Value Caching for Interactive LLM Serving via Bidirectional Computation-Storage Awareness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cache-Centric Multi-Resource Allocation for Storage Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CETOFS: A High-Performance File System with Host-Server Collaboration for Remote Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing and Emulating FDP SSDs with WARP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoFS: A Filesystem for Fast Container Startup": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cost-efficient Archive Cloud Storage with Tape: Design and Deployment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cylon: Fast and Accurate Full-System Emulation of CXL-SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Discard-Based Garbage Collection for Distributed Log-Structured Storage Systems in ByteDance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DMTree: Towards Efficient Tree Indexing on Disaggregated Memory via Compute-side Collaborative Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DOGI: Data Placement with Oracle-Guided Insights for Log-Structured Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DPAS: A Prompt, Accurate and Safe I/O Completion Method for SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DRBoost: Boosting Degraded Read Performance in MSR-Coded Storage Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FailureMiner: A Joint Key Decision Mining Scheme for Practical SSD Failure Prediction and Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Cloud Storage for AI Jobs via Grouped I/O API with Transparent Read/Write Optimizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Getting the MOST out of your Storage Hierarchy with Mirror-Optimized Storage Tiering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPU Checkpoint/Restore Made Fast and Lightweight": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Here, There and Everywhere: The Past, the Present and the Future of Local Storage in Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Holistic and Automated Task Scheduling for Distributed LSM-tree-based Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Soon is Now? Preloading Images for Virtual Disks with ThinkAhead": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LESS is More for I/O-Efficient Repairs in Erasure-Coded Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lockify: Understanding Linux Distributed Lock Management Overheads in Shared Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MlsDisk: Trusted Block Storage for TEEs Based on Layered Secure Logging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OdinANN: Direct Insert for Consistently Stable Performance in Billion-Scale Graph-Based Vector Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ParaSync: Exploiting Fine-Grained Parallelism for Efficient File Synchronization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PolarStore: High-Performance Data Compression for Large-Scale Cloud-Native Databases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preparation Meets Opportunity: Enhancing Data Preprocessing for ML Training With Seneca": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rearchitecting Buffered I/O in the Era of High-Bandwidth SSDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RosenBridge: A Framework for Enabling Express I/O Paths Across the Virtualization Boundary": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScaleSwap: A Scalable OS Swap System for All-Flash Swap Arrays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sharpen the Spec, Cut the Code: A Case for Generative File System with SYSSPEC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SkySync: Accelerating File Synchronization with Collaborative Delta Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SolidAttention: Low-Latency SSD-based Serving on Memory-Constrained PCs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Condensed and Efficient Read-Only File System via Sort-Enhanced Compression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "uCache: A Customizable Unikernel-based IO Cache": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UnICom: A Universally High-Performant I/O Completion Mechanism for Modern Computer Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unleashing Zoned UFS: Cross-Layer Optimizations for Next-Generation Mobile Storage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

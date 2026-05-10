@@ -1,0 +1,2622 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "CSCW",
+  "papers": {
+    "2021": {
+      "\"Being Yourself\" Online: Supporting Authenticity for LGBTQ+ Social Media Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"It's not exactly prominent or direct, but it's there\": Understanding Strategies for Sensitive Disclosure Online": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"It's Viral!\" - A Study of the Behaviors, Practices, and Motivations of TikTok Users and Social Activism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"Knock Knock, Here Is an Answer from Next Door\": Designing a Knowledge Sharing Chatbot to Connect Residents: Community Chatbot Design Case Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "'A Guiding Light in a Virtual Haven': A Preliminary Analysis of Conversations Around Navigating and Repairing Self-worth in an Online Professional Community for Women": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "'If You Care About Me, You'll Send Me a Pic' - Examining the Role of Peer Pressure in Adolescent Sexting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "3D Exoscopes in Microsurgery: How 3D Exoscopes Reconfigure the Workflow of Assistant Surgeons and Nurses in the Operating Room": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "[email protected]: Inclusive and Collaborative Child-facing Voice Technologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Activated: Decentering activism in and with academia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Addressing Challenges and Opportunities in Online Extremism Research: An Interdisciplinary Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Entanglement Perspective on How Older Adults Use and Design Emerging Ubiquitous Technologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Appropriate Fairness Perceptions? On the Effectiveness of Explanations in Enabling People to Assess the Fairness of Automated Decision Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "arttech: Performance and Embodiment in Technology for Resilience and Mental Health": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Authoring Platform for Mobile Citizen Science Apps with Client-side ML": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Isolation: Benefits and Challenges as perceived by students throughout online collaboration during the COVID-19 pandemic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging from Crisis to Everyday Life - An Analysis of User Reviews of the Warning App NINA and the COVID-19 Regulation Apps CoroBuddy and DarfIchDas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing Speech in Life Saving Interventions to Inform Computerized Clinical Decision Support for Complex Medical Teamwork": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CiteAs: Better Software through Sociotechnical Change for Better Software Citation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collective Narrative: Scaffolding Community Storytelling through Context-Awareness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Companion Publication of the 2021 ACM Conference on Computer Supported Cooperative Work and Social Computing, CSCW 2021, Virtual Event, USA, October 23-27, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Health Forums: User Engagement, Salient Entities, Medical Detail": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Connected Self-Organized Citizens in Crises: An Interdisciplinary Resilience Concept for Neighborhoods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coordinating Migration: Caring for Communities & Their Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoSpeak: Peer Feedback on Voice Stories to Inform Learning Spoken English": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Democratic Systems for Civic Collective Action": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for Creative Making in the Everyday Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for Data Awareness: Addressing Privacy and Security Concerns About \"Smart\" Technologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Opportunistic Social Matching Systems for Women's Safety During Face-to-Face Social Encounters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distinguishing IM Communication Patterns with Relationship and Conversation Topics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Letter Jam: Designing Distributed Board Game Play for Social Connection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do We Fix it or Burn it Down? Towards Practicable Critique at CSCW": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of the COVID-19 Pandemic on Park Visitation Measured by Social Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Collaboration Possibilities of Distributed Making for Storytelling Using 3D Printing Pens": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Effects of Applying Learning Analytics for Teaching Procedural Skills in Health Sciences Education": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Transformative Justice Principles to Inform Survivor-Centered Design for Muslim Women in the United States": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Users' Preferences for Chatbot's Guidance Type and Timing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extending & Facilitating Informal Care Networks for People with Epilepsy & Caregivers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Family Resilience Technologies: Designing Collaborative Technologies for Caregiving Coordination in the Children's Hospital": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Following the Trail of Citational Justice: Critically Examining Knowledge Production in HCI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Food Delivery Eco-System: When Platforms Get Enterprises and Gig-Workers to Implicitly Cooperate": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Alinsky to Zoom: Understanding Relational, Constituency-Based Organizing in 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Giving and Receiving: Reciprocal Review Exchange in Online Fanfiction Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Helping Their Child, Helping Each Other: : Parents' Mediated Social Support in the Children's Hospital": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Human-Machine Partnerships in the Future of Work: Exploring the Role of Emerging Technologies in Future Workplaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying, Measuring and Contesting Algorithmically Curated Misinformation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Readers' Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intersectional Approaches for Supporting Casual Language and Culture Learning in Immigrant Families": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating and Mitigating Biases in Crowdsourced Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Drug Addiction Discourse on YouTube": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Multimodal Interactions and Parasocial Attractiveness in YouTube ASMR Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LeadBoSki: A Smart Personal Assistant for Leadership Support in Video-Meetings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Listening Together while Apart: Intergenerational Music Listening": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local Community Support for Tangible Food Aid During COVID-19": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local Perceptions and Practices of News Sharing and Fake News": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making Conversational Robots Learn from Children in a Collaborative Museum Exhibition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MINDNOTES : A Mobile Platform to enable users to break stigma around mental health and connect with therapists": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MOSafely: Building an Open-Source HCAI Community to Make the Internet a Safer Place for Youth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Navigating the \"Glimmer of Hope\": Challenges and Resilience among U.S. Older Adults in Seeking COVID-19 Vaccination": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Negotiating Open Science: The Open Science Framework as a Technology-in-Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pandemic-Driven Technology During COVID-19: Experiences of Older Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perspectives from Practice: Algorithmic Decision-Making in Public Employment Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Redesigning Digital Peer-to-Peer Payments for Social Connections": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Dating Apps as Sexual Consent Apps: A New Use Case for AI-Mediated Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SAGA: Collaborative Storytelling with GPT-3": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SIGCHI Across Borders: Bringing Together the Local and Global": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SIGCHI Research Ethics Committee Town Hall": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SleuthTalk: Identifying Historical Photos with Intelligent Shortlists, Private Collaboration, and Structured Feedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Social Computing and Collaborative Work in Latin America and Beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Social Interactions in Virtual Reality: What Cues Do People Use Most and How": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Struggle to Settle down! Examining the Voices of Migrants and Refugees on Twitter Platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subtle CSCW Traits: Tensions Around Identity Formation and Online Activism in the Asian Diaspora": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Support Social Connectedness through Technology-mediated Shared Activities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SurviveCovid-19++ : A collaborative healthcare game towards educating people about safety measures for Covid-19": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sway Together, Stay Together: Visualizing Spiritual Support Networks Through the SoulGarden Prototype": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SYNC: A Crowdsourcing Platform for News Co-editing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Future of Care Work: Towards a Radical Politics of Care in CSCW Research and Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Future of Research on Online Health Communities: Discussing Membership, Structure, and Support": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Global Labours of AI and Data Intensive Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Sounds of Togetherness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tip of the Finger or Tip of the Tongue?: The Effects of Verbal Communication on Online Multi-Player Team Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "To Last Long or to Fade Away: Investigating Users' Instagram Post and Story Practices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Amplifying Labor among Content Creators with Disabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Reducing Perception Gaps with Mediated Social Cues when Building Workplace Relationships through CMC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding College Students' News Sharing Experience on Instagram": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Interpersonal Space of Online Meetings: An Exploratory Study of \"We-ness\"": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When People Vanish: A Study to Investigate How Human Presence Changes the Scenario Speculation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XRmas: Extended Reality Multi-Agency Spaces for a Magical Remote Christmas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You Got Yourself A Whole New Life, and All I've Got is Half This Old One: Breaking Up and Moving On in the Social Media Age": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "\"Digital Sanctums of Empowerment\": Exploring Community and Everyday Resilience-Building Tactics in Online Professional Communities for Women": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"Hide Your Video, Show Your Action!\" Investigating a New Video Conferencing Interface for Virtual Studying": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"I am not a YouTuber who can make whatever video I want. I have to keep appeasing algorithms\": Bureaucracy of Creator Moderation on YouTube": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"I feel like I need to split myself in half\": Using Role Theory to Design for Parents as Caregiving Teams in the Children's Hospital": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Critical Literature Review for Equal Participation in Human-Animal Interactions in Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Hiring Story: Experiences of Employers in Hiring CS Graduates in Software Startups": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Privacy Paradox? Impact of Privacy Concerns on Willingness to Disclose COVID-19 Health Status in the United States": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "About the Blurring of Work and Play: Organizational Dynamics Emerging in a First-Person Shooter Videogame": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Action-a-Bot: Exploring Human-Chatbot Conversations for Actionable Instruction Giving and Following": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Addressing Digital Divides in Rural Appalachia with Digital Literacy Education": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Online Memorial for Coping with Mass Shooting Tragedy by Combining Participatory Memory with Participatory Design of AI Use Cases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging Actionability Gap in Online How-To Instruction-Following Through Human-Chatbot Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CAMPUS: A University Crowdsourcing Platform for Reporting Facility, Status Update, and Problem Area Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CO-oPS: A Mobile App for Community Oversight of Privacy and Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Companion Computer Supported Cooperative Work and Social Computing, CSCW 2022, Virtual Event, Taiwan, November 8-22, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Consent: A Research and Design Lens for Human-Computer Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DAO-Analyzer: Exploring Activity and Participation in Blockchain Organizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decolonial and Postcolonial Computing Research: A Scientometric Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DesertWoZ: A Wizard of Oz Environment to Support the Design of Collaborative Conversational Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Food Delivery Gig-platforms for Courier Needs: the Case of Batched Orders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing the \"Front\": An Overview of Profile Elements on Social Network Sites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Remote Hand Guidance in Video Calls Using Directional Force Illusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Entering the Techlash: Student Perspectives on Ethics in Tech Job Searches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Envisioning Digital Sanctuaries: An Exploration of Virtual Collectives for Nurturing Professional Development of Women in Technical Domains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Envisioning Identity: The Social Production of Human-Centric Computer Vision Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ethical Tensions, Norms, and Directions in the Extraction of Online Volunteer Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exhibiting Evidence in Remote Courtrooms: Design and Usability Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Challenges and Opportunities in Developing Systems to Improve Shopping Addiction through Social Sensing Technology": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Collective Medical Knowledge and Tensions in Online ADHD Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Secondary Teachers' Needs and Values in Culturally Responsive Teaching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Community of Model Publishers on TensorFlow Hub": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Users' Experiences of \"Suggested Posts\" in Social Media Through the Lens of Social Networking and Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Facilitating Continuous Text Messaging in Online Romantic Encounters by Expanded Keywords Enumeration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Ignoring Strangers' Solicitations to Mutual Sexting with Friends: Understanding Youth's Online Sexual Risks in Instagram Private Conversations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From the Cooperative to the Coercive: Digital Platforms and the Antinomies of CSCW": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Growing New Scholarly Communication Infrastructures for Sharing, Reusing, and Synthesizing Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Information-Seeking, Finding Identity: Exploring the Role of Online Health Information in Illness Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Correction Effects of Different Modalities for Misinformation about COVID-19": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Human Factors in Willingness to Donate to the Small-scale Non-profit Organizations in Bangladesh": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Korean Emoticons: Understanding How Subtle Emotional Differences Are Evoked Online": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mi Casa es Su Casa (\"MiSu\"): A Mobile App for Sharing Smart Home Devices with People Outside The Home": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mindful Garden: Supporting Reflection on Biosignals in a Co-Located Augmented Reality Mindfulness Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Misleading Tweets and Helpful Notes: Investigating Data Labor by Twitter Birdwatch Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MOSafely, Is that Sus? A Youth-Centric Online Risk Assessment Dashboard": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Peer-Producing a Common Knowledge Resource for Personal Science": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Putting Users in Control of Social Platforms for Better Content Credibility": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Re-imagining Systems in the Realm of Immigration in Higher Education through Participatory Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reconsidering Accountability in the Present and Future of Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Repurposing AI in Dating Apps to Augment Women's Strategies for Assessing Risk of Harm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Screenshot Journey Auditor: A Tool to Support Analysis of Smartphone Media Consumption Journey Using Screenshot Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Situating Network Infrastructure with People, Practices, and Beyond: A Community Building Workshop": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sociotechnical Risk in Sustaining Digital Infrastructure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solidarity and Disruption Collective Organizing In Computing II": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Systems for Socially-Challenging Information Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Co-Creation Space: Supporting Asynchronous Artistic Co-creation Dynamics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Components of Trust for Collaborating With AI Colleagues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Metaverse: A Systematic Literature Review to Map Scholarly Definitions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Needs of Grandparents and Grandchildren in a Socially and Geographically Distanced World: A Case Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Utility of Social Media in Understanding the Future of Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "This is Why I Like Them: Exploring the Perceived Appeal of Social Media Influencers vs. Traditional Mass Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Designing Technologies for Family Health Routines: Supporting Children in the Digital Age": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Hate Group Videos on YouTube": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Effects of Profile Display in Multilingual Computer-Mediated Team Formation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When to Collect Sensitive Category Data? Public Sector Considerations For Balancing Privacy and Freedom from Discrimination in Automated Decision Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Who Has an Interest in \"Public Interest Technology\"?: Critical Questions for Working with Local Governments & Impacted Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work of Fiction: Using Speculative Design to Deliberate on the Future of Hiring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "\"\\\"Headlines rarely soothe nerves\": An Analysis of News Coverage of Social Media Mental Health Research\"": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"\\\"I Don't Need a Megaphone to Be Helpful\\\": Probing the Role of Technology in Pro-Choice Abortion Activism\"": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"\\\"It doesn't just feel like something a lawyer slapped together.\\\"- Mental-Model-Based Privacy Policy for Third-Party Applications on Facebook\"": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"After she fell asleep, it went to my next podcast, which was about a serial killer\": Unveiling Needs and Expectations Regarding Parental Control within Digital Assistant": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"I just see numbers, but how do you feel about your training?\": Clinicians' Data Needs in Telemonitoring for Colorectal Cancer Surgery Prehabilitation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "#Pragmatic or #Clinical: Analyzing TikTok Mental Health Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "'You are finally Home': Centering Playful Marginalized Community Values in Designing Online Social Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Pilot Study on People's Views of Gratitude Practices and Reactions to Expressing Gratitude in an Online Community": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Proposal to Study Shoulder-Surfing Resistant Authentication for Augmented and Virtual Reality: Replication Study in the US": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Toolbox of Feminist Wonder: Theories and methods that can make a difference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adopting an Ecological Approach to Misinformation: Understanding the Broader Impacts on Online Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Affective Affordance of Message Balloon Animations: An Early Exploration of AniBalloons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Afrocentric Collaborative Care: Supporting Context Specific Digital Health and Care": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AI through the Eyes of Gen Z: Setting a Research Agenda for Emerging Technologies that Empower Our Future Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ambiguity for Social Self-tracking Practices: Exploring an Emerging Design Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Exploratory Study of Shared Decision-Making (SDM) for Older Adult Patients with Chronic Diseases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Animal Narratives and Emotional Resonance in #ClimateChange Discourse on Social Media: A Qualitative Content Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Are You Anonymous? Inferring Personal Information from Nonverbal Behavior Data Tracked in Immersive Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Avatar Customization, Personality, and the Perception of Work Group Inclusion in Immersive Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Back to \" Back to Labor\" : Revisiting Political Economies of Computer-Supported Cooperative Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Body Crumple, Sound Intrusion, and Embodiment Violation: Toward a Framework for Miscommunication in VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bringing Emotions into Practice: A Framework for AI Design to Support Emotion Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Licensing Mitigate the Negative Implications of Commercial Web Scraping?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Password Meter be More Effective Towards User Attention, Engagement, and Attachment?: A Study of Metaphor-based Designs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChatGPT in Healthcare: Exploring AI Chatbot for Spontaneous Word Retrieval in Aphasia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-Designing User Personas and Risk Scenarios for Evaluating Adolescent Online Safety Interventions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CollabCoder: A GPT-Powered WorkFlow for Collaborative Qualitative Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Community-driven AI: Empowering people through responsible data-driven decision-making": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computer Supported Cooperative Work and Social Computing, CSCW 2023, Minneapolis, MN, USA, October 14-18, 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConceptCombo: Assisting Online Video Access with Concept Mapping and Social Commenting Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conceptualizing and Improving Creator Moderation Design with Platform Stakeholders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conceptualizing Indigeneity in Social Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConvXAI : Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correct Me If I Am Wrong: Exploring How AI Outputs Affect User Perception and Trust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Advocacy for Visibility of Home Care Workers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data-Enabled Sustainability: The Collective Work of Turning Data into Actions for Environmental Care": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepThinkingMap: Collaborative Video Reflection System with Graph-based Summarizing and Commenting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating Periscope: A Robotic Camera System to Support Remote Physical Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design for Learnability: Challenging the State-of-the-Art in UX to foster Inclusion and Participation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design to Increase Social Interaction between Viewers of Dramas on OTT Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for AI-Powered Social Computing Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Divesting from Big Tech: Alternative Possibilities for Research and Futuring in Social Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Emerging Telepresence Technologies for Hybrid Meetings: an Interactive Workshop": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Environmental and Climate Justice in Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Epistemic Injustice in Online Communities: Unpacking the Values of Knowledge Creation and Curation within CSCW Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ethics of Emerging Communication and Collaboration Technologies for Children": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Everyday AI Sensemaking of Freelance Knowledge Workers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evolution of Rules in Reddit Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Examining Race in Healthcare-Focused HCI Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Distributed Synthesis: In-Progress Findings from Guided Tours of Scholarly Knowledge Synthesis Work Practices with A Distributed Lens": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FeedbackMap: A Tool for Making Sense of Open-ended Survey Responses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Femtech Data Privacy post-Dobbs: A Preliminary Analysis of User Reactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fostering Data Worker Inclusion and Well-Being: Identifying Barriers and Designing Interventions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Getting Data for CSCW Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Historicism in/as CSCW Method: Research, Sensibilities, and Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How People Initiate and Respond to Discussions Around Online Community Norms: A Preliminary Analysis on Meta Stack Overflow Discussions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Small Businesses Transform PDF Agreements into Action": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Ethically Engage Fat People in HCI Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I create, therefore I agree: Exploring the effect of AI anthropomorphism on human decision-making": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying Potential Inlets of Man in the Artificial Intelligence Development Process: Man and Antiblackness in AI Development": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Influencer Publics and the Divergent Construction of Social Media Realities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Internet Research Ethics: A CSCW Community Discussion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Users' Inclination of Leveraging Mobile Crowdsourcing to Obtain Verifying vs. Supplemental Information when Facing Inconsistent Smat-city Sensor Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Invisible Coordination Work: Field Stations as Scientific Caregivers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lady Bugs: Collaborative Interface for Exploring Creative Error and Uncertainty": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging Large Language Model as Support for Human Problem Solving: An Exploration of Its Appropriation and Impact": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging Social Media Analysis for Effective Water Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLMs and the Infrastructure of CSCW": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Many Worlds of Ethics: Ethical Pluralism in CSCW": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mastodon Rules: Characterizing Formal Rules on Popular Mastodon Instances": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Than a Wife and a Mom: A Study of Mom Vlogging Practices in China": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NBGuru: Generating Explorable Data Science Flowcharts to Facilitate Asynchronous Communication in Interdisciplinary Data Science Teams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nudging for Online Misinformation: a Design Inquiry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Freelancing on Digital Labor Platforms: A Scoping Review": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perceptions of Mental Health Crisis among U.S. Military Veteran Peer Mentors and Potential of Mobile-Based Peer-Support Interventions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Personal Objects as Design Materials: A Case Study of Co-Designing Safe Spaces With Young Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perspectives from Naive Participants and Experienced Social Science Researchers on Addressing Embodiment in a Virtual Cyberball Task": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Platform (In)Justice: A Call for a Global Research Agenda": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Platform (In)Justice: Exploring Research Priorities and Practical Solutions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plug and Play Conversations: The Micro-Conversation Scheme for Modular Development of Hybrid Conversational Agent": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Post-Spotlight Posts: The Impact of Sudden Social Media Attention on Account Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prototyping Kodi: Defining Design Requirements to Develop a Virtual Chat-bot for Autistic Children and Their Caregivers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Purposeful AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReaderQuizzer: Augmenting Research Papers with Just-In-Time Learning Questions to Facilitate Deeper Understanding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Realizing Values in Hybrid Environments: A SIGCHI Perspective✱": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Trust Repair in Human-Robot Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robotic Systems in Heritage Protection: An Anti-Fatigue Human-Robot Collaboration Exploration for Heritage Painting and Calligraphy Restoration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shaping the Emerging Norms of Using Large Language Models in Social Computing Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SleepyFlora: Supporting Sleep Sharing and Augmentation over a Distance for Social Bonding across Time Zones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound of Care: Towards a Co-Operative AI Digital Pain Companion to Support People with Chronic Primary Pain": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Studying Multi-dimensional Marginalization of Identity from Decolonial and Postcolonial Perspectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting from the Background: How a Mobile Application for Parent Skills Development Encourages Authoritative Parenting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting User Engagement in Testing, Auditing, and Contesting AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting Workers in Developing Effective Collaboration Skills for Complex Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Surfacing Structural Barriers to Community-Collaborative Approaches in Human-Computer Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Teens on Tech: Using an Asynchronous Remote Community to Explore Adolescents' Online Safety Perspectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The CDL: An Online Platform for Creating Community-based Digital Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Community Builder (CoBi): Helping Students to Develop Better Small Group Collaborative Learning Skills": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Futures of Hybrid Work: A Socio-Technical Framework for Designing Hybrid Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Labor of Training Artificial Intelligence: Data Infrastructure, Mobility, and Marginality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Opportunity Cost: Using a Narrative Approach to Reframe Pro-equity Urban Informatics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Synthesis Lab: Empowering Collaborative Learning in Higher Education through Knowledge Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Together we turn Uncertainty into Action: Understanding the Role of Artificial Intelligence in Supporting the Financial Concerns of Older Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tools to Support Health and Well-being with Personal Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Value Scenario Generation Through Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Human-Centred AI-Co-Creation: A Three-Level Framework for Effective Collaboration between Human and AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Understanding Substance Abuse Misinformation in YouTube Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trauma-Informed Design: A Collaborative Approach to Building Safer Online Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Evaluating UX Outcomes at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Supporting Autistic Adults in Livestreaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Satisfaction Factors of Personalized Body-weight Exercises": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Challenges in Academia to Prepare Nursing Students for Digital Technology Use at Workplace": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Urgency Builds Trust: A Voice Agent's Emotional Expression in an Emergency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "User-Centered Design for Nonsuicidal Self-Injury Information on TikTok: A Study of Users' Motivations and Circumnavigation of Algorithmic Barriers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing the Carbon Intensity of Machine Learning Inference for Image Analysis on TensorFlow Hub": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VR Job Interview Using a Gender-Swapped Avatar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weaving Autistic Voices on TikTok: Utilizing Co-Hashtag Networks for Netnography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What is History 'for' in CSCW Research?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Gestures and Words Synchronize: Exploring A Human Lecturer's Multimodal Interaction for the Design of Embodied Pedagogical Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Workshop on Understanding and Mitigating Cognitive Biases in Human-AI Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Workspace VR: A Social and Collaborative Telework Virtual Reality Application": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "\"For Me, Data is Ammunition\": Metaphors and Community Organizers' Data Imaginaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"I'll pay half the cost, for the loft\" - From Searching to Agreeing on Group Property Rentals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"If Men andWomenWorked Together, We could Accelerate Growth\": Opportunities in the Presence of Gender Stereotype for Robot Olympiad Participants from Bangladesh": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"What is Safety?\": Building Bridges Across Approaches to Digital Risks and Harms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "(Un)designing AI for Mental and Spiritual Wellbeing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Female Pelvic Floor Dysfunction Rehealthy Training Exergame Designed for the Older Women": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A First Look into Fake Profiles on Social Media through the Lens of Victim's Experiences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Personalized Communication Application for Children with Autism through a Participatory Design Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Agency Flow in a Multi-user Ridesharing System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Agent-Based Modeling for Identifying Water Conflicts in Farmer Water User Organizations: A Socio-Hydrological Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assembling the Puzzle: Exploring Collaboration and Data Sensemaking in Nursing Practices for Remote Patient Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AudienceView: AI-Assisted Interpretation of Audience Feedback in Journalism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond \"Reviewer 2\" Problems: Responding to the Peer Review Crisis in Computing Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging Communication Gaps Using Augmented Reality: Designing a User Conversational Interface for Hearing Impaired Student": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging Dictionary: AI-Generated Dictionary of Partisan Language Use": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Caring for Reproductive Justice: Design in Response to Adversity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Challenges and Opportunities of LLM-Based Synthetic Personae and Data in HCI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterization of Political Polarized Users Attacked by Language Toxicity on Twitter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-Designing Reproductive Justice Futures: Intersectional Care-Activism for Abortion Access": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collaboratively Designing and Evaluating Responsible AI Interventions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collective Imaginaries for the Futures of Care Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Community-Driven Models for Research on Social Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing, CSCW Companion 2024, San Jose, Costa Rica, November 9-13, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Consent, Deception, and Retaliation: Articulating What it Means to Feel Safe in Social Cross-Reality with Participatory Design of VR Dating": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Datafication Dilemmas: Data Governance in the Public Interest": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Marketplace for Impact Certificates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating an Auditory-Cued Archery Social Exertion Game for the Blind and Sighted to Play Together": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design Opportunities for International Students' Mental Health Management: An Interview Study with University Counselors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for Resilient Caregiving Coordination Journeys: Prioritizing Features Across Families and Phases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Interactive and Immersive Socio-Technical Tools to Support Communication and Empowerment for Immigrant Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Technology to Support the Hospital Classroom: Preliminary Findings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Developing a Resource for Supporting Community-Based Health Research: Towards Considerations for Advancing Equity in Mobile Health Technology": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiaFrame: A Framework for Understanding Bengali Dialects in Human-AI Collaborative Creative Writing Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "E2T2: Emote Embedding for Twitch Toxicity Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empowering and Centering Impacted Stakeholders in AI Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empowering Individuals in Automated Decision-Making: Explainability, Contestability and Beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Personalised Cybersecurity Guidance for Older Adults in Ireland": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enjoyment Coexists with Challenges: Understanding the Live Stream Workout Experience of Older Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Envisioning New Futures of Positive Social Technology: Beyond Paradigms of Fixing, Protecting, and Preventing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Envisioning Possibilities and Challenges of AI for Personalized Cancer Care": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluation of an LLM in Identifying Logical Fallacies: A Call for Rigor When Adopting LLMs in HCI Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluation of Interactive Demonstration in Voice-assisted Counting for Young Children": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Examining Mainstream News Media Narratives on Youth Online Safety": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Examining the Social Dynamics on Health Behavior Promotion in Online Peer Discussions about Breast Cancer Screening: Understanding Peer Discussion for Breast Cancer Screening Promotion Using the Health Action Process Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Expectation Conformance in Online Sound Therapy: Designing Tools for Users of Mental Wellbeing Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring How Users Attribute Responsibilities Across Different Stakeholders in Human-AI Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Online Support Needs of Adolescents Living with Epilepsy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Self-Reflection as a Collaborative Process": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Impact of AI-generated Image Tools on Professional and Non-professional Users in the Art and Design Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Impact of AI-Generated Images on Political News Perception and Understanding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Role of Social Support When Integrating Generative AI in Small Business Workflows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Facilitating Joint Awareness Within Care Networks for Noise Sensitivity Management and Regulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FitPal: Reshape Daily Exercise Misconceptions Among Elders through AI Chatbot and Community-based Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlowGPT: Exploring Domains, Output Modalities, and Goals of Community-Generated AI Chatbots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fostering Latin American-Centric CSCW Research and Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Prompt to Metaverse: User Perceptions of Personalized Spaces Crafted by Generative AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Stem to Stern: Contestability Along AI Value Chains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Unilateral Dominance to Collaborative Cooperation: Exploring Intergenerational Cooperative Exergames to Facilitate Physical Exercise for Older Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Future Dialogues: Personal AI Assistants and Their Interactions with Us and Each Other": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Games and Play SIG at CSCW: Approaching Games Research from a CSCW Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generative AI Going Awry: Enabling Designers to Proactively Avoid It in CSCW Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hacker, Their Actions, and Fear Appeal: A First Look Through the Lens of Children": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Harnessing LLMs for Automated Video Content Analysis: An Exploratory Workflow of Short Videos on Depression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HCI, Mobility Justice, and Migration in the Face of Climate Crisis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Here you go: Describing Human Reactions to the Automatic Handoff of Sensemaking Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Human-AI Collaboration to Facilitate Culturally-Aware Content Moderation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identify Design Problems Through Questioning: Exploring Role-playing Interactions with Large Language Models to Foster Design Questioning Skills": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying the Values that Shape HCI and CSCW Research with Latin American Communities: A Collaborative Autoethnography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Imagining Computing Futures and Mitigating Algorithmic Harm: Conversations Between Artistic Disciplines and Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Imagining the Hybrid Workspace as a \"Third Space\": Participatory Speculations on the Unique Qualities of the Hybrid Cooperative Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inpatient Experiences of Long-Term Monitoring: The Case of EEG": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Interface to Facilitate Therapist Discussions Concerning Drug Cues and Biofeedback in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intercultural Collaboration in Teaching Spanish as a Second Language for Deaf Students": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interruptibility during Scientific Research Collaborations: The Effect of Pressure, Proximity and Quiet Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating How Gilds Were Employed on Reddit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Is Human-AI Interaction CSCW?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Labor, Visibility, and Technology: Weaving Together Academic Insights and On-Ground Realities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large Language Models and Personalized Storytelling for Postpartum Wellbeing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LIFEELING: A \"Detox\" Metaphor-Based Fitness Tracking and Reminder Device Designed for the Elderly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linguistic Styles Across Time: The Lexical Entrainment of Citizen Scientists": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maintaining a Community of Care: Opportunities and Challenges of ICTs for Contemporary Mutual Aid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making AI Work: Tracing Human Labour in the Supply Chains of Dataset Production": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mapping the Stakeholder Debate on Facial Recognition Technologies: Review and Stakeholder Workshop": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Misinformation, Fraud, and Stereotyping: Towards a Typology of Harm Caused by Deepfakes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Navigating Machine-Driven Research Landscapes: A Comparative Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Navigating Tensions, Managing Conflict, and Reaching Academic Harmony in HCI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Next-Generation Collaborative Electronic Medical Record: Resolving Concurrent Conflicts with a Tree CRDT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nurturing Digitally Mediated Post-Growth Work Economies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Occupational Diversity in Platform Work: A Comparative Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Open Source Software Developers' Views on Public and Private Funding: A Case Study on scikit-learn": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Opportunities and Challenges of Emerging Human-AI Interactions to Support Healthcare in the Global South": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Medical Device Training: The Role of Multi-User VR and Expert Guidance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Organizing for More Just and Inclusive Futures: A Community Discussion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Outcome First or Overview First? Optimizing Patient-Oriented Framework for Evidence-Based Healthcare Treatment Selections with XAI Tools": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PairSonic: Helping Groups Securely Exchange Contact Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Positionality of Researchers Identifying with the \"Global South\": Shared Heritages, Ways of Thinking and Doing Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Post-Roe Public Discourse: A Temporal Analysis of Discussion on US Abortion Law Changes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practicing Inclusivity in AI: Stakeholder Engagement Policy in Action": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proactively Supporting Online Community Health Through Mechanisms of Positive Reinforcement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Re-imagining Mental Health Access: The Role of Human, AI and Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "REACH Projector: A Remote Collaboration Projector-Camera System with an Effective Visual Echo Cancellation Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reflecting on the Relational: Youth-Centered Approaches to Living with Technology": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SaludConectaMX: Lessons Learned from Deploying a Cooperative Mobile Health System for Pediatric Cancer Care in Mexico": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalar Devices of a Global Movement of GigWorker Activists: Nonscalability and the Possibilities of Proliferation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SOAP.AI: A Collaborative Tool for Documenting Human Behavior in Videos through Multimodal Generative AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soft Robotics and Neurodegenerative Disease: Enhancing Sleep and Mental Wellbeing in Dementia Patients through Innovative Care Solutions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sorting Pauses in Speech Based Dialog Systems: Effects Of Knowing Whether Pauses in Speech are Mid-Turn or at The End Of the Turn": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Storytelling as a Social Support Tool for Perinatal Mental Health and Wellbeing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Studying the Impact of Explainable AI in Digital Agriculture Solutions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SummarFlex: Exploring Personalized News Filtering and Reading with Query-Focused Hierarchical Summarization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting Healthcare Providers' Motivations for Caring for Patients in Underserved Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Technology Use in the Black Church: Perspectives of Black Church Leaders Preliminary Findings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Collaboration Paradox: Confronting Colonial Legacies in South-North Projects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Dual Role of Student and Creator: Exploring the TikTok Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Future of Research on Social Technologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Human Factor in AI Red Teaming: Perspectives from Social and Collaborative Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The i-SDM Framework: Developing AI-based Tools in Shared Decision-Making for Cancer Treatment with Clinical Professionals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Neighborhood Prism: How Localized Social Networks Reflect Offline Demographics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Role of Algorithmic Audits and Other Soft Law Approaches in Informing Users' Calibrated Trust in Artificial Intelligence Tools": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Synergy of Dialogue and Art: Exploring the Potential of Multimodal AI Chatbots in Emotional Support": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Work of AI: Mapping Human Labour in the AI Pipeline": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Unified Framework for Responsible Social Computing Undergraduate and Graduate Education": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Addressing Ableism on Social Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Culturally Adaptive Large Language Models in Mental Health: Using ChatGPT as a Case Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Dynamic Learning: A Framework for Simulating Adaptive Learning Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Responsible Use of Large Multi-modal AI to Analyze Human Social Behaviors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TwiXplorer: An Interactive Tool for Narrative Detection and Analysis in Historic Twitter Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncovering Contradictions in Human-AI Interactions: Lessons Learned from User Reviews of Replika": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Mitigating New Harms in Immersive and Embodied Virtual Spaces: A Speculative Dystopian Design Fiction Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Creators' Acceptance of Content Reuse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Information Managers: A Thematic Analysis of Information Challenges of Disability Service Providers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Perceptions of the Reddit Reaction Mechanism in Political Subreddits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Discourse of the Black Manosphere on YouTube": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Perceptions and Practices of the Machine Learning Professionals in Bangladesh": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Basic Philanthropy: Design and Analysis of a Grassroots Effort to Democratize Social Profit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "User-Centered Phishing Detection through Personalized Edge Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What should we do with Emotion AI? Towards an Agenda for the Next 30 Years": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Why is Accessibility So Hard? Insights From the History of Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Worker Data Collectives as a means to Improve Accountability, Combat Surveillance and Reduce Inequalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Working with Color: How Color Quantization Can Aid Researchers of Problematic Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "\"Here Comes the Makeup Tutorial You Asked For!\": Exploring Communication Strategies and Viewer Engagement in Beauty Videos on Rednote": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"I Can Only Guess Where She's Looking\": Challenges and Design Strategies for Supporting Outdoor Informal Learning Between Parents with Visual Impairments and Their Sighted Children": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"I feel recognized and developed a sense of belonging\": Sustaining Volunteer Participation in Ancient Text Collation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"Like, Are You Okay With Being Recorded?\": Understanding and Designing for Consent to Recording and Livestreaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"Social Leading\": Exploring Imposed Behavioral Synchrony in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"Was there Bias in your Response?\": LLM Anthropomorphic Traits in Context of Ability Bias Questioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "\"You Need to Know What I Can Do\": Revealing Sighted People's Workplace Bias Toward the Visually Impaired and Exploring Intervention Through Serious Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adapting Subtitles: Towards Accessible Subtitled Media for People with Aphasia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AfterLife: Older Adults' and Generative AI Use of Their Voice Identity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alternative Technology Consumption Under Capitalism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Emergent Understanding of Human-AI Collaboration in Deliberation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analyzing Relationship between VTubers and Their Highlight Editors in the Context of Online Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analyzing Students' Use of Generative Artificial Intelligence in Collaborative Problem Solving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anti-Scam: User-Centric Evaluation of LLM-Powered and Content-Based Phone Scam Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmenting Collaborative Problem-Solving: Exploring the Design and Use of GenAI for Groupwork": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Behind the Scenes: A SIG on Researcher Care and the Invisible Care Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Information: Online Participatory Culture and Information Disorder": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging Expertise and Participation in AI: Multistakeholder Approaches to Safer AI Systems for Youth Online Safety": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging the Gap: Translating AI Regulations into Socio-Technical Measures for Responsible AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BTPD: A Multilingual Hand-curated Dataset of Bengali Transnational Political Discourse Across Online Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Centering Harm in Socio-technical Systems: Connecting Design, User Experience, and Policy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Challenges of Providing Social Support on a Women-Centric Platform: Insights from REDnote": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing Relationships with Companion and Assistant Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChatGPT Is Actually My Friend: Understanding the Information Behavior of University Students Interacting with AI Chatbots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-Constructing the Future of Digital Intimacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collective Day-Dreaming and the Purchase of Parasocial Romance: A Preliminary Study on Parasocial Intimacy in Otome Game \"Cos Weituo\" (Cosplay Commission Date)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Communication Games to Study Emerging Disinformation Scenarios With LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing, CSCW Companion 2025, Bergen, Norway, October 18-22, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Text-Only and Virtual Reality-Embodied Conversational AI Agents for Interpersonal Skills Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing and the Arts: Establishing Theoretical and Methodological Foundations for Cross-Disciplinary Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConCaV: Confusion-triggered Captioning for Video Calls": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conducting Research in Oppressive Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context Matters: Ethical Challenges in Research with Online Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CSCW Contributions to Critical Futures of Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Customer Service Representative's Perception of the AI Assistant in an Organization's Call Center": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design for Hope: Cultivating Deliberate Hope in the Face of Complex Societal Challenges": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing an AIGC-Supported Aesthetic Learning Community for Art learners: Toward Equitable Art Education Access": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for Sustainable and Equitable Agricultural Practices and Technologies Between Canada and Mexico: A Multi-Phase Study with Temporary Horticultural Workers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for the Voiceless: Bridging Perception and Compassion in Pet Fish Care": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Identity-Affirming Generative AI for Visual Emotional Expression: Empowering Marginalized Young Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Inclusive AI Interaction for Neurodiversity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Digital Boundaries of Time: Exploring How Calendar App Designs Mediate Time Perceptions and Boundary Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Echo Chambers and Information Brokers on Truth Social: A Study of Network Dynamics and Political Discourse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ethical Considerations for Observational Research in Social VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Examining the Impact of Label Detail and Content Stakes on User Perceptions of AI-Generated Images on Social Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Bengali Creative Storytelling Capabilities of Large Language Models Across Cultural Variations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Design Directions for AI Teaching Assistants in Virtual Science Labs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Resistance and Other Oppositional Responses to AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Effects of Real-Time Machine Translation and Transcription on Non-Native Speakers During Online Interviews": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Impact of Process Transparency on User Experience in AI Design Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fans to Friends: Human Connectedness and Social Belonging by Transnational Live streaming Platform Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Audio Description to Movement: Challenges and Design Principles in Video-based Body Exercise for Blind and Low Vision Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Hashtag to Human-Centered Insights: Rethinking Disability Awareness Across Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Platform Migration to Cultural Integration: the Ingress and Diffusion of #wlw from TikTok to RedNote in Queer Women Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From the Future of Work to the Future of Labor: Centering Worker Resistance in the Age of AI and Automation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Governments as Design Contexts: Institutional Realities of Technology and Design in Government Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Healthy Eating, Identities, and Design Opportunities in Social Media Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Data Work Transforms the Management of Primary Care": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inclusion by Design or by Default? Examining How HCI Studies Engage Underrepresented Youth in Makerspaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Knowledge Explorer: An Agentic AI Framework for Interactive, Personalized and Multilingual Learning Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LegalMind: An Intelligent Solution for Legal Document Analysis with User-Centric UI and AI-Driven Capabilities in Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linking Facial Recognition of Emotions and Socially Shared Regulation in Medical Simulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mapping Risk Work and Designing Technologies to Support it in CSCW Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MemeSpeak: Making Image Memes Blind-Accessible through Emotional Speech Augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MomentsVR: Accessible Immersive Spaces for Authoring Personal Narration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Agent Systems Shape Social Norms for Prosocial Behavior Change": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Navigating Context Collapse: How Network Structure and Message Directedness Shape Online Expression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Octo's Heartland: Supporting Children with Congenital Heart Disease through Digital Health Education": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Operationalizing Data Sovereignty: Design Implications through Understanding User Perception of MyData Implementation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PAL: Designing Conversational Agents as Scalable, Cooperative Patient Simulators for Palliative‑Care Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PaperPing: A Socially-aware AI Agent that Recommends Academic Papers to Research Group Chats with Contextualized Explanations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PhotoEcho: Facilitating Intergenerational Dialogue Through AI-Enhanced Family Photograph Narratives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pinning \"Reflection\" on the Agenda: Investigating Reflection in Human-LLM Co-Creation for Creative Coding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Power, Participation, and Knowledge Production: Technology Mediated Epistemic (In)Justice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proactivity in Scaffolding Comprehension and Production in Real-Time Turn-Taking: A Case Study of Bridging Communication Gaps for Non-Native Speakers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reddit as a Refuge for Managing Reproductive Rights in Post-Roe U.S": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reflexivity & Reflection (R&R) for Sociotechnical Safety: Creating a Space for Collective Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Regulating Sustainability: the Interplay of Laws, Policies, Norms, and Design in Sustainable CSCW": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reinventing Igisoro: Exploring Materiality in a Cultural Heritage Game Board": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Responsibly Training Foundation Models: Actualizing Ethical Principles for Curating Large-Scale Training Datasets in the Era of Massive AI Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scale, Engage, or Both?: Potential and Perils of Applying Large Language Models in Interview and Conversation-Based Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Social Agentics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SocialSim: An Open Source Platform for Conducting Behavioral Intervention Research on Social Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Special Interest Group: Evaluating Research From and About the Global Majority": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structuring Collaborative Reflection: Integrating Diary Study and Focus Group Discussion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting Teamwork in Mixed-Ability Virtual Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Technologies for Building Power in an Age of Democratic Backsliding: Advancing a Vision for People Power in CSCW Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Contested Commons: Governing Information-Related Public Goods Under Attack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Generative AI on the CSCW Landscape: Insights from HCI Education, Industry Dynamics, and Funding Perspectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Mechanisms of Muting: Deconstructing the Technology-Mediated Violence of Silence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Password You Hope You Never Use: Use Cases for Duress Authentication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Social Dynamics of Voice Cloning: Trust, Privacy, and Ethical Tensions When Sharing Your AI Voice Replica": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Work of AI Red Teaming: Automation and the Human Infrastructure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Systemic Risk Literacy for Tech-Facilitated Gender-Based Violence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Traces, Breadcrumbs, and Patina: Exploring and Designing with Traces of Activity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transforming Communication and Collaboration Ecosystem for Early-Stage Researchers Navigating Human-Computer Interaction Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TrueAI: An AI-Enhanced Intervention to Prevent Fake News Spread Among older adults on Social Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Designing for Family Transitions in Supportive Housing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unhappy to be Guided: Students' Negative Affect and Digital Nudge Effectiveness in Combating Procrastination Towards Informal Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Interviewers, Real Results: Exploring AI-Driven Mock Technical Interviews on Student Readiness and Confidence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Tutors for Science Labs: Exploring the Impact of GPT Integration and 3D Tutor Avatars on Student Engagement and Learning Outcomes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Voice to Vision: A Sociotechnical System for Transparent Civic Decision-Making": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Voices Lost in the Algorithm: Improving Instagram's Moderation of Mental Health Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Accessibility Becomes a Trap: A User-Centric Characterization of Dark Patterns Arising from Screen Reader Users' Perceived Deception in Mobile Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Workplace Cyborgification in Maritime Onshoring: An Ethnographic Case Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

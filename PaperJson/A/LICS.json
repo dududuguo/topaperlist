@@ -1,0 +1,1857 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "LICS",
+  "papers": {
+    "2021": {
+      "36th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS 2021, Rome, Italy, June 29 - July 2, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Bunched Logic for Conditional Independence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Complete Axiomatisation for Divergence Preserving Branching Congruence of Finite-State Behaviours": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Compositional Cost Model for the λ-calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Constructive Logic with Classical Proofs and Refutations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A distributed operational view of Reversible Prime Event Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Logic for Locally Complete Abstract Interpretations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Normal Form Characterization for Efficient Boolean Skolem Function Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Quantum Interpretation of Bunched Logic & Quantum Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Relational Theory of Monadic Rewriting Systems, Part I": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstraction in Data Integration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alignment Completeness for Relational Hoare Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Algebraic Characterisation of First-Order Logic with Neighbour": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assuming Just Enough Fairness to make Session Types Complete for Lock-freedom": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asynchronous Extensions of HyperLTL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asynchronous Template Games and the Gray Tensor Product of 2-Categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Axiomatizations and Computability of Weighted Monadic Second-Order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Behavioural Preorders via Graded Monads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Canonical Polymorphisms of Ramsey Structures and the Unique Interpolation Property": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Categorical models of Linear Logic with fixed points of formulas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Categories of Nets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combinatorial Proofs and Decomposition Theorems for First-order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Nondeterminism, Probability, and Termination: Equational and Metric Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Commutative Monads for Probabilistic Programming Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comonadic semantics for guarded fragments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complexity Lower Bounds from Algorithm Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional relational reasoning via operational game semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Semantics for Probabilistic Programs with Exact Conditioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constraint Satisfaction Problems over Finite Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Continuous One-Counter Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decidability and Complexity in Weakening and Contraction Hypersequent Substructural Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonic Lattices and Semilattices in Relational Semigroups with Ordinary Composition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Local Computation of Differential Bisimulations via Coupling and Up-to Methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evidenced Frames: A Unifying Framework Broadening Realizability Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Expressivity of Quantitative Modal Logics : Categorical Foundations via Codensity and Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finite Model Theory of the Triguarded Fragment and Related Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "First-Order Reasoning and Efficient Semi-Algebraic Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixed-Points for Quantitative Equational Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Forbidden Induced Subgraphs and the Łoś-Tarski Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Finite-Valued Nondeterministic Transducers to Deterministic Two-Tape Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Multisets over Distributions to Distributions over Multisets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fusible numbers and Peano Arithmetic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Global Optimisation with Constructive Reals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graphical Language with Delayed Trace: Picturing Quantum Computing with Finite Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gödel-McKinsey-Tarski and Blok-Esakia for Heyting-Lewis Implication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher Lenses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In search of lost time: Axiomatising parallel composition in process algebras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inapproximability of Unique Games in Fixed-Point Logic with Counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Initial Limit Datalog: a New Extensible Class of Decidable Constrained Horn Clauses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Internal ∞-Categorical Models of Dependent Type Theory : Towards 2LTT Eating HoTT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intersection Type Distributors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lacon- and Shrub-Decompositions: A New Characterization of First-Order Transductions of Bounded Expansion Classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Living without Beth and Craig: Definitions and Interpolants in the Guarded and Two-Variable Fragments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lovász-Type Theorems and Game Comonads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimal Taylor Algebras as a Common Framework for the Three Algebraic Approaches to the CSP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monomial size vs. Bit-complexity in Sums-of-Squares and Polynomial Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Structural Games and Number of Quantifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "No-Rainbow Problem and the Surjective Constraint Satisfaction Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Normalization for Cubical Type Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Generalized Metric Spaces for the Simply Typed Lambda-Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Linear Time Decidability of Differential Privacy for Programs with Unbounded Inputs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Logics and Homomorphism Closure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On sequentiality and well-bracketing in the π-calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Expressive Power of Homomorphism Counts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the logical structure of choice and bar induction principles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Orbit-Finite-Dimensional Vector Spaces and Weighted Register Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterized Complexity of Elimination Distance to First-Order Logic Properties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parametricity and Semi-Cubical Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parikh's theorem for infinite alphabets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perspective Multi-Player Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Positive First-order Logic on Words": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PTAS for Sparse General-Valued CSPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantitative and Approximate Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Removing Redundant Refusals: Minimal Complete Test Suites for Failure Trace Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Responsibility and verification: Importance value in temporal logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SD-Regular Transducer Expressions for Aperiodic Transformations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separating Rank Logic from Polynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Session Logical Relations for Noninterference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smart Choices and the Selection Monad": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Some constructive variants of S4 with the finite model property": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stochastic Processes with Expected Stopping Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Strong Call-by-Value is Reasonable, Implosively": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supermartingales, Ranking Functions and Probabilistic Lambda Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbolic Time and Space Tradeoffs for Probabilistic Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Laplace Mechanism has optimal utility for differential privacy over continuous queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Logic of Graph Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Smash Product of Monoidal Theories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Space of Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Topological Mu-Calculus: completeness and decidability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Undecidability of System F Typability and Type Checking for Reductionists": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a more efficient approach for the satisfiability of two-variable logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Types Are Internal ∞-Groupoids": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Semantics for the Stochastic λ-Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Skolem Sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying higher-order concurrency with data automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zero-one laws for provability logic: Axiomatizing validity in almost all models and almost all frames": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "A direct computational interpretation of second-order arithmetic via update recursion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A first-order completeness result about characteristic Boolean algebras in classical realizability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Functorial Excursion Between Algebraic Geometry and Linear Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Type Theory for Strictly Unital ∞-Categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstractions for the local-time semantics of timed automata: a foundation for partial-order methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Active learning for sound negotiations✱": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Nonexpansive Operations in Quantitative Algebraic Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bouncing Threads for Circular and Non-Wellfounded Proofs: Towards Compositionality with Circular Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing Positionality in Games of Infinite Duration over Infinite Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Choiceless Polynomial Time with Witnessed Symmetric Choice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complexity of Modular Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computable PAC Learning of Continuous Features": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing the Density of the Positivity Set for Linear Recurrence Sequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concrete categories and higher-order recursion: With applications including probability, differentiability, and full abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Curry and Howard Meet Borel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cyclic Implicit Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deciding Hyperproperties Combined with Functional Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Construction of Reversible Transducers from Regular Transducer Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exponentials as Substitutions and the Cost of Cut Elimination in Linear Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Geometric decision procedures and the VC dimension of linear arithmetic theories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graded Monads and Behavioural Equivalence Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Greatest HITs: Higher inductive types in coinductive definitions via induction under clocks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identity Testing for Radical Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LICS '22: 37th Annual ACM/IEEE Symposium on Logic in Computer Science, Haifa, Israel, August 2 - 5, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear-Algebraic Models of Linear Logic as Categories of Modules over Σ-Semirings✱": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Logical Foundations of Quantitative Equality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower Bounds for the Reachability Problem in Fixed Dimensional VASSes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Milner's Proof System for Regular Expressions Modulo Bisimilarity is Complete: Crystallization: Near-Collapsing Process Graph Interpretations of Regular Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model Checking on Interpretations of Classes of Bounded Local Cliquewidth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monoidal Streams for Dataflow Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Normalization for Multimodal Type Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Almost-Uniform Generation of SAT Solutions: The power of 3-wise independent hashing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Satisfiability of Context-free String Constraints with Subword-Ordering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Skolem Problem and the Skolem Conjecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the strength of Sherali-Adams and Nullstellensatz as propositional proof systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partitions and Ewens Distributions in element-free Probability Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Verification Beyond Context-Freeness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probability monads with submonads of deterministic states": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Expectation Transformers for Cost Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Weakest Preconditions for Reasoning about Expected Runtimes of Quantum Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ramsey Quantifiers over Automatic Structures: Complexity and Applications to Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reasonable Space for the λ-Calculus, Logarithmically": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reasoning on Data Words over Numeric Domains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resource approximation for the λμ-calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantics for two-dimensional type theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separating LREC from LFP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Size measures and alphabetic equivalence in the μ-calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smooth approximations and CSPs over finitely bounded homogeneous structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solvability of orbit-finite systems of linear equations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stable graphs of bounded twin-width": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stochastic Games with Synchronizing Objectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Syllepsis in Homotopy Type Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Temporal Team Semantics Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The amazing mixed polynomial closure and its applications to two-variable first-order logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The boundedness and zero isolation problems for weighted automata over nonnegative rationals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Complexity of Bidirected Reachability in Valence Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The complexity of soundness in workflow nets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Pebble-Relation Comonad in Finite Model Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Regular Languages of First-Order Logic with One Alternation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transducers of polynomial growth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Treelike Decompositions for Transductions of Sparse Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Varieties of Quantitative Algebras and Their Monads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Locality Meets Preservation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zero-One Laws and Almost Sure Valuations of First-Order Logic in Semiring Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zigzag normalisation for associative n-categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "A categorical account of composition methods in logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Complete Equational Theory for Quantum Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Higher-Order Indistinguishability Logic for Cryptographic Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Metalanguage for Cost-Aware Denotational Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A system of inference based on proof search: an extended abstract": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Allegories of Symbolic Manipulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Applications of Information Inequalities to Database Theory Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Amortized Resource Analysis with Regular Recursive Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boolean symmetric vs. functional PCSP dichotomy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cartesian Coherent Differential Categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Central Submonads and Notions of Computation: Soundness, Completeness and Internal Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Commutativity in Automated Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complete Graphical Language for Hermiticity-Preserving Superoperators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Completeness for arbitrary finite dimensions of ZXW-calculus, a unifying calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational expressivity of (circular) proofs with fixed points": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing the linear hull: Deciding Deterministic? and Unambiguous? for weighted automata over fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cut-Restriction: From Cuts to Analytic Cuts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic stream-sampling for probabilistic programming: semantics and verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distal Combinatorial Tools for Graphs of Bounded Twin-Width": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embedded Finite Models beyond Restricted Quantifier Collapse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evidential Decision Theory via Partial Markov Categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Existential Calculi of Relations with Transitive Closure: Complexity and Edge Saturations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Expressive Completeness of Two-Variable First-Order Logic with Counting for First-Order Logic Queries on Rooted Unranked Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extensional and Non-extensional Functions as Processes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixed Point Logics on Hemimetric Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixpoint operators for 2-categorical structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Folding interpretations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formalizing π4(S3) ≅Z/2Z and Computing a Brunerie Number in Cubical Agda": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Thin Concurrent Games to Generalized Species of Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Abstract Normal Form Bisimulation for Call-by-Value PCF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Group Separation Strikes Back": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher-Dimensional Subdiagram Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intuitionistic S4 is decidable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Logic for Explainable AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making Concurrency Functional": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimization of Dynamical Systems over Monoids": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multiplicity Problems on Algebraic Series and Context-Free Grammars": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Certificates, Expected Runtimes, and Termination in Probabilistic Pushdown Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Exact Sampling in the Two-Variable Fragment of First-Order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Growth Rates of Polyregular Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Operational Algorithmic Game Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Orbit-finite linear programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PDL on Steroids: on Expressive Extensions of PDL with Intersection and Converse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pseudorandom Finite Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantifying Over Trees in Monadic Second-Order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reachability in Injective Piecewise Affine Maps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Membership Problems in Subclasses of Rational Relations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semi-Simplicial Set Models for Distributed Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Set-Theoretic and Type-Theoretic Ordinals Coincide": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simulating Logspace-Recursion with Logarithmic Quantifier Depth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stochastic Best-Effort Strategies for Borel Goals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stopping Criteria for Value Iteration on Stochastic Games with Quantitative Objectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structure-Aware Lower Bounds and Broadening the Horizon of Tractability for QBF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symmetries of Graphs and Structures that Fail to Interpret a Finite Thing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taylor Expansion as a Monad in Models of DiLL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Big-O Problem for Max-Plus Automata is Decidable (PSPACE-Complete)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Cartesian Closed Bicategory of Thin Spans of Groupoids": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Descriptive Complexity of Graph Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Identity Problem in the special affine group of Z2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Iteration Number of the Weisfeiler-Leman Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Logic of Prefixes and Suffixes is Elementary under Homogeneity*": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Power of Positivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Probabilistic Rabin Tree Theorem*": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying linear temporal specifications of constant-rate multi-mode systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weak Similarity in Higher-Order Mathematical Operational Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ωPAP Spaces: Reasoning Denotationally About Higher-Order, Recursive Probabilistic and Differentiable Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ℤ-polyregular functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "\"Upon This Quote I Will Build My Church Thesis\"": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "1-in-3 vs. Not-All-Equal: Dichotomy of a broken promise": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Cartesian Closed Category for Random Variables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Characterisation Theorem for Two-Way Bisimulation-Invariant Monadic Least Fixpoint Logic Over Finite Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Completeness Theorem for Probabilistic Regular Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Nominal Approach to Probabilistic Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Profunctorial Semantics for Quantum Supermaps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A proof theory of right-linear (ω-)grammars via cyclic proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Syntax for Strictly Associative and Unital ∞-Categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Approach to Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Analysis of Symmetry in Quantitative Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An expressively complete local past propositional dynamic logic over Mazurkiewicz traces and its applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Are Targeted Messages More Effective?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bialgebraic Reasoning on Higher-order Program Equivalence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bounded-Memory Strategies in Partial-Information Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bounding the Weisfeiler-Leman Dimension via a Depth Analysis of I/R-Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Braids, Twists, Trace and Duality in Combinatory Algebras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining fixpoint and differentiation theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complete Game Logic with Sabotage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Composing Codensity Bisimulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concurrent Games over Relational Structures: The Origin of Game Comonads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contextual Equivalence for State and Control via Nested Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decidability and Complexity of Decision Problems for Affine Continuous VASS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decidability of Quasi-Dense Modal Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Declassification Policy for Program Complexity Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Defining algorithmically presented structures in first order logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Delooping cyclic groups with lens spaces in homotopy type theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Determinisation and Unambiguisation of Polynomially-Ambiguous Rational Weighted Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Sub-exponential Algorithm for Discounted-sum Games with Unary Weights": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Diagrammatic Algebra of First Order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Discounted-Sum Automata with Real-Valued Discount Factors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dot-depth three, return of the J-class": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effectful semantics in bicategories: strong, commutative, and concurrent pseudomonads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Element-free probability distributions and random partitions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Elementary first-order model checking for sparse graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equivalence and Conditional Independence in Atomic Sheaf Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equivariant ideals of polynomials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finite-valued Streaming String Transducers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "First order complexity of finite random structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "First order distinguishability of sparse random graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Quantifier Depth to Quantifier Number: Separating Structures with k Variables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Genericity Through Stratification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Initial Algebras Unchained - A Novel Initial Algebra Construction Formalized in Agda": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Injective hardness condition for PCSPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear Termination is Undecidable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local consistency as a reduction between constraint satisfaction problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimal Equational Theories for Quantum Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model Checking Disjoint-Paths Logic on Topological-Minor-Free Graph Classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Natural numbers from integers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "No Go Theorems: Directed Containers That Do Not Distribute Over Distribution Monads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Elementary Compression of First-Order Proofs in Deep Inference Using Epsilon-Terms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On symmetries of spheres in univalent foundations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Completeness of Interpolation Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the complexity of Maslov's class K": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Decidability of Monadic Second-Order Logic with Arithmetic Predicates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Separability Problem of VASS Reachability Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Positional ω-regular languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Primitive Recursive Dependent Type Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 39th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS 2024, Tallinn, Estonia, July 8-11, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pushdown Normal-Form Bisimulation: A Nominal Context-Free Approach to Program Equivalence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum advantage and CSP complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rank-decreasing transductions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relevant S is Undecidable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separating Markov's Principles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separation and Encodability in Mixed Choice Multiparty Sessions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Slice closures of indexed languages and word equations with counting constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soundness of reset workflow nets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Complexity of Resilience Problems via Valued Constraint Satisfaction Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Finite Satisfiability Problem for PCTL is Undecidable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Relational Machine Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uniformisation of Regular Relations in First-Order Logic with Two Variables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Unboundedness via Amalgamation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "δ is for Dialectica": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "#P is Sandwiched by One and Two #2DNF Calls: Is Subtraction Stronger Than We Thought?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "3D-grids are not transducible from planar graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "40th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS 2025, Singapore, June 23-26, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Complexity Dichotomy for Semilinear Target Sets in Automata with One Counter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic and algorithmic synergies between promise and infinite-domain CSPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alternating Nominal Automata with Name Allocation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Evaluation of Quantitative Second Order Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Behavioural Conformances based on Lax Couplings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Binary symmetries of tractable non-rigid structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterization and Decidability of FC-Definable Regular Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Classical Simulation of Quantum CSP Strategies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Closure and Complexity of Temporal Causality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complete Quantum Relational Hoare Logics from Optimal Transport Duality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Completing Gordon's Higher-Order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Taylor expansion in cartesian differential categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conformance Games for Graded Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Convergence Laws for Extensions of First-Order Logic with Averaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effectful Mealy Machines: Bisimulation and Trace": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equivalence Hypergraphs: DPO Rewriting for Monoidal E-Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flipping and Forking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Functional Stream Semantics for a Synchronous Block-Diagram Compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graphs of unbounded linear cliquewidth must transduce all trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Group Order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hofmann-Streicher lifting of fibred categories : Dedicated to the memory of Thomas Streicher (1958-2025)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Homological Invariants of Higher-Order Equational Theories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "If At First You Don't Succeed: Extended Monitorability through Multiple Executions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Initial Algebra Correspondence under Reachability Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interpolation for the two-way modal μ-calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Deterministic One-Counter Automata in Polynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Weighted Automata over Number Rings, Concretely and Categorically": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Logical relations for call-by-push-value models, via internal fibrations in a 2-category": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimal History-Deterministic Co-Büchi Automata: Congruences and Passive Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model Enumeration of Two-Variable Logic with Quadratic Delay Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multiple Reachability in Linear Dynamical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multiplicative Rewards in Markovian Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Naturality for higher-dimensional path types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Navigational hierarchies of regular languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the denotation of circular and non-wellfounded proofs in linear logic with fixed points": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Operator Spaces, Linear Logic and the Heisenberg-Schrödinger Duality of Quantum Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ordinal Exponentiation in Homotopy Type Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Strategies: Definability and the Tensor Completeness Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proof Compression via Subatomic Logic and Guarded Substitutions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pushdown Model Checking above the Cubic Bottleneck": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantifier Elimination for Regular Integer Linear-Exponential Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Random Variables, Conditional Independence and Categories of Abstract Sample Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reachability and Related Problems in Vector Addition Systems with Nested Zero Tests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reachability Types, Traces and Full Abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recognisability Equals Definability for Finitely Representable Matroids of Bounded Path-Width": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Regular Grammars for Sets of Graphs of Tree-Width 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relators and Notions of Simulation Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Risk-aware Markov Decision Processes Using Cumulative Prospect Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantical Analysis of Intuitionistic Modal Logics between CK and IK": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separation and Definability in Fragments of Two-Variable First-Order Logic with Counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stopping Criteria for Value Iteration on Concurrent Stochastic Reachability and Safety Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Substructural Abstract Syntax with Variable Binding and Single-Variable Substitution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Syntactic Effectful Realizability in Higher-Order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Blurred Drinker Paradox: Constructive Reverse Mathematics of the Downward Löwenheim-Skolem Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The commutativity problem for effective varieties of formal series, and applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Identity Problem in virtually solvable matrix groups over algebraic numbers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The internal languages of univalent categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Qualitative Collapse of Concurrent Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The sorrows of a smooth digraph: the first hardness criterion for infinite directed graph-colouring problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Steenrod squares via unordered joins": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Yoneda embedding in simplicial type theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thin Coalgebraic Behaviours Are Inductive": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transductions of Graph Classes Admitting Product Structure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When is the partial map classifier a Sierpiński cone?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

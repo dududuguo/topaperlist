@@ -1,0 +1,4857 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "UbiComp",
+  "papers": {
+    "2021": {
+      "6th International Workshop on Mental Health and Well-being: Sensing and Intervention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "9th International Workshop on Human Activity Sensing Corpus and Applications (HASCA)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Comparative Study of CIPN Symptom Estimation Methods Based on Machine Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Middleware for Implicit Human-Computer Interaction Across IoT Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Simple and Fast Human Activity Recognition System Using Radio Frequency Energy Harvesting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Sub-Milliwatt and Sub-Millisecond 3-D Gaze Estimator for Ultra Low-Power AR Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Windowless Approach to Recognize Various Modes of Locomotion and Transportation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AC-WGAN-GP: Augmenting ECG and GSR Signals using Conditional Generative Models for Arousal Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerometer based Complex Nurse Care Activity Recognition using Machine Learning Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Activity Knowledge Graph Recognition by Eye Gaze: Identification of Distant Object in Eye Sight for Watch Activity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Activity Simulation from Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptor: A Real-time Module for a Conversational Agent to Adapt Policy Based on Negative User Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Addressing Problematic Smartphone Use with a Personalized, Goal-based Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Air Quality Sensor Network Data Acquisition, Cleaning, Visualization, and Analytics: A Real-world IoT Use Case": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AirCase: Earable Charging Case with Air Quality Monitoring and Soundscape Sonification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Approach for Human Locomotion and Transportation Recognition from Radio Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Ensemble of ConvTransformer Networks for the Sussex-Huawei Locomotion-Transportation (SHL) Recognition Challenge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analysis of Feature Importances for Automatic Generation of Care Records": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARToken: A Tangible Device for Dynamically Binding Real-world Objects with Virtual Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AudioMomento": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Reality with Industrial Process Tomography: To Support Complex Data Analysis in 3D Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Segmentation Method of Bone Conduction Sound for Eating Activity Detailed Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoPCD: Learning-Augmented Indoor Point Cloud Completion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Blind Calibration by Maximizing Correlation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Capacitive Sensing Based On-board Hand Gesture Recognition with TinyML": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CELIP: Ultrasonic-based Lip Reading with Channel Estimation Approach for Virtual Reality Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Challenges and Opportunities in Developing Systems to Assist Patients in Recovering from Gambling Addiction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Challenges of Emotion Detection Using Facial Expressions and Emotion Visualisation in Remote Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Challenges on Collecting Smartphone Data in Cold Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Classical machine learning and deep neural network ensemble model for GPS-based activity recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Classical Machine Learning Approach for Human Activity Recognition Using Location Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collecting a Dataset of Gestures for Skill Assessment in the Field: a beach volleyball serves case study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Confidence Estimation via Wrist Movement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Controlling Security Rules Using Natural Dialogue: an Application to Smart Home Care": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coremoni-WE: Individual Core Training Monitoring and Support System Using an IMU at the Waist and the Ear": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CPD 2021: The 4th International Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CravingProbe: A System Combining Virtual Reality and Biofeedback Technologies to Assist Drug Psychotherapy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dark-Channel Mixed Attention Based Neural Networks for Smoke Detection in Fog Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Contribution Summaries for Patient Engagement in Multi-Device Health Monitoring Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Mining for Transportation Mode Recognition from Radio-data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Portability as a Tool for Audit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data-driven Clustering in Ad-hoc Networks based on Community Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deep Learning Based Underwater Acoustic Channel Estimation Exploiting Physical Knowledge on Channel Sparsity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Chewpin: a wearable acoustic device for chewing detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dense CNN and IndRNN for the Sussex-Huawei Locomotion-Transportation Recognition Challenge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for Serious Mental Illnesses: Enabling Early Detection and Supporting Financial Wellbeing in Bipolar Disorder": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Memory Aids for Dementia Patients using Earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting forward leaning posture using eSense and developing a posture improvement promoting system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Single-Hand Riding with Integrated Accelerometer and Gyroscope of Smartphone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Verbal and Non-Verbal Gestures Using Earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differentially Private Federated Learningfor Anomaly Detection in eHealth Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DillyDally: Overcome Your Procrastination via Social Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Earable Design Analysis for Sleep EEG Measurements": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Earables for Detection of Bruxism: a Feasibility Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarComp 2021: Second International Workshop on Earable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of Counting Seconds in the Mind while Reading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of Intervening Backwards from Goals to Improve Sleep Habits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Electromagnetic Vibration Tactile Feedback for Biological and Artificial Wave Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "emteqPRO: Face-mounted Mask for Emotion Recognition and Affective Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating Patient Independence with Sleep Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating the Degree of Mental State using Heart Rate while Studying": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience Sampling Tool for Repetitive Skills Training in Sports using Voice User Interface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experiencing Social Augmented Reality in Public Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Emotional Reappraisal and Repression through Acoustic Mood Self-Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eyewear 2021 The Forth Workshop on Eyewear Computing - Augmenting Social Situations and Democratizing Tools": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "False Face Must Hide What the False Heart Doth Know: : The Literary Face in the Age of AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feature-based Method for Nurse Care Complex Activity Recognition from Accelerometer Sensor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Few-Shot Cross Domain Battery Capacity Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flowing-Haptic Sleeve: Research on Apparent Tactile Motion Applied to Simulating the Feeling of Flow on the Arm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fullproof: Towards the Detection of Impostor Syndrome Using Smartphone Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generative Adversarial Network Enabled Sparse Signal Compression and Recovery for Internet of Medical Things": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HeadSense: A Head Movement Detecting System for Micro-Mobility Riders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-Speed Non-Contact Thermal Display Using Infrared Rays and Shutter Mechanism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HTPad: Hexagon-fractal TENG Pad for Scalable Touch Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Human activity recognition with AutoML using smartphone radio data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying Roles, Requirements and Responsibilitiesin Trustworthy AI Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In Search of Harmful Stress": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inferring Complex Textile Shape from an Integrated Carbon Black-infused Ecoflex-based Bend and Stretch Sensor Array": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating Behavior Change and Persuasive Design Theories into an Example Mobile Health Recommender System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating the Reliability of Self-report Data in the Wild: The Quest for Ground Truth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IoT in the Wild: An expedition of discovery for remote monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IoT Nudge: IoT Data-driven Nudging for Health Behavior Change": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Killing-Time Detection from Smartphone Screenshots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Location-based Human Activity Recognition Using Long-term Deep Learning Invariant Mapping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locomotion and Transportation Mode Recognition from GPS and Radio Signals: Summary of SHL Challenge 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locomotion-Transportation Recognition via LSTM and GPS Derived Feature Engineering from Cell Phone Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making Sense of Emotion-Sensing: Workshop on Quantifying Human Emotions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MassHog: Weight-Sensitive Occupant Monitoring for Pig Pens using Actuated Structural Vibrations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Material Identification System with Sound Simulation Assisted Method in VR/AR Scenarios": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Meditation Detection Using Sensors from Wearable Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MilliPose: Facilitating Full Body Silhouette Imaging from Millimeter-Wave Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobility Data-driven Complete Dispatch Framework for the Ride-hailing Platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multiple Tree Model Integration for Transportation Mode Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nurse Care Activity Recognition from Accelerometer Sensor Data Using Fourier- and Wavelet-based Features": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nurse Care Activity Recognition: A Cost-Sensitive Ensemble Approach to Handle Imbalanced Class Problem in the Wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Occurrence and Triggers of Mobile News Exposure: A Screenshot-Based ESM Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Performance Impact of Poisoning Attacks on Load Forecasting in Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Potential of Large-scale Extended Reality Interaction for Industrial Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Predictability of Parking Preferences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Opportune Moments for the Multi-Stage Notification Responding Process: A Preliminary Investigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Package Delivery Using Autonomous Drones in Skyways": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Participants' Experience and Adherence in Repeated Measurement Studies Among Office-Based Workers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Participatory Action Research and Open Source Hardware Appropriation for Large Scale In-The-Wild Studies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Particles of a Whole: Design Patterns for Transparent and Auditable AI-Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PerMML: A Performance Metric for Multi-layer Dataset": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Phased Human Activity Recognition based on GPS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Physical Knowledge Driven Multi-scale Temporal Receptive Field Network for Compressed Video Action Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PilotEar: Enabling In-ear Inertial Navigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PIWIMS: Physics Informed Warehouse Inventory Monitory via Synthetic Data Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POLYHYMNIA Mood - Empowering people to cope with depression through music listening": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: A Participatory Workshop to Design Vibrothermal Haptics of a Smart Fidget Surface for Remote Workers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Exploring User Contexts and Needs for Context-aware Smartphone Distraction Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: I'm Interested, but Can/Would Only Skim It: Studying Smartphone Users' Receptivity to News Notifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Toward Context-aware Proactive Conversation for Smart Speakers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prediction of Eating Activity using Smartwatch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Project Ariel: An Open Source Augmented Reality Headset for Industrial Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prototyping Smart Eyewear with Capacitive Sensing for Facial and Head Gesture Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PTSDialogue: Designing a Conversational Agent to Support Individuals with Post-Traumatic Stress Disorder": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantified Us: a group-in-the-loop approach to team network reconstruction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantity or Quality? Data Enabled Online Energy Dispatch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recognition of Behaviour Patterns for People with Profound Intellectual and Multiple Disabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing Label Fragmentation During Time-series Data Annotation to Reduce Annotation Costs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reflecting on Emotions within VR Mood Worlds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SensiBlend: Sensing Blended Experiences in Professional and Social Contexts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartCamera: Realtime Video Stream-Oriented Action Recognition Platform in Edge Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sonic Straws: A beverage-based playful gustosonic system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StressNAS: Affect State and Stress Detection Using Neural Architecture Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Summary of the Third Nurse Care Activity Recognition Challenge - Can We Do from the Field Data?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TACNet: Task-aware Electroencephalogram Classification for Brain-Computer Interface through A Novel Temporal Attention Convolutional Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TechLifeProbe: A Technology Prototype to Probe How Data Sharing With Adolescents' Parents Improves Their Technology Abuse Through Mobile Phones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The First Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Predictive Power of Eye-Tracking Data in an Interactive AR Learning Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Three-Dimensional Indoor Visible Light Localization: A Learning-Based Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TIP-Air: Tracking Pollution Transfer for Accurate Air Quality Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Fine-Grained Sleeping Activity Recognition: 3d Extension and an Estimation Try on Joint Position of SLP Dataset": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Speech Articulation Detection through Smartphone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Design Space for Emotion Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Automatic Recognition of Perceived Level of Understanding on Online Lectures using Earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Designerly Data Donation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Explainability of non-Convolutional Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Robust Models of Cyber-Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transition-points-based Segmentation and Hierarchical Classification for Locomotion and Transportation recognition on Radio-data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TriboGait: A deep learning enabled triboelectric gait sensor system for human activity recognition and individual identification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Triple-O for SHL Recognition Challenge: An Ensemble Framework for Multi-class Imbalance and Training-testing Distribution Inconsistency by OvO Binarization with Confidence Weight of One-class Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UbiComp/ISWC '21: 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and 2021 ACM International Symposium on Wearable Computers, Virtual Event, September 21-25, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Structural Hole Spanners in Location-Based Social Networks: A Data-Driven Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Interaction as Nudge to Increase Installation Rate of COVID-19 Contact-Confirming Application": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Smart Eyewear to Sense Electrodermal Activity While Reading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ViSAR: A Mobile Platform for Vision-Integrated Millimeter-Wave Synthetic Aperture Radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vision-based Scene Analysis toward Dangerous Cycling Behavior Detection Using Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Voice Assistants for Speech Therapy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WellComp 2021: Fourth International Workshop on Computing for Well-Being": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wild by Design: Workshop on Designing Ubiquitous Health Monitoring Technologies for Challenging Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WildKey: A Privacy-Aware Keyboard Toolkit for Data Collection In-The-Wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Workshop on Reviewable and Auditable Pervasive Systems (WRAPS)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "10th International Workshop on Human Activity Sensing Corpus and Applications (HASCA)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "4D Embroidery: Implementing Parametric Structures in Textiles for Sculptural Embroidery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "7th International Workshop on Mental Health and Well-being: Sensing and Intervention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Method for Estimating Distance Actually Swam using Wearable Accelerometer and Gyroscope": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Method for Estimating Temperature of Grasped Object using PPG Sensor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Method for Identifying a Person Entering a Bathtub using a Water Pressure Sensor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Micro-mobility Sensing System to Portray Riding Styles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Portable Solution to Noninvasive Glucose Sensing with Light": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Preliminary Study for Detecting Visual Search Behaviors During Street Walking Using Earable Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Taxonomy of Noise in Voice Self-reports while Running": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ActiviSee: Activity Transition Detection for Human Users through Wearable Sensor-augmented Glasses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers, UbiComp/ISWC 2022, Cambridge, United Kingdom, September 11-15, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Affect and Learning in the LAUREATE Dataset": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anomaly Detection based on Broad Leaning System for Rolling Element Bearing Fault Diagnosis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aromug: Mug-type Olfactory Interface to Assist in Reducing Sugar Intake": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Attaching Microlearning to Existing Habits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AudioBuddy: Using Sound Sensors to Support Sound Sensitivity Awareness in Autistic Individuals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Autonomous Delivery of Multiple Packages Using Single Drone in Urban Airspace": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BERT Variants for Depression Screening with Typed and Transcribed Responses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond a One-Size-Fits-All Approach: Towards Personalizing Multi-device Setups in Crowdwork": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Biodegradable Bio-based Material for Wearable Air Filtering Skin": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bodily Condition Estimation of Archery Learners Using Interoceptive Accuracy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bringing UWB Indoor Localization Closer to being Universal and Pervasive": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cognitive Ability Classification using On-body Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Color-wall: Adaptive Color Filter to Reduce Digital Distractions during PC Work": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Delivering Sensing Technologies for Education and Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeliverSense: Efficient Delivery Drone Scheduling for Crowdsensing with Deep Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: I Am a Robot: First-person Robotic Arm Control with Hand Motions in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Development of Novel Haptic Skin Strain Device for the Arm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Implementation of a Non-contact Thermometer that Records Body Temperature Individually using Forehead Wrinkle Image": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design of Augmented Reality based Environment to Promote Spatial Imagination for Mathematics Education in Elementary School": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design of High Sensitivity Interdigital Capactive Humidity Sensor Based on Uncertainty Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing an Intelligent Learning System For Practicing the Oboe Embouchure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing and evaluating a system for studying EarEEG signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarComp 2022: Third International Workshop on Earable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Electrical impedance tomography bladder monitoring wearable device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EmoTracer: A Wearable Physiological and Psychological Monitoring System With Multi-modal Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "enVolve: Are You Listening? Inertial Sensing to Monitor the Involvement of Silent Listeners during an Online Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating Stress in Online Meetings by Remote Physiological Signal and Behavioral Features": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluation Dataset of Multiple-Choice Cloze Items for Vocabulary Training and Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Excerpt from \"Sensing with Earables: A Systematic Literature Review and Taxonomy of Phenomena\"": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Excerpt of Auritus: An Open-Source Optimization Toolkit for Training and Development of Human Movement Models and Filters Using Earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Excerpt of PPGface: Like What You Are Watching? Earphones Can \"Feel\" Your Facial Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Excerpt of ToothSonic: Earable Authentication via Acoustic Toothprint": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience is the Best Teacher: Personalized Vocabulary Building Within the Context of Instagram Posts and Sentences from GPT-3": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring How Neurofeedback Data Visualization Affects User Immersiveness and Experience in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring LAUREATE - the Longitudinal multimodAl stUdent expeRience datasEt for AffecT and mEmory research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feasibility of Remote Pulse Transit Time Estimation Using Narrow-band Multi-wavelength Camera Photoplethysmography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feature Relevance Analysis to Explain Concept Drift - A Case Study in Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Federated Capsule Graph Neural Network with Personalization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Heart Rate Estimation from Noisy PPGs Using 1D/2D Conversion and Transfer Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hierarchical Feature Recovery for Robust Human Activity Recognition in Body Sensor Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Home Routines Suitable for Incidental Exposure to News: Pilot Field Experiment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impact of Public Lighting Intensity on the Feeling of Safety in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improve Immersion in Virtual Reality-Based Basketball Training By Haptic Feedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Collaborative Learning in Virtual Reality With Facial Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incentivizing Mobility of Multi-agent Vehicle Swarms with Deep Reinforcement Learning for Sensing Coverage Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InertiaVibe: Low-fidelity Simulation of Inertia using Head-mounted Vibrotactile Feedback to Reduce Cybersickness and Enhance VR Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Introduction of the LAUREATE dataset: the Longitudinal multimodAl stUdent expeRience datasEt for AffecT and mEmory research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Domain-agnostic Performance in Activity Recognition using Accelerometer Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IoT-Enabled Environment Illuminance Optimization for Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Just the Right Amount of Exercise: Aerobic Exercise and Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Cyclotron: An Ecosystem of Knowledge Circulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Piano Songs with Passive Haptic Training: an Interactive Lesson": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Left on Read: Reply Latency for Anxiety & Depression Screening": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Let's Embed Your Knowledge into AI by Trial and Error Instead of Annotation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LETS - a Wearable Heart and Lung Monitoring Device for the Diagnosis of Cardiac and Respiratory Diseases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Location Representations for Accelerating the Training of Next POI Recommender System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mixed-Methods Self-Tracking: Qualitative Styles of Quantifying the Self": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MobileKey: A Fast and Robust Key Generation System for Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monitoring Valence with Facial EMG Sensors using Machine Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MovableBag: Exploring Asymmetric Interaction for Multi-user Exergame in Extended Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-task Learning for Stress Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multimodal Attention Networks for Human Activity Recognition From Earable Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multimodal Surface Sensing based on Hybrid Flexible Triboelectric and Piezoresistive Sensor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "myAQM: Interface Portable Air Quality Sensors with Apple Watch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nudges in Technology-Mediated Knowledge Transfer: Two Experimental Designs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OCOsense Glasses for Facial Expressions Recognition and Contextual Affective Computing in Real World and Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Effectiveness of Virtual IMU Data for Eating Detection with Wrist Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Impact of Lateralization in Physiological Signals from Wearable Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the mismatch between measured and perceived sleep quality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenEarable: Open Hardware Earable Sensing Platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Opportunities to Support Mechanical Ventilation Weaning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perceptual Modifications in Augmented Reality: A Short Survey": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Personal Identification Method using Active Acoustic Sensing applied to the Nose pad of Eyeglasses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: What Can Review with Security Concern Tell Us before Installing Apps?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Power and Interference Control for VLC-Based UDN: A Reinforcement Learning Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Privacy-Preserving Behaviour-Based Authentication on the Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting ADHD Symptoms Using Smartphone Sensing Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preliminary Investigation on Wrist Temperature Control by Wearable Peltier Armband": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-Patterns for IoT Application Developers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-preserved Intermediate Feature Compression for Cyber-Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QARE-Watch: A Smartwatch-based Assistive System for Detecting the Quality of Arm Rehabilitation Exercises": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RADAR-IoT: An open-source, interoperable and extensible IoT gateway framework for healthcare and beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Feedback on Reader's Engagement and Emotion Estimated by Eye-Tracking and Physiological Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Remote Robot Control with Low-cost Robotic Arms and Human Motions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sensing school community needs: a co-designed, personalized mental health app for high school students, parents, and staff": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sleep Quality Tracking and Alignment with a Simple In-the-Wild Task": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smart Cup: An impedance sensing based fluid intake monitoring system for beverages classification and freshness detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smart Teaching Materials with Real-Time Augmented Reality Support for Introductory Physics Education": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smart-Badge: A wearable badge with multi-modal sensors for kitchen activity recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Social Media App Usage in Relation with PHQ-9 Depression Scores during the COVID-19 Pandemic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spatialphonic360: Acoustic Space for Arbitrary Sound Image Presentation Based on Both Ears Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StressBal: Personalized Just-in-time Stress Intervention with Wearable and Phone Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting Smooth Interruption in a Video Conference by Dynamically Changing Background Music Depending on the Amount of Utterance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sweatcessory: a Wearable Necklace for Sensing Biological Data in Sweat": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synchrony-based Depression Score Aggregation from Single-Modality Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TeleSHift: Telexisting TUI for Physical Collaboration & Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Temporal Facial Features for Depression Screening": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Connected Hangar: Ubiquitous Computing and Aircraft Maintenance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Nudging Effect on Tracking Activity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Second Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "To Aid Emotion Expression for Non-Verbal Autistic Individuals, In an App, Less (Features) is More (Better)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tongue Gestures for Hands-Free Interaction in Head Worn Displays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Car Parking Wellbeing Index": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Toolkit for Free Living Wearable Development": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Continuous Respiration Rate Detection While Walking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Guided-Breath as an Intervention Within Computer-Assisted Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Hybrid Presence Enabled by Indoor Localization and Holograms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards the Design of a Wearable Multi-modal Haptic Device to Study Interaction Effects in Haptic Perception∗": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TRACT: Towards Large-Scale Crowdsensing With High-Efficiency Swarm Path Planning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding How to Expose Clinical-Friendly Drug Cues with Virtual Reality and the Impact on Biofeedback Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Use of the two-stage neural system in industrial electrical tomography - hybrid approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using a User Centered Design Approach to Design Mindfulness Conversational Agent for Persons with Dementia and their Caregivers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Earables Platforms to Study Verbal Communication: Introducing earables to psycholinguistic research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WashSpot: Real-Time Spotting and Detection of Enacted Compulsive Hand Washing with Wearable Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WellComp 2022: Fifth International Workshop on Computing for Well-Being": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What Can You Do For Me? The Discoverability of Intelligent Assistant Skills": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You Are What You Use: Usage-based Profiling in IoT Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "11th International Workshop on Human Activity Sensing Corpus and Applications (HASCA)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "8th International Workshop on Mental Health and Well-being: Sensing and Intervention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Classical Machine Learning Method for Locomotion and Transportation Recognition using both Motion and Location Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Contactless and Non-Intrusive System for Driver's Stress Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Data-Driven Study on the Hawthorne Effect in Sensor-Based Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Design Framework For Equitable Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Designing Fair Ubiquitous Computing Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Post-processing Machine Learning for Activity Recognition Challenge with OpenStreetMap Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tailored Textile Sensor-based Wrap for Shoulder Complex Angles Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Technological Platform to Support Monitoring of Patients with Schizophrenia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Wireless Integrated System with Hybrid Embedded Sensing for the Continuous Monitoring of Bird Flight": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Knowledge Transfer by Sensing and Actuating Social-Cognitive States": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Active 3D Mapping Leveraging Heterogeneous Crowd Robot based-on Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Acute Stress Data-Based Fast Biometric System Using Contrastive Learning and Ultra-Short ECG Signal Segments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on Wearable Computing, Cancun, Quintana Roo, Mexico, October 8-12, 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdJustMoment: Customize Your Ad Watching Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AirSpec: A Smart Glasses Platform, Tailored for Research in the Built Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Ensemble Framework Based on Fine Multi-Window Feature Engineering and Overfitting Prevention for Transportation Mode Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Experimental Video Conference Platform to Bridge the Gap Between Digital and In-Person Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Interactive Workplace for Improving Human Robot Collaboration: Sketch Workpiece Interface for Fast Teaching (SWIFT)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analysing Fairness of Privacy-Utility Mobility Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anticipatory Hand Glove: Understanding Human Actions for Enhanced Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AR for the Masses: Attina, the Low-Cost Accessible Headset for Inclusive Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARDUOUS: Tutorial on Annotation of useR Data for UbiquitOUs Systems - Developing a Data Annotation Protocol": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assessment and Analysis of Wearables and Companion Mobile (Health) Applications: A Usability Evaluation Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ASSET 2023 - Americas Student Symposium on Emerging Technologies at UbiComp/ISWC 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AttenDenseNet for the Sussex-Huawei Locomotion-Transportation (SHL) Recognition Challenge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic, Manual, or Hybrid? A Preliminary Investigation of Users' Perception of Features for Supporting Notification Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BaroDepth: A Method of Estimating Depth with Barometric Pressure Sensors in Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Binary Social Game: A Principle for Enhancing Desired Behaviors through Asynchronous Social Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BioSparks: Jewelry as Electrochemical Sweat Biosensors with Modular, Repurposing and Interchangeable Approaches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breezy the Calm Monster: Soft Toy Design Combined with Pervasive Technology to Teach Deep Breathing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CaliFormer: Leveraging Unlabeled Measurements to Calibrate Sensors with Self-supervised Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Data Augmentation Improve Daily Mood Prediction from Wearable Data? An Empirical Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Capafoldable: Self-tracking Foldable Smart Textiles With Capacitive Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CaptAinGlove: Capacitive and Inertial Fusion-Based Glove for Real-Time on Edge Hand Gesture Recognition for Drone Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Captivating the Senses: Crafting a Multisensory Virtual Experience for Enhanced Realism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cardiac Massage Practice Application using Barometer in a Smart Phone and Sealed Bag": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CityScouter: Exploring the Atmosphere of Urban Landscapes and Visitor Demands with Multimodal Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Client Clustering for Energy-Efficient Clustered Federated Learning in Wireless Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cold-Start Model Adaptation: Evaluation of Short Baseline Calibration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Methods to Study Social Acceptance of Smart Glasses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cooperative Multi-Type Multi-Agent Deep Reinforcement Learning for Resource Management in Space-Air-Ground Integrated Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CPD 2023: The 6th International Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-domain Feature Distillation Framework for Enhancing Classification in Ear-EEG Brain-Computer Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Center Peak Electrical Demand Forecasting: A Multi-Feature SARIMA-LSTM Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating AHA: Boosting Unmodified AI's Robustness by Proactively Inducing Favorable Human Sensing Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating ProxiFit: Proximal Magnetic Sensing using a Single Commodity Mobile toward Holistic Weight Exercise Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Departure Time Prediction Using Smartphone Data for Delayed-Full Charging BMS Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design Earable Sensing Systems: Perspectives and Lessons Learned from Industry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing an Intervention against Occupational Stress Based on Ubiquitous Stress and Context Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Dissolving Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Large-Scale Wireless Sensor Networks for Urban Environmental Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Developing an EDA Framework for Electronic Textiles Case Study: Characterization & Design Rules Development for Stitched E-textiles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Digital Phenotyping of Autoimmune Diseases Using Non-Contact Radio Frequency Sensing: A Longitudinal Study Comparing Systemic Lupus Erythematosus and Healthy Participants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Digital Therapeutics Evolution What kind of Research Will Make the Difference in this Area?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Digital Therapeutics with Virtual Reality and Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Digital Twins in the Future Design of Digital Therapeutics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Don't freeze: Finetune encoders for better Self-Supervised HAR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ear-canal Characterisation for Optimum In-Ear Headset User Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Earables as Medical Devices: Opportunities and Challenges": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarBender: Enabling Rich IMU-based Natural Hand-to-Ear Interaction in Commodity Earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarComp 2023: Fourth International Workshop on Earable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarPass: Continuous User Authentication with In-ear PPG": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eco-Friendly Sensing for Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empowering Autonomy and Agency: Exploring and Augmenting Accessible Cyber-Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhanced SHL Recognition Using Machine Learning and Deep Learning Models with Multi-source Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Locomotion Recognition with Specialized Features and Map Information via XGBoost": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Social Connectivity: Tangible Peer-Based Check-in Systems for Isolated Older Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Transportation Mode Detection using Multi-scale Sensor Fusion and Spatial-topological Attention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Well-being Through Food: A Conversational Agent for Mindful Eating and Cooking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing XGBoost with Heuristic Smoothing for Transportation Mode and Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ensemble Learning using Motion Sensors and Location for Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating Sampling Rate of Human Activity Data from Accelerometer using Transformer-based Regression Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating Temperature of Grasped Object using PPG Sensor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ethics without IRB, is that possible? The case study of participatory sessions with ASD Children in Mexico": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Effect of the Color-Word Stroop Test and VR as a Psychological Stressor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: Large Scale Indoor Location-based Service in Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Impact of Virtual Reality-based Simulated Symptoms Towards Schizophrenia on Public Empathy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eye Movement Differences in Japanese Text Reading between Cognitively Healthy Older and Younger Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FaceEat: Facial and Eating Activities Recognition with Inertial and Mechanomyography Fusion using a Glasses-Based Design for Real-Time and on-the-Edge Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FairComp: Workshop on Fairness and Robustness in Machine Learning for Ubiquitous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Field Reconstruction-Based Non-Rendezvous Calibration for Low Cost Mobile Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Furthering Development of Smart Fabrics to Improve the Accessibility of Music Therapy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GSR Based Generic Stress Prediction System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Haikeus: Transmuting Ecological Grieving into Action": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Human Activity Recognition for Packing Processes using CNN-biLSTM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hyper-personalizing Common Norms through Principled Bespoke Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iEat: Human-food interaction with bio-impedance sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inclusive Data Representation in Federated Learning: A Novel Approach Integrating Textual and Visual Prompt": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inflorescence: A Framework for Evaluating Fairness with Clustered Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inspire creativity with ORIBA: Transform Artists' Original Characters into Chatbots through Large Language Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Mobile Mental Health App Designs to Foster Engagement Among Adolescents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating the Effect of Orientation Variability in Deep Learning-based Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kirigami Antennas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "La Independiente: Designing Ubiquitous Systems for Latin American and Caribbean Women Crowdworkers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LayTex: A Design Tool for Generating Customized Textile Sensor Layouts in Wearable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightron: A Wearable Sensor System that Provides Light Feedback to Improve Punching Accuracy for Boxing Novices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LSTM Based Short-Term Data Center Electrical Consumption Forecasting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Machine Learning-based Multi-Class Traffic Management for Smart Grid Communication Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mazi Umntanakho \"Know Your Child\": An Accessible Social-Emotional Assessment Tool for Children in Low-Income South African Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Meta Flow Experience: Exploring Group Mindfulness Meditation in the Immersive Environment with Multi-senses Feedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobile Sensing and Engagement Features in Arabic Mental Well-Being Apps: Systematic Search and Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoCa'Collection: Normalizing Dynamic Textile Geometry with Capacitive Sensing in Design Centric Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Moving State Estimation by CNN from Long Time Data of Smartphone Sensors: Sussex-Huawei Locomotion Challenge 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multimodal Sensor Data Fusion and Ensemble Modeling for Human Locomotion Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Contact Thermal Haptics for VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NotiSummary: Exploring the Potential of AI-Driven Text Summarization on Smartphone Notification Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Personalized Federated Human Activity Recognition through Semi-supervised Learning and Enhanced Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Physiological Indices to Predict Driver Situation Awareness in VR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plug-and-Play Wearables: A Repositionable E-Textile Garment System to Support Custom Fit for Lower-Limb Rehabilitation Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting and Analyzing Emotion of Elderly People in Care Facilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preliminary Study on Effect of Secretly Increasing or Decreasing Predicted Number of Steps to Promote Walking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-aware Human Activity Recognition with Smart Glasses for Digital Therapeutics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-Aware Respiratory Symptom Detection in-the-wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Private, Fair and Secure Collaborative Learning Framework for Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privee: A Wearable for Real-Time Bladder Monitoring System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantifying and Measuring Confirmation Bias in Information Retrieval Using Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recognition of Engagement from Electrodermal Activity Data Across Different Contexts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reconfigurable, Adhesive-Free, Wearable Skin Strain Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Research Methodologies across the Physical - Virtual Reality Spectrum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Road Network Enhanced Transportation Mode Recognition with an Ensemble Machine Learning Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sandbox AI: We Don't Trust Each Other but Want to Create New Value Efficiently Through Collaboration Using Sensitive Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scheduling UAV Swarm with Attention-based Graph Reinforcement Learning for Ground-to-air Heterogeneous Data Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SleepABP: Noninvasive Ambulatory Blood Pressure Monitoring Based on Ballistocardiogram in Sleep State": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smart Contracts for Ethical Mobile Data Collection and Usage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smartwatch-Based Sensing Framework for Continuous Data Collection: Design and Implementation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmoothLander: A Quadrotor Landing Control System with Smooth Trajectory Guarantee Based on Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Social Prosthesis: Social Interaction Through 3D Dynamic Makeup": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SocializeChat: a GPT-based AAC Tool for Social Communication Through Eye Gazing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SolareSkin: Self-powered Visible Light Sensing Through a Solar Cell E-Skin": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving the Sensor-based Activity Recognition Problem (SOAR): Self-supervised, Multi-modal Recognition of Activities from Wearable Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SonarAuth: Using Around Device Sensing to Improve Smartwatch Behavioral Biometrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpectraVue - An Interactive Web Application Enabling Rapid Data Visualization and Analysis for Wearable Spectroscopy Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stay Ahead of the Competition: An Approach for Churn Prediction by Leveraging Competitive Service App Usage Logs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Summary of SHL Challenge 2023: Recognizing Locomotion and Transportation Mode from GPS and Motion Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tangible E-Textile Interactive Interface for Digital Patternmaking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Technology-Based EMIs for Alcohol Use Disorder: Challenges and Opportunities in the Mexican Context": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TeleVIP: On-site Person Removal and Context Distillation Platform for Dedicated Telepresence Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Third Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ToozKit: System for Experimenting with Captions on a Head-worn Display": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward an Ever-present Extended Reality: Distinguishing Between Real and Virtual": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Cognition-Aware Digital Phenotyping for Substance Use Disorder": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Pioneering Sensors and Features Using Large Language Models in Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Taxonomy of Human-Building Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Accurate and Scalable Mental Health Screening Technologies for Young Children": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Detecting Tonic Information Processing Activities with Physiological Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards LLMs for Sensor Data: Multi-Task Self-Supervised Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards using Digital Phenotypes in Mobile Tactile Stimulation for Children with ASD": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ubicomp Tutorial - UbiCHAI - Experimental Methodologies for Cognitive Human Augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UbiComp4All: 1st International Symposium on Inclusive and Equitable Ubiquitous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UbiFix: Tackling Repairability Challenges in Smart Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Mobile Information Needs and Behaviours": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unsupervised Diffusion Model for Sensor-based Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unveiling Privacy Measures in Mental Health Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "User-Independent Motion and Location Analysis for Sussex-Huawei Locomotion Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VeinXam: A Low-Cost Deep Veins Function Assessment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vertical Jump Test Using an Earable Accelerometer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VoiceCogs: Interlocking Concurrent Voices for Separable Compressed Browsing with Screen Readers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WatchPPG: An Open-Source Toolkit for PPG-based Stress Detection using Off-the-shelf Smartwatches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weaving Augmented Reality Markers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WellComp 2023: Sixth International Workshop on Computing for Well-Being": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Where Are the Best Positions of IMU Sensors for HAR? - Approach by a Garment Device with Fine-Grained Grid IMUs -": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WiCross: I Can Know When You Cross Using COTS WiFi Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WMGPT: Towards 24/7 Online Prime Counseling with ChatGPT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WSTac: Interactive Surface Perception based on Whisker-Inspired and Self-Illuminated Vision-Based Tactile Sensor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "12th International Workshop on Human Activity Sensing Corpus and Applications (HASCA)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "9th International Workshop on Mental Health and Well-being: New Research Directions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Feature-Based Approach for Subtle Emotion Recognition in Realistic Scenarios": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Hybrid Algorithmic Pipeline for Robust Recognition of Human Locomotion: Addressing Missing Sensor Modalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Method for Detecting Football Player Actions Using IMUs attached on Shin Guards": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Monocular Fisheye Video-Based 2D to 3D Pose Lift Technique with Multiperson Spatial Context Integration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Non-collocated Wearable Framework for Back Support Exoskeleton Payload Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Novel Earable Platform for Vagal Activation Monitoring during Transcutaneous Auricular Vagal Nerve Stimulation using Heart Rate Variability Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A System to Visualize Differences in Paddling Timing between Teammates in Rowing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A User-Centric Exploration of Axiomatic Explainable AI in Participatory Budgeting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Wearable Haptic Sleeve Interface for Spaceflight Robotic Arm Operations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Wearable Lower Extremity Virtual Rehabilitation System for Patients' Venous Thromboembolism Prophylaxis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accessible Design for Diabetic Foot Ulcer Self-Monitoring: Insights into mHealth Application Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AcousAF: Acoustic Sensing-Based Atrial Fibrillation Detection System for Mobile Phones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive In-Vehicle Virtual Reality for Reducing Motion Sickness: Manipulating Passenger Posture During Driving Events": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Advancing Physiological Methods for Human-Information Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AlarmCare: Exploring Mobile Alarm as a Supportive Communication Channel Between Peers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alternative Perception, Broadening Sensing: From Passive to Active: Opening Conversations with Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analysis of Human Activity Recognition by Diffusion Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARAS: LLM-Supported Augmented Reality Assistance System for Pancreatic Surgery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AudioBuddy: An Assistive Technology for People with Noise Sensitivity and Their Care Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmentation Appproaches to Refine Wearable Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond User Experience: Technical and Contextual Metrics for Large Language Models in Extended Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BiliOnesie: A Phototherapy Garment for Treating Neonatal Jaundice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boxing Gesture Recognition in Real-Time using Earable IMUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brief Introduction of the OpenPack Dataset and Lessons Learned from Organizing Activity Recognition Challenge Using the Dataset": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BrushBuds: Toothbrushing Tracking Using Earphone IMUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Challenging the Standards of Mental Care: An Analysis of Self-Rating with respect to Sensor based State Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing, UbiComp Companion 2024, Melbourne, VIC, Australia, October 5-9, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Web Browsing Behaviors with High and Low Information Literacy: A Case Study for Fact Check Against GPT Generated Fake News": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Composite Image Generation Using Labeled Segments for Pattern-Rich Dataset without Unannotated Target": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concentration Estimation in Online Video Lecture Using Multimodal Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contextual Recognition Network: Combining DDPG and Contextual Affordances for Robotic Safe Grasping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counterfactual Explanations in Personal Informatics for Personalized Mental Health Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Creating Emotion-Evoking Music to Communicate Wellness for Users with Diverse Musical Backgrounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deakin Breathes Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepVision: Heads-up Computing and AI in Education": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating PilotAR: A Tool to Assist Wizard-of-Oz Pilot Studies with OHMD": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating TOM: A Development Platform For Wearable Intelligent Assistants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstration: Remote 3D Scanning with VR and Robotic Arm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design of Thermal Earring: A Low-Power Wireless Earring for Longitudinal Temperature Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing a Virtual Death VR Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing More Private and Socially Acceptable Hand-to-Face Gestures for Heads-Up Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Development of a One Dollar Blood Pressure Monitor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Digital Distractions in Reading: Investigating Impact of Cognitive Control Training on Reading Behavior and Outcomes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DNN Model Comparison for Sensor Location Robustness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dodging Stress: Non-Intrusive Stressor Mapping While Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DogChat: A Pet-centered Smart Collar Prototype based on Large Language Models and Wechat": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Domain Adaptation in Human Activity Recognition through Self-Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DualStage: Enhancing Emotional Connections through Music Visualization for Synchronizing Live and Virtual Performances": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Earable and Wrist-worn Setup for Accurate Step Counting Utilizing Body-Area Electrostatic Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarComp 2024: Fifth International Workshop on Earable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Early Prediction of Cybersickness in Virtual Reality Using a Large Language Model for Multimodal Time Series Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarTune: Exploring the Physiology of Music Listening": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EchoVision: A Handheld Mixed Reality Mask for Experiencing Bat Echolocation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Emotion Recognition on the Go: Utilizing Wearable IMUs for Personalized Emotion Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empowering Smart Glasses with Large Language Models: Towards Ubiquitous AGI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enable Touch-based Communication between Laptop and Smartwatch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling On-Device LLMs Personalization with Smartphone Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhanced Transportation and Locomotion Mode Recognition through Difference and Variance Analysis in Inertial Sensing Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Group Telepresence Interaction through Seamless Inverse Panorama Projection on Spherical Display": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ensemble Learning Approach for Human Activity Recognition Involving Missing Sensor Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Entropy-based Planning Algorithm for Personalized Interventions: Preliminary Report on Question-reduction Agent": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluate Closed-Loop, Mindless Intervention in-the-Wild: A Micro-Randomized Trial on Offset Heart Rate Biofeedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Excess and Oscillation: Alternate Anatomical Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Expanding Clinically Relevant Health Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Contextual Feature Combinations for Prediction of Subjective Thermal Perceptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Large-Scale Language Models to Evaluate EEG-Based Multimodal Data for Mental Health": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring NeuroDesign in Cultivating Empathy and Creativity in Primary Education in China": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Potential Application Areas of Artificial Intelligence-Infused System for Engagement Recognition: Insights from Special Education Experts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Affordances of Bio-Electronic Nails": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Potential of Generative AI in Song-Signing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Potential of Mixed Reality in Enhancing Language Acquisition for EFL Children": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Relationship Between Intrinsic Motivation and Receptivity to mHealth Interventions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring User Willingness towards Mobile Sensing and Intervention: A Case Study on Mental Health of Undergraduate College Students": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EyeWithShut: Exploring Closed Eye Features to Estimate Eye Position": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FabPad: Simulating Touchpad for Music Expressivity with Fabric": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Face Recognition Reinforcement using Pulse Waves of Front Camera Face Image and Rear Camera Finger Image on a Smartphone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FairAD-XAI: Evaluation Framework for Explainable AI Methods in Alzheimer's Disease Detection with Fairness-in-the-loop": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FairComp: 2nd International Workshop on Fairness and Robustness in Machine Learning for Ubiquitous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feedback Solutions in Rowing Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fit2Ear: Generating Personalized Earplugs from Smartphone Depth Camera Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Game of LLMs: Discovering Structural Constructs in Activities using Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GCCRR: A Short Sequence Gait Cycle Segmentation Method Based on Ear-Worn IMU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GestureShirt: Eyes-Free Interaction while Running": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GratitudeGuider: A Smart Positive Psychological Intervention System for Mental Wellbeing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Haptic Scores: Non-Visual Ways of Experiencing Choreography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HCMG: Human-Capacitance based Micro Gesture for VR/AR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Heads-Up Computing: Opportunities and Challenges of the Next Interaction Paradigm with Wearable Intelligent Assistants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Historiographer: An Efficient Long Term Recording of Real Time Data on Wearable Microcontrollers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HoloKit: Demonstrating an Open-Source Smartphone-Based Mixed Reality Headset for Mixed Reality Design Education": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How ChatGPT Assists Novices in Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Validate XAI in Longitudinal Studies?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I Know it's EEG: An In-situ Selection of Ear-EEG channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impact of Spatial Proximity on Drone Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Grip Stability in Healthcare: Mixed Reality Assistance Devices for Degenerative and Age-Related Hand Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Medical Outcomes through At-Home, Longitudinal Health Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Imputation Strategies for Longitudinal Behavioral Studies: Predicting Depression Using GLOBEM Datasets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In-the-Wild Exploration of the Impact of Sleep on Working Memory with a Wearable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Initial Investigation of Kolmogorov-Arnold Networks (KANs) as Feature Extractors for IMU Based Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inside Out or Not: Privacy Implications of Emotional Disclosure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intelligent Seat: Tactile Signal-Based 3D Sitting Pose Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Design with Autistic Children using LLM and IoT for Personalized Training: The Good, The Bad and The Challenging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interpolation attention-based KAN for the Sussex-Huawei Locomotion-Transportation Recognition Challenge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interpretable, Inclusive, and Immersive Interaction for Ubiquitous AI-infused Physical Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Acceptable Voice-based Notification Timings through Earable Devices: A Preliminary Field Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Invisible to Visible: Alternative Human Interaction with Sensory-Enhancing Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Know Me Inside-Out: Conversational and Quiz-Based System for Reminiscence Therapy for People with Dementia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Know Your Users: Towards Explainable AI in Bangladesh": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large Language Models for Generating Semantic Nursing Activity Logs: Exploiting Temporal and Contextual Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Left-Right Swapping and Upper-Lower Limb Pairing for Robust Multi-Wearable Workout Activity Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LegSense: Inducing Walking Sensation in Seated VR by Providing Movement Illusion via Electrical Muscle Stimulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging Large Language Models for Generating Mobile Sensing Strategies in Human Behavior Modeling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging LLMs to Predict Affective States via Smartphone Sensor Features": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "lolEpop: A Multisensory Electronic Lollipop for Enhanced Tongue Training and Behavior Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "M-MOVE-IT: Multimodal Machine Observation and Video-Enhanced Integration Tool for Data Annotation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Magnitude and Rotation Invariant Detection of Transportation Modes with Missing Data Modalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maximising the Usefulness of Wearable Data for Athletes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Messages Passed Through": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monitoring Physical Health, Mental Health, Nutrition, and Sleep in Athletes to Improve Performance: Workshop Position Paper: Multimodal Sports Interaction: Wearables and HCI in Motion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Than Shapes: Exploring the Tactile Parameters of Art Appreciation for the Visually Impaired": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Motor-Skill-Download System Using Electrical Muscle Stimulation for Enhancing Piano Playing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multimodal Sports Interaction: Wearables and HCI in Motion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Music Diary: Using ChatGPT to Craft Interactive Diaries with Emotional Music for Reflection and Sharing Real-life Emotions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MyListener: An AI-Mediated Journaling Mobile Application for Alleviating Depression and Loneliness Using Contextual Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NoteBlock: Prototype Design of Music Learning Experience for Blind and Low Vision Children in Preschool Ages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Production and Measurement of Cardiac Sounds in the Ear Canal": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenBCI Meets the Web: A Scalable, Customizable Platform for Open-Source EEG Data Collection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenEarable 1.4: Dual Microphones Earpiece to Capture In-Ear and Outer-Ear Audio Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenEarable ExG: Open-Source Hardware for Ear-Based Biopotential Sensing Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenWearables 2024: 1st International Workshop on Open Wearable Computers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Autonomous Driving for Safety: A Human-Centric Approach with LLM-Enhanced RLHF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Stroke Detection: An Analysis of Different Feature Selection Approaches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Peer-Awareness to Support Learning: An In-the-wild Study on Notification Timing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Position Paper: A Personalized Large Language Model (LLM)-Based Chat Companion for Autistic Children Early Intervention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Position Paper: An Emoji-Based Interactive App to Aid Emotion Expression for Autistic Children": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting Affective States from Screen Text Sentiment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preliminary Investigation of Activity Prediction in Nursing Homes using Activity History with Erroneous Time Stamps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Progress of PREFAB: Preference based Self-Annotation on a Low-Budget": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proposal of a Framework for Enhancing Teleoperation Experience with Biomechanical Simulation-Based Electrical Muscle Stimulation in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Providemus alz: Ubiquitous Screening of Preclinical Alzheimer's Disease with Consumer-grade Technologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "pSCOUTER: Time-Series Emotion Classification Using Contactless Measured Multimodal Biosignals in Medical Diagnosis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quality Assessment And Neurophysiological Signal Resemblance Of Ear EEG": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantifying Fit of Wearable Systems With a Multi-Band, Remote Measurement System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing Patient Movement in MRI: A Pilot Study of a Training System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Remote Monitoring of Epilepsy Patients with Wearable Device and Smartphone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScreenTK: Seamless Detection of Time-Killing Moments Using Continuous Mobile Screen Text and On-Device LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Self-Tightening and Self-Fastening Belts and Shoes: Shape Memory Adaptive Apparel to Assist Individuals with Physical Limitations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smart Rings for Early Detection of Peri-menopausal Depression: A Research Protocol": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smartbright: Learning a Physics-Based Model of Light-Scattering With Symbolic Regression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smartphone-based Human Behavior Task Modeling for Explainable Mental Health Detection Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soft Ro-bra-tics: Adaptive Bra Design Using Integrated Shape Memory Materials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SOFTMENT: Detecting Mental Health and Wellbeing of Women in the Software Sector": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving the Sensor-Based Activity Recognition Problem (SOAR): Self-Supervised, Multi-Modal Recognition of Activities from Wearable Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stepping into AR: Exploring Optimal Positioning for Monocular Head-Worn Displays for Reading on the Go": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Summary of SHL Challenge 2024: Motion Sensor-based Locomotion and Transportation Mode Recognition in Missing Data Scenarios": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sussex-Huawei Locomotion Recognition Using Machine Learning and Deep Learning with Multi-sensor data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthetic Skeleton Data Generation using Large Language Model for Nurse Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TA-DA! - Improving Activity Recognition using Temporal Adapters and Data Augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TangibleNegotiation: Probing Design Opportunities for Integration of Generative AI and Swarm Robotics for Imagination Cultivation in Child Art Education": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tell Me How You Play: Exploring Ways to Enhance the Gaming Experience in Asymmetric Multiplayer VR Games through Affective State Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Fabric of Sustainability: HCI and the Fight Against Textile Waste": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Fourth Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Gaze and Hand Gesture Complexity on Gaze-Pinch Interaction Performances": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Road to Ubiquity: Unpacking Barriers to Mass Adoption of Heads-Up Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Wand Chooses the IMU - Open Source Hardware for Synchronising Wearables using Magnetometers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time Chamber: Creating a Virtual Environment for Time Dilation with the Selection of Liking Temporal Cues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time for an Explanation: A Mini-Review of Explainable Physio-Behavioural Time-Series Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TinyStressNAS: Automated Feature Selection and Model Generation for On-device Stress Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TOM: A Development Platform For Wearable Intelligent Assistants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toolkit Design for Building Camera Sensor-Driven DIY Smart Homes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Detecting Student-Athletes' Condition Using Passive Mobile and Wearable Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Designing the Sense of Touch: Innovative Tools for Haptic Feedback in Extended Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Intelligent Wearable Assistants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Non-Distracting Smartphone Interaction While Biking Using Capacitive Sensing as Input Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Understanding Human-AI Reliance Patterns Through Explanation Styles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards using Eye Gaze Redirection in Immersive Reading Tasks for Visual Fatigue Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Training Smarter with OpenEarable: A Boxing Gesture Recognition Dashboard Integration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ubiquitous Computing in Action: Infrastructure to Support Sensing and Mental Health Research in Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Novice Users' Mental Models of Gesture Discoverability and Designing Effective Onboarding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Person-specific Predictors of Athlete Performance: Ubicomp/ISWC 2024 Doctoral Colloquium": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unified Framework for Procedural Task Assistants powered by Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unlocking Autistic Children's Potential: The Crux with Data Visualisations and IoT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unraveling Temporal Dependencies in Stress: Insights from Self-Reported Stress Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "User Authentication Method for Smart Glasses using Gaze Information of Registered Known Images and AI-generated Unknown Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Decision Tree Classifier to Increase Screening Test Sensitivity for the Prediction of ACL Retear": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Large Language Models to Compare Explainable Models for Smart Home Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VAWSS: Variational Autoencoder-Enhanced Wireless Sensing Simulator For WiFi Channel State Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VibroBP: An Oscillometric Smartphone Blood Pressure App": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Water Level Recognition by Analyzing the Sound when Pouring Water": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wearability Factors for Body-Worn Colorimetric Biosensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WellComp 2024: Seventh International Workshop on Computing for Well-Being": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XAI for U: Explainable AI for Ubiquitous, Pervasive and Wearable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "$NieNie: $ Adaptive Rhythmic System for Stress Relief with LLM-Based Guidance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "$XR Exhibit+$: An AI-Enhanced XR Museum Guide based on Constructivism and Connectivism Theories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "'I Felt a Sense of Flow': Rendering Spatial Vector Information through Five-Finger Electrotactile Feedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "(Withdrawn)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "10$th$ International Workshop on Mental Health and Well-being: From Research to Practice in Mental Healthcare": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "?-Ring: A Smart Ring Platform for Multimodal Physiological and Behavioral Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Combined Machine Learning and Deep Learning Framework for Transportation Mode Recognition from Smartphone Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Convolutional Block Attention Module and Multi-band Fusion Network for Embedded AR-SSVEP BCI Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Flexible Smart Insole Enabling Real-Time Gait Visualization and Phase Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Modeling User Perceptions to Facilitate Personalized Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Hybrid Generative Model based on Diffusion and Graphs for Cross-Correlated Synthetic Multivariate Time Series Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lightweight Edge-Centric Chewing Sensing System with Multimodal Biosignal Fusion for Oral Health Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Little Help from Friends: Short-Term Collaborations with AI and Non-AI Agents for Exploring Digital Embroidery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Multi-Agent LLM Network for Suggesting and Correcting Human Activity and Posture Annotations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Multimodal Wearable Sensing System for Vocal Muscle Biofeedback in Singing Pitch Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Novel HMD-Mounted Contactless Proxi-rPPG Sensor for Emotion Recognition in Free-Moving VR Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Preliminary Taxonomy and Evaluation Methodology for Recursive Bioadaptive Media": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Proposal for a Multimodal Interactive Platform for Data Collection in Autism Play-Based Therapy Sessions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Sensor-site Hybrid Algorithm Pipeline for Locomotion and Transportation Mode Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Sensory Experience Through the Entanglement of Dynamic Virtual Memories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Social Compass: Guiding Self-Regulation in High-Arousal Moments with Ubiquitous Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Study of Subconscious Interaction and Sleep Assistance via the Full-Cycle Pillow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Visual Context Aware Solution for Protecting Mobile Users from Visual Privacy Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACAI: Awareness and Consciousness in Artificial Intelligence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ad-hoc Action Adaptation through Spontaneous Context": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Filtering Algorithm for Wi-Fi FTM Distance Measurements": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Internal Calibration for Temperature-Robust mmWave FMCW Radars": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AISE: Adaptive Importance Sampling Events for Low Power Eye Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Evaluation Framework for Textile Stretch Sensor Layouts Based on Mutual Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Interactive Activities of Daily Living Training System with Color-Based Motion Tracking for Early Stage Patients with Alzheimer's Disease": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anger Speaks Louder? Exploring the Effects of AI Nonverbal Emotional Cues on Human Decision Certainty in Moral Dilemmas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARIES: Autonomous Reconnaissance, Inspection and Exploration System for Hybrid Single and Multi-UAV Building Inspection Approach after Disaster": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Artists' Perspectives on an AI-Powered System for Enhancing Art Exhibitions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assessing Knit Parameters and Performance of Strain Sensors Made from Stainless Steel and Polypyrrole-based Yarns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asymmetric MR Telecommunication System Using 3D Gaussian Splatting: Implementation and Technical Performance Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AudioBuddy: Demonstrating a Wearable and Mobile System Approach for Noise Sensitivity Awareness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmenting Office Workers with Robot Avatars - An Exploratory Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bakelite: A Dual-Component System for Somaesthetic Baking Experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Behavioral Indicators of Loneliness: Predicting University Students' Loneliness Scores from Smartphone Sensing Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Motion Artifacts: Optimizing PPG Preprocessing for Accurate Pulse Rate Variability Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond One-Size-Fits-All: Fine-Grained Age Group Identification on Smartphones for Targeted Child Protection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Scores: Earables as Active Recovery Boosters for Longevity and Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Sound: The First Workshop on Intelligent Acoustic Sensing on Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Sharing of Personal Data: Design of Collaborative Chatbot-based Mobile Support Systems to Facilitate Recovery from Alcohol Use Disorder": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BicycleSense360: Real-World Multi-Modal Naturalistic Cycling Data Acquisition and Synchronization System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bioactuated Textiles: Exploring Reversible Actuation of Casein Bioplastic in Woven Textiles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BioCanvas: Dynamic Health Visualization through Daily AI-Generated Image and Poem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Biosensing, Enhanced Senses and Experience Design for Augmented Humans": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Biosensing-Driven Cognitive Augmentation: Real-Time Mind Wandering Detection and Robot Intervention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Blue Mondays and Happy Meals: Investigating the Impact of Contextual Factors on Mood States": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BODY / NOT BODY: A Simulation of Self": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BodySys 2025: The 11th Workshop on Body-Centric Computing Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breathing New Energy: A Garment Offering Comfort and Haptic Breathing Guidance to Regain Breath Control and Energy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Building Interoperable Location-based Augmented Reality with the Open AR Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can Large Language Models Identify Materials from Radar Signals?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cascade Ensemble Learning: Leveraging Deep Learning Embeddings with Robust Traditional Machine Learning for SHL Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Challenging High-Performance Human Activity Recognition with a State-of-the-art Model and Simple Preprocessing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterising Parkinson's Disease-like Walking Using Wrist-worn Accelerometers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Choosing the Right Equipment: Balancing Equipment Cost and Project Sustainability for the Story Booth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CIM-Optimized Convolutional Architectures for Efficient Body Sensing in Edge Wearables: Ubicomp/ISWC 2025 BodySys": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cloud2Things 2025: From Cloud to Things - towards the convergence of IoT, Edge and Cloud Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-design of Simulation Scenarios for Integration of Smart Glasses in Healthcare Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing, UbiComp Companion 2025, Espoo, Finland, October 12-16, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conscious or Unconscious Meditation? Haptic Interaction Design in Meditation Augmentation Using Physiological Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contact Sensors to Remote Cameras: Quantifying Cardiorespiratory Coupling in High-Altitude Exercise Recovery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context-Adaptive Hearing Aid Fitting Advisor through Multi-turn Multimodal LLM Conversation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context-Aware Intelligent Chatbot Framework Leveraging Mobile Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Controlling the Influence of Ranking Information on Preference Judgments by Information Presentation Across Perceptual Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CTG-Insight: A Multi-Agent Interpretable LLM Framework for Cardiotocography Analysis and Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CyberConfucius: An Interactive Confucian Philosophical Counseling System for Mental Health": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cyborg Mirror: A Techno-feminist Choreographic Interface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dan-Sco: A Wearable Soft Sensor Prototype Designed for Live Dance-Music Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Open Visual Positioning and Discovery Services for Location-based Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Challenges of Mental Health Assessment Tools Based on Natural Language Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for Empathy in VR: Navigating the Temporal Tension Between State and Trait-Oriented Approaches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Human-in-the-Loop for Mobile Intelligent Notification Systems: Exploring User Preferences for Timing and Form": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Systems for Long-term Sensemaking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Development of a PPG Sensor Mounting Position Adjustment Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Digitally Induced Altered States as Facilitators of the Future Augmented Human Sensorium: Analysis of Science Fiction Representations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DiversityOne Open Challenge: Exploring People's Everyday Life Behavior with Mobile Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do I Really Feel Better or is it just the Smartwatch Telling Me that I do? - Negotiating the Felt-Experience with Smartwatch Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dogs Go Pods: Context-dependent Access Control Rules for Sharing Personal Data of Humans and Pets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Earable-based Continuous Blood Pressure Monitoring via a Single-Point Flexible Sensor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarComp 2025: Sixth International Workshop on Earable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarMag: In-Ear Magnetosensing for Jaw and Head Gesture-Based Human-Computer Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EchoSense: Frontal Haptic Navigation in VR towards Biomimetic Empathy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Emotion-Aware Interfaces: Bridging Human and Intelligent Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Emotional Support Originating from Dialogue: Empowering Older Adults' Self-Tracking of Sleep-Related Daytime Factors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Low-power Ubiquitous Connectivity for Embedded Systems through Audio-Broadcasting Tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Engineer Cradle: LLM-Driven Digital Twin System for Personalized Learning and Lab Management in EEE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhanced RF-Based Localization for Mobile Targets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Situational Awareness in Hearing-Impaired Drivers: A Non-Contact Alert System Using Air-Based Tactile Stimulus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Wearable Tap Water Audio Detection Through Subclass Annotation in the HD-Epic Dataset": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ensemble of Foundation Models for Sensor-Based Locomotion and Transportation Mode Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Envisioning Physical Collaboration at a Distance: Design Fiction for Hybrid Prototyping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equimetrics: An Open-Source Wearable System for Real-Time Feedback in Equestrian Sports": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating Transfer Costs from Real Human Mobility Data in Urban Transit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating Workers' Mental Health Using Personality Traits and Life Logs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Large Language Models in Traditional Chinese Medicine with Enhanced Misinformation Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Rhythmic Representations in Mental Health from Wearable Devices Using the GLOBEM Datasets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Efficacy of Large Language Models for Generating Fine-Grained Visual Privacy Policies in Homes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Quality of Counterfactual Explanations in Multivariate Time-Series": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Event-IR: Microsecond-Level UAV Landing via Event Camera and Stroboscopic Infrared Marker": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evolving Structures of Interagency Collaboration in Disaster Response: A Social Network Analysis of Cyclone Idai": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploration of Device-Free Sensing Ability Based on Bluetooth 6.0 Channel Sounding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Generalist Foundation Models for Time Series of Electrodermal Activity Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring LLM Agents as Seamless and Context-aware UI Adjusters for the Visually Impaired": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Singing Breath: Physiological Insights and Directions for Breath-Aware Augmentation in Mixed Reality Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Smartphone-based Spectrophotometry for Vitamin B12 Quantification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eye on the Street: Computer Vision for Spatial-Temporal Mapping of Street Safety Elements": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eyeris: Machine Learning Powered Glasses for the Visually Impaired": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FALCON: LLMs for Task-Driven Orchestration of Sensing Pipelines During Emergencies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FAME: Feature-Augmented Multi-View Ensemble Framework for Human Activity Recognition using Inertial Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Far Red Postables: Ultra-low-cost Pupillometry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feasibility of In-Ear Single-Channel ExG for Wearable Sleep Monitoring in Real-World Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FedFitTech: A Baseline in Federated Learning for Fitness Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feeling the Direction: Understanding Affective Responses to Tactile Motion via a Wearable Pneumatic Interface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ferrozuit: Ferromagnetic Electronic Textile System for Zero-Gravity Spatial Anchoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-tuning LLM for Counseling Application in Federated Learning Setting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fingerprint Spoof Detection during Fingerprint Authentication Using Active Acoustic Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flash-Quard: Utilizing Advanced Digital Knitting Techniques to Develop Fashionable Reflective Garments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FLUX Mouse: A Seamless High-DOF Input Device for Intuitive 3D Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Foundation Models to Tackle Activity Recognition in Unknown Domain: Sussex-Huawei Locomotion Challenge 2025 Task 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Patient Burdens to User Agency: Designing for Real-Time Protection Support in Online Health Consultations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From RPM to Reaction: Telemetry Signals as Proxies for Driver Mental Load": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Signals to Cognition: Self-Supervised Multimodal Learning for Cognitive State Inference from Wearable Sensor Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From WiFi Sensing to Quantum Sensing: Towards a Ubiquitous Wireless Sensing Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Full-body WPT: Wireless Powering with Meandered E-textiles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FuseLID: Vision-Language Model-Based Camera-Radar Fusion for Liquid Identification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gaze2Prompt: Turning Eye-Tracking Data into Visual Prompts for Multimodal LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generating Explanations for Models Predicting Student Exam Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generative AI and Foundation Models for Human Sensing (GenAI4HS)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GenPod: Constructive News Framing in AI-Generated Podcasts More Effectively Reduces Negative Emotions Than Non-Constructive Framing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gesture-Based Robot Control Integrating Mm-wave Radar and Behavior Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GrowChat: Promoting Remote Informal Communication through Character Creation and Development for Team Well-Being": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GuessScape: A Comparative Study of Playful and Gameful Elements in Smart Mirror Based Self-Reflection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Harmony: A Human-Aware, Responsive, Modular Assistant with a Locally Deployed Large Language Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Harnessing Edge Computing and Artificial Intelligence for Real-Time Video Analytics in Disaster Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Harnessing Unstable Underground Wind for Passive LoRa-Based Human Activity Detection in Coal Mines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HARNode: A Time-Synchronised, Open-Source, Multi-Device, Wearable System for Ad Hoc Field Studies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HASCA: 13th International Workshop on Human Activity Sensing Corpus and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Head Movement-Based Visual Distraction Detection in Cyclists with Earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Health Assistants for Everyday Care: Reliable Human?AI Collaboration under Imperfect Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HealthHub: A Hybrid?Intelligence Meta?App for Personalized, Sustainable Food Choices with Adaptive Nudging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High-Tech Fidget Spinner: Open-Source 3-Axis Turntable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Many Times Do People Usually Experience Different Kinds of Stressors Each Day?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Human Emotion Recognition by Fuzzy Spatial-Temporal Graph Convolution through Dynamic Action Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Human-centric Intelligibility for Automated Vehicles: Aligning Explanations with Predictive Models of Passenger State": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying Routine from Sequences of Activities of Daily Living in Smart-homes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Immersive Bridge Inspection: Quantifying the Benefits of XR for Anomaly Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Implementation and Evaluation of a Three-Stage Text-Based Person Identification System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Imputation Matters: Evaluating the Impact of Missing Data Strategies on Interpretability in Clinical Time Series Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IMU2IMG: IMU in the Language of Vision Foundation Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrated Radar Sensing and Communications: convergence, co-design and learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating Conversational Assistants with Smart Mirrors for Mental Health Assessment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integration of Wearable Health Device Data and Retinal Imaging for Multimodal Systemic Disease Stratification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intelligence-enabled IoT with Gen AI, Powered by Model Compression and Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intelligent Soft Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Knowledge Gardening: AI-Augmented Exploration in Immersive 3D Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactivity as Embodied Engagement in Lamentation:  Dancing the Archive": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Introduction of the VCSD Dataset: A Vocal Cords Dataset Using EMG and Ultrasonography for Singing Pitch Skill Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigation of Body-Part Authentication Performance Using On-Body Active Acoustic Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iVAS: An Intelligent Visual Development Assessment System for Infants and Toddlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "JUIC-IoT: Just-In-Time User Interfaces for Interacting with IoT Devices in Mixed Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "kNiTi: Developing Production Ready Shape Memory Alloy Knits for Wearable Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Let Your Car Listen to Your Respiration Contactlessly with Ubiquitous Acoustic Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging Simulated Sensor Data and Foundation Models for Human Motion Understanding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Listening to the Mind: Earable Acoustic Sensing of Cognitive Load": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLaSA: A Sensor-Aware LLM for Natural Language Reasoning of Human Activity from IMU Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLM Powered Memory Consolidation for Ubiquitous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLM-TrajExplorer: Interactive 'What-If' Scenario Planning for Trajectory Dynamics in Tourist Hotspots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LoRadar: Capturing and Detecting Satellite-Ground LoRa Signals in the Wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LSTM vs. DistilBERT: A Comparative Study for 2025 SHL Recognition Challenge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Machine Learning-Driven Forecasting of Glucose Drops in Exercise": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagiaSVS: Singing Voice Synthesis with Lyrics and Pitch Guidance via a Unified-Modal Large Language Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MakOne: Behavioural Data of University Students' Smart Devices in Uganda": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Managing Drone Traffic in Urban Skyway Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MARS: Robust Multi-View Acoustic Learning for Unsupervised Gesture Sensing in VR/AR Headsets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mello : A Calm Companion for Stress Relief - A Multi-sensory and Interactive Plush Toy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MemMod4CVQA: Using Memory Models to Infer Causal Relationships for Visual Question Answering on Life-Log Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Memory-Augmented LLMs for Sustainable Urban Energy Management via Weather-Energy Pattern Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mens Nova in Mundo Virtuali: Immersive Virtual Reality Experiences for Cognitive and Creative Enhancement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mental Workload Wars: Audio-based XR Awakens": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "mFQS: A Multidimensional Visual Rating System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MindChat-R0: A Large Language Model for Emotionally Supportive Dialogue through Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MindfulBreath: Every Breath You Take, Every Mind You Wake": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mitigating Interpersonal Variability in Machine Learning Models for Human Behavior Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mitigating Null-Class Dominance in Multiclass Inertial-Based Activity Recognition: HASCA-WEAR Challenge - A Technical Report of Team HARMA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MixMatch-based Semi-supervised Learning Approach for Cross-domain Locomotion and Transportation Mode Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Morphology-Aware HRV Estimation from Wrist PPG in Sedentary Scenarios": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Motion-Robust Multimodal Fusion of PPG and Accelerometer Signals for Three-Class Heart Rhythm Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mouth Gesture Recognition Using PPG Sensors in Earbuds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MS-PDPM: A Bio-Inspired Framework for Underwater Wearable Acoustic Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Modal Deep Learning for Myocardial Infarction Detection Using ECG Signals and Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multimodal Tactile Feedback System for Ankle and Knee Protection during Physical Exercise: A Ubiquitous Computing Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multistable Leno Woven Textiles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Narrative Feedback via Earable Interaction to Support Embodied Running Experiences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Natural Thermal Tracker for Core Body Temperature Application to Improve Personal Daily Life": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network-Based Simulation of Flood Alert Dissemination using GDACS and Synthetic Communication Logs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nexa: A Context-Aware Assistant for Service Recommendation on Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NFINGER: Personalized Backside Gesture Recognition on Smartphones Using Back-mounted NFC Tag Array": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NursingLLM: A Retrieval-Augmented Health Chatbot for Supporting Nursing Home Residents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NutriLoop: A Cellular Aging-Aware Dietary Feedback Framework via Inflammation and Telomere Association": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "O2ra headband": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Improving PPG-Based Sleep Staging: A Pilot Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One-Class Classifier-based Incremental Learning Method to Personalize Multi-Class Human Activity Recognition Models from Streaming Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Continual Learning for Building Automation on IoT Devices via Coreset Selection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oogiri Task: Preventing Daytime Drowsiness by Generating Humorous Captions for Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Open your Eyes: Blink-induced Change Blindness while Reading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenAcoustics: An Open-Source Framework for Acoustic Data Capture on Smart Devices and Microcontrollers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenBrush: An Open-Source Manual Toothbrush for Force and Motion Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OpenWearables 2025: 2nd International Workshop on Open Wearable Computers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Opportunistic Federated Learning via Digital Signage for Smart Tourism Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optical Token Transmission for Secure IoT Device Discovery and Control in Ubiquitous Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimized Personnel Tracking via Theoretical-Actual Acoustic Matching and Joint Active-Passive Constraint": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parametric Model of Differential SAW Pressure Sensor: Enabling Rapid Performance Evaluation and Optimization Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Participant Engagement and Data Compliance in Remote Digital Studies for ADHD, Autism, and Eating Disorders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Passive Body-Area Electrostatic Field (Human Body Capacitance) for Ubiquitous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Passive RF Sensing for People Counting with Dense IoT Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pedaling Gossips: Towards Location-Privacy-Preserved Data Sharing with Smart Bicycles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Persona Drift for Adaptive Flow in Stage-Aware CBT Chatbots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Personalizing Activity Tracking: Enabling Older Adults to Teach and Train Their Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Phanthera: An Adaptive VR Exergame for Posture-Aware Recovery During Work Breaks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "pHigment: Designing Biodegradable Single-Use Cosmetics for On-body Chemical Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Physiological DDA: Physiological Sensor-based Dynamic Difficulty Adjustment for Enhanced Video Game Engagement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PICASSO 2025: 8th International Workshop on Physics Embedded AI Solutions in Mobile Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plug-n-play e-knit with LED-based Sensor Positioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "POCKET-MIND: Personalized LLM-based Journaling to Support Emotional Awareness and Goal Pursuit": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poemithy: Leveraging Multimodal LLMs for Emotional Healing through Classical Chinese Poetry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Recognizing Hidden-in-the-Ear Private Key for Reliable Silent Speech Interface Using Multi-Task Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting Ego Cyclist Trajectories Using Bicycle-Mounted Sensors with CNN-LSTM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preliminary Evaluation of Piezoelectric Thin Film Sensors for Arterial and Venous Pulse Detection Using an Epidermal Neck Patch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preliminary Investigation of Knowledge Transfer from Skeleton to IMU for Robust Activity Recognition in Industrial Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-Preserving Real-Time Human Activity Recognition Using On-Device Small Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proposal of a Singing Instruction Support System with a Residual Respiratory Volume Display in Online Lessons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prototype Context-Aware On-Skin Interfaces for Socially Adaptive Biofeedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proximities & Perspectives: Hybrid Nail Art Explorations Through a Research Lab-Situated Artist Residency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PULSE: A Screenshot-Based Labeling Tool for Investigating Smartphone Behavior, Intent, and Perception": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Push or Light: Nudging Standing to Break Prolonged Sitting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RadioGami: Demonstrating Long-Range, Battery-Free Wireless Interaction with Paper-Based Tunnel Diode Tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Read-Range Extension with Semi-Passive Tags Powered by PV Cells": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-time Activity-Aware Video Streaming While Preserving Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reconfiguring Agency in the Age of Algorithmic Control: An Interactive Performance Lecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reconstructing Empathy: How VR Users Perceive Simulated Challenges through Design Dimensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReflectAI: Promoting Student Wellbeing using LLM-Driven Multimodal Sensing System for Proactive Behavioral Feedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relational AI Personas in Everyday Ubiquity: Embodied & Situated Design Methods for Sustainable, Plural Futures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Acoustic Sensing: Challenges and Perspectives for Wearable Sensing in the wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Wearability: When the Pillow Wears the Dreamer: Toward Intimate Interfaces and Passive Wearable Futures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Foundation Models for Human Activity Recognition: Multiresolution Sensor Fusion with TimesFM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Multi-Agent GAN for Multimodal Time Series Generation in Human Sensing and mHealth Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF Sensing and Holography in Dense Wireless Networks: Towards Privacy-Scalable and Ethical Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RingMind: Interpreting Multimodal Behavior from Ring-Based Speech and Gesture using Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust In-the-Wild Exercise Recognition from a Single Wearable: Data-Side Fusion, Sensor Rotation, and Feature Engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust PPG Authentication: The Role of Temporal, Individual, and State Variability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Sensor-based Activity Recognition under Domain Shift via Fine-tuning the Time-series Foundation Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sensor-Specific Transformer (PatchTST) Ensembles with Test-Matched Augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShelfScan: An End-to-End Embodied Framework for Automated Library Book Inventory, Recognition, and Sorting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ShoulDex: A Panel-Woven Textile Sensing System for Rotator Cuff Rehabilitation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Silent Speech-Based Personal Authentication Using a Mask-Type Device with Infrared Distance Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simulated Ensemble Performance Partners: Exploring the Integration of Generative AI and Virtual Reality for Collaborative Rehearsals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SituGuard: LLM-based Fine-grained Smart Glass Privacy Control in Home Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SketchGuide+: Enabling Parametric Freehand Robot Programming via Wearable-Assisted Sketching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smart Textiles, HCI and User's Dignity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMARTFOOD: An LLM-Driven Ubiquitous Mobile App for Context-Aware Restaurant Recommendation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smartphone-Based Activity Recognition in a Logistics Warehouse Using Self-supervised Representation Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snakeskin in the Wild: A Multi-Sensor Framework for Performance Art: A Case Study in Multimodal Sensor Synchronization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SocialPulse: An On-Smartwatch System for Detecting Real-World Social Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SOFDY: Physics-Based Soft Attachment Simulation in Motion to Enhance Realism of Inertial Data Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SoloBand: A Maternity Support Band with the One-Handed Tightening System for Pregnant Individuals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SORA-SORT: A Simple Occlusion Risk-Aware Framework for Multi-Object Tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SugarScope: Estimating Sugar Concentration via Smartphone LiDAR Speckle Dynamics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Summary of SHL Challenge 2025: Locomotion and Transportation Mode Recognition Using Foundation Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supernatural Superserious: Reactive Executable Markers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting Self-Awareness of Smartphone Use with Passive Sensing and LLM-Driven Feedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesis of Ear-EEG from Scalp EEG Using Deep Learning Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Take a Seat: Stand-to-Sit Analysis with Earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TaskWise: Enhancing Cognitive Performance in Task Management through Interactive Detail Enrichment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TCM-Align: Curriculum-Aligned MCQ Generation for Traditional Chinese Medicine": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TeXpine: A Body-Perception-Driven Training System for Adolescents with Idiopathic Scoliosis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The CARP Mobile Sensing Framework - Demonstration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Fifth Workshop on Multiple Input Modalities and Sensations for VR/AR Interactions (MIMSVAI)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The LLM-Based AI Agent for College Students to Reduce Smartphone Addiction in the Morning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Reports of My Capabilities Are Greatly Exaggerated - Small LLMs for Depression Inference from Mobile Sensing Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Social Transmission of Prosociality from AI Agents: Examining the Effects of Observing AI Agents Lexical Alignment on Human-Human Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Spirit of Kangie": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The State of Performance Art and Interactive Technology": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thou Shalt Not Prompt: Zero-Shot Human Activity Recognition in Smart Homes via Language Modeling of Sensor Data & Activities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tiny but Mighty: When Smart Rings Meet Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tiny Open Logger, TOL: An Open-Source Xiao ESP32 Based IMU Motion Capture Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward a Testbed for the Internet of Underwater Things: Challenges and Considerations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Detecting Postpartum Depression Using Passive Mobile Sensing: Exploratory Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward High Spatial Resolution and Low Ambiguity in Wideband Signal Receiver Beamforming for VR/AR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Pervasive Skin Health: Cross-Domain Learning for Segmentation of Mobile-Acquired Inflammatory Diseases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Privacy-Preserving Approach for Seated Posture Monitoring Using CNN-Based mmWave Radar Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Capturing the Therapeutic Effects of Music in Everyday Life: Building the Beats Dataset": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tracing-KalmanNet: Deep Kalman Filtering for Nonlinear and Intermittent Inertial Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tracking Cognition through Emotion: Designing a Device-Light Emotion Selection Routine for Daily Cognitive Engagement in Older Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tracking Radial Artery Dynamics Using Brightness-Mode Ultrasound and Video Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tracking Task Progress with a Proactive Video Recording System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Translating Gamification Frameworks for Clinical Mental Health: Implementation Lessons and User Research Insight": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Stage Reservoir Computing for Sensor-Specific Activity Recognition Using the WEAR Inertial Dataset": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UbiComp4VRU: Ubiquitous Computing for Vulnerable Road Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ubiquitous Well-being: Patchable AI Unites Computing and Psychological Science": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UbiSense 2025: First International Workshop on Emerging Techniques in Ubiquitous Sensing and Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UltrasonicSpheres: Localized, Multi-Channel Sound Spheres Using Off-the-Shelf Speakers and Earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "User-Centered Design of a Mask-Integrated HMD to Preserve Real-World Cues in VR Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using LLMs to Generate Position Descriptions in Natural Language from Ultra-Wide Band Rangings Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Localized Facial Regions for Robust rPPG Measurement in Obstructed Visibility Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Utilizing Speech as a Biosignal for Monitoring Respiratory Health and Beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UWBike: Global Bicycle Positioning System Using a Single Ultra-Wideband Reference Point": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VISAR: Visualization and Interpretation of Sensor-based Activity Recognition for Smart Homes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Volitional vs. Forced: A Field Study of Just-in-Time Interventions for Digital Attention Recovery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wearable Instrument: An Intimate Dialogue Between Body, Sound, and Garment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WellComp 2025: Eighth International Workshop on Computing and Software Systems for Well-Being": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WHAR Datasets: An Open Source Library for Wearable Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What Does AI See through Animals' Eyes? Zero-Shot Activity Recognition from Bio-loggers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Where Are the Best Positions of IMUs for HAR? - Investigation with Four DNN Models of Different Characteristics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Where Does the Noise Come From? Understanding Challenges in Enhancing the Accuracy of Learning-Based Emotion Inference for Virtual Reality Applications Using EEG Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Workflow-Based Data Science Pipelines for Digital Phenotyping: : Enabling Sustainable & FAIR mobile Health Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Workshop on Moralizing Radio Frequency Holography for Palliative Care via Value-Sensitive Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Workshopping Creative Interactive Experiences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XAI for U 2025: 2$nd$ International Workshop on Explainable AI for Ubiquitous, Pervasive and Wearable Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,2257 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "VR",
+  "papers": {
+    "2021": {
+      "A Rate-based Drone Control with Adaptive Origin Update in Telexistence.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A VR/AR Environment for Multi-User Liver Anatomy Education.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adjusting Relative Translation Gains According to Space Size in Redirected Walking for Mixed Reality Mutual Space Generation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assessment of the Simulator Sickness Questionnaire for Omnidirectional Videos.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Reality for Maritime Navigation Assistance - Egocentric Depth Perception in Large Distance Outdoor Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bidirectional Shadow Rendering for Interactive Mixed 360° Videos.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Blink-Suppressed Hand Redirection.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BouncyScreen: Physical Enhancement of Pseudo-Force Feedback.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Camera Space Synthesis of Motion Effects Emphasizing a Moving Object in 4D films.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Climaxing VR Character with Scene-Aware Aesthetic Dress Synthesis.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparative Evaluation of Digital Writing and Art in Real and Immersive Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing the Neuro-Physiological Effects of Cinematic Virtual Reality with 2D Monitors.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correction of Avatar Hand Movements Supports Learning of a Motor Skill.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DCGH: Dynamic Computer Generated Holography for Speckle-Free, High Fidelity 3D Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Evaluation of a Free-Hand VR-based Authoring Environment for Automated Vehicle Testing.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Diegetic Tool Management in a Virtual Reality Training Simulation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Disocclusion Headlight for Selection Assistance in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Disturbance and Plausibility in a Virtual Rock Concert: A Pilot Study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do we still need physical monitors? An evaluation of the usability of AR virtual monitors for productivity work.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Does Virtual Odor Representation Influence the Perception of Olfactory Intensity and Directionality in VR?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Don't Worry be Happy - Using virtual environments to induce emotional states measured by subjective scales and heart rate parameters.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DreamStore: A Data Platform for Enabling Shared Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DSNet: Deep Shadow Network for Illumination Estimation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Density-based Redirected Walking Towards Multi-user Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of Language Familiarity in Simulated Natural Dialogue with a Virtual Crowd of Digital Humans on Emotion Contagion in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Egocentric Distance Judgments in Full-Cue Video-See-Through VR Conditions are No Better than Distance Judgments to Targets in a Void.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empirically Evaluating the Effects of Perceptual Information Channels on the Size Perception of Tangibles in Near-Field Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EncounteredLimbs: A Room-scale Encountered-type Haptic Presentation using Wearable Robotic Arms.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Object Manipulation Interaction Techniques in Mixed Reality: Tangible User Interfaces and Gesture.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Potential of Glanceable AR Interfaces for Authentic Everyday Uses.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluation of Body-centric Locomotion with Different Transfer Functions in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting Object-of-Interest Information to Understand Attention in VR Classrooms.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Input Approximations for Control Panels in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flashpen: A High-Fidelity and High-Precision Multi-Surface Pen for Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Freehand Grasping: An Analysis of Grasping for Docking Tasks in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Head Up Visualization of Spatial Sound Sources in Virtual Reality for Deaf and Hard-of-Hearing People.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I Feel More Engaged When I Move!: Deep Learning-based Backward Movement Detection and its Application.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Virtual Reality and 3D User Interfaces, VR 2021, Lisbon, Portugal, March 27 - April 1, 2021.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impossible Staircase: Vertically Real Walking in an Infinite Virtual Tower.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Influence of Interactivity and Social Environments on User Experience and Social Acceptability in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Larger Step Faster Speed: Investigating Gesture-Amplitude-based Locomotion in Place with Different Virtual Walking Speed in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Acoustic Scattering Fields for Dynamic Interactive Sound Propagation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Magnoramas: Magnifying Dioramas for Precise Annotations in Asymmetric 3D Teleconsultation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mid-Air Finger Sketching for Tree Modeling.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobile. Egocentric Human Body Motion Reconstruction Using Only Eyeglasses-mounted Cameras and a Few Body-worn Inertial Sensors.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-modal Spatial Object Localization in Virtual Reality for Deaf and Hard-of-Hearing People.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Time Window for the Integration of Spatial Audio-Visual Information in Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Passing a Non-verbal Turing Test: Evaluatina Gesture Animations Generated from Speech.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Promoting Reality Awareness in Virtual Reality through Proxemics.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proximity Effect Correction for Fresnel Holograms on Nanophotonic Phased Arrays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Realistic 3D Swept-Volume Display with Hidden-Surface Removal Using Physical Materials.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Distance Perception with Scaled Embodied Cues in Social Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scene-Context-Aware Indoor Object Selection and Movement in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sensemaking Strategies with Immersive Space to Think.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spatial Anchor Based Indoor Asset Tracking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spherical World in Miniature: Exploring the Tiny Planets Metaphor for Discrete Locomotion in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stable Hand Pose Estimation under Tremor via Graph Neural Network.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Story CreatAR: a Toolkit for Spatially-Adaptive Augmented Reality Storytelling.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StuckInSpace: Exploring the Difference Between Two Different Mediums of Play in a Multi-Modal Virtual Reality Game.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SuperPlane: 3D Plane Detection and Description from a Single Image.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TapID: Rapid Touch Interaction in Virtual Reality using Wearable Sensing.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Temporal Availability of Ebbinghaus Illusions on Perceiving and Interacting with 3D Objects in a Contextual Virtual Environment.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents**This work has been supported in part by ARO Grants W911NF1910069 and W911NF1910315, and Intel. Code and additional materials available at: https: //gamma.umd.edu/t2g.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Effect of Feedback on Estimates of Reaching Ability in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Effect of Pitch in Auditory Error Feedback for Fitts' Tasks in Virtual Reality Training Systems.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Effects of Cognitive Load on Engagement in a Virtual Reality Learning Environment.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Embodiment of Photorealistic Avatars Influences Female Body Weight Perception in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Avatar Appearance, Perspective and Context on Gait Variability and User Experience in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Implicit and Explicit Feedback on Performance and Experience during VR-Supported Motor Rehabilitation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Virtual Reality and Viewpoints in Body Motion Based Drone Teleoperation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The influence of hand visualization in tool-based motor-skills training, a longitudinal study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Most Social Platform Ever? A Survey about Activities & Motives of Social VR Users.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Understanding the Effects of Virtual Character Appearance on Avoidance Movement Behavior.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Sneaking as a Playful Input Modality for Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unscripted Retargeting: Reach Prediction for Haptic Retargeting in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Fuzzy Logic to Involve Individual Differences for Predicting Cybersickness during VR Navigation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Siamese Neural Networks to Perform Cross-System Behavioral Authentication in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Virtual Reality to Support Acting in Motion Capture with Differently Scaled Characters.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Video Content Representation to Support the Hyper-reality Experience in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Morality: Using Virtual Reality to Study Moral Behavior in Extreme Accident Situations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Reality Public Speaking Training: Experimental Evaluation of Direct Feedback Technology Acceptance.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Complexity and Scene Recognition: How Low Can You Go?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Planetary Spectroscopy through Immersive On-site Rendering.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VR based Power Wheelchair Simulator: Usability Evaluation through a Clinically Validated Task with Regular Users.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VR System for the Restoration of Broken Cultural Artifacts on the Example of a Funerary Monument.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VR-based Student Priming to Reduce Anxiety and Increase Cognitive Bandwidth.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Walking Outside the Box: Estimation of Detection Thresholds for Non-Forward Steps.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Who Are Virtual Reality Headset Owners? A Survey and Comparison of Headset Owners and Non-Owners.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work Surface Arrangement Optimization Driven by Human Activity.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "\"Let's Meet and Work it Out\": Understanding and Mitigating Encountered-Type of Haptic Devices Failure Modes in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "2D versus 3D: A Comparison of Needle Navigation Concepts between Augmented Reality Display Devices.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "360 Depth Estimation in the Wild - the Depth360 Dataset and the SegFuse Network.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Comparison of Spatial Augmented Reality Predictive Cues and their Effects on Sleep Deprived Users.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "All Shook Up: The Impact of Floor Vibration in Symmetric and Asymmetric Immersive Multi-user VR Gaming Experiences.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Evaluation of Native versus Foreign Communicative Interactions on Users' Behavioral Reactions towards Affective Virtual Crowds.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Evaluation of Virtual Reality Maintenance Training for Industrial Hydraulic Machines.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An improved augmented-reality method of inserting virtual objects into the scene with transparent objects.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Answering With Bow and Arrow: Questionnaires and VR Blend Without Distorting the Outcome.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asymmetric Lateral Field-of-View Restriction to Mitigate Cybersickness During Virtual Turns.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Audience Experiences of a Volumetric Virtual Reality Music Video.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Auditory Feedback for Standing Balance Improvement in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Body Warping Versus Change Blindness Remapping: A Comparison of Two Approaches to Repurposing Haptic Proxies for Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bullet Comments for 360°Video.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can I Borrow Your ATM? Using Virtual Reality for (Simulated) In Situ Authentication Research.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Real-World Constraints on User Behavior with Deep Neural Networks for Virtual Reality (VR) Biometrics.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Content Presentation on 3D Augmented Reality Windshield Displays in the Context of Automated Driving.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Continuous Transformation Superposition for Visual Comfort Enhancement of Casual Stereoscopic Photography.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Depth Perception in Augmented Reality: The Effects of Display, Shadow, and Position.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Evaluation of Travel and Orientation Techniques for Desk VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distortion-free Mid-air Image Inside Refractive Surface and on Reflective Surface.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do You Notice Me? How Bystanders Affect the Cognitive Load in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of Field of View on Dynamic Out-of-View Target Search in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of Virtual Room Size and Objects on Relative Translation Gain Thresholds in Redirected Walking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empathic AuRea: Exploring the Effects of an Augmented Reality Cue for Emotional Sharing Across Three Face-to-Face Tasks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empirical Evaluation of Calibration and Long-term Carryover Effects of Reverberation on Egocentric Auditory Depth Perception in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Perceptional Tasks for Medicine: A Comparative User Study Between a Virtual Reality and a Desktop Application.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Impact of Limited Physical Space on the Navigation Performance of Two Locomotion Methods in Immersive Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Visual Cues for Future Airborne Surveillance Using Simulated Augmented Reality Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring and Selecting Supershapes in Virtual Reality with Line, Quad, and Cube Shaped Widgets.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Presence, Avatar Embodiment, and Body Perception with a Holographic Augmented Reality Mirror.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Pseudo-Weight in Augmented Reality Extended Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Design Space for Immersive Embodiment in Dance.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eye Tracking-based LSTM for Locomotion Prediction in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Foldable Spaces: An Overt Redirection Approach for Natural Walking in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Galea: A physiological sensing system for behavioral research in Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GazeDock: Gaze-Only Menu Selection in Virtual Reality using Auto-Triggering Peripheral Menu.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HoloLogger: Keystroke Inference on Mixed Reality Head Mounted Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Take a Brake from Embodied Locomotion - Seamless Status Control Methods for Seated Leaning Interfaces.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Conference on Virtual Reality and 3D User Interfaces, VR 2022, Christchurch, New Zealand, March 12-16, 2022.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inducing Emotional Stress From The Intensive Care Context Using Storytelling In VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Mixed Reality Rendering on Holographic Pyramid.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating how speech and animation realism influence the perceived personality of virtual characters and agents.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating the Effects of Leading and Following Behaviors of Virtual Humans in Collaborative Fine Motor Tasks in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kicking in Virtual Reality: The Influence of Foot Visibility on the Shooting Experience and Accuracy.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LevelEd SR: A Substitutional Reality Level Design Workflow.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Metameric Varifocal Holograms.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mixed Reality Co-Design for Indigenous Culture Preservation & Continuation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Pose Guided Redirected Walking with Pose Score Precomputation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PseudoJumpOn: Jumping onto Steps in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Gaze Tracking with Event-Driven Eye Segmentation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reconstructing 3D Virtual Face with Eye Gaze from a Single Image.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rectangular Mapping-based Foveated Rendering.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RedirectedDoors: Redirection While Opening Doors in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Redirecting Desktop Interface Input to Animate Cross-Reality Avatars.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Research Trends in Virtual Reality Locomotion Techniques.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shape Aware Haptic Retargeting for Accurate Hand Interactions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simulating Olfactory Cocktail Party Effect in VR: A Multi-odor Display Approach Based on Attention.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SivsFormer: Parallax-Aware Transformers for Single-image-based View Synthesis.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solitary Jogging with A Virtual Runner using Smartglasses.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPAA: Stealthy Projector-based Adversarial Attacks on Deep Image Classifiers.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparse Nanophotonic Phased Arrays for Energy-Efficient Holographic Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spatial Updating in Virtual Reality - Auditory and Visual Cues in a Cave Automatic Virtual Environment.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "STROE: An Ungrounded String-Based Weight Simulation Device.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structured Light of Flickering Patterns Having Different Frequencies for a Projector-Event-Camera System.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting Jury Understanding of Expert Evidence in a Virtual Environment.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting Playful Rehabilitation in the Home using Virtual Reality Headsets and Force Feedback Gloves.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Systematic Design Space Exploration of Discrete Virtual Rotations in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tangiball: Foot-Enabled Embodied Tangible Interaction with a Ball in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tapping with a Handheld Stick in VR: Redirection Detection Thresholds for Passive Haptic Feedback.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Temporal Effects in Motion Behavior for Virtual Reality (VR) Biometrics.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Chaotic Behavior of Redirection - Revisiting Simulations in Redirected Walking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Effect of Virtual Humans Making Verbal Communication Mistakes on Learners' Perspectives of their Credibility, Reliability, and Trustworthiness.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Influence of Environmental Lighting on Size Variations in Optical See-through Tangible Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Potential of Augmented Reality for Digital Twins: A Literature Review.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Potential of VR-based Tactical Resource Planning on Spatial Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Smell Engine: A system for artificial odor synthesis in virtual environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Stare-in-the-Crowd Effect in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Virtual Production Studio Concept - An Emerging Game Changer in Filmmaking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TimeTables: Embodied Exploration of Immersive Spatio-Temporal Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "User Preference for Navigation Instructions in Mixed Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Speech to Visualise Shared Gaze Cues in MR Remote Collaboration.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validating the Benefits of Glanceable and Context-Aware Augmented Reality for Everyday Information Access Tasks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Humans with Pets and Robots: Exploring the Influence of Social Priming on One's Perception of a Virtual Human.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Reality Observations: Using Virtual Reality to Augment Lab-Based Shoulder Surfing Research.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Workspace Positioning Techniques during Teleportation for Co-located Collaboration in Virtual Reality using HMDs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Fidelity Effects on Expressive Self-avatar in Virtual Reality: First Impressions Matter.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Within or Between? Comparing Experimental Designs for Virtual Embodiment Studies.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You're in for a Bumpy Ride! Uneven Terrain Increases Cybersickness While Navigating with Head Mounted Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "A Compact Photochromic Occlusion Capable See-through Display with Holographic Lenses.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Haptic Stimulation-Based Training Method to Improve the Quality of Motor Imagery EEG Signal in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Large-Scale Study of Proxemics and Gaze in Groups.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A study of the influence of AR on the perception, comprehension and projection levels of situation awareness.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An EEG-based Experiment on VR Sickness and Postural Instability While Walking in Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Animation Fidelity in Self-Avatars: Impact on User Performance and Sense of Agency.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AR Interfaces for Disocclusion - A Comparative Study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AR-MoCap: Using Augmented Reality to Support Motion Capture Acting.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CaV3: Cache-assisted Viewport Adaptive Volumetric Video Streaming.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoboDeck: A Large-Scale Haptic VR System Using a Collaborative Mobile Robot.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Scatterplot Variants for Temporal Trends Visualization in Immersive Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Visual Attention with Leading and Following Virtual Agents in a Collaborative Perception-Action Task in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CompenHR: Efficient Full Compensation for High-resolution Projector.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Continuous VR Weight Illusion by Combining Adaptive Trigger Resistance and Control-Display Ratio Manipulation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Creating Virtual AI Beings.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-View Visual Geo-Localization for Outdoor Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Delta Path Tracing for Real-Time Global Illumination in Mixed Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Development of a Mixed Reality Acupuncture Training System.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Viewpoint Transition Techniques in Multiscale Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empirically Evaluating the Effects of Eye Height and Self-Avatars on Dynamic Passability Affordances in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing the Reading Experience on AR HMDs by Using Smartphones as Assistive Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evoking empathy with visually impaired people through an augmented reality embodiment experience.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Examining the Fine Motor Control Ability of Linear Hand Movement in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring 3D Interaction with Gaze Guidance in Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Enhancements towards Gaze Oriented Parallel Views in Immersive Tasks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Neural Biomarkers in Young Adults Resistant to VR Motion Sickness: A Pilot Study of EEG.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Effects of Augmented Reality Notification Type and Placement in AR HMD while Walking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Social Influence of Virtual Humans Unintentionally Conveying Conflicting Emotions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extended Depth-of-Field Projector using Learned Diffractive Optics.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Automatic Blendshape Generation for Stylized Characters.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HoloBeam: Paper-Thin Near-Eye Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Do I Get There? Overcoming Reachability Limitations of Constrained Industrial Environments in Augmented Reality Applications.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I'm Transforming! Effects of Visual Transitions to Change of Avatar on the Sense of Embodiment in AR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iARVis: Mobile AR Based Declarative Information Visualization Authoring, Exploring and Sharing.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Conference Virtual Reality and 3D User Interfaces, VR 2023, Shanghai, China, March 25-29, 2023.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE VR 2023 Message from the Program Chairs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE VR 2023 Steering Committee Message.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Guardian Awareness Techniques to Promote Safety in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Noticeable Hand Redirection in Virtual Reality using Physiological and Interaction Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating Spatial Representation of Learning Content in Virtual Reality Learning Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Keynote Speaker: Digital Humans in Virtual Environment.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Keynote Speaker: Immersive Video Reality - Technology, Standard and Application.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Keynote Speaker: Reconstructing Reality: From Physical World to Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Level-of-Detail AR: Dynamically Adjusting Augmented Reality Level of Detail Based on Visual Angle.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightweight Scene-aware Rain Sound Simulation for Interactive Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Like a Rolling Stone: Effects of Space Deformation During Linear Acceleration on Slope Perception and Cybersickness.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiteVR: Interpretable and Lightweight Cybersickness Detection using Explainable AI.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locomotion-aware Foveated Rendering.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MAGIC: Manipulating Avatars and Gestures to Improve Remote Collaboration.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Manipulation of Motion Parallax Gain Distorts Perceived Distance and Object Depth in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Measuring the Effect of Stereo Deficiencies on Peripersonal Space Pointing.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoPeDT: A Modular Head-Mounted Display Toolkit to Conduct Peripheral Vision Research.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Product Placement for Virtual Stores.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Persuasive Vibrations: Effects of Speech-Based Vibrations on Persuasion, Leadership, and Co-Presence During Verbal Communication in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Power, Performance, and Image Quality Tradeoffs in Foveated Rendering.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proposal for an aerial display using dynamic projection mapping on a distant flying screen.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Providing 3D Guidance and Improving the Music-Listening Experience in Virtual Reality Shooting Games Using Musical Vibrotactile Feedback.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Recognition of In-Place Body Actions and Head Gestures using Only a Head-Mounted Display.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Realistic Defocus Blur for Multiplane Computer-Generated Holography.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Redirected Walking Based on Historical User Walking Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Remapping Control in VR for Patients with AMD.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RemoteTouch: Enhancing Immersive 3D Video Communication with Hand Touch.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling VR Video Conferencing.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SCP-SLAM: Accelerating DynaSLAM With Static Confidence Propagation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simultaneous Scene-independent Camera Localization and Category-level Object Pose Estimation via Multi-level Feature Fusion.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Style-aware Augmented Virtuality Embeddings (SAVE).": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tell Me Where To Go: Voice-Controlled Hands-Free Locomotion for Virtual Reality Systems.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Intuitive Acquisition of Occluded VR Objects Through an Interactive Disocclusion Mini-map.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards an Understanding of Distributed Asymmetric Collaborative Visualization on Problem-solving.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VGTC Virtual Reality Lifetime Achievement Award.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VGTC Virtual Reality Service Award.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Optical Bench: Teaching Spherical Lens Layout in VR with Real-Time Ray Tracing.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Reality in Supporting Charitable Giving: The Role of Vicarious Experience, Existential Guilt, and Need for Stimulation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Volumetric Avatar Reconstruction with Spatio-Temporally Offset RGBD Cameras.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WARPY: Sketching Environment-Aware 3D Curves in Mobile Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Where to Render: Studying Renderability for IBR of Large-Scale Scenes.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wind comfort and emotion can be changed by the cross-modal presentation of audio-visual stimuli of indoor and outdoor environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You Make Me Sick! The Effect of Stairs on Presence, Cybersickness, and Perception of Embodied Conversational Agents.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "A Comparative Usability Study of Physical Multi-touch versus Virtual Desktop-Based Spherical Interfaces.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Novel Approach for Virtual Locomotion Gesture Classification: Self-Teaching Vision Transformer for a Carpet-Type Tactile Sensor.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Scientometric History of IEEE VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A SharpView Font with Enhanced Out-of-Focus Text Legibility for Augmented Reality Systems.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A User Study on Sharing Physiological Cues in VR Assembly Tasks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A3RT: Attention-Aware AR Teleconferencing with Life-Size 2.5D Video Avatars.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACHOO - Bless you! Sense of Presence can provoke Proactive Mucosal Immune Responses in Immersive Human-Agent Interactions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Age and Realism of Avatars in Simulated Augmented Reality: Experimental Evaluation of Anticipated User Experience.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AMMA: Adaptive Multimodal Assistants Through Automated State Tracking and User Model-Directed Guidance Planning.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Evaluation of the Calibration of Auditory Distance Perception under Different Levels of Virtual Environment Visibilities.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analyzing Cognitive Demands and Detection Thresholds for Redirected Walking in Immersive Forest and Urban Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARpenSki: Augmenting Ski Training with Direct and Indirect Postural Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asynchronously Assigning, Monitoring, and Managing Assembly Goals in Virtual Reality for High-Level Robot Teleoperation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Coach: Volumetric Motion Annotation and Visualization for Immersive Sports Coaching.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Indoor Lighting Generation Driven by Human Activity Learned from Virtual Experience.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Avatar360: Emulating 6-DoF Perception in 360°Panoramas through Avatar-Assisted Navigation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BaggingHook: Selecting Moving Targets by Pruning Distractors Away for Intention-Prediction Heuristics in Dense 3D Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Looks: A Study on Agent Movement and Audiovisual Spatial Coherence in Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Slideshows - Investigating the Impact of Immersive Virtual Reality on Science Learning.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Physics-based Hand Interaction in Virtual Reality: Custom Soft Body Simulation vs. Off-the-Shelf Integrated Solution.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConnectVR: A Trigger-Action Interface for Creating Agent-based Interactive VR Stories.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context-Aware Head-and-Eye Motion Generation with Diffusion Model.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Validation of a Library of Active Affective Tasks for Emotion Elicitation in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Disney's Industrial Controls Design and Data Analytics Ecosystem.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DocuBits: VR Document Decomposition for Procedural Task Completion.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DreamCodeVR: Towards Democratizing Behavior Design in Virtual Reality with Speech-Driven Programming.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Scene Adjustment Mechanism for Manipulating User Experience in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effect of Hand and Object Visibility in Navigational Tasks Based on Rotational and Translational Movements in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EmoFace: Audio-driven Emotional 3D Face Animation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Positive Emotions through Interactive Virtual Reality Experiences: An EEG-Based Investigation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating an In-Hand Ball-Shaped Controller for Object Manipulation in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Plausible Preference of Body-Centric Locomotion using Subjective Matching in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Effect of Binaural Auralization on Audiovisual Plausibility and Communication Behavior in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Transitive Perceptual Effects Between Virtual Entities in Outdoor Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Excuse Me: Large Groups in Small Rooms.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Augmented Reality's Role in Enhancing Spatial Perception for Building Facade Retrofit Design for Non-experts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Bi-Manual Teleportation in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Controller-based Techniques for Precise and Rapid Text Selection in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Depth-based Perception Conflicts in Virtual Reality through Error-Related Potentials.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Role of Expected Collision Feedback in Crowded Virtual Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eye-Hand Coordination Training: A Systematic Comparison of 2D, VR, and AR Display Technologies and Task Instructions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eyes on the Task: Gaze Analysis of Situated Visualization for Collaborative Tasks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EyeShadows: Peripheral Virtual Copies for Rapid Gaze Selection and Interaction.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FanPad: A Fan Layout Touchpad Keyboard for Text Entry in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Force-regulated Elastic Linear Objects Tracking for Virtual and Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Foveated Fluid Animation in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GazePuffer: Hands-Free Input Method Leveraging Puff Cheeks for VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GBOT: Graph-Based 3D Object Tracking for Augmented Reality-Assisted Assembly Guidance.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generating Virtual Reality Stroke Gesture Data from Out-of-Distribution Desktop Stroke Gesture Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Googly Eyes: Exploring Effects of Displaying User's Eyes Outward on a Virtual Reality Head-Mounted Display on User Experience.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HandyNotes: using the hands to create semantic representations of contextually aware real-world objects.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hap'n'Roll: A Scroll-inspired Device for Delivering Diverse Haptic Feedback with a Single Actuator.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HardenVR: Harassment Detection in Social Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HyperXRC: Hybrid In-Person + Remote Extended Reality Classroom - A Design Study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Conference Virtual Reality and 3D User Interfaces, VR 2024, Orlando, FL, USA, March 16-21, 2024.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE VR 2024 General Chairs Message.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE VR 2024 Message from the Program Chairs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE VR 2024 Steering Committee Message.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE VR 2024 VGTC Virtual Reality Service Award.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "illumotion: An Optical-illusion-based VR Locomotion Technique for Long-Distance 3D Movement.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Immersive 3D Medical Visualization in Virtual Reality using Stereoscopic Volumetric Path Tracing.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impact of Multimodal Instructions for Tool Manipulation Skills on Performance and User Experience in an Immersive Environment.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Influence of User's Body in Olfactory Virtual Environment Generated by Real-Time CFD.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Influence of Virtual Shoe Formality on Gait and Cognitive Performance in a VR Walking Task.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Invisible Mesh: Effects of X-Ray Vision Metaphors on Depth Perception in Optical-See-Through Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jump Cut Effects in Cinematic Virtual Reality: Editing with the 30-degree Rule and 180-degree Rule.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Listen2Scene: Interactive material-aware binaural sound propagation for reconstructed 3D scenes.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagicMap: Enhancing Indoor Navigation Experience in VR Museums.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MeshReduce: Scalable and Bandwidth Efficient 3D Scene Capture.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Neural Bokeh: Learning Lens Blur for Computational Videography and Out-of-Focus Mixed Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NHVC: Neural Holographic Video Compression with Scalable Architecture.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Object Cluster Registration of Dissimilar Rooms Using Geometric Spatial Affordance Graph to Generate Shared Virtual Spaces.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OdorAgent: Generate Odor Sequences for Movies Based on Large Language Model.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Emergence of Symmetrical Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Presentation of Finger-size Shapes by Combining Force Feedback and Electro-tactile Stimulation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prototyping of Augmented Reality interfaces for air traffic alert and their evaluation using a Virtual Reality aircraft-proximity simulator.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reaching Between Worlds: Calibration and Transfer of Perceived Affordances from Virtual to Real Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Virtual Objects: Exploring Bidirectional Embodied Tangible Interaction with a Virtual Human in World-Fixed Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reflecting on Excellence: VR Simulation for Learning Indirect Vision in Complex Bi-Manual Tasks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reimagining TaxiVis through an Immersive Space-Time Cube metaphor and reflecting on potential benefits of Immersive Analytics for urban data exploration.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Retinotopic Foveated Rendering.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SafeRDW: Keep VR Users Safe When Jumping Using Redirected Walking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Selection Performance and Reliability of Eye and Head Gaze Tracking Under Varying Light Conditions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SkiMR: Dwell-free Eye Typing in Mixed Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Springboard, Roadblock or \"Crutch\"?: How Transgender Users Leverage Voice Changers for Gender Presentation in Social Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StageAR: Markerless Mobile Phone Localization for AR in Live Events.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Supporting Text Entry in Virtual Reality with Large Language Models.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Task-based methodology to characterise immersive user experience with multivariate data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Text2VRScene: Exploring the Framework of Automated Text-driven Generation System for VR Experience.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Benefits of Near-field Manipulation and Viewing to Distant Object Manipulation in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Effect of Directional Airflow toward Vection and Cybersickness.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Avatar Stylization on Trust.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Influence of Environmental Context on the Creation of Cartoon-like Avatars in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Laval Phenomenon: A Deep Dive into France's VR Capital.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ThermalGrasp: Enabling Thermal Feedback even while Grasping and Walking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Interaction and Breakouts of Safety Boundaries in Virtual Reality Through Mixed-Method Studies.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Online Education in Metaverse: Systems and User Experience Perspectives.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Impact of Longitudinal VR Training on Users with Mild Cognitive Impairment Using fNIRS and Behavioral Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Access for Social XR Across Devices: The Impact of Immersion on the Experience in Asymmetric Virtual Collaboration.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VGTC Virtual Reality Significant New Researcher Award.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VGTC Virtual Reality Technical Achievement Award.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Steps: The Experience of Walking for a Lifelong Wheelchair User in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VolleyNaut: Pioneering Immersive Training for Inclusive Sitting Volleyball Skill Development.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VRMN-bD: A Multi-modal Natural Behavior Dataset of Immersive Human Fear Responses in VR Stand-up Interactive Games.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Whatever could be, could be: Visualizing Future Movement Predictions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Vision Lies - Navigating Virtual Environments with Unreliable Visual Information.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XR Access: Making Virtual and Augmented Reality Accessible to People with Disabilities.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "\"Just stop doing everything for now!\": Understanding security attacks in remote collaborative mixed reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "'Age Isn't Just a Number': Effects of Virtual Human Age and Gender on Persuasion, Social Presence and Influence in Interpersonal Social Encounters in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Comparison Study Understanding the Impact of Mixed Reality Collaboration on Sense of Co-Presence.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Dual-Stick Controller for Enhancing Raycasting Interactions with Virtual Objects.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive 360-Degree Video Streaming with Super-Resolution and Interpolation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdaptiveCoPilot: Design and Testing of a NeuroAdaptive LLM Cockpit Guidance System in both Novice and Expert Pilots.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Generation of Haptic Motion Effects Expressing Human Dance.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Phone: Exploring Phone-XR Integration through Multi-View Transitions for Real-World Applications.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Children's Calibration of Reaching Estimates in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cognitive Load Inference Using Physiological Markers in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Color Correction for Occlusion-Capable Optical See-Through Head-Mounted Displays by Using Phase-Modulation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparative Evaluation of Differing Levels of Information Presentation in 3D Mini-Maps on Spatial Knowledge Acquisition in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Absolute Size Perception in Optical See-Through Augmented Reality and Real World Viewing Using Verbal and Physical Judgments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Vibrotactile and Skin-Stretch Haptic Feedback for Conveying Spatial Information of Virtual Objects to Blind VR Users.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complex VEs on All-In-One VR Headsets Through Continuous From-Segment Visibility Computation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoordAuth: Hands-Free Two-Factor Authentication in Virtual Reality Leveraging Head-Eye Coordination.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cost-effective Tangible Rehearsal Interface for Microsurgical Clipping of Intracranial Aneurysm.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Daddy Long Legs: A Scale and Speed Up Virtual Reality Locomotion Technique for Medium-scale Scenarios.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing VR Music Game for Stress Reduction.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of Embodiment and Personality in LLM-Based Conversational Agents.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EmBARDiment: an Embodied AI Agent for Productivity in XR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Plant Variety Discovery Process with Visual Trait Assessment in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating Dynamic Delivery of Audio+Visual Message Notifications in XR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Impact of Immersiveness in Virtual Reality Simulations on Anxiety Reduction for MRI Procedures: A Preliminary Study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Large Language Model-Driven Agents for Environment-Aware Spatial Interactions and Conversations in Virtual Reality Role-Play Scenarios.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Multiscale Navigation of Homogeneous and Dense Objects with Progressive Refinement in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Influence of Interpersonal Relationships on Gamification Preferences in Collaborative IVR Environments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Uncoordinated Privacy Protections of Eye Tracking and VR Motion Data for Unauthorized User Identification.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Worker-Drone Interaction in Mixed Reality: Balancing Distraction and Situational Awareness.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Follow Me: Confirmation-based Group Navigation in Collocated Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Picks to Pixels: An Exploration of Virtual Reality in Geoscience Education.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Conference Virtual Reality and 3D User Interfaces, VR 2025, Saint Malo, France, March 8-12, 2025.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Immersive Analytics for Understanding Ecosystem Services Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Immersive Tailoring of Embodied Agents Using Large Language Models.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Implicit Learning of Professional Skills through Immersive Virtual Reality: a Media Comparison Study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Influence of Audiovisual Realism on Communication Behaviour in Group-to-Group Telepresence.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interpupillary to Inter-Camera Distance of Video See-Through AR and its Impact on Depth Perception.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intuitive Visual Feedback in Virtual Reality for the Teleoperation of Robots.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating the Impact of Voice-only and Embodied Conversational Virtual Agents on Mixed Reality Puzzle Solving.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating the Influence of Playback Interactivity during Guided Tours for Asynchronous Collaboration in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagicScroll: Enhancing Immersive Storytelling with Controllable Scroll Image Generation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "May The Force be With You: Cloning Distant Objects to Improve Medium-Field Interactions in Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Misperception of the distance of virtual augmentations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mixed Reality and Real-Time X-Ray Simulation in Vet Radiography Training: A User-Centered Comparative Study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Movement- and Traffic-based User Identification in Commercial Virtual Reality Applications: Threats and Opportunities.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MRUCT: Mixed Reality Assistance for Acupuncture Guided by Ultrasonic Computed Tomography.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "No More Head-Turning: Exploring Passthrough Techniques for Addressing Rear Interruptions from the Front in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Observations on Virtual Reality Avatar Alignment with Research Participants' Skin Tone and Gender.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Omnidirectional VR Treadmills Walking Techniques: Comparing Walking-in-Place and Sliding vs Natural Walking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Virtual Pointing Rays and Motion Artefacts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Moving Target Selection in VR by Integrating Proximity-Based Feedback Types and Modalities.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perceptually-Guided Acoustic \"Foveation\".": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Performance and ergonomics of automated versus manual validation for AR-supervised industrial operations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting Ray Pointer Landing Poses in VR Using Multimodal LSTM-Based Neural Networks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Presenting Tingling Aftereffects Using Vibro-Thermal Feedback to Enhance Impact Sensation in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy-Enabled Parallax Display.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Redirected Drawing: Expanding the Perceived Canvas Size in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reduction of Motion Complexity as an Objective Indicator of Cybersickness in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shaping the Future of VR Hand Interactions: Lessons Learned from Modern Methods.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Silo: Half-Gigapixel Cylindrical Stereoscopic Immersive Display.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Single Actor Controlling Multiple Avatars for Social Virtual Realities.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Slim Diffractive Waveguide Glasses for Beaming Displays with Enhanced Head Orientation Tolerance.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spatial Bar: Exploring Window Switching Techniques for Large Virtual Displays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SRBF-Gaussian: Streaming-Optimized 3D Gaussian Splatting.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing Six Years of AR/VR Research: A Systematic Review of Machine and Deep Learning Applications.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Avatar Clothing on the Proteus Effect and Stereotype Threat.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Reliability and Validity of the Avatar Embodiment Questionnaire.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transtiff: A Stylus-shaped Interface for Rendering Perceived Stiffness of Virtual Objects via Stylus Stiffness Control.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VF-Lens: Enhancing Visual Perception of Visually Impaired Users in VR via Adversarial Learning with Visual Field Attention.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual teleoperation performance under load factor in real flight.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VirtuEleDent: A Compact XR Tooth-Cutting Training System Using a Physical EMR-based Dental Handpiece and Teeth Model.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Fear Overshadows Perceived Plausibility: The Influence of Incongruencies on Acrophobia in VR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Flames Feel Real in Augmented Reality: Effects of Plausibility and Placement of Virtual Flames on the Burning Hand Illusion and Physiological Responses.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XRXL: A System for Immersive Visualization in Large Lectures.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

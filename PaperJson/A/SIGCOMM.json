@@ -1,0 +1,1877 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "SIGCOMM",
+  "papers": {
+    "2021": {
+      "1Pipe: scalable total order communication in data center networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A composition framework for change management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A nationwide study on cellular reliability: measurement, analysis, and enhancements": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A throughput-centric view of the performance of datacenter topologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A variegated look at 5G in the wild: performance, power, and QoE implications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACC: automatic ECN tuning for high-speed datacenter networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACM SIGCOMM 2021 Conference, Virtual Event, USA, August 23-27, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anycast In context: a tale of two systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AnyOpt: predicting and optimizing IP Anycast performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aquila: a practically usable verification system for production-scale programmable data planes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARROW: restoration-aware traffic engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Auric: using data-driven recommendation to automatically generate cellular configuration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bento: safely bringing network function virtualization to Tor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BlueFi: bluetooth over WiFi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Campion: debugging router configuration differences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Capacity-efficient and uncertainty-resilient backbone network planning with hose": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CliqueMap: productionizing an RMA-based distributed caching system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CocoSketch: high-performance sketch-based measurement over arbitrary partial key query": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concordia: teaching the 5G vRAN to share compute": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concurrent interference cancellation: decoding multi-packet collisions in LoRa": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Congestion detection in lossless networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cost-effective capacity provisioning in wide area networks with Shoofly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Democratizing cellular access with CellBricks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing data center networks using bottleneck structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient sparse collective communication and its application to accelerate distributed deep learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From IP to transport and beyond: cross-layer attacks against applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gimbal: enabling multi-tenant storage disaggregation on SmartNIC JBOFs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hoplite: efficient and fault-tolerant collective communication for task-based distributed systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Insights from operating an IP exchange provider": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "L2D2: low latency distributed downlink for LEO satellites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LAVA: fine-grained 3D indoor wireless coverage for small IoT devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lucid: a language for control in the data plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MimicNet: fast performance estimates for data center networks with machine learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "mmTag: a millimeter wave backscatter network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nationwide deployment and operation of a virtual arrival detection system in the wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network planning with deep reinforcement learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Personalizing head related transfer functions for earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prognosis: closed-box analysis of network protocol implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programmable packet scheduling with a single queue": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RedPlane: enabling fault-tolerant stateful in-switch applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "revisiting the open vSwitch dataplane ten years later": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RoS: passive smart surface for roadside-to-vehicle communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sailfish: accelerating cloud-scale multi-tenant multi-service gateways with programmable switches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semi-automated protocol disambiguation and code generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Seven years in the life of Hypergiants' off-nets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SiP-ML: high-bandwidth optical network interconnects for machine learning training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snowcap: synthesizing network-wide configuration updates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solar superstorms: planning for an internet apocalypse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing safe and efficient kernel extensions for packet processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Test coverage metrics for the network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The ties that un-bind: decoupling IP from web services and sockets for robust addressing agility at CDN-scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward formally verifying congestion control behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two beams are better than one: towards reliable and high throughput mmWave links": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding host network stack overheads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying learning-augmented systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XLINK: QoE-driven multi-path QUIC transport in large-scale video services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "A case for stateless mobile core network functions in space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ABM: active buffer management in datacenters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Achieving consistent low latency for wireless real-time communications with the shortest control loop": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aequitas: admission control for performance-critical RPCs in datacenters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aggregate-based congestion control for pulse-wave DDoS defense": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cebinae: scalable in-network fairness augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Continuous in-network round-trip time monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cyclops: an FSO-based wireless link for VR headsets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "dcPIM: near-optimal proactive datacenter transport": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepQueueNet: towards scalable and generalized network performance estimation with packet-level visibility": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and evaluation of IPFS: a storage layer for the decentralized web": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Elasticity detection: a building block for internet congestion control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Empowering smart buildings with self-sensing concrete for structural health monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FAst in-network GraY failure detection for ISPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flash: fast, consistent data plane verification for large-scale network settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlyMon: enabling on-the-fly task reconfiguration for network measurement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From luna to solar: the evolutions of the compute-to-storage networks in Alibaba cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Genet: automatic curriculum generation for learning adaptation in networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GSO-simulcast: global stream orchestration in simulcast video conferencing systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher-order modulation for acoustic backscatter communication in metals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IXP scrubber: learning from blackholing traffic for ML-driven DDoS detection at scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jupiter evolving: transforming google's datacenter network via optical circuit switches and software-defined networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "L25GC: a low latency 5G core network based on high-performance NFV platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiteFlow: towards high-performance adaptive neural networks for kernel datapath": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiveNet: a low-latency video transport network for large-scale live streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Meissa: scalable network testing for programmable data planes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobile access bandwidth in practice: measurement, analysis, and implications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-resource interleaving for deep learning training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network entitlement: contract-based network sharing with agility and SLO guarantees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NeuroScaler: neural video enhancement at scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PLB: congestion signals are simple and effective for network load balancing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical GAN-based synthetic IP header trace generation using NetShare": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predictable vFabric on informative data plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting IPv4 services across all ports": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PrintQueue: performance diagnosis via queue measurement in the data plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programmable multi-dimensional table filters for line rate network functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Retina: analyzing 100GbE traffic on commodity hardware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-protect: privacy against device-free human tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SDN in the stratosphere: loon's aerospace mesh network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SEED: a SIM-based solution to 5G failures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SIGCOMM '22: ACM SIGCOMM 2022 Conference, Amsterdam, The Netherlands, August 22 - 26, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SimBricks: end-to-end network system evaluation with modular simulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Software-defined network assimilation: bridging the last mile towards centralized network configuration management with NAssim": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPRIGHT: extracting the server from serverless computing! high-performance eBPF-based event-driven, shared-memory processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Starvation in end-to-end congestion control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stateful multi-pipelined programmable switches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SurgeProtector: mitigating temporal algorithmic complexity attacks using adversarial scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SwitchV: automated SDN switch validation with P4 models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbolic router execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-division TCP for reconfigurable data center networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TIPSY: predicting where traffic will ingress a WAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards μs tail latency and terabit ethernet: disaggregating the host network stack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding 5G performance for real-world services: a content provider's perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Underwater messaging using mobile devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using trio: juniper networks' programmable chipset - for emerging in-network applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vivisecting mobility management in 5G cellular networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "A Formal Framework for End-to-End DNS Resolution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Improving Web Affordability and Inclusiveness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Millimeter Wave Backscatter Network for Two-Way Communication and Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Achelous: Enabling Programmability, Elasticity, and Reliability in Hyperscale Cloud Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdaInf: Data Drift Adaptive Scheduling for Accurate and SLO-guaranteed Multiple-Model Inference Serving at Edge Servers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Queue: A Scalable In-Network Abstraction for Data Center Network Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond a Centralized Verifier: Scaling Data Plane Checking via Distributed, On-Device Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Limits: How to Disable Validators in Secure Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BitSense: Universal and Nearly Zero-Error Optimization for Sketch Counters with Compressive Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BMW Tree: Large-scale, High-throughput and Modular PIFO Implementation using Balanced Multi-Way Sorting Tree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CellFusion: Multipath Vehicle-to-Cloud Video Streaming with Network Coding in the Wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChameleMon: Shifting Measurement Attention as Network State Changes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ClickINC: In-network Computing as a Service in Heterogeneous Programmable Data-center Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computers Can Learn from the Heuristic Designs and Master Internet Congestion Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Converge: QoE-driven Multipath Video Conferencing over WebRTC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cowbird: Freeing CPUs to Compute by Offloading the Disaggregation of Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Darwin: Flexible Learning-based CDN Caching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DBO: Fairness for Cloud-Hosted Financial Exchanges": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decoding the Divide: Analyzing Disparities in Broadband Plans Offered by Major US ISPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: EdgeRIC: Delivering Realtime RAN Intelligence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Enabling Autonomic Network Infrastructures with KIRA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: EV-DMD: a high-speed VLC system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Experimentation with Wideband Real-Time Adaptive Full-Duplex Radios": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: First Demonstration of Real-Time Photonic-Electronic DNN Acceleration on SmartNICs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Flexibility-aware Network Management of Time-Sensitive Flows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: NetVision: Efficient Visualization Front-End for Packet-level Discrete-Event Network Simulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: PDNS: A Fully Privacy-Preserving DNS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Real-time X-Ray Vision via Augmented Reality with RF Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Structural Network Minimization: A Case of Reflective Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Underwater Backscatter Link Budget Tool": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Destination Unreachable: Characterizing Internet Outages and Shutdowns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Direct Telemetry Access": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ditto: Efficient Serverless Analytics with Elastic Parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DONS: Fast and Affordable Discrete Event Network Simulation with Automatic Parallelization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dragonfly: Higher Perceptual Quality For Continuous 360° Video Playback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EBB: Reliable and Evolvable Express Backbone Network in Meta": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ekho: Synchronizing cloud gaming media across multiple endpoints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Long-Range Underwater Backscatter via Van Atta Acoustic Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Ubiquitous WiFi Sensing with Beamforming Reports": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exoshuffle: An Extensible Shuffle Architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fathom: Understanding Datacenter Application Network Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlexWAN: Software Hardware Co-design for Cost-Effective and Resilient Optical Backbones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GGFAST: Automating Generation of Flexible Network Traffic Classifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Global, Passive Detection of Connection Tampering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hose-based cross-layer backbone network design with Benders decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Host Congestion Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hydra: Effective Runtime Network Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Network Availability with Protective ReRoute": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IPv6 Hitlists at Scale: Be Careful What You Wish For": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Klotski: Efficient and Safe Network Migration of Large Production Datacenters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LEED: A Low-Power, Fast Persistent Key-Value Store on SmartNIC JBOFs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lessons from the evolution of the Batfish configuration analysis tool": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightwave Fabrics: At-Scale Optical Circuit Switching for Datacenter and Machine Learning Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightyear: Using Modularity to Scale BGP Control Plane Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Masking Corruption Packet Losses in Datacenter Networks with Link-local Retransmission": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Memory Management in ActiveRMT: Towards Runtime-programmable Switches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Murphy: Performance Diagnosis of Distributed Cloud Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NeoBFT: Accelerating Byzantine Fault Tolerance Using Authenticated In-Network Ordering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NetClone: Fast, Scalable, and Dynamic Request Cloning for Microsecond-Scale RPCs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network Load Balancing with In-network Reordering Support for RDMA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network-Centric Distributed Tracing with DeepFlow: Troubleshooting Your Microservices in Zero Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OmniWindow: A General and Efficient Window Mechanism Framework for Network Telemetry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "P4LRU: Towards An LRU Cache Entirely in Programmable Data Plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "P4Testgen: An Extensible Test Oracle For P4-16": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PacketGame: Multi-Stream Packet Gating for Concurrent Video Inference at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PAINTER: Ingress Traffic Engineering and Routing for Enterprise Cloud Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: A Peek Backstage: Organizations in DNS Resolver Hierarchies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Chameleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Connectivity topology generation with degree limitation for UOWN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Continual Network Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Designing a Memory Disaggregation System for Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Evaluation of IPv6-only-Capable Iterative Resolvers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: In-Network ML Feature Computation for Malicious Traffic Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Learning distributions to detect anomalies using all the network traffic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: LeMon: Global Route Leak Monitoring Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Meili: Towards SmartNIC as a Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Near Non-blocking Performance with All-optical Circuit-switched Core": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Off-Path DNSSEC Downgrade Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: P4-DPLL: Accelerating SAT Solving Using Switching ASICs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: PipeLLM: Pipeline LLM Inference on Heterogeneous Devices with Sequence Slicing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: PolyCC: Poly-Algorithmic Congestion Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Programmable Cycle-Specified Queue for Deterministic Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Q-Scanner: A Fast Scanning Tool for Large-Scale SSL/TLS Configurations Measurement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Scalability and Congestion Control in Oblivious Reconfigurable Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Scaling Data Plane Verification with Throughput-Optimized Atomic Predicates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Taking the Low Road: How RPKI Invalids Propagate": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: TOO: Accelerating Loss Recovery by Taming On-Off Traffic Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Towards Accelerating the 5G Centralized Unit with Programmable Switches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Traffic Shaping and YouTube Performance Interaction in GEO Satellite Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Triton: Accelerating vSwitch with Flexibility through Hardware Assisting not Bypassing Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Understanding Interactions between Overload Control Core Allocation in Low-Latency Network Stacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the ACM SIGCOMM 2023 Conference, ACM SIGCOMM 2023, New York, NY, USA, 10-14 September 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Regional IP Anycast: Deployments, Performance, and Potentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resilient Baseband Processing in Virtualized RANs with Slingshot": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sammy: smoothing video traffic to be a friendly internet neighbor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Switchboard: Efficient Resource Management for Conferencing Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taming the transient while reconfiguring BGP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Teal: Learning-Accelerated Optimization of WAN Traffic Engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TENSOR: Lightweight BGP Non-Stop Routing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Practical and Scalable Molecular Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Micro-Behaviors of Hardware Offloaded Network Stacks with Lumina": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Underwater 3D positioning on smart devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unleashing SmartNIC Packet Processing Performance in P4": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Veritas: Answering Causal Queries from Video Streaming Traces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XRON: A Hybrid Elastic Cloud Overlay Network for Video Conferencing at Planetary Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ZGaming: Zero-Latency 3D Cloud Gaming by Image Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "A Decentralized SDN Architecture for the WAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A General and Efficient Approach to Verifying Traffic Load Properties under Arbitrary k Failures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Model Training in Multi-cluster Environments with Consumer-grade GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithms for In-Place, Consistent Network Update": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alibaba HPN: A Data Center Network for Large Language Model Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Architecture For Edge Networking Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An exabyte a day: throughput-oriented, large scale, managed data transfers with Effingo": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bad Packets Come Back, Worse Ones Don't": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CCAnalyzer: An Efficient and Nearly-Passive Congestion Control Classifier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crux: GPU-Efficient Communication Scheduling for Deep Learning Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "dAuth: A Resilient Authentication Architecture for Federated Private Cellular Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dissecting Carrier Aggregation in 5G Networks: Measurement, QoE Implications and Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eagle: Toward Scalable and Near-Optimal Network-Wide Sketch Deployment in Network Measurement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Policy-Rich Rate Enforcement with Phantom Queues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Expresso: Comprehensively Reasoning About External Routes Using Symbolic Simulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast, Scalable, and Accurate Rate Limiter for RDMA NICs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FIGRET: Fine-Grained Robustness-Enhanced Traffic Engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In-Network Address Caching for Virtual Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrated Two-way Radar Backscatter Communication and Sensing with Low-power IoT Tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IPD: Detecting Traffic Ingress Points at ISPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Keeping an Eye on Congestion Control in the Wild with Nebby": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "m3: Accurate Flow-Level Performance Estimation using Machine Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MCCS: A Service-based Approach to Collective Communication for Multi-Tenant Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MegaTE: Extending WAN Traffic Engineering to Millions of Endpoints in Virtualized Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NegotiaToR: Towards A Simple Yet Effective On-demand Reconfigurable Datacenter Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NetEdit: An Orchestration Platform for eBPF Network Functions at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NetLLM: Adapting Large Language Models for Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OptimusPrime: Unleash Dataplane Programmability through a Transformable Architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "P4runpro: Enabling Runtime Programmability for RMT Programmable Switches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PPT: A Pragmatic Transport for Datacenters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Rateless Set Reconciliation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Principles for Internet Congestion Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the ACM SIGCOMM 2024 Conference, ACM SIGCOMM 2024, Sydney, NSW, Australia, August 4-8, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prudentia: Findings of an Internet Fairness Watchdog": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "R-Pingmesh: A Service-Aware RoCE Network Monitoring and Diagnostic System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RD-Probe: Scalable Monitoring With Sufficient Coverage In Complex Datacenter Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RDMA over Ethernet for Distributed Training at Meta Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Realizing RotorNet: Toward Practical Microsecond Scale Optical Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RedTE: Mitigating Subsecond Traffic Bursts with Real-time and Distributed Traffic Engineering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relational Network Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shale: A Practical, Scalable Oblivious Reconfigurable Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SODA: An Adaptive Bitrate Controller for Consistent High-Quality Video Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SUSS: Improving TCP Performance by Speeding Up Slow-Start": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ten years of the Venezuelan crisis - An Internet perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Efficacy of the Connect America Fund in Addressing US Internet Access Inequities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Next Generation of BGP Data Collection Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Topaz: Declarative and Verifiable Authoritative DNS at CDN-Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TopFull: An Adaptive Top-Down Overload Control for SLO-Oriented Microservices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TraceWeaver: Distributed Request Tracing for Microservices Without Application Modification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transferable Neural WAN TE for Changing Topologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Triton: A Flexible Hardware Offloading Architecture for Accelerating Apsara vSwitch in Alibaba Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Turbo: Efficient Communication Framework for Large-scale Data Processing Cluster": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Host Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uniform-Cost Multi-Path Routing for Reconfigurable Data Center Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unveiling the 5G Mid-Band Landscape: From Network Deployment to Performance and Application QoE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "vPIFO: Virtualized Packet Scheduler for Programmable Hierarchical Scheduling in High-Speed Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "YuanRong: A Production General-purpose Serverless System for Distributed Applications in the Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zoom2Net: Constrained Network Telemetry Imputation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "μMon: Empowering Microsecond-level Network Monitoring with Wavelets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "ACE: Sending Burstiness Control for High-Quality Real-time Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Achieving High-Speed and Robust Encrypted Traffic Anomaly Detection with Programmable Switches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Acoustic Backscatter Network for Vehicle Body-in-White": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Agua: A Concept-Based Explainer for Learning-Enabled Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Albatross: A Containerized Cloud Gateway Platform with FPGA-accelerated Packet-level Load Balancing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alibaba Stellar: A New Generation RDMA Network for Cloud AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AoRA: AI-on-RAN for Backhaul-free Edge Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Astral: A Datacenter Infrastructure for Large Language Model Training at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ByteDance Jakiro: Enabling RDMA and TCP over Virtual Private Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ByteScale: Communication-Efficient Scaling of LLM Training with a 2048K Context Length on 16384 GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ByteTracker: An Agentless and Real-time Path-aware Network Probing System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Carbon- and Precedence-Aware Scheduling for Data Processing Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CClinguist: An Expert-Free Framework for Future-Compatible Congestion Control Algorithm Identification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CEIO: A Cache-Efficient Network I/O Architecture for NIC-CPU Data Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Censys: A Map of Internet Hosts and Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Centralium: A Hybrid Route-Planning Framework for Large-Scale Data Center Network Migrations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coflow Scheduling for LLM Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepSpace: Super Resolution Powered Efficient and Reliable Satellite Image Data Acquistion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Transport-Level Encryption for Datacenter Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Direct-to-Cell Satellite Network without Satellite Navigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Discovering Millions of New Nodes and Links in the Internet by Challenging the Uniformity Assumption in Multipath Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DNSLogzip: A Novel Approach to Fast and High-Ratio Compression for DNS Logs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Edge Caching as Differentiation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Over-the-Air AI for Edge Computing via Metasurface-Driven Physical Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Falcon: A Reliable, Low Latency Hardware Transport": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Firefly: Scalable, Ultra-Accurate Clock Synchronization for Datacenters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formalizing Dependence of Web Infrastructure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fornax: A Hardware-Centric Session Management in Large Public Cloud Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From ATOP to ZCube: Automated Topology Optimization Pipeline and A Highly Cost-Effective Network Topology for Large Model Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HACK: Homomorphic Acceleration via Compression of the Key-Value Cache for Disaggregated LLM Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HardMesh: Enabling High-performance Service Mesh Ingress Processing with SmartNICs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Harnessing WebRTC for Large-Scale Live Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hattrick: Solving Multi-Class TE using Neural Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hummingbird: Fast, Flexible, and Fair Inter-Domain Bandwidth Reservations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InfiniteHBD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intent-Driven Network Management with Multi-Agent LLMs: The Confucius Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inter-domain Routing with Extensible Criteria": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lessons Learned from Operating a Large Network Telescope": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-Overhead Distributed Application Observation with DeepTrace: Achieving Accurate Tracing in Production Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making Cellular Networks More Efficient By Roaming-in-Place": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MegaScale-Infer: Efficient Mixture-of-Experts Model Serving with Disaggregated Expert Parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MixNet: A Runtime Reconfigurable Optical-Electrical Fabric for Distributed Mixture-of-Experts Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobile Underwater Backscatter Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mosaic: Breaking the Optics versus Copper Trade-off with a Wide-and-Slow Architecture and MicroLEDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network Support For Scalable And High Performance Cloud Exchanges": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Evolution of Hoyan: Enhancing Scalability, Usability, and Accuracy for Alibaba's Global WAN Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nezha: SmartNIC-based Virtual Switch Load Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NIER: Practical Neural-enhanced Low-bitrate Video Conferencing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NPC: Rethinking Dataplane through Network-aware Packet Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Orderlock: A New Type of Deadlock and its Implications on High Performance Network Protocol Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ParserHawk: Hardware-aware parser generator using program synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pegasus: A Universal Framework for Scalable Deep Learning Inference on the Dataplane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PreTE: Traffic Engineering with Predictive Failures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the ACM SIGCOMM 2025 Conference, SIGCOMM 2025, São Francisco Convent, Coimbra, Portugal, September 8-11, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PtCAM: Scalable High-Speed Name Prefix Lookup using TCAM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Raha: A General Tool to Analyze WAN Degradation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RANBooster: Democratizing advanced cellular connectivity through fronthaul middleboxes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reliable and Decentralized Certificate Revocation via DNS: The Case for RevDNS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ResCCL: Resource-Efficient Scheduling for Collective Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting RDMA Reliability for Lossy Fabrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "S2: A Distributed Configuration Verifier for Hyper-Scale Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SaTE: Low-Latency Traffic Engineering for Satellite Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable Video Conferencing Using SDN Principles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling SCIERA: A Journey Through the Deployment of a Next-generation Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SCX: Stateless KV-Cache Encoding for Cloud-Scale Confidential Transformer Serving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SGLB: Scalable and Robust Global Load Balancing in Commodity AI Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SkeletonHunter: Diagnosing and Localizing Network Failures in Containerized Large Model Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SkyNet: Analyzing Alert Flooding from Severe Network Failures in Large Cloud Infrastructures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Small-scale LEO Satellite Networking for Global-scale Demands": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Software-based Live Migration for RDMA": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpliDT: Partitioned Decision Trees for Scalable Stateful Inference at Line Rate": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StarCDN: Moving Content Delivery Networks to Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SyCCL: Exploiting Symmetry for Efficient Collective Communication Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Threading the Ocean: Mapping Digital Routes Across Submarine Cables using Calypso": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TLadder: QoE-Centric Video Ladder Optimization with Playback Feedback at Billion Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards LLM-Based Failure Localization in Production-Scale Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Next-Generation Global IoT: Empowering Massive Connectivity with Harmonious Multi-Network Coexistence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards User-level QoE: Large-scale Practice in Personalized Optimization of Adaptive Video Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Profiling CXL.mem Using PathFinder": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unlocking Superior Performance in Reconfigurable Data Center Networks with Credit-Based Transport": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wisely Optimizing Short Video Streaming for a User-Vendor Win-Win Outcome": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ZENITH: Towards A Formally Verified Highly-Available Control Plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ZooRoute: Enhancing Cloud-Scale Network Reliability via Overlay Proactive Rerouting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

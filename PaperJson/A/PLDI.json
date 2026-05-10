@@ -1,0 +1,6227 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "PLDI",
+  "papers": {
+    "2021": {
+      "Abstraction for conflict-free replicated data types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive restarts for stochastic synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AKG: automatic kernel generation for neural processing units using polyhedral transformations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Alive2: bounded translation validation for LLVM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An efficient interpreter for Datalog by de-specializing relations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated conformance testing for JavaScript engines via deep compiler fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatically enforcing fresh and consistent inputs in intermittent systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the elementary representations of program invariants over algebraic data types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting SMT solver performance on mixed-bitwise-arithmetic expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Canary: practical static detection of inter-thread value-flow bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Central moment analysis for cost accumulators in probabilistic programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chianina: an evolving graph system for flow- and context-sensitive analyses of million lines of C code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CompCertO: compiling certified open C components": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiler-assisted object inlining with value fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling Stan to generative probabilistic languages and extension to deep probabilistic programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concise, type-safe, and efficient structural diffing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concolic program repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concurrent deferred reference counting with constant-time overhead": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoStar: a verified ALL(*) parser": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cyclic program synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepCuts: a deep learning optimization framework for versatile GPU workloads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demanded abstract interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Developer and user-transparent compiler optimization for interactive applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distance-in-time versus distance-in-space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DIY assistant: a multi-modal end-user programmable virtual assistant": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DNNFusion: accelerating deep neural networks execution with advanced operator fusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Example-guided synthesis of relational queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Execution reconstruction: harnessing failure reoccurrences for failure reproduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and precise certification of transformers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Filling typed holes with live GUIs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fluid: a framework for approximate concurrency via controlled dependency relaxation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Frequent background polling on a shared thread, using light-weight compiler interrupts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gleipnir: toward practical error analysis for Quantum programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hashing modulo alpha-equivalence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High performance correctly rounded math libraries for 32-bit floating point representations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incremental whole-program analysis in Datalog with lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integration verification across software and hardware for a simple embedded system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IOOpt: automatic derivation of I/O complexity bounds for affine programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "JPortal: precise and efficient control-flow tracing for JVM programs with Intel processor trace": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning to find naming issues with big code and small supervision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Logical bytecode reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mirror: making lock-free data structures persistent": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular data-race-freedom guarantees in the promising semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On probabilistic termination of functional programs with continuous distributions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Path-sensitive sparse analysis without path conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perceus: garbage free reference counting with reuse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Phased synthesis of divide and conquer programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PLDI '21: 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation, Virtual Event, Canada, June 20-25, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial reachability witnesses via Stellensätze": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Porcupine: a synthesizing compiler for vectorized homomorphic encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical smart contract sharding with ownership and commutativity analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proof repair across type equivalences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Provable repair of deep neural networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proving non-termination by program reversal": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantitative analysis of assertion violations in probabilistic programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum abstract interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RbSyn: type- and effect-guided program synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RefinedC: automating the foundational verification of C code with refined ownership types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Repairing serializability bugs in distributed database programs via automated schema refactoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reticle: a virtual machine for programming modern FPGAs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Retrofitting effect handlers onto OCaml": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reverse engineering for reduction parallelization via semiring polynomials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robustness certification with generative models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Satisfiability modulo ordering consistency theory for multi-threaded program verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scooter & Sidecar: a domain-specific approach to writing secure database migrations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snapshot-free, transparent, and robust memory reclamation for lock-free data structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound probabilistic inference via guide types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Specification synthesis with constrained Horn clauses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPPL: probabilistic programming with fast exact symbolic inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbolic Boolean derivatives for efficiently solving extended regular expression constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing data structure refinements from integrity constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SyRust: automatic testing of Rust libraries with semantic-aware program synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Task parallel assembly language for uncompromising parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Termination analysis without the tears": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Test-case reduction and deduplication almost for free with transformation-based compiler testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trace-based control-flow analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transfinite Iris: resolving an existential dilemma of step-indexed separation logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unleashing the hidden power of compiler optimization on binary code difference: an empirical study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unqomp: synthesizing uncomputation in Quantum circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vectorized secure evaluation of decision forests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Viaduct: an extensible, optimizing compiler for secure distributed programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Web question answering with neurosymbolic program synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When threads meet events: efficient and precise static race detection with origins": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wire sorts: a language abstraction for safe hardware composition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zooid: a DSL for certified multiparty computation: from mechanised metatheory to certified multiparty processes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "\"Synthesizing input grammars\": a replication study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A flexible type system for fearless concurrency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A study of real-world data races in Golang": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A typed continuation-passing translation for lexical effect handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstract interpretation repair": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adore: atomic distributed objects with certified reconfiguration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic reasoning of Quantum programs via non-idempotent Kleene algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "All you need is superword-level parallelism: systematic control-flow vectorization with SLP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ANOSY: approximated knowledge synthesis with refinement types for declassification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Autoscheduling for sparse tensor algebra with an asymptotic cost model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bind the gap: compiling real software to hardware FFT accelerators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can reactive synthesis and syntax-guided synthesis be friends?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Certified mergeable replicated data types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Checking robustness to weak persistency models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Choosing mathematical function implementations for speed and accuracy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compass: strong and compositional library specifications in relaxed memory separation logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing correctly with inductive relations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CycleQ: an efficient basis for cyclic equational reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deep and shallow types for gradual languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deoptless: speculation with dispatched on-stack replacement and specialized continuations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Diaframe: automated verification of fine-grained concurrent programs in Iris": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differential cost analysis with simultaneous potentials and anti-potentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DISTAL: the distributed tensor algebra compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient approximations for cache-conscious data placement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exocompilation for productive programming of hardware accelerators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding the dwarf: recovering precise types from WebAssembly binaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding typing compiler bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formally verified lifting of C-compiled x86-64 binaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Giallar: push-button verification for the qiskit Quantum compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Guaranteed bounds for posterior inference in universal probabilistic programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hamband: RDMA replicated data types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hardening attack surfaces with formally proven binary format parsers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interpreter-guided differential JIT compiler unit testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IRDL: an IR definition language for SSA compilers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Islaris: verification of machine code against authoritative ISA semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Karp: a language for NP reductions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kleene algebra modulo theories: a framework for concrete KATs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Landmarks and regions: a robust approach to data extraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lasagne: a static binary translator for weak memory model architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leapfrog: certified equivalence for protocol parsers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-latency, high-throughput garbage collection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mako: a low-pause, high-throughput evacuating collector for memory-disaggregated datacenters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular information flow through ownership": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Odin: on-demand instrumentation with on-the-fly recompilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "P4BID: information flow control in p4": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PaC-trees: supporting parallel and compressed purely-functional collections": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PDL: a high-level hardware design language for pipelined processors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PLDI '22: 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation, San Diego, CA, USA, June 13 - 17, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Progressive polynomial approximations for fast correctly rounded math libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PyLSE: a pulse-transfer level language for superconductor electronics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quartz: superoptimization of Quantum circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quickstrom: property-based acceptance testing with LTL specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recursion synthesis with unrealizability witnesses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relational compilation for performance-critical applications: extensible proof-producing translation of functional models into low-level code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RunTime-assisted convergence in replicated data types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic soundness for language interoperability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sequential reasoning for optimizing compilers under weak memory concurrency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Software-hardware codesign for efficient in-memory regular pattern matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound sequentialization for concurrent program verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing analytical SQL queries from computation demonstration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Turning manual concurrent memory reclamation into automatic reference counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type-directed program synthesis for RESTful APIs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying optimizations of concurrent programs in the promising semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualization question answering using introspective program synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WARio: efficient code generation for intermittent computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Warping cache simulation of polyhedral programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WebRobot: web robotic process automation using interactive programming-by-demonstration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "A Bowtie for a Beast: Overloading, Eta Expansion, and Extensible Data Types in F⋈": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Calculus for Amortized Expected Runtimes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Cocktail Approach to Practical Call Graph Construction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Compositional Theory of Linearizability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Container-Usage-Pattern-Based Context Debloating Approach for Object-Sensitive Pointer Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Core Calculus for Equational Proofs of Cryptographic Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Deductive Verification Infrastructure for Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A General Fine-Grained Reduction Theory for Effect Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A General Noninterference Policy for Polynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Graded Modal Dependent Type Theory with a Universe and Erasure, Formalized": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Gradual Probabilistic Lambda Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Grounded Conceptual Model for Ownership Types in Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A High-Level Separation Logic for Heap Space under Garbage Collection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lineage-Based Referencing DSL for Computer-Aided Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Partial Order View of Message-Passing Communication Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Pretty Expressive Printer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Robust Theory of Series Parallel Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Type System for Safe Intermittent Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Type-Based Approach to Divide-and-Conquer Recursion in Coq": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Verification Methodology for the Arm® Confidential Computing Architecture: From a Secure Specification to Safe Implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Absynthe: Abstract Interpretation-Guided Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Fuzzing through Prefix-Guided Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ADEV: Sound Automatic Differentiation of Expected Values of Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Admissible Types-to-PERs Relativization in Higher-Order Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adventure of a Lifetime: Extract Method Refactoring for Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Affine Monads and Lazy Structures for Bayesian Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebro-geometric Algorithms for Template-Based Synthesis of Polynomial Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Aliasing Limits on Translating C to Safe Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Algebra of Alignment for Relational Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Automata-Based Framework for Verification and Bug Hunting in Quantum Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Explanation Method for Models of Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Operational Approach to Library Abstraction under Relaxed Memory Concurrency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Order-Theoretic Analysis of Universe Polymorphism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Architecture-Preserving Provable Repair of Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asparagus: Automated Synthesis of Parametric Gas Upper-Bounds for Smart Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AST vs. Bytecode: Interpreters in the Age of Meta-Compilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asynchronous Modal FRP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AtomiS: Data-Centric Synchronization Made Practical": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Ambiguity Detection in Layout-Sensitive Grammars": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Detection of Under-Constrained Circuits in Zero-Knowledge Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Expected Value Analysis of Recursive Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Translation of Functional Big Data Queries to SQL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "babble: Learning Better Abstractions with E-Graphs and Anti-unification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Back to Direct Style: Typed and Tight": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beacons: An End-to-End Compiler Framework for Predicting and Utilizing Dynamic Loop Characteristics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Better Defunctionalization through Lambda Set Specialization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Better Together: Unifying Datalog and Equality Saturation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Backtracking: Connections in Fine-Grained Concurrent Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bidirectional Object-Oriented Programming: Towards Programmatic and Direct Manipulation of Objects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bit-Stealing Made Legal: Compilation for Custom Memory Representations of Algebraic Data Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bring Your Own Data Structures to Datalog": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Building Dynamic System Call Sandbox with Partial Order Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cakes That Bake Cakes: Dynamic Computation in CakeML": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Calculating Compilers for Concurrency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CN: Verifying Systems C Code with Separation-Logic Refinement Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collecting Cyclic Garbage across Foreign Function Interfaces: Who Takes the Last Piece of Cake?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combinator-Based Fixpoint Algorithms for Big-Step Abstract Interpreters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Functional and Automata Synthesis to Discover Causal Reactive Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CommCSL: Proving Information Flow Security for Concurrent Programs using Abstract Commutativity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparative Synthesis: Learning Near-Optimal Network Designs by Query": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling Structured Tensor Algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complete First-Order Reasoning for Properties of Functional Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Security Definitions for Higher-Order Where Declassification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Verification of Efficient Masking Countermeasures against Side-Channel Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compound Memory Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concrete Type Inference for Code Optimization using Machine Learning with SMT Solving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conditional Contextual Refinement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conflict-Driven Synthesis for Layout Engines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context Sensitivity without Contexts: A Cut-Shortcut Approach to Fast and Precise Pointer Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context-Bounded Verification of Context-Free Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Continuing WebAssembly with Effect Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoqQ: Foundational Verification of Quantum Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counterexample Driven Quantifier Instantiations with Applications to Distributed Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Covering All the Bases: Type-Based Verification of Test Input Generators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CQS: A Formally-Verified Framework for Fair and Abortable Synchronization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CryptOpt: Verified Compilation with Randomized Program Search for Cryptographic Primitives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "cuCatch: A Debugging Tool for Efficiently Catching Memory Safety Violations in CUDA Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cutting the Cake: A Language for Fair Division": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dargent: A Silver Bullet for Verified Data Layout Refinement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Extraction via Semantic Regular Expression Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deconstructing the Calculus of Relations with Tape Diagrams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deep Learning Robustness Verification for Few-Pixel Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Defunctionalization with Dependent Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dependent Session Protocols in Separation Logic from First Principles (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dependently-Typed Programming with Logical Equality Reflection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Derivative Based Nonbacktracking Real-World Regex Matching with Backtracking Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DimSum: A Decentralized Approach to Multi-language Semantics and Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Discrete Adversarial Attack to Models of Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Don't Look UB: Exposing Sanitizer-Eliding Compiler Optimizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Partial Order Reduction for Checking Correctness against Transaction Isolation Levels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Race Detection with O(1) Samples": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Dual-Numbers Reverse AD via Well-Known Program Transformations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Parallel Functional Programming with Effects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Elements of Quantitative Rewriting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embedding by Unembedding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embedding Hindsight Reasoning in Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Bounded Verification of Doubly-Unbounded Distributed Agreement-Based Systems via Bounded Regions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equality Saturation Theory Exploration à la Carte": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Etna: An Evaluation Platform for Property-Based Testing (Experience Report)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Recursive Probabilistic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Executing Microservice Applications on Serverless, Correctly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explainable Program Synthesis by Localizing Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explicit Refinement Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting the Sparseness of Control-Flow and Call Graphs for Efficient and On-Demand Algebraic Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extensible Metatheory Mechanization via Family Polymorphism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fair Operational Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and Efficient Boolean Unification for Hindley-Milner-Style Type and Effect Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Coalgebraic Bisimilarity Minimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fat Pointers for Temporal Memory Safety of C": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feature-Sensitive Coverage for Conformance Testing of Programming Language Implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "flap: A Deterministic Parser with Fused Lexing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlashFill++: Scaling Programming by Example by Cutting to the Chase": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flexible Instruction-Set Semantics via Abstract Monads (Experience Report)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fluent APIs in Functional Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flux: Liquid Types for Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Abstractions for Packet Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Specification and Testing for Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formally Verified Samplers from Probabilistic Programs with Loops and Conditioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formally Verifying Optimizations with Block Simulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FP²: Fully in-Place Functional Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From SMT to ASP: Solver-Based Approaches to Solving Datalog Synthesis-as-Rule-Selection Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fuzzing Loop Optimizations in Compilers for C++ and Data-Parallel Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Garbage-Collection Safety for Region-Based Type-Polymorphic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generalized Policy-Based Noninterference for Efficient Confidentiality-Preservation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generating Proof Certificates for a Language-Agnostic Deductive Program Verifier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generic Programming with Extensible Data Types: Or, Making Ad Hoc Extensible Data Types Less Ad Hoc": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Getting into the Flow: Towards Better Type Error Messages for Constraint-Based Type Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gradual Typing for Effect Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graph IRs for Impure Higher-Order Languages: Making Aggressive Optimizations Affordable with Precise Effect Dependencies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Greedy Implicit Bounded Quantification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grisette: Symbolic Compilation as a Functional Programming Library": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grounded Copilot: How Programmers Interact with Code-Generating Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hardware-Aware Static Optimization of Hyperdimensional Computations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HasChor: Functional Choreographic Programming for All (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HEaaN.MLIR: An Optimizing Compiler for Fast Ring-Based Homomorphic Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HFL(Z) Validity Checking for Automated Program Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher-Order Leak and Deadlock Free Locks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher-Order MSL Horn Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher-Order Property-Directed Reachability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Historia: Refuting Callback Reachability with Message-History Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Domain Experts Use an Embedded DSL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Profilers Can Help Navigate Type Migration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Evaluate Blame for Gradual Types, Part 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hybrid Multiparty Session Types: Compositionality for Protocol Specification through Endpoint Projection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ImageEye: Batch Image Processing using Program Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impredicative Observational Equality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Oracle-Guided Inductive Synthesis by Efficient Question Selection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incremental Verification of Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Indexed Streams: A Formal Intermediate Representation for Fused Contraction Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inductive Program Synthesis Guided by Observational Program Similarity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inductive Program Synthesis via Iterative Forward-Backward Abstract Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inference of Resource Management Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Initializing Global Objects: Time and Order": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Debugging of Datalog Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interval Parsing Grammars for File Format Parsing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intrinsically Typed Sessions with Callbacks (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Iris-Wasm: Robust and Modular Verification of WebAssembly Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kater: Automating Weak Memory Model Metatheory and Consistency Checking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Languages with Decidable Learning: A Meta-theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leaf: Modularity for Temporary Sharing in Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging Rust Types for Program Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lilac: A Modal Separation Logic for Conditional Probability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Live Pattern Matching with Typed Holes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locally Nameless Sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Loop Rerolling for Hardware Decompilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower Bounds for Possibly Divergent Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LURK: Lambda, the Ultimate Recursive Knowledge (Experience Report)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MacoCaml: Staging Composable and Compilable Macros": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making a Type Difference: Subtraction on Intersection Types as Generalized Record Operations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mat2Stencil: A Modular Matrix-Based DSL for Explicit and Implicit Matrix-Free PDE Solvers on Structured Grid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mechanizing Session-Types using a Structural View: Enforcing Linearity without Linearity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Melocoton: A Program Logic for Verified Interoperability Between OCaml and C": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Memento: A Framework for Detectable Recoverability in Persistent Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MemPerf: Profiling Allocator-Induced Performance Slowdowns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Merging Inductive Relations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Message Chains for Distributed System Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobius: Synthesizing Relational Queries with Recursive and Invented Predicates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Component-Based Quantum Circuit Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Control Plane Verification via Temporal Invariants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Hardware Design with Timeline Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Models of Monoids with Operations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Primal-Dual Fixpoint Logic Solving for Temporal Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Verification of Safe Memory Reclamation in Concurrent Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modularity, Code Specialization, and Zero-Cost Abstractions for Program Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Fixpoints! (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mosaic: An Interoperable Compiler for Tensor Algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mostly Automated Proof Repair for Verified Libraries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MSWasm: Soundly Enforcing Memory-Safe Execution of Unsafe Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mutually Iso-Recursive Subtyping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Obtaining Information Leakage Bounds via Approximate Model Counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Expressive Power of String Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One Pixel Adversarial Attacks via Sketched Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal CHC Solving via Termination Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Reads-From Consistency Checking for C11-Style Memory Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Outcome Logic: A Unifying Foundation for Correctness and Incorrectness Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "P4R-Type: A Verified API for P4 Control Plane Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallelism in a Region Inference Context": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterized Algebraic Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perception Contracts for Safety of ML-Enabled Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Performal: Formal Verification of Latency Properties for Distributed Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Programming with Stochastic Probabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Resource-Aware Session Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Program Reconditioning: Avoiding Undefined Behaviour When Finding and Reducing Compiler Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prompting Is Programming: A Query Language for Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proof Automation for Linearizability in Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proto-Quipper with Dynamic Lifting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proving and Disproving Equivalence of Functional Programming Assignments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Psym: Efficient Symbolic Exploration of Distributed Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PureCake: A Verified Compiler for a Lazy Functional Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pushing the Limit of 1-Minimality of Language-Agnostic Program Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Putting Weak Memory in Order via a Promising Intermediate Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantifying and Mitigating Cache Side Channel Leakage with Differential Set": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantitative Inhabitation for Different Lambda Calculi in a Unifying Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Qunity: A Unified Language for Quantum and Classical Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Randomized Testing of Byzantine Fault Tolerant Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rapid: Region-Based Pointer Disambiguation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reconciling Shannon and Scott with a Lattice of Computable Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recursive State Machine Guided Graph Folding for Context-Free Language Reachability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recursive Subtyping for All": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reference Capabilities for Flexible Memory Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reflecting on Random Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Register Tiling for Unstructured Sparsity in Neural Network Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Regular Expression Matching using Bit Vector Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reliable Actors with Retry Orchestration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Repairing Regular Expressions for Extraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resource-Aware Soundness for Big-Step Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Responsive Parallelism with Synchronization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reusing Just-in-Time Compiled Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rhombus: A New Spin on Macros without All the Parentheses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Run-Time Prevention of Software Integration Failures of Machine Learning APIs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Saggitarius: A DSL for Specifying Grammatical Domains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scallop: A Language for Neurosymbolic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Search-Based Regular Expression Inference on a GPU": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure RDTs: Enforcing Access Control Policies for Offline Available JSON Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simple Reference Immutability for System F": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Single-Source-Single-Target Interleaved-Dyck Reachability via Integer Linear Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smoothness Analysis for Probabilistic Programs with Application to Optimised Variational Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving Conditional Linear Recurrences for Program Verification: The Periodic Case": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving String Constraints with Lengths by Stabilization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound Dynamic Deadlock Prediction in Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Special Delivery: Programming with Mailbox Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spirea: A Mechanized Concurrent Separation Logic for Weak Persistent Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SSA Translation Is an Abstract Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Static Analysis of Memory Models for SMT Encodings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statically Resolvable Ambiguity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Step-Indexed Logical Relations for Countable Nondeterminism and Probabilistic Choice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stratified Commutativity in Verification Algorithms for Concurrent Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structural Subtyping as Parametric Polymorphism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stuttering for Free": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing Efficient Memoization Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing MILP Constraints for Efficient and Robust Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing Precise Static Analyzers for Automatic Differentiation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing Quantum-Circuit Optimizers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tail Recursion Modulo Context: An Equational Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taking Back Control in an Intermediate Representation for GPU Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TASTyTruffle: Just-in-Time Specialization of Parametric Polymorphism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taype: A Policy-Agnostic Language for Oblivious Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Temporal Verification with Answer-Effect Modification: Dependent Temporal Type-and-Effect System with Delimited Continuations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Bounded Pathwidth of Control-Flow Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Fine-Grained Complexity of CFL Reachability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Geometry of Causality: Multi-token Geometry of Interaction and Its Causal Unfolding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Path to Durable Linearizability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Verse Calculus: A Core Calculus for Deterministic Functional Logic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Timely Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Top-Down Synthesis for Library Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Higher-Order Mathematical Operational Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Better Semantics Exploration for Browser Fuzzing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trace-Guided Inductive Synthesis of Recursive Functional Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trustworthy Runtime Verification via Bisimulation (Experience Report)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Turaco: Complexity-Guided Data Sampling for Training Neural Surrogates of Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type-Checking CRDT Convergence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type-Preserving, Dependence-Aware Guide Generation for Sound, Effective Amortized Probabilistic Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type-Safe Dynamic Placement with First-Class Placed Values": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Typing Records, Maps, and Structs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unrealizability Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "User-Customizable Transpilation of Scripting Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validating IoT Devices with Rate-Based Session Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verification-Preserving Inlining in Automatic Separation Logic Verifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verified Density Compilation for a Probabilistic Programming Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Indistinguishability of Privacy-Preserving Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Reliable Network Components in a Distributed Separation Logic with Dependent Separation Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verus: Verifying Rust Programs using Linear Ghost Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VMSL: A Separation Logic for Mechanised Robust Safety of Virtual Machines Communicating above FF-A": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WasmRef-Isabelle: A Verified Monadic Interpreter and Industrial Fuzzing Oracle for WebAssembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What Happens When Students Switch (Functional) Languages (Experience Report)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Concurrency Matters: Behaviour-Oriented Concurrency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Less Is More: Consequence-Finding in a Weak Theory of Arithmetic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Why Are Proofs Relevant in Proof-Relevant Models?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "With or Without You: Programming with Effect Exclusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Witnessability of Undecidable Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You Only Linearize Once: Tangents Transpose to Gradients": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "A Case for First-Class Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Case for Synthesis of Recursive Quantum Unitary Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Constraint Solving Approach to Parikh Images of Regular Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Coq Mechanization of JavaScript Regular Expression Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Core Calculus for Documents: Or, Lambda: The Ultimate Document": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Dependent Nominal Physical Type System for Static Analysis of Memory in Low Level Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Family of Fast and Memory Efficient Lock- and Wait-Free Reclamation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Formalization of Core Why3 in Coq": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A HAT Trick: Automatically Verifying Representation Invariants using Symbolic Finite Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Learning-Based Approach to Static Program Slicing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lightweight Polyglot Code Transformation Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Low-Level Look at A-Normal Form": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Modal Type Theory of Expected Cost in Higher-Order Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Proof Recipe for Linearizability in Relaxed Memory Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Pure Demand Operational Semantics with Applications to Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Runtime System for Interruptible Query Processing: When Incremental Computing Meets Fine-Grained Parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Safe Low-Level Language for Computer Algebra and Its Formally Verified Compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Two-Phase Infinite/Finite Low-Level Memory Model: Reconciling Integer-Pointer Casts, Finite Space, and undef at the LLVM IR Level of Abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Typed Multi-level Datalog IR and Its Compiler Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Universal, Sound, and Complete Forward Reasoning Technique for Machine-Verified Proofs of Linearizability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Verified Compiler for a Functional Tensor Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstract Interpreters: A Monadic Approach to Modular Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstracting Effect Systems for Algebraic Effect Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accurate Data Race Prediction in the Linux Kernel through Sparse Fourier Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdoB: Bridging Benign and Byzantine Consensus with Atomic Distributed Objects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Effects Meet Hoare Logic in Cubical Agda": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Allo: A Programming Model for Composable Accelerator Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost-Sure Termination by Guarded Refinement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Algebraic Language for Specifying Quantum Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Axiomatic Basis for Computer Programming on the Relaxed Arm-A Architecture: The AxSL Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Infinite Needle in a Finite Haystack: Finding Infinite Counter-Models in Deductive Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Iris Instance for Verifying CompCert C Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Answer Refinement Modification: Refinement Type System for Algebraic Effects and Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "API-Driven Program Synthesis for Testing Static Typing Implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Associated Effects: Flexible Abstractions for Effectful Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asynchronous Probabilistic Couplings in Higher-Order Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AUTOMAP: Inferring Rank-Polymorphic Function Applications with Integer Linear Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Robustness Verification of Concurrent Data Structure Libraries against Relaxed Memory Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Verification of Fundamental Algebraic Laws": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Verification of Higher-Order Probabilistic Programs via a Dependent Refinement Type System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Verification of Parametric Channel-Based Process Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Parallelism Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatically Reducing Privilege for Access Control Policies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automating Pruning in Top-Down Enumeration for Program Synthesis Problems with Monotonic Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automating Unrealizability Logic: Hoare-Style Proof Synthesis for Infinite Sets of Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Trees: Calculating Graph-Based Compilers (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bit Blasting Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Blame-Correct Support for Receiver Properties in Recursively-Structured Actor Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting Compiler Testing by Injecting Real-World Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting the Performance of Alias-Aware IFDS Analysis with CFL-Based Environment Transformers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bringing the WebAssembly Standard up to Speed with SpecTec": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Calculational Design of [In]Correctness Transformational Program Logics by Abstract Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Call-by-Unboxed-Value": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CCLemma: E-Graph Guided Lemma Discovery for Inductive Equational Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Closure-Free Functional Programming in a Two-Level Type Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coarser Equivalences for Causal Concurrency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cocoon: Static Information Flow Control in Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Commutativity Simplifies Proofs of Parameterized Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compatible Branch Coverage Driven Symbolic Execution for Efficient Bug Finding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compilation of Modular and General Sparse Workspaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compilation of Qubit Circuits to Optimized Qutrit Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compilation of Shape Operators on Sparse Arrays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiled, Extensible, Multi-language DSLs (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiler Support for Sparse Tensor Convolutions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling Conditional Quantum Gates without Using Helper Qubits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling Probabilistic Programs for Variable Elimination with Information Flow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling Recurrences over Dense and Sparse Arrays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling with Abstract Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Semantics for Shared-Variable Concurrency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositionality and Observational Refinement for Linearizability with Crashes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing Precise Control Interface Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concurrent Data Structures Made Easy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concurrent Immediate Reference Counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Consolidating Smart Contracts with Behavioral Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Context-Free Language Reachability via Skewed Tabulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contextual Typing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Control-Flow Deobfuscation using Trace-Informed Compositional Program Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoolerSpace: A Language for Physically Correct and Computationally Efficient Color Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crabtree: Rust API Test Synthesis Guided by Coverage and Type": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CYCLE: Learning to Self-Refine the Code Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Daedalus: Safer Document Parsing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deadlock-Free Separation Logic: Linearity Yields Progress for Dependent Higher-Order Message Passing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decalf: A Directed, Effectful Cost-Aware Logical Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decidable Subtyping of Existential Types for Julia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deciding Asynchronous Hyperproperties for Recursive Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decision and Complexity of Dolev-Yao Hyperproperties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Degrees of Separation: A Flexible Type System for Safe Concurrency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dependency-Aware Code Naturalness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dependent Ghosts Have a Reflection for Free": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deriving Dependently-Typed OOP from First Principles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deriving with Derivatives: Optimizing Incremental Fixpoints for Higher-Order Flow Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Descend: A Safe GPU Systems Programming Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and Implementation of an Aspect-Oriented C Programming Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Diffy: Data-Driven Bug Finding for Configurations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Disentanglement with Futures, State, and Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DisLog: A Separation Logic for Disentanglement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributions for Compositionally Differentiating Parametric Discontinuities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Double-Ended Bit-Stealing for Algebraic Data Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination Detection in Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EasyBC: A Cryptography-Specific Language for Security Analysis of Block Ciphers against Differential Cryptanalysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effect Handlers for C via Coroutines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effectful Software Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects and Coeffects in Call-by-Push-Value": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Bottom-Up Synthesis for Programs with Local Variables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient CHAD": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Matching of Regular Expressions with Lookaround Assertions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhanced Enumeration Techniques for Syntax-Guided Synthesis of Bit-Vector Manipulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Static Analysis for Practical Bug Detection: An LLM-Integrated Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enriched Presheaf Model of Quantum FPC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equivalence and Similarity Refutation for Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equivalence by Canonicalization for Synthesis-Backed Refactoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Effectiveness of Deep Learning Models for Foundational Program Analysis Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Bayesian Inference for Loopy Probabilistic Programs using Generating Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Example-Based Reasoning about the Realizability of Polymorphic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explicit Effects and Effect Constraints in ReML": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extending the C/C++ Memory Model with Inline Assembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Falcon: A Fused Approach to Path-Sensitive Sparse Data Dependence Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Falcon: A Scalable Analytical Cache Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and Optimal Extraction for Sparse Equality Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding Cross-Rule Optimization Bugs in Datalog Engines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding ∀∃ Hyperbugs using Symbolic Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flan: An Expressive and Efficient Datalog Compiler for Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Floating-Point TVPI Abstract Domain": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlowCert: Translation Validation for Asynchronous Dataflow via Dynamic Fractional Permissions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Forge: A Tool and Language for Teaching Formal Methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Foundational Integration Verification of a Cryptographic Server": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FPCC: Detecting Floating-Point Errors via Chain Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Batch to Stream: Automatic Generation of Online Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fulfilling OCaml Modules with Transparency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Full Iso-Recursive Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Composable and Adequate Verified Compilation with Direct Refinements between Open Modules": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Verified Instruction Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Functional Ownership through Fractional Uniqueness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Functional Programming in Financial Markets (Experience Report)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fusing Direct Manipulations into Functional Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generating Well-Typed Terms That Are Not \"Useless\"": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GenSQL: A Probabilistic Programming System for Querying Generative Models of Database Tables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gradient: Gradual Compartmentalization via Object Capabilities Tracked in Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gradual Indexed Inductive Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gradually Typed Languages Should Be Vigilant!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grokking the Sequent Calculus (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Guided Equality Saturation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HardTaint: Production-Run Dynamic Taint Analysis via Selective Hardware Tracing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hashing Modulo Context-Sensitive 𝛼-Equivalence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher Order Bayesian Networks, Exactly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher-Order Model Checking of Effect-Handling Programs with Answer-Type Modification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HiPy: Extracting High-Level Semantics from Python Code for Data Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HOL4P4: Mechanized Small-Step Semantics for P4": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hopping Proofs of Expectation-Based Properties: Applications to Skiplists and Security Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Hard Is Weak-Memory Testing?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Bake a Quantum Π": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HybridSA: GPU Acceleration of Multi-pattern Regex Matching using Bit Parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hydra: Generalizing Peephole Optimizations with Program Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hyper Hoare Logic: (Dis-)Proving Program Hyperproperties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hyperblock Scheduling for Verified High-Level Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hypra: A Deductive Program Verifier for Hyper Hoare Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Identifying and Correcting Programming Language Behavior Misconceptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ill-Typed Programs Don't Evaluate": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Imperative Compositional Programming: Type Sound Distributive Intersection Subtyping with References via Bidirectional Typing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Implementation and Synthesis of Math Library Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Indexed Types for a Statically Safe WebAssembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inductive Approach to Spacer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inductive Diagrams for Causal Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inference of Probabilistic Programs with Moment-Matching Gaussian Mixtures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inference of Robust Reachability Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Input-Relational Verification of Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intensional Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Internal and Observational Parametricity for Cubical Agda": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Internal Parametricity, without an Interval": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Internalizing Indistinguishability with Dependent Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Iris-MSWasm: Elucidating and Mechanising the Security Invariants of Memory-Safe WebAssembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IsoPredict: Dynamic Predictive Analysis for Detecting Unserializable Behaviors in Weakly Isolated Data Store Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Iterative-Epoch Online Cycle Elimination for Context-Free Language Reachability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jacdac: Service-Based Prototyping of Embedded Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jmvx: Fast Multi-threaded Multi-version Execution and Record-Replay for Managed Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KATch: A Fast Symbolic Verifier for NetKAT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Knowledge Transfer from High-Resource to Low-Resource Programming Languages for Code LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Law and Order for Typestate with Borrowing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Abstraction Selection for Bayesian Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lexical Effect Handlers, Directly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "libLISA: Instruction Discovery and Analysis on x86-64": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiDO: Linearizable Byzantine Distributed Objects with Refinement-Based Liveness Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear Matching of JavaScript Regular Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Live Verification in an Interactive Proof Assistant": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making Formulog Fast: An Argument for Unconventional Datalog Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making Sense of Multi-threaded Application Performance at Scale with NonSequitur": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mark-Scavenge: Waiting for Trash to Take Itself Out": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maximum Consensus Floating Point Solutions for Infeasible Low-Dimensional Linear Programs with Convex Hull as the Intermediate Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MEA2: A Lightweight Field-Sensitive Escape Analysis with Points-to Calculation for Golang": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mechanised Hypersafety Proofs about Structured Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mechanizing Refinement Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mechanizing the CMP Abstraction for Parameterized Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Merging Gradual Typing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Message-Observing Sessions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minotaur: A SIMD-Oriented Synthesizing Superoptimizer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mix Testing: Specifying and Testing ABI Compatibility of C/C++ Atomics Implementations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model Checking Distributed Protocols in Must": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modeling Dynamic (De)Allocations of Local Memory for Translation Validation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Denotational Semantics for Effects with Guarded Interaction Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Hardware Design of Pipelined Circuits with Hazards": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Synthesis of Efficient Quantum Uncomputation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monotone Procedure Summarization via Vector Addition Systems and Inductive Potentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monotonicity and the Precision of Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mostly Automated Verification of Liveness Properties for Distributed Protocols with Ranking Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multiverse Notebook: Shifting Data Scientists to Time Travelers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multris: Functional Verification of Multiparty Message Passing in Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NetBlocks: Staging Layouts for High-Performance Custom Host Network Stacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Newtonian Program Analysis of Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nominal Recursors as Epi-Recursors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-termination Proving at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Numerical Fuzz: A Type System for Rounding Error Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Object-Oriented Fixpoint Programming with Datalog": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Learning Polynomial Recursive Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Model-Checking Higher-Order Effectful Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Expressive Power of Languages for Static Variability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Operational Theory of the CPS-Calculus: Towards a Theoretical Foundation for IRs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On-the-Fly Static Analysis via Dynamic Bidirected Dyck Reachability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Program Synthesis via Abstract Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimistic Stack Allocation and Dynamic Heapification for Managed Runtimes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Orthologic with Axioms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Outcome Separation Logic: Local Reasoning for Correctness and Incorrectness with Computational Effects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oxidizing OCaml with Modal Memory Management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel Algebraic Effect Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parametric Subtyping for Structural Parametric Polymorphism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ParDiff: Practical Static Differential Analysis of Network Protocol Parsers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parikh's Theorem Made Symbolic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Persimmon: Nested Family Polymorphism with Extensible Variant Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pipelines and Beyond: Graph Types for ADTs with Futures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PL4XGL: A Programming Language Approach to Explainable Graph Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plume: Efficient and Complete Black-Box Checking of Weak Isolation Levels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PolyJuice: Detecting Mis-compilation Bugs in Tensor Compilers with Equality Saturation Based Rewriting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polymorphic Reachability Types: Tracking Freshness, Aliasing, and Separation in Higher-Order Generic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polymorphic Type Inference for Dynamic Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial Time and Dependent Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polyregular Functions on Unordered Trees of Bounded Height": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Positive Almost-Sure Termination: Complexity and Proof Rules": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PP-CSA: Practical Privacy-Preserving Software Call Stack Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Verification of Smart Contracts using Memory Splitting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predictable Verification using Intrinsic Definitions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predictive Monitoring against Pattern Regular Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Programming Interfaces for Random Graphs: Markov Categories, Graphons, and Nominal Sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Programming with Programmable Variational Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Profiling Programming Language Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Program Analysis for Adaptive Data Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programmable MCMC with Soundly Composed Guide Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programmatic Strategy Synthesis: Resolving Nondeterminism in Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programming-by-Demonstration for Long-Horizon Robot Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PROMPT: A Fast and Extensible Memory Profiling Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PyDex: Repairing Bugs in Introductory Python Assignments using LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QuAC: Quick Attribute-Centric Type Inference for Python": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Qualifying System F<: Some Terms and Conditions May Apply": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantitative Bounds on Resource Usage of Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantitative Robustness for Vulnerability Assessment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantitative Weakest Hyper Pre: Unifying Correctness and Incorrectness Hyperproperties via Predicate Transformers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Bisimilarity via Barbs and Contexts: Curbing the Power of Non-deterministic Observers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Control Machine: The Limits of Control Flow in Quantum Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Probabilistic Model Checking for Time-Bounded Properties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quarl: A Learning-Based Quantum Circuit Optimizer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Qubit Recycling Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quest Complete: The Holy Grail of Gradual Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quiver: Guided Abductive Inference of Separation Logic Specifications in Coq": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quotient Haskell: Lightweight Quotient Types for All": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ramsey Quantifiers in Linear Arithmetics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reachability in Continuous Pushdown VASS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Realistic Realizability: Specifying ABIs You Can Count On": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recursive Program Synthesis using Paramorphisms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reducing Static Analysis Unsoundness with Approximate Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RefinedRust: A Type System for High-Assurance Verification of Rust Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Refinement Composition Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Refinement Type Refutations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Regular Abstractions for Array Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReLU Hull Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reward Augmentation in Reinforcement Learning for Testing Distributed Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reward-Guided Synthesis of Intelligent Agents with Control Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RichWasm: Bringing Safe, Fine-Grained, Shared-Memory Interoperability Down to WebAssembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Resource Bounds with Static Analysis and Bayesian Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rustlantis: Randomized Differential Testing of the Rust Compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling Abstraction Refinement for Program Analyses in Datalog using Graph Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling Type-Based Points-to Analysis with Saturation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scenario-Based Proofs for Concurrent Objects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Securing Verified IO Programs Against Unverified Code in F": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Code Refactoring for Abstract Data Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic-Type-Guided Bug Finding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantics Lifting for Syntactic Sugar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantics of Remote Direct Memory Access: Operational and Declarative Models of RDMA on TSO Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Seneca: Taint-Based Call Graph Construction for Java Object Deserialization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sensitivity by Parametricity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shoggoth: A Formal Foundation for Strategic Rewriting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SimuQ: A Framework for Programming Quantum Hamiltonian Simulation with Analog Compilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMT Theory Arbitrage: Approximating Unbounded Constraints using Bounded Theories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMT2Test: From SMT Formulas to Effective Test Cases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snapshottable Stores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solvable Polynomial Ideals: The Ideal Reflection for Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving Infinite-State Games via Acceleration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound and Partially-Complete Static Analysis of Data-Races in GPU Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound Borrow-Checking for Rust via Symbolic Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound Gradual Verification with Symbolic Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soundly Handling Linearity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Space-Efficient Polymorphic Gradual Typing, Mostly Parametric": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SparseAuto: An Auto-scheduler for Sparse Tensor Computations using Recursive Loop Nest Restructuring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Specification and Verification for Unrestricted Algebraic Effects and Handling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpEQ: Translation of Sparse Codes using Equivalences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPORE: Combining Symmetry and Partial Order Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Staged Compilation with Module Functors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StarMalloc: Verifying a Modern, Hardened Memory Allocator": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Static Analysis for Checking the Disambiguation Robustness of Regular Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Static Posterior Inference of Bayesian Probabilistic Programming via Polynomial Solving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statically Contextualizing Large Language Models with Typed Holes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statistical Testing of Quantum Programs via Fixed-Point Amplitude Amplification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Story of Your Lazy Function's Life: A Bidirectional Demand Semantics for Mechanized Cost Analysis of Lazy Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stream Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Strong Invariants Are Hard: On the Hardness of Strongest Polynomial Invariants for (Probabilistic) Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SuperStack: Superoptimization of Stack-Bytecode via Greedy, Constraint-Based, and SAT Techniques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbolic Execution for Quantum Error Correction Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synchronous Programming with Refinement Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Syntactic Code Search with Sequence-to-Tree Matching: Supporting Syntactic Search with Incomplete Code Fragments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing Formal Semantics from Executable Interpreters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthetiq: Fast and Versatile Quantum Circuit Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tachis: Higher-Order Separation Logic with Credits for Expected Costs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taypsi: Static Enforcement of Privacy Policies for Policy-Agnostic Oblivious Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The ART of Sharing Points-to Analysis: Reusing Points-to Analysis Results Safely and Efficiently": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Complex(ity) Landscape of Checking Infinite Descent": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Essence of Generalized Algebraic Data Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Functional Essence of Imperative Binary Search Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Functional, the Imperative, and the Sudoku: Getting Good, Bad, and Ugly to Get Along (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Logical Essence of Well-Bracketed Control Flow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Long Way to Deforestation: A Type Inference and Elaboration Technique for Removing Intermediate Data Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The T-Complexity Costs of Error Correction for Control Flow in Quantum Computation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Ultimate Conditional Syntax": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thunks and Debits in Separation Logic with Time Credits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TorchQL: A Programming Framework for Integrity Constraints in Machine Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Total Type Error Localization and Recovery with Holes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Trustworthy Automated Program Verifiers: Formally Validating Translations into an Intermediate Verification Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type Inference Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type-Based Gradual Typing Performance Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unboxed Data Constructors: Or, How cpp Decides a Halting Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Finding Java Decompiler Bugs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unifying Static and Dynamic Intermediate Languages for Accelerator Generators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UniSparse: An Intermediate Language for General Sparse Format Customization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "V-Star: Learning Visibly Pushdown Grammars from Program Inputs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validating SMT Solvers for Correctness and Performance via Grammar-Based Enumeration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validation of Modern JSON Schema: Formalization and Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VarLifter: Recovering Variables and Types from Bytecode of Solidity Smart Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VeriEQL: Bounded Equivalence Verification for Complex SQL Queries with Integrity Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verification of Neural Networks' Global Robustness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verification under Intel-x86 with Persistency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verified Extraction from Coq to OCaml": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verified Lock-Free Session Channels with Linking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VESTA: Power Modeling with Language Runtime Events": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VST-A: A Foundationally Sound Annotation Verifier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wasm-R3: Record-Reduce-Replay for Realistic and Standalone WebAssembly Benchmarks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wavefront Threading Enables Effective High-Level Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weighted Context-Free-Language Ordered Binary Decision Diagrams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Subtyping Constraints Liberate: A Novel Type Inference Approach for First-Class Polymorphism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Your Infrastructure Is a Buggy Program: Understanding Faults in Infrastructure as Code Ecosystems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WhiteFox: White-Box Compiler Fuzzing Empowered by Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "With a Few Square Roots, Quantum Computing Is as Easy as Pi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "2-Functoriality of Initial Semantics, and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Bargain for Mergesorts: How to Prove Your Mergesort Correct and Stable, Almost for Free": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Complete Formal Semantics of eBPF Instruction Set Architecture for Solana": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Concurrent Approach to String Transformation Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Demonic Outcome Logic for Randomized Nondeterminism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Dependent Type Theory for Meta-programming with Intensional Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Domain-Specific Probabilistic Programming Language for Reasoning about Reasoning (Or: A Memo on memo)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Flow-Sensitive Refinement Type System for Verifying eBPF Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Haskell Adiabatic DSL: Solving Classical Optimization Problems on Quantum Hardware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Hoare Logic for Symmetry Properties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Hybrid Approach to Semi-automated Rust Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Language for Quantifying Quantum Network Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lightweight Type-and-Effect System for Invalidation Safety: Tracking Permanent and Temporary Invalidation with Constraint-Based Subtype Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Mechanized Semantics for Dataflow Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Modal Deconstruction of Löb Induction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Primal-Dual Perspective on Program Verification Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Quantitative Probabilistic Relational Hoare Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Refinement Methodology for Distributed Programs in Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Sound Static Analysis Approach to I/O API Migration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Taxonomy of Hoare-Like Logics: Towards a Holistic View using Predicate Transformers and Kleene Algebras with Top and Tests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Uniform Framework for Handling Position Constraints in String Solving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Unifying Approach to Product Constructions for Quantitative Temporal Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Verified Foreign Function Interface between Coq and C": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ABC: Towards a Universal Code Styler through Model Merging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstract Interpretation of Temporal Safety Effects of Higher Order Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstract Operational Methods for Call-by-Push-Value": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Abstraction Refinement-Guided Program Synthesis for Robot Learning from Demonstrations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AccelerQ: Accelerating Quantum Eigensolvers with Machine Learning on Quantum Simulators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Active Learning for Neurosymbolic Program Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Active Learning of Symbolic NetKAT Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Shielding via Parametric Safety Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adequacy for Algebraic Effects Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Advancing Performance via a Systematic Application of Research and Industrial Best Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Affect: An Affine Type and Effect System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Agora: Trust Less and Open More in Verification for Confidential Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Temporal Effects: Temporal Verification of Recursively Typed Higher-Order Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebras for Deterministic Computation Are Inherently Incomplete": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "All Your Base Are Belong to Us: Sort Polymorphism for Proof Assistants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost Fair Simulations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Evaluation of Property-Based Testing in Python": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Empirical Study of Bugs in the rustc Compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Incremental Algorithm for Algebraic Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Interactive Debugger for Rust Trait Errors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "API-Guided Dataset Synthesis to Finetune Large Code Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ApkDiffer: Accurate and Scalable Cross-Version Diffing Analysis for Android Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Relational Reasoning for Higher-Order Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Archmage and CompCertCast: End-to-End Verification Supporting Integer-Pointer Casting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-procedural Path-Sensitive Taint Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Discovery of Tactic Libraries for Interactive Theorem Proving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Exploit Generation for Node.js Packages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Program Refinement: Guide and Verify Code Large Language Model with Refinement Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Verification of Soundness of DNN Certifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Linear Resource Bound Analysis for Rust via Prophecy Potentials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatically Verifying Replication-Aware Linearizability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automating Equational Proofs in Dirac Notation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoVerus: Automated Proof Generation for Rust Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Avoiding Signature Avoidance in ML Modules with Zippers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AWDIT: An Optimal Weak Database Isolation Tester": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Axe 'Em: Eliminating Spurious States with Induction Axioms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Barendregt Convenes with Knaster and Tarski: Strong Rule Induction for Syntax with Bindings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bean: A Language for Backward Error Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bennet: Randomized Specification Testing for Heap-Manipulating Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bialgebraic Reasoning on Stateful Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bidirectional Higher-Rank Polymorphism with Intersection and Union Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Big Steps in Higher-Order Mathematical Operational Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Binary Cryptographic Function Identification via Similarity Analysis with Path-Insensitive Emulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Biparsers: Exact Printing for Data Synchronisation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BiSikkel: A Multimode Logical Framework in Agda": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bluebell: An Alliance of Relational Lifting and Independence for Probabilistic Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bolt-On Strong Consistency: Specification, Implementation, and Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Boosting Program Reduction with the Missing Piece of Syntax-Guided Transformations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Borrowing from Session Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging the Gap between Real-World and Formal Binary Lifting through Filtered-Simulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Calculational Design of Hyperlogics by Abstract Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Call-Guarded Abstract Definitional Interpreters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Carapace: Static-Dynamic Information Flow Control in Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Certified Compilers à la Carte": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Certified Decision Procedures for Width-Independent Bitvector Predicates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CF-GKAT: Efficient Validation of Control-Flow Transformations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing Implementability of Global Protocols with Infinite States and Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Checking Observational Correctness of Database Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Checking δ-Satisfiability of Reals with Integrals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Choreographic Quick Changes: First-Class Location (Set) Polymorphism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Circuit Optimization using Arithmetic Table Lookups": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Code Style Sheets: CSS for Code": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coinductive Proofs for Temporal Hyperliveness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coinductive Proofs of Regular Expression Equivalence in Zero Knowledge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Formal and Informal Information in Bayesian Program Analysis via Soft Evidences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CompCertOC: Verified Compositional Compilation of Multi-threaded Programs with Shared Stacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling Classical Sequent Calculus to Stock Hardware: The Duality of Compilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compiling with Generating Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complete the Cycle: Reachability Types with Expressive Cyclic References": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Imprecise Probability: A Solution from Graded Monads and Markov Categories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Quantum Control Flow with Efficient Compilation in Qunity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compositional Symbolic Execution for the Next 700 Memory Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compressed and Parallelized Structured Tensor Algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Consistency of a Dependent Calculus of Indistinguishability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contract System Metatheories à la Carte: A Transition-System View of Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Convex Hull Approximation for Activation Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correct Black-Box Monitors for Distributed Deadlock Detection: Formalisation and Implementation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correct-by-Construction: Certified Individual Fairness through Neural Network Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correctly Rounded Math Libraries without Worrying about the Application's Rounding Mode": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correctness Meets Performance: From Agda to Futhark": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Corrigendum: PAFL: Enhancing Fault Localizers by Leveraging Project-Specific Fault Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoSSJIT: Combining Static Analysis and Speculation in JIT Compilers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cost of Soundness in Mixed-Precision Tuning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counterexample-Guided Inference of Modular Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CRDT Emulation, Simulation, and Representation Independence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CRGC: Fault-Recovering Actor Garbage Collection in Pekko": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Race Freedom à la Mode": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Debugging WebAssembly? Put Some Whamm on It!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Denotational Foundations for Expected Cost Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Denotational Semantics of Gradual Typing using Synthetic Guarded Domain Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dependency-Aware Compilation for Surface Code Quantum Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DepFuzz: Efficient Smart Contract Fuzzing with Function Dependence Guidance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Derivative-Guided Symbolic Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Destabilizing Iris": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Destination Calculus: A Linear 𝜆-Calculus for Purely Functional Memory Writes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting and Explaining (In-)equivalence of Context-Free Grammars": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dis/Equality Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Divergence-Aware Testing of Graphics Shader Compiler Back-Ends": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Divide and Conquer: A Compositional Approach to Game-Theoretic Security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Divining Profiler Accuracy: An Approach to Approximate Profiler Accuracy through Machine Code-Level Slowdown": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do You Even Lift? Strengthening Compiler Security Guarantees against Spectre Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DR.FIX: Automatically Fixing Data Races at Industry Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Region Ownership for Concurrency Safety": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Robustness Verification against Weak Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Wind for Effect Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effectful Lenses: There and Back with Different Monads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Abstract Interpretation via Selective Widening": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Algorithms for the Uniform Tokenization Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Decrease-and-Conquer Linearizability Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Formal Verification of Quantum Error Correcting Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Incremental Verification of Neural Networks Guided by Counterexample Potentiality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Linearizability Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Timestamping for Sampling-Based Race Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient, Portable, Census-Polymorphic Choreographic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embedding Quantum Program Verification into Dafny": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Encode the ∀∃ Relational Hoare Logic into Standard Hoare Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing APR with PRISM: A Semantic-Based Approach to Overfitting Patch Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Loop Bound Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Theory and Practice of Concurrency in the Entity-Component-System Pattern": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extraction and Mutation at a High Level: Template-Based Fuzzing for JavaScript Engines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Client-Driven CFL-Reachability via Regularization-Based Graph Simplification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Constraint Synthesis for C++ Function Templates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Direct Manipulation Programming with Patch-Reconciliation Correspondence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Explicit-Trace Monitoring-Oriented Programming for Runtime Verification of Software Tests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finch: Sparse and Structured Tensor Programming with Control Flow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding Compiler Bugs through Cross-Language Code Generator and Differential Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finite-Choice Logic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "First-Class Verification Dialects for MLIR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "First-Order Laziness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flexible and Expressive Typed Path Patterns for GQL": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flexible Type-Based Resource Estimation in Quantum Circuit Description Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flix: A Design for Language-Integrated Datalog": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flo: A Semantic Foundation for Progressive Stream Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Float Self-Tagging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FO-Complete Program Verification for Heap Logics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Foundations for Translational Separation Logic Verifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formal Semantics and Program Logics for a Fragment of OCaml": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formalising Graph Algorithms with Coinduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formalizing Linear Motion G-Code for Invariant Checking and Differential Testing of Fabrication Tools": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Foundations for Deductive Verification of Continuous Probabilistic Programs: From Lebesgue to Riemann and Back": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fray: An Efficient General-Purpose Concurrency Testing Platform for the JVM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Frex: Dependently Typed Algebraic Simplification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Linearity to Borrowing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fulls Seldom Differ": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fulminate: Testing CN Separation-Logic Specifications in C": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Functional Meaning for Parallel Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Functional Networking for Millions of Docker Desktops (Experience Report)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fusing Session-Typed Concurrent Programming into Functional Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fuzzing C++ Compilers via Type-Driven Mutation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GALA: A High Performance Graph Neural Network Acceleration LAnguage and Compiler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Garbage Collection for Rust: The Finalizer Frontier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generic Refinement Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generically Automating Separation Logic by Functors, Homomorphisms, and Modules": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graphiti: Bridging Graph and Relational Database Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Guaranteed Bounds on Posterior Distributions of Discrete Probabilistic Programs with Loops": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Guarding the Privacy of Label-Only Access to Neural Network Classifiers via iDP Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Guided Tensor Lifting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hambazi: Spatial Coordination Synthesis for Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Handling the Selection Monad": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Heap-Snapshot Matching and Ordering using CAHPs: A Context-Augmented Heap-Path Representation for Exact and Partial Path Matching using Prefix Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HeapBuffers: Why Not Just Using a Binary Serialization Format for Your Managed Memory?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HEMVM: A Heterogeneous Blockchain Framework for Interoperable Virtual Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HieraSynth: A Parallel Framework for Complete Super-Optimization with Hierarchical Space Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Homomorphism Calculus for User-Defined Aggregations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HpC: A Calculus for Hybrid and Mobile Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HybridPersist: A Compiler Support for User-Friendly and Efficient PM Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "im2im: Automatically Converting In-Memory Image Representations using a Knowledge Graph Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IncIDFA: An Efficient and Generic Algorithm for Incremental Iterative Dataflow Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incremental Bidirectional Typing via Order Maintenance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incremental Certified Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inductive Synthesis of Inductive Heap Predicates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inference Plans for Hybrid Particle Filtering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating Resource Analyses via Resource Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interaction Equivalence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Bitvector Reasoning using Verified Bit-Blasting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interleaving Large Language Models for Compiler Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intrinsic Verification of Parsers and Formal Grammar Theory in Dependent Lambek Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Iso: Request-Private Garbage Collection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "JavART: A Lightweight Rule-Based JIT Compiler using Translation Rules Extracted from a Learning Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "KestRel: Relational Verification using E-Graphs for Program Alignment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Language-Parametric Reference Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large Language Model Powered Symbolic Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Laurel: Unblocking Automated Verification with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging Immutability to Validate Hazard Pointers for Optimistic Traversals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Liberating Merges via Apartness and Guarded Subtyping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiDO-DAG: A Framework for Verifying Safety and Liveness of DAG-Based Consensus Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightweight and Locality-Aware Composition of Black-Box Subroutines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lilo: A Higher-Order, Relational Concurrent Separation Logic for Liveness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear and Non-linear Relational Analyses for Quantum Program Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear Types with Dynamic Multiplicities in Dependent Type Theory (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Link-Time Optimization of Dynamic Casts in C++ Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LOUD: Synthesizing Strongest and Weakest Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making Concurrent Hardware Verification Sequential": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MarQSim: Reconciling Determinism and Randomness in Compiler Optimization for Quantum Simulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maximal Simplification of Polyhedral Reductions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "McTT: A Verified Kernel for a Proof Assistant": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Membership Testing for Semantic Regular Expressions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Memory-Safety Verification of Open Programs with Angelic Assumptions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetaKernel: Enabling Efficient Encrypted Neural Network Inference through Unified MVM and Convolution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Metamorph: Synthesizing Large Objects from Dafny Specifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MimIR: An Extensible and Type-Safe Intermediate Representation for the DSL Age": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mind the Abstraction Gap: Bringing Equality Saturation to Real-World ML Compilers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mini-Batch Robustness Verification of Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MIO: Multiverse Debugging in the Face of Input/Output": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MISAAL: Synthesis-Based Automatic Generation of Efficient and Retargetable Semantics-Driven Optimizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modal Abstractions for Virtualizing Memory Addresses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modal Effect Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model Checking C/C++ with Mixed-Size Accesses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model-Guided Fuzzing of Distributed Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modeling Reachability Types with Logical Relations: Semantic Type Soundness, Termination, Effect Safety, and Equational Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modelling Recursion and Probabilistic Choice in Guarded Type Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Construction and Optimization of the UZP Sparse Format for SpMV on CPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modular Reasoning about Global Variables and Their Initialization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Morello-Cerise: A Proof of Strong Encapsulation for the Arm Morello Capability Hardware Architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MTP: A Meaning-Typed Language Abstraction for AI-Integrated Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Language Probabilistic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-modal Sketch-Based Behavior Tree Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-stage Programming with Splice Variables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-stage Relational Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multiple Resumptions and Local Mutable State, Directly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nola: Later-Free Ghost State for Verifying Termination in Iris": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-interference Preserving Optimising Compilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Normalization by Evaluation for Non-cumulativity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Notions of Stack-Manipulating Computation and Relative Monads": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Abstraction Refinement for Bayesian Program Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Decidable and Undecidable Extensions of Simply Typed Lambda Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Extending Incorrectness Logic with Backwards Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Higher-Order Model Checking of Effectful Answer-Type-Polymorphic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Impact of Formal Verification on Software Development": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Opportunistically Parallel Lambda Calculus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimization-Directed Compiler Fuzzing for Continuous Translation Validation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Ancilla-Based Quantum Circuits with SPARE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Orax: A Feedback-Driven Framework for Efficiently Solving Satisfiability Modulo Theories and Oracles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PAFL: Enhancing Fault Localizers by Leveraging Project-Specific Fault Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pantograph: A Fluid and Typed Structure Editor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partial Evaluation, Whole-Program Compilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pathological Cases for a Class of Reachability-Based Garbage Collectors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Peepco: Batch-Based Consistency Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Place Capability Graphs: A General-Purpose Model of Rust's Ownership and Borrowing Guarantees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pointer Analysis for Database-Backed Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polygon: Symbolic Reasoning for SQL using Conflict-Driven Under-Approximation Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polymorphic Records for Dynamic Languages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial-Time Program Equivalence for Machine Knitting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Type Inference with Levels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PReMM: LLM-Based Program Repair for Multi-method Bugs via Divide and Conquer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preservation of Speculative Constant-Time by Compilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Principal Type Inference under a Prefix: A Fresh Look at Static Overloading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Inference for Datalog with Correlated Inputs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Kleene Algebra with Angelic Nondeterminism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probabilistic Refinement Session Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Products of Recursive Programs for Hypersafety Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Program Analysis via Multiple Context Free Language Reachability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Program Logics à la Carte": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Program Skeletons for Automated Program Translation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Program Synthesis from Partial Traces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programming by Navigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Progressful Interpreters for Efficient WebAssembly Mechanisation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proof Repair across Quotient Type Equivalences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PulseCore: An Impredicative Concurrent Separation Logic for Dependently Typed Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pushing the Information-Theoretic Limits of Random Access Lists: Traversing Cons Lists in (1 + 1/𝜎 ) ⌊lg 𝑛⌋ + 𝜎 + 9 Steps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pyrosome: Verified Compilation for Modular Metatheory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "P³: Reasoning about Patches via Product Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QbC: Quantum Correctness by Construction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "qblaze: An Efficient and Scalable Sparse Quantum Simulator": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QED in Context: An Observation Study of Proof Assistant Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Qualified Types with Boolean Algebras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantified Underapproximation via Labeled Bunches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantization with Guaranteed Floating-Point Neural Network Classifications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Register Machine: Efficient Implementation of Quantum Recursive Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QuickSub: Efficient Iso-Recursive Subtyping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Qurts: Automatic Quantum Uncomputation by Affine Types with Lifetime": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QVM: Quantum Gate Virtualization Machine": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Random Variate Generation with Formal Guarantees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RE#: High Performance Derivative-Based Regex Matching with Intersection, Complement, and Restricted Lookarounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reachability Analysis of the Domain Name System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "React-tRace: A Semantics for Understanding React Hooks: An Operational Semantics and a Visualizer for Clarifying React Hooks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reasoning about External Calls": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reasoning about Weak Isolation Levels in Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RefinedProsa: Connecting Response-Time Analysis with C Verification for Interrupt-Free Schedulers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relational Abstractions Based on Labeled Union-Find": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relax! The Semilenient Core of Choreographic Programming (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relaxed Memory Concurrency Re-executed": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relaxing Alias Analysis: Exploring the Unexplored Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RELINCHE: Automatically Checking Linearizability under Relaxed Memory Consistency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "REPTILE: Performant Tiling of Recurrences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RestPi: Path-Sensitive Type Inference for REST APIs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revamping Verilog Semantics for Foundational Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revealing Sources of (Memory) Errors via Backward Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ripple: Asynchronous Programming for Spatial Dataflow Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Constant-Time Cryptography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Dynamic Embedding for Gradual Typing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robustifying Debug Information Updates in LLVM via Control-Flow Conformance Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ROSpec: A Domain-Specific Language for ROS-Based Robot Software": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Roulette: A Language for Expressive, Exact, and Efficient Discrete Probabilistic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RRR-SMR: Reduce, Reuse, Recycle: Better Methods for Practical Lock-Free Data Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SafeRace: Assessing and Addressing WebGPU Memory Safety in the Presence of Data Races": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SafeTree: Expressive Tree Policies for Microservices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable and Accurate Application-Level Crash-Consistency Testing via Representative Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable Equivalence Checking and Verification of Shallow Quantum Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable, Validated Code Translation of Entire Projects using Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling Instruction-Selection Verification against Authoritative ISA Semantics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scaling Optimization over Uncertainty via Compilation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SecRef*: Securely Sharing Mutable References between Verified and Unverified Code in F": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Logical Relations for Timed Message-Passing Protocols": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantics of Integrating and Differentiating Singularities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantics of Sets of Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shaking Up Quantum Simulators with Fuzzing and Rigour": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Show Me Why It's Correct: Saving 1/3 of Debugging Time in Program Repair with Interactive Runtime Comparison": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simple Linear Loops: Algebraic Invariants and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Slotted E-Graphs: First-Class Support for (Bound) Variables in E-Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smooth, Integrated Proofs of Cryptographic Constant Time for Nondeterministic Programs and Compilers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SNIP: Speculative Execution and Non-Interference Preservation for Compiler Transformations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Software Model Checking via Summary-Guided Search": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving Floating-Point Constraints with Continuous Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound and Complete Proof Rules for Probabilistic Termination": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sound and Modular Activity Analysis for Automatic Differentiation in MLIR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soundness of Predictive Concurrency Analyses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spineless Traversal for Layout Invalidation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPLAT: A Framework for Optimised GPU Code-Generation for SParse reguLar ATtention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StacKAT: Infinite State Network Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Static Inference of Regular Grammars for Ad Hoc Parsers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Statically Analyzing the Dataflow of R Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stencil-Lifting: Hierarchical Recursive Lifting System for Extracting Summary of Stencil Kernel in Legacy Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stochastic Lazy Knowledge Compilation for Inference in Discrete Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structural Abstraction and Refinement for Probabilistic Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structural Information Flow: A Fresh Look at Types for Non-interference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Structural Temporal Logic for Mechanized Program Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Support Triangle Machine": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbolic Automata: Omega-Regularity Modulo Theories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Symbolic MRD: Dynamic Memory, Undefined Behaviour, and Extrinsic Choice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synchronized Behavior Checking: A Method for Finding Missed Compiler Optimizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Syntactic Completions with Material Obligations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing DSLs for Few-Shot Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing Implication Lemmas for Interactive Theorem Proving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Synthesizing Sound and Precise Abstract Transformers for Nonlinear Hyperbolic PDE Solvers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tabby: A Synthesis-Aided Compiler for High-Performance Zero-Knowledge Proof Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tail Modulo Cons, OCaml, and Relational Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TailTracer: Continuous Tail Tracing for Production Use": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taking Out the Toxic Trash: Recovering Precision in Mixed Flow-Sensitive Static Analyses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Task-Based Tensor Computations on Modern GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Teaching Software Specification (Experience Report)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TensorRight: Automated Verification of Tensor Graph Rewrites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Best of Abstract Interpretations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Continuous Tensor Abstraction: Where Indices Are Real": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Decision Problem for Regular First Order Theories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Duality of λ-Abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Power of Regular Constraint Propagation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Simple Essence of Monomorphization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Simple Essence of Overloading: Making Ad-Hoc Polymorphism More Algebraic with Flow-Based Variational Type-Checking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Simulation Semantics of Synthesisable Verilog": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Thrust: A Prophecy-Based Refinement Type System for Rust": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Top-Down or Bottom-Up? Complexity Analyses of Synchronous Multiparty Session Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Theoretically-Backed and Practical Framework for Selective Object-Sensitive Pointer Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Verifying Crash Consistency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TraceLinking Implementations with Their Verified Designs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tracing Just-in-Time Compilation for Effects and Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Translation of Temporal Logic for Efficient Infinite-State Reactive Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Translation Validation for LLVM's AArch64 Backend": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tree Borrows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Truly Functional Solutions to the Longest Uptrend Problem (Functional Pearl)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tuning Random Generators: Property-Based Testing as Probabilistic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tunneling through the Hill: Multi-way Intersection for Version-Space Algebras in Program Synthesis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two Approaches to Fast Bytecode Frontend for Static Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type Theory in Type Theory using a Strictified Syntax": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type Universes as Kripke Worlds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type-Constrained Code Generation with Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type-Outference with Label-Listeners: Foundations for Decidable Type-Consistency for Nominal Object-Oriented Generics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Type-Preserving Flat Closure Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding and Improving Flaky Test Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unifying Compositional Verification and Certified Compilation with a Three-Dimensional Refinement Algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Scalability in Declarative Program Analysis (with Choice-Based Combination Pruning)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unveiling Heisenbugs with Diversified Execution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Usability Barriers for Liquid Types": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UTFix: Change Aware Unit Test Repairing using LLM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validating SMT Rewriters via Rewrite Space Exploration Supported by Generative Equality Saturation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validating Soundness and Completeness in Pattern-Match Coverage Analyzers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verification of Bit-Flip Attacks against Quantized Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verified Foundations for Differential Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verified Interpreters for Dynamic Languages with Applications to the Nix Expression Language": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Asynchronous Hyperproperties in Reactive Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying General-Purpose RCU for Reclamation in Relaxed Memory Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Graph Algorithms in Separation Logic: A Case for an Algebraic Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Lock-Free Traversals in Relaxed Memory Separation Logic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Quantum Circuits with Level-Synchronized Tree Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verifying Solutions to Semantics-Guided Synthesis Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VeriRT: An End-to-End Verification Framework for Real-Time Distributed Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "We've Got You Covered: Type-Guided Repair of Incomplete Input Generators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Webs and Flow-Directed Well-Typedness Preserving Program Transformations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What's in the Box: Ergonomic and Expressive Capture Tracking over Generic Data Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Work Packets: A New Abstraction for GC Software Engineering, Optimization, and Innovation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zero-Overhead Lexical Effect Handlers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,3982 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "MobiCom",
+  "papers": {
+    "2021": {
+      "A 2-FA for home voice assistants using inaudible acoustic signal": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A community-driven approach to democratize access to satellite ground stations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A cross-layer approach for supporting real-time multi-user video streaming over WLANs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A nationwide census on wifi security threats: prevalence, riskiness, and the economics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A principled design for passive light communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACM MobiCom '21: The 27th Annual International Conference on Mobile Computing and Networking, New Orleans, Louisiana, USA, October 25-29, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An aerodynamic, computer vision, and network simulator for networked drone applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An ear canal deformation based continuous user authentication using earables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AsyMo: scalable and efficient deep-learning inference on asymmetric mobile CPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BioFace-3D: continuous 3d facial reconstruction through lightweight single-ear biosensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-sense: a learning-based collaborative wireless sensing framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Colosseum, the world's largest wireless network emulator": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combating link dynamics for reliable lora connection in urban settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crisp-BP: continuous wrist PPG-based blood pressure measurement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data-plane signaling in cellular IoT: attacks and defense": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepAd: a deep advertising signage system with context-aware advertisement based on IoT technologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepRadar: a deep-learning-based environmental sensing capability sensor design for CBRS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design and implementation of a generic 5G user plane function development framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detection of evil flies: securing air-ground aviation communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distracted driving detection by sensing the hand gripping of the phone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EarGate: gait-based user identification with in-ear microphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EMP: edge-assisted multi-vehicle perception": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: a five-year retrospective of MobileInsight": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: developing a usable battery drain testing and diagnostic tool for the mobile industry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extracting human behavioral biometrics from robot motions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Face-Mic: inferring live speech and speaker identity via subtle facial dynamics captured by AR/VR motion sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Federated mobile sensing for activity recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FIRE: enabling reciprocity for FDD MIMO systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flexible high-resolution object detection on edge devices with tunable latency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FLUID-XP: flexible user interface distribution for cross-platform experience": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FSA: fronthaul slicing architecture for 5G using dataplane programmable switches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HAWK-i: a remote and lightweight thermal imaging-based crowd screening framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HeadFi: bringing intelligence to all headphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Heart rate trend forecasting during high-intensity interval training using consumer wearable devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hermes: an efficient federated learning framework for heterogeneous mobile clients": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Human perception-enhanced camera system for web conferences leveraging device motions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Insecurity of operational cellular IoT service: new vulnerabilities, attacks, and countermeasures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large-scale vehicle trajectory reconstruction with camera sensing network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LegoDNN: block-grained scaling of deep neural networks for mobile vision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lili: liquor quality monitoring based on light signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Loki: improving long tail performance of learning-based real-time video adaptation by fusing rule-based models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Long-range accurate ranging of millimeter-wave retro-reflective tags in high mobility": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Long-range ambient LoRa backscatter with parallel decoding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagX: wearable, untethered hands tracking with passive magnets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Microphone array backscatter: an application-driven design for lightweight spatial sound recording over the air": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Millimetro: mmWave retro-reflective tags for accurate, long range localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MIXIQ: re-thinking ultra-low power receiver design for next-generation on-body applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoVi-Fi: motion-robust vital signs waveform recovery via deep interpreted RF sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "mSAIL: milligram-scale multi-modal sensor platform for monarch butterfly migration tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MVP: magnetic vehicular positioning system for GNSS-denied environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nervion: a cloud native RAN emulator for core network evaluations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nervion: a cloud native RAN emulator for scalable and flexible mobile core evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Notification privacy protection via unobtrusive gripping hand verification using media sounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nuberu: a reliable DU design suitable for virtualization platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nuberu: reliable RAN virtualization in shared platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Octopus: a practical and versatile wideband MIMO sensing platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One tag, two codes: identifying optical barcodes with NFC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PassiveLiFi: rethinking LiFi for low-power and long range RF backscatter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PCube: scaling LoRa concurrent transmissions with reception diversities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PECAM: privacy-enhanced video streaming and analytics via securely-reversible transformation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Physics-inspired heuristics for soft MIMO detection in 5G new radio and beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical approximate consensus algorithms for small devices in lossy networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RadioInLight: doubling the data rate of VLC systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RFClock: timing, phase and frequency synchronization for distributed wireless networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RFID and camera fusion for recognition of human-object interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RFlens: metasurface-enabled beamforming for IoT communication and sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RISE: robust wireless sensing using probabilistic and statistical assessments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust indoor localization with ADS-B": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SecureSIM: rethinking authentication and access control for SIM/eSIM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Seirios: leveraging multiple channels for LoRaWAN indoor and outdoor localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shrimp: a robust underwater visible light communication system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SiWa: see into walls via deep UWB radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SMART: screen-based gesture recognition on commodity mobile devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sonica: an open-source NB-IoT prototyping platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards resource-efficient detection-driven processing of multi-stream videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tracking free-form activity using wifi signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UltraSE: single-channel speech enhancement using ultrasound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Verification: can wifi backscatter replace RFID?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VI-eye: semantic-based 3D point cloud registration for infrastructure-assisted autonomous driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vi-liquid: unknown liquid identification with your smartphone vibration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Video-based social distancing evaluation in the cosmos testbed pilot site": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visage: enabling timely analytics for drone imagery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wearable, untethered hands tracking with passive magnets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WiBeacon: expanding BLE location-based services via wifi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "A facial authentication system using post-quantum-secure data generated on mobile devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A GPU-enabled mobile telemedicine training system for graphic rendering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A non-intrusive and adaptive speaker de-identification scheme using adversarial examples": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A real-time edge-AI system for reef surveys": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A vision-based indoor positioning systems utilizing computer aided design drawing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A wearable ultrasonic bladder monitoring device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A wifi vision-based 3D human mesh reconstruction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A-mash: providing single-app illusion for multi-app use through user-centric UI mashup": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ACM MobiCom '22: The 28th Annual International Conference on Mobile Computing and Networking, Sydney, NSW, Australia, October 17 - 21, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdaptOver: adaptive overshadowing attacks in cellular networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anchor-few: an adaptive precise indoor positioning system for low anchor densities based on IoT localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assessing certificate validation user interfaces of WPA supplicants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Audio-domain position-independent backdoor attack via unnoticeable triggers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Authentication for drone delivery through a novel way of using face biometrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic calibration of magnetic tracking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic calibration of magnetic tracking: demo": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BatchSketch: a \"network-server\" aligned solution for efficient mobile edge network sketching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BiTouch: enabling secure touch-to-access device pairing based on human body's electrical response": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BSMA: scalable LoRa networks using full duplex gateways": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constructing smart buildings with in-concrete backscatter networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CORE-lens: simultaneous communication and object recognition with disentangled-GAN cameras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cosmo: contrastive fusion learning with small data for multimodal human activity recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "De-spreading over the air: long-range CTC for diverse receivers with LoRa": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deep learning model optimization for faster inference using multi-task learning for embedded systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deep reinforcement learning-based control framework for radio access networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating hitonavi-μ: a novel wearable LiDAR for human activity recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating OmniCells: a resilient indoor localization system to devices' diversity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing, building, and characterizing RF switch-based reconfigurable intelligent surfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Development of C-plane DoS attacker for O-RAN FHI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DIY-IPS: towards an off-the-shelf accurate indoor positioning system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DoCam: depth sensing with an optical image stabilization supported RGB camera": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Edge assisted frame interpolation and super resolution for efficient 360-degree video delivery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Edge-assisted deep video denoising and super-resolution for real-time surveillance at night": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling high accuracy pervasive tracking with ultra low power UWB tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling L3: low cost, low complexity and low power radio frequency sensing using tunnel diodes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling secure touch-to-access device pairing based on human body's electrical response": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating soil moisture using RF signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: adopting indoor outdoor detection in on-demand food delivery business": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: practical indoor localization for malls": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: practical problems for acoustic sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: pushing indoor localization from laboratory to the wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experimenting with localization management functions in 5G core networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fall detection based on interpretation of important features with wrist-wearable sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Federated learning-based air quality prediction for smart cities using BGRU model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FedHD: federated learning with hyperdimensional computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FLEW: fully emulated wifi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HiToF: a ToF camera system for capturing high-resolution textures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IABEST: an integrated access and backhaul 5G testbed for large-scale experimentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IMAP: individual huMAn mobility patterns visualizing platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In-situ data curation: a key to actionable AI at the edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Indoor localization using light spectral information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inducing wireless chargers to voice out": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InFi: end-to-end learnable input filter for resource-efficient mobile-centric inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Introspecting network behavior with mixed reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Involving ultra-wideband in consumer-level devices into the ecosystem of wireless sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ioTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IoTree: a battery-free wearable system with biocompatible sensors for continuous tree health monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Leveraging public buses to relay UAVs for on-demand applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiqRay: non-invasive and fine-grained liquid recognition system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Location-aware IT system security using IoT in multizone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Magnetoelectric backscatter communication for millimeter-sized wireless biomedical implants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mandheling: mixed-precision on-device DNN training with DSP offloading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mask does not matter: anti-spoofing face authentication using mmWave without on-site registration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MilliMirror: 3D printed reflecting surface for millimeter-wave coverage expansion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MMCamera: an imaging modality for future RF-based physiological sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "mmEve: eavesdropping on smartphone's earpiece via COTS mmWave device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobi2Sense: empowering wireless sensing with mobility": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobi2Sense: enabling wireless sensing under device motions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MobiCache: a mobility-aware caching technique in vehicular edge computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MobiDepth: real-time depth estimation using on-device dual cameras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobile IoT-RoadBot: an AI-powered mobile IoT solution for real-time roadside asset management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoiréPose: ultra high precision camera-to-screen pose estimation based on Moiré pattern": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MUFFLE: prototype of light-weight haptic augmented pressure interface for on-fly neurorehabilitation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-modal sensing for behaviour recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NestFL: efficient federated learning through progressive model pruning in heterogeneous edge computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Network-side digital contact tracing on a large university campus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NeuLens: spatial-based dynamic acceleration of convolutional neural networks on edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NextG-UP: a longitudinal and cross-sectional study of uplink performance of 5G networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-cooperative wi-fi localization & its privacy implications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Opportunistic mobile crowd computing: task-dependency based work-stealing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Passive light spectral indoor localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Person re-identification using wifi signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PROS: an efficient pattern-driven compressive sensing framework for low-power biopotential-based wearables with on-chip intelligence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Protego: securing wireless communication via programmable metasurface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PyramidFL: a fine-grained client selection framework for efficient federated learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quasi-optical 3D localization using asymmetric signatures above 100 GHz": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-time neural network inference on extremely weak devices: agile offloading with explainable AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RetroIoT: retrofitting internet of things deployments by hiding data in battery readings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-DNA: large-scale physical-layer identifications of RFIDs via dual natural attributes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-transformer: a unified backscatter radio hardware abstraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-URL: unsupervised representation learning for RF sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Romou: rapidly generate high-performance tensor kernels for mobile GPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SalientVR: saliency-driven mobile 360-degree video streaming with gaze information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sifter: protecting security-critical kernel modules in Android through attack surface reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SmartLens: sensing eye activities using zero-power contact lens": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ST-ICM: spatial-temporal inference calibration model for low cost fine-grained mobile sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StreamingTag: a scalable piracy tracking solution for mobile streaming services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The use of heterogeneous deep neural network system in radio tomography to detect people indoors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TinyML-CAM: 80 FPS image recognition in 1 kB RAM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TMM-TinyML: tensor memory mapping (TMM) method for tiny machine learning (TinyML)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards automatic troubleshooting for user-level performance degradation in cellular services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards behavior-independent in-hand user authentication on smartphone using vibration: poster": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transforming eyeglass rim into touch panel using piezoelectric sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tutti: coupling 5G RAN and mobile edge computing for latency-critical video analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "U-star: an underwater navigation system based on passive 3D optical identification tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "uGPS: design and field-tested seamless GNSS infrastructure in metro city": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncovering insecure designs of cellular emergency services (911)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VIPS: real-time perception fusion for infrastructure-assisted autonomous driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vues: practical mobile volumetric video streaming through multiview transcoding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Warm-started quantum sphere decoding via reverse annealing for massive IoT connectivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Which uber is mine?: identifying target in crowd of objects with RF analysis and AR visual tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wiffract: a new foundation for RF imaging via edge tracing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "5G MEC Architecture for Vulnerable Road Users Management Through Smart City Data Fusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Compact and Real-Time Millimeter-wave Experiment Framework with True Mobility Capabilities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Deep Learning-based VNF Placement Approach for SFC Requests in MEC-NFV Enabled Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Handheld Fine-Grained RFID Localization System with Complex-Controlled Polarization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Joint Analysis of Input Resolution and Quantization Precision in Deep Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Measurement System for Distributed UWB-based Ranging and Localization in Snow Avalanches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Novel Intelligent Management System Architecture for Hybrid VLC/RF Systems in Smart Retail Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Self-Adaptive Retro-FSO Design for Air-to-Ground Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Simplified Intelligent Autonomous Obstacle Bypassing Method for Mobile Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Transformer-based Trajectory Prediction Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Workload-Aware DVFS Robust to Concurrent Tasks for Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Open RAN Research Through an Enterprise-scale 5G Testbed": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AccessWear: Making Smartphone Applications Accessible to Blind Users": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AgriTera: Accurate Non-Invasive Fruit Ripeness Sensing via Sub-Terahertz Wireless Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Entangled Quantum Imaging Method Based on Photon Capture Probability in Weak-Turbulence Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anemoi: A Low-cost Sensorless Indoor Drone System for Automatic Mapping of 3D Airflow Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "APG: Audioplethysmography for Cardiac Monitoring in Hearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARA PAWR: Wireless Living Lab for Smart and Connected Rural Communities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARCH: Automatic Roaming-contract Handler for Seamless 6G System to Provide Trusted and Highly Available Network Access": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Spray Control using Deep Learning and Image Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BatMobility: Towards Flying Without Seeing for Autonomous Drones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Battery-free Wideband Spectrum Mapping using Commodity RFID Tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Be-in/Be-out System for a Smart City using iBeacon Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BEAVIS: Balloon Enabled Aerial Vehicle for IoT and Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Brain Sensing with Ultrasound Tomography and Deep Learning Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking Mobile Notification-based Authentication with Concurrent Attacks Outside of Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bringing Millimeter Wave Technology to Any IoT Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CA++: Enhancing Carrier Aggregation Beyond 5G": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cancelling Speech Signals for Speech Privacy Protection against Microphone Eavesdropping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Catch Me If You Can: Demonstrating Laser Tethering with Highly Mobile Targets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chroma: Learning and Using Network Contexts to Reinforce Performance Improving Configurations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "COPSEC: Compliance-Oriented IoT Security and Privacy Evaluation Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoreKube - A Message Focused and Cloud Native Mobile Core System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CoreKube: An Efficient, Autoscaling and Resilient Mobile Core System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cost-effective On-device Continual Learning over Memory Hierarchy with Miro": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "COUPLE: Accelerating Video Analytics on Heterogeneous Mobile Processors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crescendo: Towards Wideband, Real-time, High-Fidelity Spectrum Sensing Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-modal meta-learning for WiFi-based human activity recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-Modal Perception for Customer Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demonstrating Liability and Trust Metrics for Multi-Actor, Dynamic Edge and Cloud Microservices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing, Building, and Characterizing Large-Scale LoRa Networks for Smart City Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DNN-based SLAM Tracking Error Online Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DroidPerf: Profiling Memory Objects on Android Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Spectrum Access in Terrestrial and Non-Terrestrial Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effective Abnormal Activity Detection on Multivariate Time Series Healthcare Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Federated Learning for Modern NLP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Concurrency for Non-orthogonal LoRa Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Edge processing on LoRaWAN architecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Resilience in Virtualized RANs with Atlas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enc2: Privacy-Preserving Inference for Tiny IoTs via Encoding and Encryption": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ETAG: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: A Three-Year Retrospective of Large-scale Multipath Transport Deployment for Mobile Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: Large-scale Cellular Localization for Pickup Position Recommendation at Black-hole": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experimental Investigation of Angle Diversity Receiver for Vehicular VLC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experimental Study of Wavy Surface Effects on Uplink Water-Air Optical Camera Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploiting Contactless Side Channels in Wireless Charging Power Banks for User Privacy Inference via Few-shot Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FarfetchFusion: Towards Fully Mobile Live 3D Telepresence Platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast, Fine-grained, and Robust Grouping of RFIDs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Federated Few-Shot Learning for Mobile NLP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From 5G to 6G: It is Time to Sniff the Communications between a Base Station and Core Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Go Beyond RFID: Rethinking the Design of RFID Sensor Tags for Versatile Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Going Beyond Backscatter: Rethinking Low-Power Wireless Transmitters using Tunnel Diodes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPSMirror: Expanding Accurate GPS Positioning to Shadowed and Indoor Regions with Backscatter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GreenMO: Enabling Virtualized, Sustainable Massive MIMO with a Single RF Chain": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "I Beg to Diffract: RF Field Programming With Edges": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Decision Module Selection for Hierarchical Inference in Resource-Constrained Edge Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intermittent Low-Power Wide Area Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Introducing FreeSpeaker - A Modular Smart Home Hub Prototyping Platform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "iSAW: Intelligent Super-Resolution-Assisted Adaptive WebRTC Video Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LiT: Fine-grained Toothbrushing Monitoring with Commercial LED Toothbrush": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-Bandwidth Self-Improving Transmission of Rare Training Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LUT-NN: Empower Efficient Neural Network Inference with Centroid Learning and Table Lookup": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "M3A: Multipath Multicarrier Misinformation to Adversaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagCode: Bringing NFC Feature to All Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Magnetic Backscatter for In-body Communication and Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MASTERKEY: Practical Backdoor Attack Against Speaker Verification Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Meta-Speaker: Acoustic Source Projection by Exploiting Air Nonlinearity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetaStream: Live Volumetric Content Capture, Creation, Delivery, and Rendering in Real Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MigraMEC: Hybrid Testbed for MEC App Migration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MilliMobile: An Autonomous Battery-free Wireless Microrobot": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MilliSign: mmWave-Based Passive Signs for Guiding UAVs in Poor Visibility Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MintEDGE: Multi-tier sImulator for eNergy-aware sTrategies in Edge Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "mmSV: mmWave Vehicular Networking using Street View Imagery in Urban Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MobiSpectral: Hyperspectral Imaging on Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MU-MIMO, Open-RAN PHY with Linear and Massively Parallelizable Non-Linear Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MUSE-Fi: Contactless MUti-person SEnsing Exploiting Near-field Wi-Fi Channel Variation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NeRF2: Neural Radio-Frequency Radiance Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NeuriCam: Key-Frame Video Super-Resolution and Colorization for IoT Cameras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nimble: QoS-Aware Resource Management for Edge-Assisted Microservice Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NWDAMaaS: A Containerized Real-Time Data Analytic Framework for 5G Self-Organizing Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Otter: Simplifying Embedded Sensor Data Collection and Analysis using Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PassiveLiFi Demonstration: Rethinking LiFi for Low-Power and Long Range RF Backscatter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PMSat: Optimizing Passive Metasurface for Low Earth Orbit Satellite Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PowerPhone: Unleashing the Acoustic Sensing Capability of Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practically Adopting Human Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 29th Annual International Conference on Mobile Computing and Networking, ACM MobiCom 2023, Madrid, Spain, October 2-6, 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Programmable RAN Platform for Flexible Real-Time Control and Telemetry": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QfaR: Location-Guided Scanning of Visual Codes from Long Distances": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QoS-based RRM Procedure for O-RAN Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Wireless Sensing: Principle, Design and Implementation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Radio Frequency Neural Networks for Wireless Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RAN Simulator Is NOT What You Need: O-RAN Reinforcement Learning for the Wireless Factory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Re-thinking computation offload for efficient inference on IoT devices with duty-cycled radios": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-time Generation of 3-Dimensional Representations of Static Objects using Small Unmanned Aerial Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReMark: Privacy-preserving Fiducial Marker System via Single-pixel Imaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revisiting Cardinality Estimation in COTS RFID Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-Search: Searching Unconscious Victim in Smoke Scenes with RF-enabled Drone": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-SIFTER: Sifting Signals at Layer-0.5 to Mitigate Wideband Cross-Technology Interference for IoT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Real-time Multi-vehicle Collaboration on Asynchronous Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Runtime WCET Estimation Using Machine Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scattering from Rough Surfaces in 100+ GHz Wireless Mobile Networks: From Theory to Experiments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SenCom: Integrated Sensing and Communication with Practical WiFi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sign-to-911: Emergency Call Service for Sign Language Users with Assistive AR Glasses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SignQuery: A Natural User Interface and Search Engine for Sign Languages with Wearable Sensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Softly, Deftly, Scrolls Unfurl Their Splendor: Rolling Flexible Surfaces for Wideband Wireless": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Software-Defined Wireless Communication Systems for Heterogeneous Architectures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Squint: A Framework for Dynamic Voltage Scaling of Image Sensors Towards Low Power IoT Vision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SWAM: Revisiting Swap and OOMK for Improving Application Responsiveness on Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taking 5G RAN Analytics and Control to a New Level": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taming Event Cameras with Bio-Inspired Architecture and Algorithm: A Case for Drone Obstacle Avoidance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Task Offloading with Multi-cluster Collaboration for Computing and Network Convergence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Underwater Backscatter Channel: Theory, Link Budget, and Experimental Validation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Wisdom of 1, 170 Teams: Lessons and Experiences from a Large Indoor Localization Competition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TherapyPal: Towards a Privacy-Preserving Companion Diagnostic Tool based on Digital Symptomatic Phenotyping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TinyRIC: Supercharging O-RAN Base Stations with Real-time Control": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Generalized mmWave-based Human Pose Estimation through Signal Augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Learning an Optimal Metric for Fingerprint-based Localisation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Low-cost Sensing with Mobile Backscatter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Transmitting, Fast and Slow: Scheduling Satellite Traffic through Space and Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UbiPose: Towards Ubiquitous Outdoor AR Pose Tracking using Aerial Meshes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UBR: User-Centric QoE-Based Rate Adaptation for Dynamic Network Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unify: Turning BLE/FSK SoC into WiFi SoC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vehicular Visible Light Communications with A Solar Panel Receiver": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VI-Map: Infrastructure-Assisted Real-Time HD Mapping for Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Device Farms for Mobile App Testing at Scale: A Pursuit for Fidelity, Efficiency, and Accessibility": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When BLE Meets Light: Multi-modal Fusion for Enhanced Indoor Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wireless Actuation for Soft Electronics-free Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "X-Plane: A High-Throughput Large-Capacity 5G UPF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XCopy: Boosting Weak Links for Reliable LoRa Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XPorter: A Study of the Multi-Port Charger Security on Privacy Leakage and Voice Injection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "\"My WiFi is not working!\" Augmenting Wireless Awareness in Consumers via XR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "28 GHz Phased Array Interference Measurements and Modeling for a NOAA Microwave Radiometer in Manhattan": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "3 W's of smartphone power consumption: Who, Where and How much is draining my battery?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "3in1: System Co-Design for Wireless Power Transfer, Wireless Clocking, and Downlink Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Black-Box Approach for Quantifying Leakage of Trace-Based Correlated Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Client Detection and Parameter Correction Algorithm for Clustering Defense in Clustered Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A First Look at Apple's Stereoscopic Video and its Potential in Live Video Streaming for XR Headsets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Training and Deploying Foundational Language Models for Embedded Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Multi-Band mm-Wave Experimental Platform Towards Environment-Aware Beam Management in the Beyond-5G Era": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Resource Efficient System for On-Smartwatch Audio Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Robust Beamforming for Intergretd Sensing and Communications Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Access Point Deployment for Localizing accuracy and User Rate in Cell-Free Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AI-Driven Network Intrusion Detection and Resource Allocation in Real-World O-RAN 5G Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Architectural Framework for 6G Network Digital Twins System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An End-to-End, Low-Cost, and High-Fidelity 3D Video Pipeline for Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Apple v.s. Meta: A Comparative Study on Spatial Tracking in SOTA XR Headsets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AppNet: Application-Aware Networking with O-RAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AraSync: Precision Time Synchronization in Rural Wireless Living Lab": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Around the Corner mmWave Imaging in Practical Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Artificial Intelligence Control Plane for Deterministic Networks Proof-of-Concept": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assessing Backscatter Link Quality Through Canopy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Audioradio Target Speech Detection and Extraction with mmWave Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoDroid: LLM-powered Task Automation in Android": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoJournaling: A Context-Aware Journaling System Leveraging MLLMs on Smartphone Screenshots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated and Blind Detection of Low Probability of Intercept RF Anomaly Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoMS: Automated Service for mmWave Coverage Optimization using Low-cost Metasurfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Back From The Dead: Enabling Timely Computation and Communication in Batteryless Intermittently-powered Sensor Nodes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BeamArmor5G: Demonstrating MIMO Anti-Jamming and Localization with srsRAN 5G Stack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beamforming made Malicious: Manipulating Wi-Fi Traffic via Beamforming Feedback Forgery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bere: A Novel Video Recommender System for Virtual Reality Using Human Behavioral Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Sensing: A High-Performance Software-Defined LoRa Gateway": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Binary Optical Machine Learning: Million-Scale Physical Neural Networks with Nano Neurons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Capacitive Sensing-based Eye Tracking for XR Glasses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CCCG: Self-supervised Color Constancy with Collaborative Generative Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chorus: Coordinating Mobile Multipath Scheduling and Adaptive Video Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CIPAT: Latent-resilient Toolkit for Performance Impact Prediction due to Configuration Tuning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Classification of lungs disease with Electrical impedance tomography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cloud-Based Federation Framework and Prototype for Open, Scalable, and Shared Access to NextG and IoT Testbeds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CLOUD-D RF: Cloud-based Distributed Radio Frequency Heterogeneous Spectrum Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CloudRIC demo: Open Radio Access Network (O-RAN) Virtualization with Shared Heterogeneous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CloudRIC: Open Radio Access Network (O-RAN) Virtualization with Shared Heterogeneous Computing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Connecting Foundation Models with the Physical World using Reconfigurable Drone Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coordinated Group Cycling for Commuting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CosMAC: Constellation-Aware Medium Access and Scheduling for IoT Satellites": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cost-Effective Soil Carbon Sensing with Wi-Fi and Optical Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-content User Authentication in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crowd Analytics with a Single mmWave Radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "D-AirPatrol: A Dual-Layer Architecture for Traffic Patrol From the Sky": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Driven Environment Classification Using Wireless Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepMon: Wi-Fi Monitoring Using Sub-Nyquist Sampling Rate Receivers with Deep Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demeter-Demo: Demonstrating Cross-soil LPWAN with Low-cost Signal Polarization Alignment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demeter: Reliable Cross-soil LPWAN with Low-cost Signal Polarization Alignment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo : Synthetic Data for Data-Driven Wireless": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Achieving Self-Interference Cancellation Across Different Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Decoding Control Information Passively from Standalone 5G Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Enabling Visual Recognition at Radio Frequency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Experimentation with Mobile 28 GHz Phased Array Antenna Modules": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Metasurface-Enabled NextG mmWave for Roadside Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Real-time mmWave Radar Human Sensing Testbed": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Realtime Neural Whittle Indexing for Scalable Service Guarantees in NextG Cellular Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Scalable and Sustainable Asset Tracking with NextG Cellular Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DEMO: SPARC: Spatio-Temporal Adaptive Resource Control for Multi-site Spectrum Management in NextG Cellular Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: 𝛼LiDAR: An Adaptive High-Resolution Panoramic LiDAR System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demystifying Privacy in 5G Stand Alone Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distill Drops into Data: Event-based Rain-Background Decomposition Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DRAGON: A DRL-based MIMO Layer and MCS Adapter in Open RAN 5G Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DREW: Double-Throughput Emulated WiFi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dual-Function Waveform Design via W-ADPM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Resource Allocation for ISAC enabled Internet of Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EdgeCloudAI: Edge-Cloud Distributed Video Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient and Personalized Mobile Health Event Prediction via Small Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient and Secure Cloud Data Sharing Using CP-ABE Supporting Dynamic Attributes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Emulating GFSK Modulation for Wi-Fi-to-BLE Multicast Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Accessible and Ubiquitous Interaction in Next-Generation Wearables: An Unvoiced Speech Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling High-rate Backscatter Sensing at Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling On-Demand Low-Power mmWave Repeaters via Passive Beamforming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Physical Localization of Uncooperative Cellular Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Visual Recognition at Radio Frequency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Energy-based Active Learning for Bringing Beam-induced Domain Gap for 3D Object Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing EHR Systems with data from wearables: An end-to-end Solution for monitoring post-Surgical Symptoms in older adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Throughput in 5G-NTN through Early RLC Layer Retransmissions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Environmental-aware Reinforcement Learning-based Scheduler for Trustworthy 6G in the Factory Floor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluation of the Latency of Machine Learning Random Access DDoS Detection in Open RAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EventTracker: 3D Localization and Tracking of High-Speed Object with Event and Depth Fusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EVLeSen: In-Vehicle Sensing with EV-Leaked Signal": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EximCache: Block I/O Caching Based on Latency Sensitivity from the Readahead Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience: Practical Challenges for Indoor AR Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experiences of Deploying a Citywide Crowdsourcing Platform to Search for Missing People with Dementia": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experimental Evaluation of a Multi-Domain TSN Scenario in Industry 4.0": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experimental Validation of a 3GPP compliant 5G-based Positioning System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experimenting with Adaptive Bitrate Algorithms for Virtual Reality Streaming over Wi-Fi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Biomagnetism for Inclusive Vital Sign Monitoring: Modeling and Implementation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Feasibility of Remote Cardiac Auscultation Using Earphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Visual Explanations for Defending Federated Learning against Poisoning Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extended-Range Two-way Radar Backscatter Communication with Low-Power IoT Tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feasibility of Smartphones for Accessible, Noninvasive Micronutrient Assessment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Federated Black-box Prompt Tuning System for Large Language Models on the Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Few-shot Learning and Data Augmentation for Cross-Domain UAV Fingerprinting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-grained Textile Moisture Sensing with Commodity UWB": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlexLink Demo: Flexible Frequency-Dependent Multi-Beamforming with Delay-Phased Array": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Foes or Friends: Embracing Ground Effect for Edge Detection on Lightweight Drones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FormerReckoning: Physics Inspired Transformer for Accurate Inertial Navigation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gait Speed Estimation from Millimeter-Wave Wireless Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Game-Theoretic Power Allocation for Network Slicing in NOMA-Based 5G Networks: A Stackelberg Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gastag: A Gas Sensing Paradigm using Graphene-based Tags": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GateHaul: A Gateway Architecture using Backhauling Networks to Address the Connectivity Challenges of Embedded Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GazeTrak: Exploring Acoustic-based Eye Tracking on a Glass Frame": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPMS: Enabling Indoor GNSS Positioning using Passive Metasurfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPSense: Passive Sensing with Pervasive GPS Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Health-MR: A Mixed Reality-Based Patient Registration and Monitor Medical System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Helping Autonomous Vehicles Maneuver Traffic Anomalies using UWB": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Heterogeneous Graph Neural Network for Cooperative ISAC Beamforming in Cell-Free MIMO Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hidden WiFi Camera Localization via Signal Propagation Path Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HORCRUX: Accurate Cross Band Channel Prediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hornbill: A Portable, Touchless, and Battery-Free Electrochemical Bio-tag for Multi-pesticide Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Horus: Enhancing Safe Corners via Integrated Sensing and Communication Enabled by Reconfigurable Intelligent Surface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hybrid Data-Driven and Simulation-Driven Prediction of mmWave Network Performance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera Fusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hydra: Attacking OFDM-base Communication System via Metasurfaces Generated Frequency Harmonics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hydra: Exploiting Multi-Bounce Scattering for Beyond-Field-of-View mmWave Radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving On-Device LLMs' Sensory Understanding with Embedding Interpolations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IMS is Not That Secure on Your 5G/4G Phones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IoTCoder: A Copilot for IoT Application Development": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IRS-aided bi-static ISAC system with security constraint": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ISAC-Facilitated Optimal On-demand Mobile Charging Scheme for IoT-based WRSNs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Joint Horizontal and Vertical Federated Learning for Multimodal IoT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LATTE: Layer Algorithm-aware Training Time Estimation for Heterogeneous Federated Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LCR360: Efficient Head Movement Prediction and Viewport Sharing in 360° Video Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Li-FiAR: Networking Augmented-Reality Devices through Visible Light": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LightPure: Realtime Adversarial Image Purification for Mobile Devices Using Diffusion Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightweight Deep Learning for AoA-Based 5G Multi-Source Localization in Low SNR Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lightweight INT on the Tofino programmable switch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Logan: Loss-tolerant Live Video Analytics System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LoRaTrimmer: Optimal Energy Condensation with Chirp Trimming for LoRa Weak Signal Decoding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-Latency Task-Oriented Communications with Multi-Round, Multi-Task Deep Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LVSC: A Lightweight Video Semantic Communication Method over Wireless Channel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "M2HO: Mitigating the Adverse Effects of 5G Handovers on TCP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "m3MIMO: An 8×8 mmWave Multi-User MIMO Testbed for Wireless Research": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Malicious Attacks against Multi-Sensor Fusion in Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mambas: Maneuvering Analog Multi-User Beamforming using an Array of Subarrays in mmWave Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MAMGDT: Enhancing Multi-Agent Systems with Multi-Game Decision Transformer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maximizing the Capabilities of Tiny Speech Foundation Models in a Privacy Preserving Manner": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MELTing Point: Mobile Evaluation of Language Transformers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetaBioLiq: A Wearable Passive Metasurface Aided mmWave Sensing Platform for BioFluids": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetaGlucose: Low-cost and Practical Cold Liquid Glucose Level Measurement for Health": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MicroSurf: Guiding Energy Distribution inside Microwave Oven with Metasurfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MIMO-OFDM Waveform Optimization for Sparse Dual-Function-Radar-Communication System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MIMO-RIC: RAN Intelligent Controller for MIMO xApps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Misaligned Over-The-Air Computation of Multi-Sensor Data with Wiener-Denoiser Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "mm-O-RAN: Building a Millimeter-wave O-RAN Testbed": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mobile Foundation Model as Firmware": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoiréVib: Micron-level Vibration Detection based on Moiré Pattern": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoiréVision: A Generalized Moiré-based Mechanism for 6-DoF Motion Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MSense: Boosting Wireless Sensing Capability Under Motion Interference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MuDiS: An Audio-independent, Wide-angle, and Leak-free Multi-directional Speaker": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Agent Target Pursuit Using Perception Uncertainty-Aware Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Client Searchable Encryption with Granular Access Control for Cloud-Assisted IoT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multimodal Smartphone based IoT Framework for Assisting People with Disabilities in SLAM based Human Robot Interaction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multimodal Strategy To Defend Mobile Devices Against Vishing Attacks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MuV2: Scaling up Multi-user Mobile Volumetric Video Streaming via Content Hybridization and Sharing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NaviEyes: A Rapid Shopping Navigation System with On-Sale Purchase Planning Based on IoT Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Field Localization With Coprime Array": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Neuralite: Enabling Wireless High-Resolution Brain-Computer Interfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nomad: Providing Insights into the Spectrum Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-public 5G-NR Unlicensed: Design, Implementation and Evaluation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Public Cloud Deployment of Cloud-Native Mobile Core Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On-Device Speech Filtering for Privacy-Preserving Acoustic Activity Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One-Shot Localization with Random Wavefronts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Open-source Resource Control API for real IEEE 802.11 Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimizing Limited-Stop Transit Operations Through Simulation: A Case Study of Shenzhen, China": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ORANSlice: An Open Source 5G Network Slicing Platform for O-RAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Performance Analysis of Outdoor Open RAN Deployments in Long-Haul 5G Networks using the OpenRAN@Brasil Testbed": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PixelGen: Rethinking Embedded Cameras for Mixed-Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plug-and-play Indoor GPS Positioning System with the Assistance of Optically Transparent Metasurfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polaris: Accurate, Vision-free Fiducials for Mobile Robots with Magnetic Constellation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Can You Find Me?: Linking Devices Despite Wi-Fi MAC Randomization at MobiCom 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Do Privacy-Preserving Obfuscation Techniques Degrade the Accuracy of Odometry?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Envisioning a UWB-based Local Human-Machine Interface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Practical Adversarial Attack on WiFi Sensing Through Unnoticeable Communication Packet Perturbation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting community case transfer path and processing time using decoder models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Predicting the Performance of Cellular Networks: A Latent-resilient Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Privacy Measurement of Physical Attributes on Voice Anonymity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, ACM MobiCom 2024, Washington D.C., DC, USA, November 18-22, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProvCam: A Camera Module with Self-Contained TCB for Producing Verifiable Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proximal Federated Learning for Body Mass Index Monitoring using Commodity WiFi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pushing the Throughput Limit of OFDM-based Wi-Fi Backscatter Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pushing Wireless Charging from Station to Travel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QLSel: Demonstrating Efficient High-Fidelity Link Selection for Quantum Networks in the Wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QUIC-Enabled Framework for Alleviating Transient Congestion in Time-Critical IoT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost mmWave Radars for Aerial and Ground Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Enhancement of Low-Quality Video for Constrained Camera Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-Time Non-Contact Estimation of Running Metrics on Treadmills using Smartphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-time Respiration Sensing with Pervasive GPS Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Real-time Wideband Software-defined Radio with Python Programmability based on RFSoC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RECAP: 3D Traffic Reconstruction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reimagining Reminders to Increase Medication Adherence in Older Adults": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReplayAR: A Tool for Visual Evaluation of Mixed Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Representation Similarity: A Better Guidance of DNN Layer Sharing for Edge Computing without Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Resilient Massive Access assisted ISAC in Space-Air-Ground Integrated Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Channel Coding for Wi-Fi Backscatter Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Orientation Estimation with Smartphone-equipped Ultra-wideband Chips": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rethinking Process Management for Interactive Mobile Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-Egg: An RF Solution for Fine-Grained Multi-Target and Multi-Task Egg Incubation Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-Mediator: Tuning Medium Interfaces with Flexible Metasurfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RFMagus: Programming the Radio Environment With Networked Metasurfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RoboLife: Creating Autonomous Living Robots with Adaptive Human-Like Behavior": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust In-Car Child Presence Detection using Commercial WiFi": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Respiration Monitoring Under Body Motion Interference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Routing-Aware Shaping for Feasible Multi-Domain Determinism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Safe Routes, Safer Rides: A Multi-Tiered Approach to Trajectory Anomaly Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SateRIoT: High-performance Ground-Space Networking for Rural IoT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Savannah: A Real-time Programmable mmWave Baseband Processing Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Savannah: Efficient mmWave Baseband Processing with Minimal and Heterogeneous Resources": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable and Sustainable Video Analytics on Edge using Sensor Clustering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable Multi-Agent Reinforcement Learning for Effective UAV Scheduling in Multi-Hop Emergency Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scarf: Soil Carbon Sensing with Wi-Fi and Optical Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SeaScan: An Energy-Efficient Underwater Camera for Wireless 3D Color Imaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secure Beamforming and Obstacle Avoidance Trajectory Design for UAV-Assisted ISAC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "See Through Vehicles: Fully Occluded Vehicle Detection with Millimeter Wave Radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SEEN: ML Assisted Cellular Service Diagnosis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SigmoidOxy: A Light-weight mobile perfusion tool for diabetic foot management": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SIMD-enabled Physics-inspired MIMO detector for Uplink Multi-user MIMO": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sisyphus: Redefining Low Power for LoRa Receiver": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SiWiS: Fine-grained Human Detection Using Single WiFi Device": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SliceGuard: Secure and Dynamic 5G RAN Slicing with WebAssembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Snooping Underwater Communications via Low-Cost mmWave Radars": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPEAR: Software-defined Python-Enhanced RFSoC for Wideband Radio Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SPECTRA: A Drone-based Multispectral Sensing Platform for Complex Environment Perception": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpotLight - An Open RAN Anomaly Detection and Identification System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpotLight: Accurate, Explainable and Efficient Anomaly Detection for Open RAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stable Hierarchical Routing for Operational LEO Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Starlink Performance from Different Perspectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stress-GPT: Stress detection with an EEG-based foundation model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SURF: Eavesdropping on Underwater Communications from the Air": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Temperature compensation for humidity sensors using ISSA-BP neural network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Architecture of AI and Communication Integration towards 6G: An O-RAN Evolution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TinyRIC-ML: A Lightweight Real Time ML Platform for O-RAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Accurate Sleep Monitoring: Detecting Bed Events Using Millimeter-Wave Technology": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards an Open Mobile Core": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards In-context Environment Sensing for Mobile Augmented Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TraMSR: Transformer and Mamba based Practical Speech Super-Resolution for Mobile Wearables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Turbocharge Speech Understanding with Pilot Inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Twinning Commercial Network Traces on Experimental Open RAN Platforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UAV-Assisted Integrated Sensing and Communication for Emergency Rescue Activities Based on Transfer Deep Reinforcement Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ultra-Dense Networks with NOMA and SWIPT Interplay for SE and EE in 5G/6G": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ultra-WideBand Backscatter Towards Multipath-resilient Passive IoT Localization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncovering Problematic Designs Hindering Ubiquitous Cellular Emergency Services Access": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Impact of Cellular RAN-induced Delay on Video Conferencing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UWBeacon: Lighting up Centimeter-Level Underwater Positioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Venus: Enhancing QoE of Crowdsourced Live Video Streaming by Exploiting Multiflow Viewer Assistance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VLocSense: Integrated VLC System for Indoor Passive Localization and Human Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WavePurifier: Purifying Audio Adversarial Examples via Hierarchical Diffusion Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What you need is a good CSI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wi-Limb: Recognizing Moving Body Limbs Using a Single WiFi Link": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WiProfile: Unlocking Diffraction Effects for Sub-Centimeter Target Profiling Using Commodity WiFi Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wireless Latency Shift Keying": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wireless Sensing-based Daily Activity Tracking System Deployment in Low-Income Senior Housing Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WiSenseHub: Architecture to deploy a building-scale WiFi-sensing system": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "xDevSM: Streamlining xApp Development With a Flexible Framework for O-RAN E2 Service Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XRMan: Towards Real-time Hand-Object Pose Tracking in eXtended Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Your Data, Your Model: A Framework for Training and Deploying Foundational Language Models for Embedded Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ZenseTag: An RFID assisted Twin-Tag Single Antenna COTS Sensor Interface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zero-Shot Accurate mmWave Antenna Array Calibration in the Wild": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ZEROECG: Zero-Sensation ECG Monitoring By Exploring RFID MOSFET": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "αLiDAR: An Adaptive High-Resolution Panoramic LiDAR System": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "5G-MAP: Demystifying the Performance Implications of Cloud-Based 5G Core Deployments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdaptQNet: Optimizing Quantized DNN on Microcontrollers via Adaptive Heterogeneous Processing Unit Utilization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AquaScan: A Sonar-based Underwater Sensing System for Human Activity Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Auto-UIT: Automating UAV Inspection Trajectory by Recognizing Pylon Structure from 3D Point Cloud": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AutoIOT: LLM-Driven Automated Natural Language Programming for AIoT Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automated Model-Based Fuzzing for 5G O-RAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "B2LoRa: Boosting LoRa Transmission for Satellite-IoT Systems with Blind Coherent Combining": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Benchmarking Ultra-Low-Power μNPUs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bluetooth-Enabled Transparent RF Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BoRa: LoRa over BLE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridge: Enabling BLE Direction Finding Feature Compatible with All Bluetooth Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CGMM: Non-Invasive Continuous Glucose Monitoring in Wearables Using Metasurfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChirpEye: Passive Sensing and Profiling of FMCW Radars with a Resource-constrained Tag": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Confidant: Customizing Transformer-based LLMs via Collaborative Training on Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cross-Technology Sensing: Leveraging LoRa Signals to Empower WiFi Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "D2MoE: Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: A Campus Scale Private 5G Open RAN Testbed": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: A Real-Time Multimodal Sensing and Feedback System for Closed-Loop Wearable Interaction Using OmniBuds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: AeroRelief: UAV-based Emergency Rescue for Time-Critical Missions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: All in One RadioCardiogram: Towards Practical and Clinically Reliable Contactless Cardiac Monitoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Amodal Instance Segmentation Using MmWave Radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: ASIC-based Concurrent Backscatter Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Bluetooth-Enabled Transparent RF Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Customizing Transformer-based LLMs via Collaborative Training on Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: EdgeMind-OS: A Plug-and-Play Embodied Intelligence System for Real-Time On-Device Deployment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Emulating Space Computing Networks with RHONE": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: FreePose: Real-Time View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Frequency-Selective Microwave Actuation of Liquid Crystalline Elastomer Soft Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Full-stack On-device Learning for Heterogeneous Tiny Cameras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: HawkEye: Practical In-Flight Obstacle Avoidance with Event Camera and LiDAR Fusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Hijacking Joystick with Mobile Magnetic Injection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Immersive Digital Twin Networks for Industrial Internet of Things": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Leveraging Underwater Backscatter for Long-Term Environmental Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Networked iGYM for AR Exergames": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: PP-AICloud for Edge-Assisted Privacy-Preserving AI Inference with Homomorphic Encryption in Cloud-Based Mobile Services": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Split-and-Pipeline: Collaborative Large Model Inference on Edge Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Task Cooperation for Urban Unmanned Sanitation Vehicles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Towards Seamless 5G vRAN Software Updates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: UAV Trajectory Generation from Sparse and Noisy 3D Point Clouds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: VI-Planning: Infrastructure-Assisted Real-Time Planning Optimization for Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: VisibleBits: Illuminating Mixed Reality with Li-Fi Information Spotlights": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: WasmSD-Edge: A Lightweight Edge Stable Diffusion Image Generation Framework Based on WebAssembly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demo: Wide-coverage LE Audio via WiFi-BLE Cross-Technology Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DragonFly: Single mmWave Radar 3D Localization of Highly Dynamic Tags in GPS-Denied Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dual-Resonance Magnetoelectric Power and Data Links for Miniaturized Wireless Bio-Implants": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EasySpiro: Assessing Lung Function via Arbitrary Exhalations on Commodity Earphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EdgeGaussian: Real-time Free-Viewpoint Video for Mobile VR via Edge-Client Collaborative Neural Rendering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Elastic On-Device LLM Service": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EOS: Energy-Optimized Super-Resolution on Mobile Devices for Live 360-Degree Videos": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ESPIRO: Natural Pulmonary Function Monitoring via Earphone-Acquired Speech": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience Paper: Adopting Activity Recognition in On-demand Food Delivery Business": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FocusX: All-in-Focus Image Synthesis for Dynamic Scenes on Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Signal-based to Impedance-based Sensing: A paradigm Shift for Plug-and-Play, Mobile, and Sensitive Battery-free Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ghost Points Matter: Far-Range Vehicle Detection with a Single mmWave Radar in Tunnel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GPSoil: Towards low-cost soil moisture sensing using GNSS signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hedgehog: Pushing the Range Limits of Ultrasonic Microphone Jammers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Home-based Dry Eye Assessment via Blink Kinematics Using mmWave and Clinical Knowledge Distillation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Update Your 5G vRAN": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HyperCam: Low-Power Onboard Computer Vision for IoT Cameras": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LatentCSI: Real-Time Reconstruction of Physical Scenes from WiFi CSI via Latent Diffusion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLM-Assisted IoT Testing: Finding Conformance Bugs in Matter SDKs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LoRaSeek: Boosting Denoising Ability in Neural-enhanced LoRa Decoder via Hierarchical Feature Extraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Making LoRa Sensing Coexist with Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Medusa: Scalable Multi-View Biometric Sensing in the Wild with Distributed MIMO Radars": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MetaGuardian: Enhancing Voice Assistant Security through Advanced Acoustic Metamaterials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "mmTremor: Practical Tremor Monitoring for Parkinson's Disease and Essential Tremor in Daily Life": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Modality Plug-and-Play: Runtime Modality Adaptation in LLM-Driven Autonomous Mobile Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoleSen: From Macro Sensing to Micro Molecular-level Taste Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Antenna Quantum Receiver: A Leap Beyond Angle Estimation Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Myo-Trainer: A Vision-based Muscle-Aware Motion Feedback System for In-Home Resistance Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NanoScatter: Towards Ambient IoT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NeVo: Advancing Volumetric Video Streaming with Neural Content Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NIRF: Detecting Cameras That Hide Behind Screen": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OptSamp: Optimizing the Sampling Rate for LoRa Energy Efficiency Enhancement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PassiveBLE: Towards Fully Commodity Compatible BLE Backscatter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poison to Cure: Privacy-preserving Wi-Fi Multi-User Sensing via Data Poisoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PolarVisor: Clutter-free, Electronics-free Fiducial Markers for mmWave Radars Printed on Paper": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: 5G-CriCo Vision for MCx on 5G Standalone}": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: A Real-Time Localization System for Visible and Invisible Fiducial Markers Under Variable Lighting Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: A Unified Framework for Simultaneous Video Analytics and Streaming on UAVs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: An LLM-Assisted IoT Agent System for Heterogeneous User Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Asynchronous Federated Learning Library and Benchmark with AFL-Lib": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Automatically Generating High-Precision Simulated Road Networking in Traffic Scenario": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: BlockFL-Med: Blockchain-Enabled and Lightweight Federated Learning for Smart Medical Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Bridging Autonomy and Connectivity: Enabling Smart Vehicle Communication via Full Self-Driving Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Car2Vec: Task-Agnostic Latent Embeddings from CAN Bus for Efficient V2X Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: ChronoBite: Diet Meets Cellular Aging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Coda: Context-aware Acceleration for Distributed LLM Decoding in Edge": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Contactless Cardiovascular Hemodynamics Inference and Hypertension Detection via Ballistocardiogram": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Diffusion-Driven Spatio-Temporal Modeling of Cellular Traffic Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Diffusion-Driven Stackelberg Games for Semantic Information Trading in Metaverse Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Efficient Geometry Compression and Communication for 3D Gaussian Splatting Point Clouds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Electrical impedance tomography using a hybrid PINN-ViT model for low-power healthcare systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Enabling BLE Direction Finding Feature Compatible with All Bluetooth Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Enhancing Mobile Traffic Data Generation through Spatio-temporal Correlation Imaging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Evaluating Effectiveness of Temporal Features and DTW Distance for Radio Frequency Fingerprinting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Fast and Precise Compression of LiDAR Range Images for Real-Time Streaming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Feasibility of Bistatic Millimeter-Wave Radar Sensing under Loose Synchronization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: FedFNS: A Robust Federated Learning Method for Data Shift over Unreliable Communication Links": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: High-Performance Optical Camera Communications for ISAC Localization and Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Home-based, On-Device, Non-contact Sleep Staging with Infrared Video": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: iHead: A Head-Mounted Individual Monitoring and Finding System Based on Internet of Things Technologies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: IMU-Aided Speech Enhancement for COTS Earphones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: KeyRadar: Contactless Touchscreen Keystroke Inference via mmWave Sensing and Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Learning to Personalize in Federated Networks with Contribution-Aware Aggregation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: LightWalk: Passive Gait Recognition via Reflected VLC Signals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Lightweight PUF-based Authentication and Key-exchange for Offline Smart Home IoT Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: MemAura: Persistent Personalized Context Memory for LLM Services in Smart Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: mmWave CSI-based Sensing: a Feasibility Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: MoE2: Optimizing Collaborative Inference for Edge Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Networked Multimodal Sensor Framework for Shrimp Health and Behavior Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Object-Aware Vibration Fusion: Leveraging Frequency Response Diversity for Through-Wall Eavesdropping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: On Harnessing Idle Compute at the Edge for Foundation Model Training": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Optimized Cache Pollution Attack: A DDoS Vector in Content Delivery Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: PanoGlass: Optically Transparent Panoramic Metasurface for Sub-6 GHz Network": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Passive FMCW Radar Detection and Profiling under Multipath and Mobility Conditions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Radar-Enhanced Robotic Material Perception with Vision Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Road to Tiny Reality: Digital Twins for Decentralized AI on Microcontrollers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Scalable Indoor Localization with Non-Cooperative Wi-Fi Ranging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Skyshield: Event-Driven Submillimeter Thin Obstacle Detection for Drone Flight Safety": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Smart ECG Classification with Wearable Sensing and Cloud AI: A Mobile Health Approach Using Multi-Feature Time Series": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Split-and-Combine Rectification of Ultra-Wide Fisheye Images into Cubemaps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Towards Backbone-Free VLC Networking via NLOS Optical Channels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Towards Open Wireless Time-sensitive Networking in Linux": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Towards Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: VI-Planning: Infrastructure-Assisted Real-Time Planning Optimization for Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Vibration-Tolerant Doppler Disambiguation Algorithm for MIMO Backscatter Localization Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poster: Zero-effort Cross-domain Wireless Respiration Monitoring under Free Body Movement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 31st Annual International Conference on Mobile Computing and Networking, ACM MOBICOM 2025, Hong Kong, November 4-8, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "QuinID: Enabling FDMA-Based Fully Parallel RFID with Frequency-Selective Antenna": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-Based 3D SLAM Rivaling Vision Approaches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RF-Rock: An Intermodulation-based RFID Unauthorized Identification Attack without Tag Activation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalable and Low Power Localization for Underwater Robots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SeRadar: Embracing Secondary Reflections for Human Sensing with mmWave Radar": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Intelligent LiDAR with Adaptive Focus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uirapuru: Timely Video Analytics for High-Resolution Steerable Cameras on Edge Devices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "UrgenGo: Urgency-Aware Transparent GPU Kernel Launching for Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vega: Fully Immersive Mobile Volumetric Video Streaming with 3D Gaussian Splatting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VI-Planning: Infrastructure-Assisted Real-Time Planning Optimization for Autonomous Driving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WDNN: Weighted Diffractive Neural Network for Physical-layer RF Signal Processing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Device Delays Meet Data Heterogeneity in Federated AIoT Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WiLE-Audio: Wide-Coverage Low-Energy Audio via WiFi-BLE Cross-Technology Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WinSpy: Cross-window Side-channel Attacks on Android's Multi-window Mode": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wireless Hearables With Programmable Speech AI Accelerators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "X-ResQ: Parallel Reverse Annealing for Quantum Maximum-Likelihood MIMO Detection with Flexible Parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "μCeiver-Fi: Exploiting Spectrum Resources of Multi-Link Receiver for Fine-Granularity Wi-Fi Sensing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

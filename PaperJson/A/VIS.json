@@ -1,0 +1,2487 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "VIS",
+  "papers": {
+    "2021": {
+      "\"Why did my AI agent lose?\": Visual Analytics for Scaling Up After-Action Review.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "2021 IEEE Visualization Conference, IEEE VIS 2021 - Short Papers, New Orleans, LA, USA, October 24-29, 2021.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Mixed-Initiative Visual Analytics Approach for Qualitative Causal Modeling.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Visual Analytics System for Water Distribution System Optimization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AdViCE: Aggregated Visual Counterfactual Explanations for Machine Learning Model Validation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AiR: An Augmented Reality Application for Visualizing Air Pollution.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Exploration And Validation of Visual Factors in Understanding Classification Rule Sets.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Atlas: Grammar-based Procedural Generation of Data Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Y-axis Rescaling in Dynamic Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bayesian Modelling of Alluvial Diagram Complexity.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CellProfiler Analyst Web (CPAW) - Exploration, analysis, and classification of biological images on the web.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CloudFindr: A Deep Learning Cloud Artifact Masker for Satellite DEM Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conceptualizing Visual Analytic Interventions for Content Moderation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contrastive Identification of Covariate Shift in Image Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConVIScope: Visual Analytics for Exploring Patient Conversations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Does the Layout Really Matter? A Study on Visual Model Accuracy Estimation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Analytical Parallel Vectors.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast & Accurate Gaussian Kernel Density Estimation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixation and Creativity in Data Visualization Design: Experiences and Perspectives of Practitioners.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gemini2: Generating Keyframe-Oriented Animated Transitions Between Statistical Graphics.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GeoSneakPique: Visual Autocompletion for Geospatial Queries.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Histogram binning revisited with a focus on human perception.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Learners Sketch Data Stories.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inspecting the Process of Bank Credit Rating via Visual Analytics.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intercept Graph: An Interactive Radial Visualization for Comparison of State Changes.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Jurassic Mark: Inattentional Blindness for a Datasaurus Reveals that Visualizations are Explored, not Seen.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Narrative Sensemaking: Strategies for Narrative Maps Construction.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Potential of Zines as a Medium for Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ray-traced Shell Traversal of Tetrahedral Meshes for Direct Volume Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Segmentation Driven Peeling for Visual Analysis of Electronic Transitions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Explanation of Interactive Dimensionality Reduction.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Resizing of Charts Through Generalization: A Case Study with Line Charts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Text Visualization and Close Reading for Journalism with Storifier.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-Varying Fuzzy Contour Trees.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TimeElide: Visual Analysis of Non-Contiguous Time Series Slices.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Survey on Static and Dynamic Hypergraph Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncertainty Visualization of the Marching Squares and Marching Cubes Topology Cases.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding the Effects of Visualizing Missing Values on Visual Data Exploration.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VAINE: Visualization and AI for Natural Experiments.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visually Connecting Historical Figures Through Event Knowledge Graphs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Red Means Good, Bad, or Canada: Exploring People's Reasoning for Choosing Color Palettes.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Where and Why is My Bot Failing? A Visual Analytics Approach for Investigating Failures in Chatbot Conversation Flows.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "2022 IEEE Visualization and Visual Analytics (VIS), Oklahoma City, OK, USA, October 16-21, 2022.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ARShopping: In-Store Shopping Decision Support Through Augmented Reality and Immersive Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ASEVis: Visual Exploration of Active System Ensembles to Define Characteristic Measures.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Visuals: Examining the Experiences of Geoscience Professionals With Vision Disabilities in Accessing Data Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Color Coding of Large Value Ranges Applied to Meteorological Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Droplet-Local Line Integration for Multiphase Flow.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Interpolation-based Pathline Tracing with B-spline Curves in Particle Dataset.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explaining Website Reliability by Visualizing Hyperlink Connectivity.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring D3 Implementation Challenges on Stack Overflow.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Facilitating Conversational Interaction in Natural Language Interfaces for Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FairFuse: Interactive Visual Support for Fair Consensus Ranking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Guided Data Discovery in Interactive Visualizations via Active Search.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intentable: A Mixed-Initiative System for Intent-Based Chart Captioning.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Let's Get Personal: Exploring the Design of Personalized Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LineCap: Line Charts for Data Visualization Captioning Models.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oscar: A Semantic-based Data Binning Approach.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parametric Dimension Reduction by Preserving Local Structure.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Paths Through Spatial Networks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plotly-Resampler: Effective Visual Analytics for Large Time Series.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RMExplorer: A Visual Analytics Approach to Explore the Performance and the Fairness of Disease Risk Models on Population Subgroups.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streamlining Visualization Authoring in D3 Through User-Driven Templates.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The role of extended reality for planning coronary artery bypass graft surgery.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Systematic Considerations of Missingness in Visual Analytics.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward Systematic Design Considerations of Organizing Multiple Views.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uniform Manifold Approximation with Two-phase Optimization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VegaFusion: Automatic Server-Side Scaling for Interactive Vega Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisQuiz: Exploring Feedback Mechanisms to Improve Graphical Perception.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Auditor: Interactive Visualization for Detection and Summarization of Model Biases.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Confidence Intervals for Critical Point Probabilities in 2D Scalar Field Ensembles.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Rule-based Classifiers for Clinical Risk Prognosis.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Volume Puzzle: visual analysis of segmented volume data with multivariate attributes.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Who benefits from Visualization Adaptations? Towards a better Understanding of the Influence of Visualization Literacy.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "\"Two Heads are Better than One\": Pair-Interviews for Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "2023 IEEE Visualization and Visual Analytics (VIS), Melbourne, Australia, October 21-27, 2023.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Simple yet Useful Spiral Visualization of Large Graphs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Visualization System for Hexahedral Mesh Quality Study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Reality as a Visualization Technique for Scholarly Publications in Astronomy: An Empirical Evaluation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CLEVER: A Framework for Connecting Lived Experiences with Visualisation of Electronic Records.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combining Degree of Interest Functions and Progressive Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compact Phase Histograms for Guided Exploration of Periodicity.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Morse Complexes Using Optimal Transport: An Experimental Study.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data in the Wind: Evaluating Multiple-Encoding Design for Particle Motion Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DATATALES: Investigating the use of Large Language Models for Authoring Data-Driven Articles.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design of an Ecological Visual Analytics Interface for Operators of Time-Constant Processes.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do You Trust What You See? Toward A Multidimensional Measure of Trust in Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Draco 2: An Extensible Platform to Model Visualization Design.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Effects of data distribution and granularity on color semantics for colormap data visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enabling Multimodal User Interactions for Genomics Visualization Creation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluation of cinematic volume rendering open-source and commercial solutions for the exploration of congenital heart data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ExoplanetExplorer: Contextual Visualization of Exoplanet Systems.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explain-and-Test: An Interactive Machine Learning Framework for Exploring Text Embeddings.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Fiber Line Extraction for 2D Bivariate Scalar Fields.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GeneticFlow: Exploring Scholar Impact with Interactive Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gridded Glyphmaps for Supporting Spatial COVID-19 Modelling.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HAiVA: Hybrid AI-assisted Visual Analysis Framework to Study the Effects of Cloud Properties on Climate Patterns.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How \"Applied\" is Fifteen Years of VAST conference?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Indy Survey Tool: A Framework to Unearth Correlations in Survey Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Let's Get Vysical: Perceptual Accuracy in Visual & Tactile Encodings.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Line Harp: Importance-Driven Sonification for Dense Line Charts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MinMaxLTTB: Leveraging MinMax-Preselection to Scale LTTB.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Projection Ensemble: Visualizing the Robust Structures of Multidimensional Projections.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProtoGraph: A Non-Expert Toolkit for Creating Animated Graphs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantifying the Impact of XR Visual Guidance on User Performance Using a Large-Scale Virtual Assembly Experiment.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "reVISit: Supporting Scalable Evaluation of Interactive Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ScatterUQ: Interactive Uncertainty Visualizations for Multiclass Deep Learning Problems.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Show Me My Users: A Dashboard Visualizing User Interaction Logs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simulating the Geometric Growth of the Marine Sponge Crella Incrustans.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Taken By Surprise? Evaluating how Bayesian Surprise & Suppression Influences Peoples' Takeaways in Map Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Role of Visualization in Genomics Data Analysis Workflows: The Interviews.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TimePool: Visually Answer \"Which and When\" Questions On Univariate Time Series.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Topological Analysis and Approximate Identification of Leading Lines in Artworks Based on Discrete Morse Theory.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Autocomplete Strategies for Visualization Construction.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vis-SPLIT: Interactive Hierarchical Modeling for mRNA Expression Classification.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Analsyis of Large Multi-Field AMR Data on GPUs Using Interactive Volume Lines.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Validation versus Visual Estimation: A Study on the Average Value in Scatterplots.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Linguistic Diversity of Text Datasets Synthesized by Large Language Models.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Query Traversals Over Bounding Volume Hierarchies Using Treemaps.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Similarity of Pathline Dynamics in 2D Flow Fields.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Welcome Message from the VIS 2023 General Chairs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WhaleVis: Visualizing the History of Commercial Whaling.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What Exactly is an Insight? A Literature Review.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What Is the Difference Between a Mountain and a Molehill? Quantifying Semantic Labeling of Visual Features in Line Charts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "WUDA: Visualizing and Transforming Rotations in Real-Time with Quaternions and Smart Devices.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ZADU: A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "\"Must Be a Tuesday\": Affect, Attribution, and Geographic Variability in Equity-Oriented Visualizations of Population Health Disparities.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Comparative Study of Neural Surface Reconstruction for Scientific Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Literature-based Visualization Task Taxonomy for Gantt Charts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Ridge-based Approach for Extraction and Visualization of 3D Atmospheric Fronts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Two-Phase Visualization System for Continuous Human-AI Collaboration in Sequelae Analysis and Modeling.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Accelerating Transfer Function Update for Distance Map based Volume Rendering.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Active Appearance and Spatial Variation Can Improve Visibility in Area Labels for Augmented Reality.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AEye: A Visualization Tool for Image Datasets.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AltGeoViz: Facilitating Accessible Geovisualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Overview+Detail Layout for Visualizing Compound Graphs.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Animating the Narrative: A Review of Animation Styles in Narrative Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Assessing Graphical Perception of Image Embedding Models using Channel Effectiveness.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bavisitter: Integrating Design Guidelines into Large Language Models for Visualization Authoring.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bringing Data into the Conversation: Adapting Content from Business Intelligence Dashboards for Threaded Collaboration Platforms.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Building and Eroding: Exogenous and Endogenous Factors that Influence Subjective Trust in Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can GPT-4 Models Detect Misleading Visualizations?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Confides: A Visual Analytics Solution for Automated Speech Recognition Analysis and Exploration.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Connections Beyond Data: Exploring Homophily With Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counterpoint: Orchestrating Large-Scale Custom Animated Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Curve Segment Neighborhood-based Vector Field Exploration.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dark Mode or Light Mode? Exploring the Impact of Contrast Polarity on Visualization Performance Between Age Groups.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dash: A Bimodal Data Exploration Tool for Interactive Text and Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Guards: Challenges and Solutions for Fostering Trust in Data.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DaVE - A Curated Database of Visualization Examples.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Demystifying Spatial Dependence: Interactive Visualizations for Interpreting Local Spatial Autocorrelation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design of a Real-Time Visual Analytics Decision Support Interface to Manage Air Traffic Complexity.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design Patterns in Rightto-Left Visualizations: The Case of Arabic Content.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating the Semantic Profiling Abilities of LLMs for Natural Language Utterances in Data Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring the Capability of LLMs in Performing Low-Level Visual Analytic Tasks on SVG Data Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FAVis: Visual Analytics of Factor Analysis for Psychological Research.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FCNR: Fast Compressive Neural Representation of Visualization Images.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feature Clock: High-Dimensional Effects in Two-Dimensional Plots.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fields, Bridges, and Foundations: How Researchers Browse Citation Network Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Graphs to Words: A Computer-Assisted Framework for the Production of Accessible Text Descriptions.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GhostUMAP: Measuring Pointwise Instability in Dimensionality Reduction.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gridlines Mitigate Sine Illusion in Line Charts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Groot: A System for Editing and Configuring Automated Data Insights.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Guided Statistical Workflows with Interactive Explanations and Assumption Checking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hypertrix: An indicatrix for high-dimensional visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IEEE Visualization and Visual Analytics, VIS 2024, St. Pete Beach, FL, USA, October 13-18, 2024.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ImageSI: Semantic Interaction for Deep Learning Image Projections.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Property Graph Layouts by Leveraging Attribute Similarity for Structurally Equivalent Nodes.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrating Annotations for Sonifications and Physicalizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Intuitive Design of Deep Learning Models through Visual Feedback.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating the Apple Vision Pro Spatial Computing Platform for GPU-Based Volume Visualization.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LinkQ: An LLM-Assisted Visual Interface for Knowledge Graph Question-Answering.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Micro Visualizations on a Smartwatch: Assessing Reading Performance While Walking.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-User Mobile Augmented Reality for Cardiovascular Surgical Planning.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Combined Visual Cluster and Set Analysis.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Opening the Black Box of 3D Reconstruction Error Analysis with VECTOR.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Representing Charts as Text for Language Models: An In-Depth Study of Question Answering for Bar Charts.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Science in a Blink: Supporting Ensemble Perception in Scalar Fields.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Text-based transfer function design for semantic volume rendering.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Comic Construction Kit: An Activity for Students to Learn and Explain Data Visualizations.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Topological Separation of Vortices.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards a Quality Approach to Hierarchical Color Maps.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Reusable and Reactive Widgets for Information Visualization Research and Dissemination.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-point Equidistant Projection and Degree-of-interest Filtering for Smooth Exploration of Geo-referenced Networks.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uniform Sample Distribution in Scatterplots via Sector-based Transformation.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Use-Coordination: Model, Grammar, and Library for Implementation of Coordinated Multiple Views.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualization of 2D Scalar Field Ensembles Using Volume Visualization of the Empirical Distribution Function.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizations on Smart Watches while Running: It Actually Helps!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing an Exascale Data Center Digital Twin: Considerations, Challenges and Opportunities.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What Color Scheme is More Effective in Assisting Readers to Locate Information in a Color-Coded Article?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zoomable Level-of-Detail ChartTables for Interpreting Probabilistic Model Outputs for Reactionary Train Delays.": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "2023 IEEE Scientific Visualization Contest Winner: VisAnywhere: Developing Multiplatform Scientific Visualization Applications [CG&A]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Critical Analysis of the Usage of Dimensionality Reduction in Four Domains [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Decluttering Lens for Scatterplots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Design Space for Multiscale Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Multimodal Framework for Understanding Collaborative Design Processes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New Default Colormap for ParaView": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Review and Analysis of Evaluation Practices in VIS Domain Applications [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Rigorous Behavior Assessment of CNNs Using a Data-Domain Sampling Regime": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Simulation-based Approach for Quantifying the Impact of Interactive Label Correction for Machine Learning [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Typology of Data Concepts and Contexts in Clinician-Patient Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Typology of Decision-Making Tasks for Visualization [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Affective color scales for colormap data visualizations [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AGri: Adaptive Thumbnails For Grid-based Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AI-in-The-Loop: The Future of Biomedical Visual Analytics Applications in the Era of AI": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithmically-Assisted Schematic Transit Map Design: A System and Algorithmic Core for Fast Layout Iteration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithms for Consistent Dynamic Labeling of Maps With a Time-Slider Interface [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Analysis of Text Functions in Information Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Analysis of the Interplay and Mutual Benefits of Grounded Theory and Visualization [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Autoethnography on Visualization Literacy: A Wicked Measurement Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Evaluation of Temporal and Categorical Uncertainty on Timelines: A Case Study in Human Activity Recall Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An In-Situ Visual Analytics Framework for Deep Neural Networks [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Intelligent Interactive Visual Analytics System for Exploring Large and Multi-Scale Pathology Images": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analyzing Time-Varying Scalar Fields using Piecewise-Linear Morse-Cerf Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Anchoring and Alignment: Data Factors in Part-to-Whole Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Animated Visual Encoding and Layer Blending for Identification of Educational Game Strategies [Short Paper]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AnnoGram: An Annotative Grammar of Graphics Extension": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AnnoLens: Exploration and Annotation through Lens-Based Guidance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AortaDiff: Volume-Guided Conditional Diffusion Models for Multi-Branch Aortic Surface Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ASight: Fine-tuning Auto-Scheduling Optimizations for Model Deployment via Visual Analytics [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AttributionScanner: A Visual Analytics System for Model Validation with Metadata-Free Slice Finding [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmented Dynamic Data Physicalization: Blending Shape-changing Data Sculptures with Virtual Content for Interactive Visualization [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Authoring Data-Driven Chart Animations through Direct Manipulation [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Automatic Semantic Alignment of Flow Pattern Representations for Exploration with Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BDIViz: An Interactive Visualization System for Biomedical Schema Matching with LLM-Powered Validation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Log Scales: Toward Cognitively Informed Bar Charts for Orders of Magnitude Values": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Problem Solving: Framing and Problem–Solution Co-Evolution in Data Visualization Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Broadcast: Enhancing VR Tennis Broadcasting through Embedded Visualizations and Camera Techniques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BNNVis: Towards Visual Analytics for Bayesian Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "BondMatcher: H-Bond Stability Analysis in Molecular Systems [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bridging Network Science and Vision Science: Mapping Perceptual Mechanisms to Network Visualization Tasks [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Calli-VA: A Visual Analytics System for Analyzing and Comparing Chinese Calligraphic Styles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Can LLMs Bridge Domain and Visualization? A Case Study on High-Dimension Data Visualization in Single-Cell Transcriptomics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Capturing Visualization Design Rationale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CATOM: Causal Topology Map for Spatiotemporal Traffic Analysis with Granger Causality in Urban Areas [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Causality-based Visual Analytics of Sentiment Contagion in Social Media Topics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CD-TVD: Contrastive Diffusion for 3D Super-Resolution with Scarce High-Resolution Time-Varying Data [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CFTree: Exploring Paths Through Counterfactuals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Challenges & Opportunities with LLM-Assisted Visualization Retargeting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Characterizing Visualization Perception with Psychological Phenomena: Uncovering the Role of Subitizing in Data Visualization [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ChartMark: A Structured Grammar for Chart Annotation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Charts-of-Thought: Enhancing LLM Visualization Literacy Through Structured Data Extraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Chronotome: Real-Time Topic Modeling for Streaming Embedding Spaces [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CLAImate: AI-Enabled Climate Change Communication through Personalized and Localized Narrative Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ClimateSOM: A Visual Analysis Workflow for Climate Ensemble Datasets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cluster-Based Random Forest Visualization and Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collaborating Across Domains and Roles: An Interview Study of Visualization Design Practices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Color-Name Aware Optimization to Enhance the Perception of Transparent Overlapped Charts [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparing Pre-attentive Visual Variables in a Target Identification Task for Glanceable Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ConceptViz: A Visual Analytics Approach for Exploring Concepts in Large Language Models [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conch: Competitive Debate Analysis via Visualizing Clash Points and Hierarchical Strategies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constraint-Based Breakpoints for Responsive Visualization Design and Development [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Continuous Scatterplot and Image Moments for Time-Varying Bivariate Field Analysis of Electronic Structure Evolution [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coordinated 2D-3D Visualization of Volumetric Medical Data in XR with Multimodal Interactions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Correcting Misperceptions at a Glance: Using Data Visualizations to Reduce Political Sectarianism [Virtual Talk]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Critical Design Strategy: a Method for Heuristically Evaluating Visualisation Designs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CrossSet: Unveiling the Complex Interplay of Two Set-typed Dimensions in Multivariate Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dashboard Vision: Using Eye-Tracking to Understand and Predict Dashboard Viewing Behaviors [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Augmentation for Visualization Design Knowledge Bases": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Humanism Decoded: A Characterization of its Principles to Bridge Data Visualization Researchers and Practitioners": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data Speaks, But Who Gives It a Voice? Understanding Persuasive Strategies in Data-Driven News Articles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Data-Driven Compute Overlays for Interactive Geographic Simulation and Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dataset-Adaptive Dimensionality Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DataWink: Reusing and Adapting SVG-based Visualization Examples with Large Multimodal Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DCINR: A Divide-and-Conquer Implicit Neural Representation for Compressing Time-Varying Volumetric Data in Hours [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deciphering Explicit and Implicit Features for Reliable, Interpretable, and Actionable User Churn Prediction in Online Video Games [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deconstructing Implicit Beliefs in Visual Data Journalism: Unstable Meanings Behind Data as Truth & Design for Insight": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DeepVIS: Bridging Natural Language and Data Visualization Through Step-wise Reasoning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Design Space and Declarative Grammar for 3D Genomic Data Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing for Disclosure in Data Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Visualization Widgets for Tangible Data Exploration: A Systematic Review": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dichoptic Opacity: Managing Occlusion in Stereoscopic Displays via Dichoptic Presentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Neural Representation for Reactive In Situ Visualization [TVCG + Virtual Talk]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "DKMap: Interactive Exploration of Vision-Language Alignment in Multimodal Embeddings via Dynamic Kernel Enhanced Projection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Does visualization help AI understand data?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Don’t Stop Me Now: Visualizing Disruptions in Railroad Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Drawing in the Flow: A Data-Aware Mixed-Reality Sketching Interface for Illustrative 3D Flow Visualization [Short Paper]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Drillboards: Adaptive Visualization Dashboards for Dynamic Personalization of Visualization Experiences [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embedding Atlas: Low-Friction, Interactive Embedding Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embodied Natural Language Interaction (NLI): Speech Input Patterns in Immersive Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EmbryoProfiler: A Visual Clinical Decision Support System for IVF": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EncQA: Benchmarking Vision-Language Models on Visual Encodings for Charts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing Data Visualization Literacy: A Comparative Study of Learning Materials in Schools": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enhancing XAI Interpretation through a Reverse Mapping from Insights to Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Envisage: Towards Expressive Visual Graph Querying": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evaluating judgements of spatial correlation in visual displays of scalar field distributions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EventBox: A Novel Visual Encoding for Interactive Analysis of Temporal and Multivariate Attributes in Event Sequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evolving CAM16-UCS for Modular Accessible Perceptibility and Simultaneous Contrast Detection Tool for Geovisualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring 3D Unsteady Flow using 6D Observer Space Interactions [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring AR Label Placements in Visually Cluttered Scenarios": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exploring Spatial Hybrid User Interface for Visual Sensemaking [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eye of the Beholder: Towards Measuring Visualization Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "F^2Stories: A Modular Framework for Multi-Objective Optimization of Storylines with a Focus on Fairness [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and Faithful Edge Bundling for Large and Complex Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and Readable Layered Network Visualizations Using Large Neighborhood Search [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FinFlier: Automating Graphical Overlays for Financial Visualizations With Knowledge-Grounding Large Language Model [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flexible and Probabilistic Topology Tracking with Partial Optimal Transport": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlexPhys: A Workshop Cookbook for Operationalizing Data Physicalization Research Questions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FLINT: Learning-based Flow Estimation and Temporal Interpolation for Scientific Ensemble Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlowForge: Guiding the Creation of Multi-agent Workflows with Interactive Visualizations as a Thinking Scaffold": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FlowHON: Representing Flow Fields Using Higher-Order Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Dashboard Zoo to Census: A Case Study with Tableau Public [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Perception to Decision: Assessing the Role of Chart Type Affordances in High-Level Decision Tasks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Requirement to Solution: Unveiling Problem-Driven Design Patterns in Visual Analytics [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Vision to Touch: Bridging Visual and Tactile Principles for Accessible Data Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GALE: Leveraging Heterogeneous Systems for Efficient Unstructured Mesh Data Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generalization of CNNs on Relational Reasoning With Bar Charts [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GhostUMAP2: Measuring and Analyzing (r,d)-Stability of UMAP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Global Extrema Bias Perception and Recall of Average Data Values in Line Charts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GoFish: A Grammar of More Graphics!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graphical Perception of Icon Arrays versus Bar Charts for Value Comparisons in Health Risk Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grounded Generation of Embellished Bar Chart Ensuring Chart Integrity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "GSCache: Real-Time Radiance Caching for Volume Path Tracing using 3D Gaussian Splatting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Here’s what you need to know about my data: Exploring Expert Knowledge’s Role in Data Analysis [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hierarchical Fuzzy-Cluster-Aware Grid Layout for Large-Scale Data [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HINTs: Sensemaking on large collections of documents with Hypergraph visualization and INTelligent agents [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How do Data Journalists Design Maps to Tell Stories?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Do Observable Users Decompose D3 Code? A Qualitative Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How FAIR is VIS?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Human-in-the-Loop: Visual Analytics for Building Models Recognizing Behavioral Patterns in Time Series": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HUMAP: Hierarchical Uniform Manifold Approximation and Projection [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Iceberg Sensemaking: A Process Model for Critical Data Analysis [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "IdMotif: An Interactive Motif Identification in Protein Sequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Iguanodon: A Code-Breaking Game for Improving Visualization Construction Literacy [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Image-Driven Style Extraction From Graph Visualizations for Visual Style Transfer [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Immersive Data-Driven Storytelling: Scoping an Emerging Field Through the Lenses of Research, Journalism, and Games [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Neural Volume Rendering via Learning View-Dependent Integral Approximation [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "InsightChaser: Enhancing Visual Reasoning of Sports Tactical Visualization with Visual-Text Linking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Composition Operators: An Alternative Approach for Selecting Linear Embedding Parameters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Discovery and Visualization of Process Trees [Short Paper]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Hybrid Rice Breeding with Parametric Dual Projection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Visual Analysis of Spatial Sensitivities [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Visual Analytics of Carbon Cycle Science": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Investigating the Effects of Augmented Reality on Message Credibility When Visualizing Environmental Impacts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Judgment as Coordination: A Joint Systems View of Visualization Design Practice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Large Language Models for Transforming Categorical Data to Interpretable Feature Vectors [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LightVA: Lightweight Visual Analytics with LLM Agent-Based Task Planning and Execution [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locally Adapted Reference Frame Fields using Moving Least Squares": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "LossLens: Diagnostics for Machine Learning Through Loss Landscape Visual Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MAICO: A Visualization Design Study on AI-Assisted Music Composition [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "manvr3d: A Platform for Human-in-the-loop Cell Tracking in Virtual Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MC-INR: Efficient Encoding of Multivariate Scientific Simulation Data using Meta-Learning and Clustered Implicit Neural Representations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Metric Design != Metric Behavior: Improving Metric Selection for the Unbiased Evaluation of Dimensionality Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MisVisFix: An Interactive Dashboard for Detecting, Explaining, and Correcting Misleading Visualizations using Large Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mixture of Cluster-guided Experts for Retrieval-Augmented Label Placement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoE-INR: Implicit Neural Representation with Mixture-of-Experts for Time-Varying Volumetric Data Compression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MoMo - Combining Neuron Morphology and Connectivity for Interactive Motif Analysis in Connectomes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mosaic Selections: Managing and Optimizing User Selections for Scalable Data Visualization Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Motif Simplification for BioFabric Network Visualizations: Improving Pattern Recognition and Interpretation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-field Visualization: Trait design and trait-induced merge trees [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Focus Probes for Context-Preserving Network Exploration and Interaction in Immersive Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Narrative Player: Reviving Data Narratives with Visuals [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Natural Language-Driven Viewpoint Navigation for Volume Exploration via Semantic Block Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Neighbourhood-Preserving Voronoi Treemaps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NeRF-CA: Dynamic Reconstruction of X-ray Coronary Angiography with Extremely Sparse-views [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OceanVive: An Immersive Visualization System for Communicating Complex Oceanic Phenomena": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Out of the Loop: Enhancing Documentation and Transparency in Causal Loop Diagrams to Capture Multiple Perspectives [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OW-CLIP: Data-Efficient Visual Supervision for Open-World Object Detection via Human-AI Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "OwnershipTracker: A Visual Analytics Approach to Uncovering Historical Book Ownership Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Paraview-MCP: An Autonomous Visualization Agent with Direct Tool Use": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perceiving Slope and Acceleration: Evidence for Variable Tempo Sampling in Pitch-Based Sonification of Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PhDs-Portugal has Doctors: A Visualization of Academia Achievements in Portugal From 1970 to 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PiCCL: Data-Driven Mark Composition of Bespoke Pictorial Chart": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PixelatedScatter: Arbitrary-level Visual Abstraction for Large-scale Multiclass Scatterplots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PonziLens+: Visualizing Bytecode Actions for Smart Ponzi Scheme Identification [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Posterity: Balancing historical context and visual dynamism while visualizing a collection of American labor posters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ProactiveVA: Proactive Visual Analytics with LLM-based UI Agent": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Probing the Visualization Literacy of Vision Language Models: the Good, the Bad, and the Ugly": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Publish-Time Optimizations for Web-Based Visualizations [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantifying Visualization Vibes: Measuring Socio-Indexicality at Scale [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reflection on Data Storytelling Tools in the Generative AI Era from the Human-AI Collaboration Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reflections on the Use of Dashboards in the COVID-19 Pandemic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Reframing Pattern: A Comprehensive Approach to a Composite Visual Variable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RelMap: Reliable Spatiotemporal Sensor Data Visualization via Imputative Spatial Interpolation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReorderBench: A Benchmark for Matrix Reordering [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReVise: A Human-AI Interface for Incremental Algorithmic Recourse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ReVISit 2: A Full Experiment Life Cycle User Study Framework": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RmdnCache: Dual-Space Prefetching Neural Network for Large-Scale Volume Visualization [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RSVP for VPSA: A Meta Design Study on Rapid Suggestive Visualization Prototyping for Visual Parameter Space Analysis [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "RuleExplorer: A Scalable Matrix Visualization for Understanding Tree Ensemble Classifiers [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Running with Data: a Survey of the Current Research and a Design Exploration of Future Immersive Visualisations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Safire: Similarity Framework for Visualization Retrieval": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SceneLoom: Communicating Data with Scene Context": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scope Meets Screen: Lessons Learned in Designing Composite Visualizations for Marksmanship Training Across Skill Levels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SEAL: Spatially-resolved Embedding Analysis with Linked Imaging Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SEG-RobustEye: Understanding medical image segmentation models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sel3DCraft: Interactive Visual Prompts for User-Friendly Text-to-3D Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Self-Supervised Continuous Colormap Recovery from a 2D Scalar Field Visualizations without a Legend": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Pathway: An Interactive Visualization of Hidden States and Token Influence in LLMs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semantic Priming in Word Clouds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Set Size Matters: Capacity-Limited Perception of Grouped Spatial-Frequency Glyphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SGLDBench: A Benchmark Suite for Stress-Guided Lightweight 3D Designs [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shifting Expectations for Encoding Rules Mitigates Misinterpretation of Connected Scatterplots": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SiGrid: Gridifying Scatterplots with Sector-Based Regularization and Hagrid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SimVecVis: A Dataset for Enhancing MLLMs in Visualization Understanding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stitching Meaning: Practices of Data Textile Creators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Story Ribbons: Reimagining Storyline Visualizations with Large Language Models [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StreetWeave: A Declarative Grammar for Street-Overlaid Visualization of Multivariate Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "StressDiffVis: Visual Analytics for Multi-Model Stress Comparison": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SynAnno: Interactive Guided Proofreading of Synaptic Annotations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SynthLens: Visual Analytics for Facilitating Multi-step Synthetic Route Design [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TactiVis: Towards Better Understanding of Team-based Combat Tactics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tell Me Without Telling Me: Two-Way Prediction of Visualization Literacy and Visual Attention": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Texture Semantics is Robust to Scaling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TFZ: Topology-Preserving Compression of 2D Symmetric and Asymmetric Second-Order Tensor Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Agentopia Times: Understanding and Mitigating Hallucinations in Multi-Agent LLM Systems via Data Journalism Gameplay": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Census-Stub Graph Invariant Descriptor [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Hue-Man Factor: An Empirical Evaluation of Visualization Perception and Accessibility Across Color Vision Profiles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Visual Segmentation on Lexical Word Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TimeLighting: Guided Exploration of 2D Temporal Network Projections [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TiVy: Time Series Visual Summary for Scalable Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward a Design Space for Embedded Urban Data Visualizations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toward a Logic of Generalization about Visualization as a Decision Aid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Difficulty-Aware Analysis of Deep Neural Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Understanding Decision Problems as a Goal of Visualization Design [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trajectory Vorticity - Computation and Visualization of Rotational Trajectory Behavior in an Objective Way [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TrajLens: Visual Analysis for Constructing Cell Developmental Trajectories in Cross-Sample Exploration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Trame: Platform Ubiquitous, Scalable Integration Framework for Visual Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TraSculptor: Visual Analytics for Enhanced Decision-Making in Road Traffic Planning [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TraVIS: a User Trace Analyzer to Support the User-Centered Design of Visual Analytics Solutions [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "TrustME: A Context-Aware Explainability Model to Promote User Trust in Guidance [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-Level Transfer Functions Using t-SNE for Data Segmentation in Direct Volume Rendering [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncertain Mode Surfaces in 3D Symmetric Second-Order Tensor Field Ensembles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncertainty-Aware PCA Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncertainty-aware Spectral Visualization [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Aortic Dissection Hemodynamics: Evaluating Adapted Smoke Surfaces Against Streakline-Based Techniques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Large Language Model Behaviors through Interactive Counterfactual Generation and Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Why ChatGPT Outperforms Humans in Visualization Design Advice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unveiling the Visual Rhetoric of Persuasive Cartography: A Case Study of the Design of Octopus Maps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Urbanite: A Dataflow-Based Framework for Human-AI Interactive Alignment in Urban Visual Analytics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Using Tactile Charts to Support Comprehension and Learning of Complex Visualizations for Blind and Low-Vision Individuals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Utilizing Provenance as an Attribute for Visual Data Analysis: A Design Probe with ProvenanceLens [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VA-Blueprint: Uncovering Building Blocks for Visual Analytics System Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Validation through Replication of Augmented Reality as a Visualization Technique for Scholarly Publications in Astronomy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vector Field Synthesis with Sparse Streamlines Using Diffusion Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Versatile Ordering Network: An Attention-based Neural Network for Ordering Across Scales and Quality Metrics [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Virtual Ray Sampling for Direct Volume Rendering using Hermite Interpolation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visagreement: Visualizing and Exploring Explanations (Dis)Agreement [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisAnatomy: An SVG Chart Corpus with Fine-Grained Semantic Labels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisGuard: Securing Visualization Dissemination through Tamper-Resistant Data Retrieval": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VisMoDAl: Visual Analytics for Evaluating and Improving Corruption Robustness of Vision-Language Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VISTA: A Visual Analytics Framework to Enhance Foundation Model-Generated Data Labels [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ViStruct: Simulating Expert-Like Reasoning Through Task Decomposition and Visual Attention Cues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Analytics for Explainable and Trustworthy Artificial Intelligence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Analytics of Multivariate Networks with Representation Learning and Composite Variable Construction [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Analytics Using Tensor Unified Linear Comparative Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Extraction of Interaction Patterns Guided by Hierarchical Clustering and Process Mining": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Fingerprints for Detecting Data Characteristics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visual Integrity in the Age of AI: An Evaluation of DLSS and DLAA in Geospatial Visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualization Badges: Communicating Design and Provenance through Graphical Labels Alongside Visualizations [Honorable Mention]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualization for Trust in Machine Learning Revisited: The State of the Field in 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualization of Large Non-Trivially Partitioned Unstructured Data with Native Distribution on High-Performance Computing Systems [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualization Vibes: The Socio-Indexical Function of Visualization Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualization-Driven Illumination for Density Plots [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizationary: Automating Design Feedback for Visualization Designers Using Large Language Models [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Climate Model Outputs with CliMAScope": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing on the Wrist: Impact of Motion, Dial Shape and Visualization Type on Smartwatch": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Opinion Space in Voting Advice Applications: A User Study": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Player Movement and Game Events through Space-Time Cubes in Extended Reality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Visualizing Trust: How Chart Embellishments Influence Perceptions of Credibility": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VizGenie: Toward Self-Refining, Domain-Aware Workflows for Next-Generation Scientific Visualization [Virtual Talk]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vizualink: Evaluating Usability and Loyalty Impacts of Text-Graph Integration in Data-Driven Articles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VOICE: Visual Oracle for Interaction, Conversation, and Explanation [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VolMoVis: Real-Time Volume Generation and Motion Visualization with Dynamic Tomographic Reconstruction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VolSegGS: Segmentation and Tracking in Dynamic Volumetric Scenes via Deformable 3D Gaussians": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Volume-Based Space-Time Cube for Large-Scale Continuous Spatial Time Series [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Volumetric Visualization of the Genome": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Walking Through Time: A Hybrid Immersive System for Spatial and Expressive Timeline Authoring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Watering the Future: Assessing a Visualization Design for Accessible Comprehension of Water Management [Short Paper]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What is the Color of Serendipity? Investigating the Use of Language Models for Semantically Resonant Color Generation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "What Makes a Visualization Image Complex?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Write, Rank, or Rate: Comparing Methods for Studying Visualization Affordances": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XplainAct: Visualization for Personalized Intervention Insights": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "XROps: A Visual Workflow Management System for Dynamic Immersive Analytics [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Your Model Is Unfair, Are You Even Aware? Inverse Relationship Between Comprehension and Trust in Explainability Visualizations of Biased ML Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ZigzagNetVis: Suggesting temporal resolutions for graph visualization using zigzag persistence [TVCG]": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "“It looks sexy but it’s wrong.’’ Tensions in creativity and accuracy using genAI for biomedical visualization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "“Mapping What I Feel”: Understanding Affective Geovisualization Design Through the Lens of People-Place Relationships": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "“They Aren’t Built For Me”: An Exploratory Study of Strategies for Measurement of Graphical Primitives in Tactile Graphics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,5779 @@
+{
+  "schema_version": 1,
+  "level": "A",
+  "conference": "SODA",
+  "papers": {
+    "2021": {
+      "(Near-)Linear-Time Randomized Algorithms for Row Minima in Monge Partial Matrices and Related Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "2-Level Quasi-Planarity or How Caterpillars Climb (SPQR-)Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Constant Factor Approximation for Navigating Through Connected Obstacles in the Plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Deterministic Parallel APSP Algorithm and its Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Fast Minimum Degree Algorithm and Matching Lower Bound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Faster Exponential Time Algorithm for Bin Packing With a Constant Number of Bins via Additive Combinatorics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Fine-Grained Perspective on Approximating Subset Sum and Partition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Local Search Framework for Experimental Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lower Bound for Dynamic Fractional Cascading": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Polynomial Time Algorithm for the k-Disjoint Shortest Paths Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Refined Laser Method and Faster Matrix Multiplication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Structural Theorem for Local Algorithms with Applications to Coding, Testing, and Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A tight condition for triangle factors in pseudorandom graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Time-Optimal Randomized Parallel Algorithm for MIS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Topological Characterization of Modulo-p Arguments and Implications for Necklace Splitting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithms for Persuasion with Limited Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithms for weighted independent transversals and strong colouring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "All-Pairs LCA in DAGs: Breaking through the O(n2.5) barrier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Efficient ∊-BIC to BIC Transformation and Its Application to Black-Box Reduction in Revenue Maximization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An FPTAS for the square lattice six-vertex and eight-vertex models at low temperatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An improved procedure for colouring graphs of bounded local density": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An O(n5/4) Time ∊-Approximation Algorithm for RMS Matching in a Plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Analytic quantum weak coin flipping protocols with arbitrarily small bias": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Distance Oracles Subject to Multiple Vertex Failures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Evaluation of First-Order Counting Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Nearest Neighbors Beyond Space Partitions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating (k, ℓ-Median Clustering for Polygonal Curves": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Pathwidth for Graphs of Small Treewidth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Permanent of Random Matrices with Vanishing Mean: Made Better and Simpler": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating the Median under the Ulam Metric": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximation Algorithms and Hardness for Strong Unique Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asymptotic dimension of minor-closed families and beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Atomic Power in Forks: A Super-Logarithmic Lower Bound for Implementing Butterfly Networks in the Nonatomic Binary Fork-Join Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Average Sensitivity of Graph Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beating Greedy For Approximating Reserve Prices in Multi-Unit VCG Auctions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beating the probabilistic lower bound on perfect hashing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Being Fast Means Being Chatty: The Local Information Cost of Graph Spanners": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond Submodular Maximization via One-Sided Smoothness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Block-Structured Integer and Linear Programming in Strongly Polynomial and Near Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Branch-and-Bound Solves Random Binary IPs in Polytime": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coloring and Maximum Weight Independent Set of Rectangles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Competitive Allocation of a Mixed Manna": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Competitive Data-Structure Dynamization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concentration bounds for almost k-wise independence with applications to non-uniform security": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Connecting Robust Shuffle Privacy and Pan-Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Consistent k-Clustering for General Metrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constrained-Order Prophet Inequalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coresets for Clustering in Excluded-minor Graphs and Beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counting Homomorphisms to K4-minor-free Graphs, modulo 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counting Small Permutation Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Decomposing the Complement of the Union of Cubes in Three Dimensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deep Weisfeiler Leman": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Algorithms for Decremental Shortest Paths via Layered Core Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Replacement Path Covering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dimension-Preserving Reductions Between SVP and CVP in Different p-Norms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Directed Shortest Paths via Approximate Cost Balancing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Metropolis Sampler with Optimal Parallelism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Graph Algorithms with Batch Updates in the Massively Parallel Computation Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Maintenance of Low-Stretch Probabilistic Tree Embeddings with Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Set Cover: Improved Amortized and Worst-Case Update Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Computation of Representative Weight Functions with Applications to Parameterized Counting (Extended Version)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Document Exchange and Error Correcting Codes with Asymmetric Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient fully dynamic elimination forests with applications to detecting long paths and cycles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Linear and Affine Codes for Correcting Insertions/Deletions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "EPTAS for k-means Clustering of Affine Subspaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Estimating the Nash Social Welfare for coverage and other submodular valuations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explicit two-deletion codes with redundancy matching the existential bound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Convergence of Fictitious Play for Diagonal Payoff Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Low-Space Algorithms for Subset Sum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-grained hardness of CVP(P) - Everything that we can prove (and nothing else)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FPT-approximation for FPT Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Front Matter": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graph Spanners by Sketching in Dynamic Streams and the Simultaneous Communication Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hamiltonicity of random subgraphs of the hypercube": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hardness of Approximation for Orienteering with Multiple Time Windows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Many Vertices Does a Random Walk Miss in a Network with Moderately Increasing the Number of Vertices?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How to Morph Graphs on the Torus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Algorithms for Population Recovery from the Deletion Channel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Algorithms for Solving Polynomial Systems over GF(2) by Multiple Parity-Counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Approximations for Min Sum Vertex Cover and Generalized Min Sum Set Cover": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Deterministic Network Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Sublinear Time Algorithm for Longest Increasing Subsequence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Truthful Mechanisms for Subadditive Combinatorial Auctions: Breaking the Logarithmic Barrier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving the dilation of a metric graph by adding edges": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "In which matching markets does the short side enjoy an advantage?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incremental Single Source Shortest Paths in Sparse Digraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Induced subgraphs of bounded treewidth and the container method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Infinite-Duration All-Pay Bidding Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lee-Yang zeros and the complexity of the ferromagnetic Ising Model on bounded-degree graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "List-Decodable Subspace Recovery: Dimension Independent Error in Polynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local Statistics, Semidefinite Programming, and Community Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Min-max Partitioning of Hypergraphs and Symmetric Submodular Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimizing Convex Functions with Integral Minimizers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimum-cost integer circulations in given homology classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Linear Time Homomorphism Counting in Bounded Degeneracy Graphs: The Barrier of Long Induced Cycles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Randomized Algorithms for Selection in Totally Monotone Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Optimal Average-Case Complexity of Counting Bicliques Under SETH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Data Structures for Orthogonal Range Reporting and Range Minima Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Planar P-time Computable Six-Vertex Models and a Complete Complexity Classification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Techniques and Fine-Grained Hardness for Dynamic Near-Additive Spanners": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Excludable Dynamic Mechanism Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-linear Hamilton cycles in linear quasi-random hypergraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-uniform Geometric Set Cover and Scheduling on Multiple Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On a combinatorial generation problem of Knuth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Approximability of Clustering Problems Without Candidate Centers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Efficient Distance Approximation for Graph Properties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Indexing and Compressing Finite Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Locating Paths in Compressed Tries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Multi-Dimensional Gains from Trade Maximization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Near-Linear-Time Algorithms for Dense Subset Sum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Testability of First-Order Properties in Bounded-Degree Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Competitive Analysis and High Accuracy Optimality of Profile Maximum Likelihood": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Mysteries of MAX NAE-SAT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Orbit Closure Containment Problem and Slice Rank of Tensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Tolerant Distribution Testing in the Conditional Sampling Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Two-Handed Planar Assembly Partitioning with Connectivity Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Combinatorial Auctions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Discrepancy Minimization for Stochastic Arrivals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Edge Coloring Algorithms via the Nibble Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Generalized Network Design Under (Dis)Economies of Scale": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Multiserver Convex Chasing and Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Contextual Pricing and Extensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Discretization is Fixed-parameter Tractable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Distribution-Free Sample-Based Testing of Subsequence-Freeness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Girth Approximation for Dense Directed Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Inapproximability with Universal Factor Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Oblivious Priority Queues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Vertex Fault-Tolerant Spanners in Polynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal ℓ1 Column Subset Selection and a Fast PTAS for Low Rank Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Peeling Close to the Orientability Threshold - Spatial Coupling in Hashing-Based Data Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Planar Distance Oracles with Better Time-Space Tradeoffs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Planar Negative k-Cycle": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Planar Reachability Under Single Vertex or Edge Failures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polyhedral Value Iteration for Discounted Games and Energy Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial-time trace reconstruction in the smoothed complexity model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms, SODA 2021, Virtual Conference, January 10 - 13, 2021": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PTAS for Minimum Cost Multi-covering with Disks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum algorithms for graph problems with cut queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Query strategies for priced information, revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Random Restrictions of High Dimensional Distributions and Uniformity Testing with Subcube Conditioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Randomized Cup Game Algorithms Against Strong Adversaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rankwidth meets stability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rapid Mixing for Colorings via Spectral Independence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rapid Mixing from Spectral Independence beyond the Boolean Domain": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Algorithms for Online Convex Problems via Primal-Dual": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Learning of Mixtures of Gaussians": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rolling backwards can move you forward: on embedding problems in sparse expanders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scheduling with Communication Delays via LP Hierarchies and Clustering II: Weighted Completion Times on Related Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Self-Stabilizing Clock Synchronization with 1-bit Messages": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shorter Labels for Routing in Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shortest Paths Among Obstacles in the Plane Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving hard cut problems via flow-augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving Sparse Linear Systems Faster than Matrix Multiplication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sorting Short Keys in Circuits of Size o(n log n)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "SoS Degree Reduction with Applications to Clustering and Robust Moment Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Space Lower Bounds for Approximating Maximum Matching in the Edge Arrival Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spectral Clustering Oracles in Sublinear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spectral Sparsification of Metrics and Kernels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Static and Streaming Data Structures for Fréchet Distance Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming Submodular Matching Meets the Primal-Dual Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Strong Connectivity Augmentation is FPT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Strongly refuting all semi-random Boolean CSPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Connectivity Threshold for Dense Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Demand Query Model for Bipartite Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Expander Hierarchy and its Applications to Dynamic Graph Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Fine-Grained Complexity of Computing the Tutte Polynomial of a Linear Matroid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Growth Rate Over Trees Of Any Family Of Sets Defined By A Monadic Second Order Formula Is Semi-computable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Impact of Heterogeneity and Geometry on the Proof Complexity of Random Satisfiability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Min-Cost Matching with Concave Delays Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Secretary Problem with Independent Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Bounds for Online Graph Partitioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Bounds for Parallel Paging and Green Paging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Distributed Listing of Cliques": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Distributed Sketching Lower Bound for Connectivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards PTAS for Precedence Constrained Scheduling via Combinatorial Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Treewidth-Pliability and PTAS for Max-CSPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Twin-width II: small classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Two-stage Stochastic Matching with Application to Ride Hailing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Ultrasparse Ultrasparsifiers and Faster Laplacian System Solvers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uncertainty about Uncertainty: Optimal Adaptive Algorithms for Estimating Mixtures of Unknown Coins": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unlinking, splitting, and some other NP-hard problems in knot theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vertex Sparsification for Edge Connectivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2022": {
+      "A 3-Approximation Algorithm for Maximum Independent Set of Rectangles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Deterministic Parallel Reduction from Weighted Matroid Intersection Search to Decision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Faster Algorithm for Quickest Transshipments via an Extended Discrete Newton Method": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Parameterized Subexponential Algorithms for Generalized Cycle Hitting Problems on Planar Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lower Bound for the n-queens Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Near-Optimal Offline Algorithm for Dynamic All-Pairs Shortest Paths in Planar Digraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Sublinear Bound on the Page Number of Upward Planar Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tail Estimate with Exponential Decay for the Randomized Incremental Construction of Search Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Two-Pass (Conditional) Lower Bound for Semi-Streaming Maximum Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithmic Extensions of Dirac's Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithmic Thresholds for Refuting Random Polynomial Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithmic trade-offs for girth approximation in undirected graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithms Using Local Graph Features to Predict Epidemics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost Tight Approximation Algorithms for Explainable Clustering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Improved Algorithm for The k-Dyck Edit Distance Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Improved Analysis of Greedy for Online Steiner Forest": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Improved Local Search Algorithm for k-Median": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Upper Bound and Linear-Space Queries on the LZ-End Parsing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Core for Committee Selection via Multilinear Extension and Market Clearing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Hypergraph Vertex Cover and generalized Tuza's conjecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximately counting independent sets in bipartite graphs via graph containers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Equilibrium under Constrained Piecewise Linear Concave Utilities with Applications to Matching Markets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Fair Clustering with Cascaded Norm Objectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Sumset Size": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating the Arboricity in Sublinear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximation Schemes for Capacitated Vehicle Routing on Graphs of Bounded Treewidth, Bounded Doubling, or Highway Dimension": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmenting Edge Connectivity via Isolating Cuts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Average Sensitivity of Dynamic Programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Average-Case Subset Balancing Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balanced Allocations: Caching and Packing, Twinning and Thinning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Better Lower Bounds for Shortcut Sets and Additive Spanners via an Improved Alternation Product": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Better Sum Estimation via Weighted Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "CLAP: A New Algorithm for Promise CSPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Co-evolution of Opinion and Social Tie Dynamics Towards Structural Balance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collapsing the Tower - On the Complexity of Multistage Stochastic IPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combinatorial Gap Theorem and Reductions between Promise CSPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compact Redistricting Plans Have Many Spanning Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Competitive Strategies for Symmetric Rendezvous on the Line": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Hardness of the Hylland-Zeckhauser Scheme": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Topology in a Collapsing Universe: Laplacians, Homology, Cohomology": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing Lewis Weights to High Precision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Congruency-Constrained TU Problems Beyond the Bimodular Case": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constructing Many Faces in Arrangements of Lines and Segments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counting Homomorphic Cycles in Degenerate Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counting list homomorphisms from graphs of bounded treewidth: tight complexity bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cubic upper and lower bounds for subtrajectory clustering under the continuous Fréchet distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cut Sparsification of the Clique Beyond the Ramanujan Bound: A Separation of Cut Versus Spectral Sparsification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deleting, Eliminating and Decomposing to Hereditary Classes Are All FPT-Equivalent": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Densest Subgraph: Supermodularity, Iterative Peeling, and Flow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic algorithms for the Lovász Local Lemma: simpler, more general, and more parallel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic and Las Vegas Algorithms for Sparse Nonnegative Convolution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Budget-Feasible Clock Auctions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic enumeration of all minimum k-cut-sets in hypergraphs for fixed k": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Directed Tangle Tree-Decompositions and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distortion-Oblivious Algorithms for Minimizing Flow Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Zero-Knowledge Proofs Over Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distribution-free Testing for Halfspaces (Almost) Requires PAC Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Geometric Set Cover, Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient generation of elimination trees and graph associahedra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Enumerating k-SAT functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Consensus via the Unconstrained Undecided State Dynamics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Algorithms for Bounded-Difference Min-Plus Product": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixed-Price Approximations in Bilateral Trade": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Frequency Estimation with One-Sided Error": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Friendly Cut Sparsifiers and Faster Gomory-Hu Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Greedy Spanners in Euclidean Spaces Admit Sublinear Separators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "High Dimensional Expanders: Eigenstripping, Pseudorandomness, and Unique Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hopcroft's Problem, Log-Star Shaving, 2D Fractional Cascading, and Decision Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Compression and Approximation Affect Efficiency in String Distance Measures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How many Clusters? - An algorithmic answer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Algorithms for Low Rank Approximation from Sparsity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Sliding Window Algorithms for Clustering and Coverage via Bucketing-Based Sketches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Strongly Polynomial Algorithms for Deterministic MDPs, 2VPI Feasibility, and Discounted All-Pairs Shortest Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incremental SSSP for Sparse Digraphs Beyond the Hopset Barrier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Isomorphism Testing for Graphs Excluding Small Topological Subgraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Johnson Coverage Hypothesis: Inapproximability of k-means and k-median in ℓp-metrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning-Augmented Weighted Paging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Limits of Preprocessing for Single-Server PIR": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local Search for Weighted Tree Augmentation and Steiner Tree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Massively Parallel and Dynamic Algorithms for Minimum Size Clustering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Metric Distortion Bounds for Randomized Social Choice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Monotone edge flips to an orientation of maximum edge-connectivity à la Nash-Williams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-token Markov Game with Switching Costs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Algorithms for Linear Algebra in the Current Matrix Multiplication Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Average-Case Approximate Trace Reconstruction from Few Traces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Explainable k-Means for All Dimensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Quantum Algorithms for String Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Spanners for General Graphs in (Nearly) Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly 2-Approximate Distance Oracles in Subquadratic Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nested Dissection Meets IPMs: Planar Min-Cost Flow in Nearly-Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Diameter-Reducing Shortcuts and Directed Hopsets: Breaking the Barrier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Trade-Offs for Fully Dynamic Matching via Hierarchical EDCS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On complete classes of valuated matroids": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On finding exact solutions of linear programs in the oracle model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Mixing of Markov Chains: Coupling, Spectral Independence, and Entropy Factorization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the complexity of binary polynomial optimization over acyclic hypergraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Fine-Grained Complexity of the Unbounded SubsetSum and the Frobenius Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Hardness of Scheduling With Non-Uniform Communication Delays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Discrepancy with Recourse for Vectors and Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Graph Algorithms with Predictions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Nash Social Welfare Maximization with Predictions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Weighted Matching with a Sample": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal angle bounds for Steiner triangulations of polygons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Oblivious Parallel RAM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Sorting Circuits for Short Keys": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partially Optimal Edge Fault-Tolerant Spanners": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pattern Matching on Grammar-Compressed Strings in Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perfect Matching in Random Graphs is as Hard as Tseitin": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Planar Multiway Cut with Terminals on Few Faces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polygon Placement Revisited: (Degree of Freedom + 1)-SUM Hardness and an Improvement via Offline Dynamic Rectangle Union": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial Integrality Gap of Flow LP for Directed Steiner Tree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial Time Algorithms to Find an Approximate Competitive Equilibrium for Chores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial-time algorithm for Maximum Independent Set in bounded-degree graphs with no long induced claws": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Preprocessing Imprecise Points for the Pareto Front": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Private Interdependent Valuations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 2022 ACM-SIAM Symposium on Discrete Algorithms, SODA 2022, Virtual Conference / Alexandria, VA, USA, January 9 - 12, 2022": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Promise Constraint Satisfaction and Width": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recognizing <italic>k</italic>-leaf powers in polynomial time, for constant <italic>k</italic>": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Load Balancing with Machine Learned Advice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Secretary and Prophet Algorithms for Packing Integer Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sampling Colorings and Independent Sets of Random Regular Bipartite Graphs in the Non-Uniqueness Region": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Scalar and Matrix Chernoff Bounds from ℓ∞-Independence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Selectable Heaps and Optimal Lazy Search Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Semi-Streaming Bipartite Matching in Fewer Passes and Optimal Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sensitivity Oracles for All-Pairs Mincuts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simulating a stack using queues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simulating Random Walks in Random Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Single-Sample Prophet Inequalities via Greedy-Ordered Selection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparsifying, Shrinking and Splicing for Minimum Path Cover in Parameterized Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spectral recovery of binary censored block models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Splay trees on trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stochastic Vertex Cover with Few Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming Regular Expression Membership and Pattern Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Strong recovery of geometric planted matchings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subexponential Parameterized Algorithms for Cut and Cycle Hitting Problems on H<-Minor-Free Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subexponential Parameterized Algorithms on Disk Graphs (Extended Abstract)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Testing matrix product states": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Complexity of Average-Case Dynamic Subgraph Counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The complexity of testing all properties of planar graphs, and the role of isomorphism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The popular assignment problem: when cardinality is more important than popularity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Sparse Parity Matrix": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Bounds for Approximate Near Neighbor Searching for Time Series under the Fréchet Distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Guarantees for Multi-unit Prophet Inequalities and Online Stochastic Knapsack": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight running times for minimum <italic>ℓq</italic>-norm load balancing: beyond exponential dependencies on 1/<italic>∊</italic>": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Truly Low-Space Element Distinctness and Subset Sum via Pseudorandom Hash Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Twin-width VI: the lens of contraction sequences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universally-Optimal Distributed Shortest Paths and Transshipment via Graph-Based ℓ1-Oblivious Routing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unsplittable Flow on a Path: The Game!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Untangling Planar Graphs and Curves by Staying Positive": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2023": {
+      "\"Who is Next in Line?\" On the Significance of Knowing the Arrival Order in Bayesian Online Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "4D Range Reporting in the Pointer Machine Model in Almost-Optimal Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Distanced Matching Game, Decremental APSP in Expanders, and Faster Deterministic Algorithms for Graph Cut Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Framework for Approximation Schemes on Disk Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A half-integral Erdős-Pósa theorem for directed odd cycles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A logic-based algorithmic meta-theorem for mim-width": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Near-Linear Time Sampler for the Ising Model with External Field": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Nearly Tight Analysis of Greedy k-means++": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Nearly Time-Optimal Distributed Approximation of Minimum Cost k-Edge-Connected Spanning Subgraph": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Nearly-Tight Analysis of Multipass Pairing Heaps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A New Approach to Estimating Effective Resistances and Counting Spanning Trees in Expander Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Polynomial Time Algorithm for Finding a Minimum 4-Partition of a Submodular Function": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Polynomial-Time Algorithm for 1/2-Well-Supported Nash Equilibria in Bimatrix Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A simple and sharper proof of the hypergraph Moore bound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Sublinear-Time Quantum Algorithm for Approximating Partition Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Subquadratic nε-approximation for the Continuous Fréchet Distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tight Analysis of Slim Heaps and Smooth Heaps": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A tight quasi-polynomial bound for Global Label Min-Cut": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Algorithms for Fractional Linear Matroid Parity via Non-commutative Rank": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithmizing the Multiplicity Schwartz-Zippel Lemma": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost Consistent Systems of Linear Equations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost Tight Bounds for Online Facility Location in the Random-Order Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost Tight Error Bounds on Differentially Private Continual Counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost-Linear Planted Cliques Elude the Metropolis Process": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Improved Approximation for Maximum Weighted k-Set Packing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approaching the Soundness Barrier: A Near Optimal Analysis of the Cube versus Cube Test": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Distance Oracles for Planar Graphs with Subpolynomial Error Dependency": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Graph Colouring and Crystals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Trace Reconstruction from a Single Trace": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Knapsack and Partition via Dense Subset Sums": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximation Algorithms for Steiner Tree Augmentation Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balanced Allocations with Heterogeneous Bins: The Power of Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beating (1 - 1/e)-Approximation for Weighted Stochastic Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beating Greedy Matching in Sublinear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bidder Subset Selection Problem in Auction Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaching the 2 LMP Approximation Barrier for Facility Location with Applications to k-Median": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking the 𝒪(n)-Barrier in the Construction of Compressed Suffix Arrays and Suffix Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Byzantine Agreement with Optimal Resilience via Statistical Fraud Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Closing the Gap Between Directed Hopsets and Shortcut Sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Competitive Information Design for Pandora's Box": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing Square Colorings on Bounded-Treewidth and Planar Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Concentration of polynomial random matrices via Efron-Stein inequalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conflict-free hypergraph matchings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constant Approximating Parameterized k-SETCOVER is W[2]-hard": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cubic Goldreich-Levin": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Curve Simplification and Clustering under Fréchet Distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic counting Lovász local lemma beyond linear programming": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differentially Private All-Pairs Shortest Path Distances: Improved Algorithms and Lower Bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Discrepancy Minimization via Regularization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Maximal Matching and Maximal Independent Set on Hypergraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Algorithms for Maximum Matching Size": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Algorithms for Packing-Covering LPs via Multiplicative Weight Updates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Matching with Better-than-2 Approximation in Polylogarithmic Update Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Economical Convex Coverings and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient decoding up to a constant fraction of the code length for asymptotically good quantum codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient resilient functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Elliptic Curve Fast Fourier Transform (ECFFT) Part I: Low-degree Extension in Time O(n log n) over all Finite Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equivalence Test for Read-Once Arithmetic Formulas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Flow Sparsification Requires Unbounded Size": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Excluding Single-Crossing Matching Minors in Bipartite Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fair allocation of a multiset of indivisible items": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast algorithms for solving the Hamilton Cycle problem with high probability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Discrepancy Minimization with Hereditary Guarantees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Distributed Brooks' Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Algorithm for Turn-based Stochastic Games with Bounded Treewidth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster and Unified Algorithms for Diameter Reducing Shortcuts and Minimum Chain Covers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Computation of 3-Edge-Connected Components in Digraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Deterministic Worst-Case Fully Dynamic All-Pairs Shortest Paths via Decremental Hop-Restricted Shortest Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding Triangles and Other Small Subgraphs in Geometric Intersection Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixed-parameter tractability of DIRECTED MULTICUT with three terminal pairs parameterized by the size of the cutset: twin-width meets flow-augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixed-Parameter Tractability of Maximum Colored Path and Beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flow-augmentation III: Complexity dichotomy for Boolean CSPs parameterized by the number of unsatisfied constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Foundations of Transaction Fee Mechanism Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Algorithms to Connectivity and Back: Finding a Giant Component in Random k-SAT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Dynamic Exact Edge Connectivity in Sublinear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gap-ETH-Tight Approximation Schemes for Red-Green-Blue Separation and Bicolored Noncrossing Euclidean Travelling Salesman Tours": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generalized Unrelated Machine Scheduling Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graph Classes with Few Minimal Separators. I. Finite Forbidden Induced Subgraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Graph Classes with Few Minimal Separators. II. A Dichotomy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Halving by a Thousand Cuts or Punctures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hierarchies of Minion Tests for PCSPs through Tensors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher degree sum-of-squares relaxations robust against oblivious outliers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Approximation for Two-Edge-Connectivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Approximations for Unrelated Machine Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Bi-point Rounding Algorithms and a Golden Barrier for k-Median": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Bounds for Sampling Solutions of Random CNF Formulas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Distributed Algorithms for the Lovász Local Lemma and Edge Coloring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Distributed Network Decomposition, Hitting Sets, and Spanners, via Derandomization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved girth approximation in weighted undirected graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Integrality Gap in Max-Min Allocation: or Topology at the North Pole": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Pattern-Avoidance Bounds for Greedy BSTs via Matrix Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Instability of backoff protocols with arbitrary arrival rates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integrality Gaps for Random Integer Programs via Discrepancy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interactive Coding with Small Memory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interdependent Public Projects": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Kernelization for Graph Packing Problems via Rainbow Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Hierarchical Cluster Structure of Graphs in Sublinear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local Distributed Rounding: Generalized to MIS, Matching, Set Cover, and Beyond": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lossless Online Rounding for Online Bipartite Matching (Despite its Impossibility)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low Degree Testing over the Reals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maintaining Expander Decompositions via Sparse Cuts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Map matching queries on realistic input graphs under the Fréchet distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Massively Parallel Computation on Embedded Planar Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maximal k-Edge-Connected Subgraphs in Weighted Graphs via Local Random Contraction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mean estimation when you have the source code; or, quantum Monte Carlo methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimizing Completion Times for Stochastic Jobs via Batched Free Times": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Model-Checking for First-Order Logic with Disjoint Paths Predicates in Proper Minor-Closed Graph Classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Moser-Tardos Algorithm: Beyond Shearer's Bound": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Linear Sample Complexity for Lp Polynomial Regression": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Linear Time Approximations for Cut Problems via Fair Cuts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Non-Stochastic CDF Estimation Using Threshold Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nonlinear codes exceeding the Gilbert-Varshamov and Tsfasman-Vlăduţ-Zink bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On (Random-order) Online Contention Resolution Schemes for the Matching Polytope of (Bipartite) Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On complex roots of the independence polynomial": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Minimizing Tardy Processing Time, Max-Min Skewed Convolution, and Triangular Structured ILPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Problems Related to Unbounded SubsetSum: A Unified Combinatorial Approach": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Integrality Gap of MFN Relaxation for the Capacitated Facility Location Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Number of Incidences When Avoiding an Induced Biclique in Geometric Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the orbit closure intersection problems for matrix tuples under conjugation and left-right actions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online and Bandit Algorithms Beyond ℓp Norms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Lewis Weight Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Min-Max Paging": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Prediction in Sub-linear Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Sorting and Translational Packing of Convex Polygons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Algorithms for Linear Algebra in the Current Matrix Multiplication Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Deterministic Massively Parallel Connectivity on Forests": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Fully Dynamic k-Center Clustering for Adaptive and Oblivious Adversaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Pricing Schemes for an Impatient Buyer": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Square Detection Over General Alphabets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Packing cycles in planar and bounded-genus graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel Exact Shortest Paths in Almost Linear Work and Square Root Depth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterized Algorithm for the Disjoint Path Problem on Planar Graphs: Exponential in k2 and Linear in n": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterized Approximation Scheme for Biclique-free Max k-Weight SAT and Max Coverage": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Passing the Limits of Pure Local Search for Weighted k-Set Packing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Player-optimal Stable Regret for Bandit Learning in Matching Markets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial formulations as a barrier for reduction-based hardness proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Positivity of the symmetric group characters is as hard as the polynomial time hierarchy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Pricing Query Complexity of Revenue Maximization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Private Convex Optimization in General Norms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Private Query Release via the Johnson-Lindenstrauss Transform": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 2023 ACM-SIAM Symposium on Discrete Algorithms, SODA 2023, Florence, Italy, January 22-25, 2023": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Speed-ups for String Synchronizing Sets, Longest Common Substring, and k-mismatch Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum tomography using state-preparation unitaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Query Complexity of Inversion Minimization on Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Query Complexity of the Metric Steiner Tree Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Voting Rules from Algorithmic Robust Statistics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sampling Equilibria: Fast No-Regret Learning in Structured Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Secretary Problems: The Power of a Single Sample": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sharp threshold sequence and universality for Ising perceptron models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Short Synchronizing Words for Random Automata": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shortest Cycles With Monotone Submodular Costs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shrunk subspaces via operator Sinkhorn iteration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simple Mechanisms for Non-linear Agents": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simple, deterministic, fast (but weak) approximations to edit distance and Dyck edit distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simplex Range Searching Revisited: How to Shave Logs in Multi-Level Data Structures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Single-Pass Streaming Algorithms for Correlation Clustering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Small Shadows of Lattice Polytopes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Small subgraphs with large average degree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smaller Low-Depth Circuits for Kronecker Powers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparse graphs with bounded induced cycle packing number have logarithmic treewidth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spatial mixing and the random-cluster dynamics on lattices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spencer's theorem in nearly input-sparsity time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Steiner Connectivity Augmentation and Splitting-off in Poly-logarithmic Maximum Flows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming algorithms for the missing item finding problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming complexity of CSPs with randomly ordered constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stronger 3SUM-Indexing Lower Bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stronger Privacy Amplification by Shuffling for Renyi and Approximate Differential Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subexponential mixing for partition chains on grid-like graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sublinear-Time Algorithms for Max Cut, Max E2Lin(q), and Unique Label Cover on Expanders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Super-resolution and Robust Sparse Continuous Fourier Transform in Any Constant Dimension: Nearly Linear Time and Sample Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Superpolynomial lower bounds for decision tree learning and testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Testing and Learning Quantum Juntas Nearly Optimally": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Testing Convex Truncation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The complete classification for quantified equality constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Exact Bipartite Matching Polytope Has Exponential Extension Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Need for Seed (in the abstract Tile Assembly Model)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Power of Clairvoyance for Multi-Level Aggregation and Set Cover with Delay": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Price of Stability for First Price Auction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The ℓp-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Bounds for Monotone Minimal Perfect Hashing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Complexity Bounds for Counting Generalized Dominating Sets in Bounded-Treewidth Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-Space Tradeoffs for Element Distinctness and Set Intersection via Pseudorandomness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Timeliness Through Telephones: Approximating Information Freshness in Vector Clock Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tiny Pointers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Toeplitz Low-Rank Approximation with Sublinear Query Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Towards Multi-Pass Streaming Lower Bounds for Optimal Approximation of Max-Cut": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Traversing the FFT Computation Tree for Dimension-Independent Sparse Fourier Transforms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unique Games hardness of Quantum Max-Cut, and a conjectured vector-valued Borell's inequality": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weak Bisimulation Finiteness of Pushdown Systems With Deterministic ε-Transitions Is 2-EXPTIME-Complete": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weisfeiler-Leman and Graph Spectra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Zigzagging through acyclic orientations of chordal graphs and hypergraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2024": {
+      "2-Approximation for Prize-Collecting Steiner Forest": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A (3 + ɛ)-Approximate Correlation Clustering Algorithm in Dynamic Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A (3 + ɛ)-approximation algorithm for the minimum sum of radii problem with outliers and extensions for generalized lower bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Distributed Palette Sparsification Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Faster Combinatorial Algorithm for Maximum Bipartite Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Nearly Linear-Time Distributed Algorithm for Exact Maximum Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Parameterized Family of Meta-Submodular Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A polynomial-time OPTɛ-approximation algorithm for maximum independent set of connected subgraphs in a planar graph": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A PTAS for ℓ0-Low Rank Approximation: Solving Dense CSPs over Reals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Quasi-Monte Carlo Data Structure for Smooth Kernel Evaluations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tight Bound for Testing Partition Properties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Unifying Framework for Differentially Private Sums under Continual Observation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Whole New Ball Game: A Primal Accelerated Method for Matrix Games and Minimizing the Maximum of Smooth Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adaptive Out-Orientations with Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adjacency Sketches in Adversarial Environments": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Adversarial Low Degree Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "AG codes have no list-decoding friends: Approaching the generalized Singleton bound requires exponential alphabets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Improved Classical Singular Value Transformation for Quantum Machine Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Optimal Algorithm for Higher-Order Voronoi Diagrams in the Plane: The Usefulness of Nondeterminism": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Unconditional Lower Bound for Two-Pass Streaming Algorithms for Maximum Matching Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Ω~(√log|T|) Lower Bound for Steiner Point Removal": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Subset Sum Ratio faster than Subset Sum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximation Algorithms for the Weighted Nash Social Welfare via Convex and Non-Convex Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Arborescences, Colorful Forests, and Popularity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bandit Algorithms for Prophet Inequality and Pandora's Box": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond the Quadratic Time Barrier for Network Unreliability": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bin Packing under Random-Order: Breaking the Barrier of 3/2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking 3-Factor Approximation for Correlation Clustering in Polylogarithmic Rounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking the 3/4 Barrier for Approximate Maximin Share": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking the k/ log k Barrier in Collective Tree Exploration via Tree-Mining": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking the Metric Voting Distortion Barrier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cactus Representation of Minimum Cuts: Derandomize and Speed up": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cactus Representations in Polylogarithmic Max-flow via Maximal Isolating Mincuts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cliquewidth and Dimension": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Code Sparsification and its Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combinatorial Approach for Factorization of Variance and Entropy in Spin Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combinatorial Contracts Beyond Gross Substitutes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combinatorial Stationary Prophet Inequalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Composition of nested embeddings with an application to outlier removal": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computations with polynomial evaluation oracle: ruling out superlinear SETH-based lower bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing the 5-Edge-Connected Components in Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Conflict Checkable and Decodable Codes and Their Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Controlling Tail Risk in Online Ski-Rental": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Convex Minimization with Integer Minima in Õ(n4) Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Count on CFI graphs for #P-hardness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Delaunay Bifiltrations of Functions on Point Clouds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dependent rounding with strong negative-correlation, and scheduling on unrelated machines to minimize completion time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Hidden Communities by Power Iterations with Connections to Vanilla Spectral Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Determinantal Sieving": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Algorithms for Low Degree Factors of Constant Depth Circuits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Byzantine Agreement with Adaptive O(n · f) Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Near-Linear Time Minimum Cut in Weighted Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Sparse Pattern Matching via the Baur-Strassen Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distances and shortest paths on graphs of bounded highway dimension: simple, fast, dynamic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic algorithms for k-center on graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Algorithms for Matroid Submodular Maximization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Dictionary with Subconstant Wasted Bits per Key": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Dynamic Time Warping": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamically Maintaining the Persistent Homology of Time Series": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Edge-Coloring Algorithms for Bounded Degree Multigraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Edge-disjoint paths in expanders: online with removals": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Edge-weighted Online Stochastic Matching: Beating": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Quantum State Synthesis with One Query": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Equilibrium Dynamics in Market Games with Exchangeable and Divisible Resources": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Euclidean Bottleneck Steiner Tree is Fixed-Parameter Tractable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Community Recovery in the Geometric SBM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Shortest Paths with Rational Weights on the Word RAM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Factoring Pattern-Free Permutations into Separable ones": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fair Price Discrimination": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast 2-Approximate All-Pairs Shortest Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Algorithms for Directed Graph Partitioning Using Flows and Reweighted Eigenvalues": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Algorithms for Separable Linear Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and Accurate Approximations of the Optimal Transport in Semi-Discrete and Discrete Settings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Approximation Algorithms for Piercing Boxes by Points": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Fourier transform via automorphism groups of rational function fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Sampling of b-Matchings and b-Edge Covers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Algorithms for Bounded Knapsack and Bounded Subset Sum Via Fine-Grained Proximity Results": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Approximate All Pairs Shortest Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster exact and approximation algorithms for packing and covering matroids via push-relabel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Rectangular Matrix Multiplication by Combination Loss Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Sublinear-Time Edit Distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fault-Tolerant Spanners against Bounded-Degree Edge Failures: Linearly More Faults, Almost For Free": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flip Graph Connectivity for Arrangements of Pseudolines and Pseudocircles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully dynamic approximation schemes on planar and apex-minor-free graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Dynamic Consistent k-Center Clustering": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Dynamic Matching: -Approximation in Polylog Update Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Dynamic Min-Cut of Superconstant Size in Subpolynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Dynamic Shortest Path Reporting Against an Adaptive Adversary": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Scalable Massively Parallel Algorithms for Embedded Planar Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gap Amplification for Reconfiguration Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Grammar Boosting: A New Technique for Proving Lower Bounds for Computation over Compressed Data": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Higher-Order Cheeger Inequality for Partitioning with Buffers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "How Many Neurons Does it Take to Approximate the Maximum?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Impossibilities for Obviously Strategy-Proof Mechanisms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Approximation Algorithms for the Joint Replenishment Problem with Outliers, and with Fairness Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Approximations for Ultrametric Violation Distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Bounds for Point Selections and Halving Hyperplanes in Higher Dimensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Roundtrip Spanners, Emulators, and Directed Girth Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Incremental Approximate Maximum Flow on Undirected Graphs in Subpolynomial Update Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Induced-Minor-Free Graphs: Separator Theorem, Subexponential Algorithms, and Improved Hardness of Recognition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integer Programming with GCD Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Hard-Constrained Models with One Sample": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear-Sized Sparsifiers via Near-Linear Time Discrepancy Theory": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maintaining Matroid Intersections Online": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Massively Parallel Algorithms for High-Dimensional Euclidean Minimum Spanning Tree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Matrix Perturbation: Davis-Kahan in the Infinity Norm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Max s, t-Flow Oracles and Negative Cycle Detection in Planar Digraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Meta-theorems for Parameterized Streaming Algorithms‡": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mildly Exponential Lower Bounds on Tolerant Testers for Monotonicity, Unateness, and Juntas": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimization is Harder in the Prophet World": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Min-Sum Motion Planning for Two Square Robots in a Polygonal Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Quantum Algorithms for Bounded Edit Distance and Lempel-Ziv Factorization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Optimal Approximate Dual-Failure Replacement Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Optimal Black Box Polynomial Root-finders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Approximation Bounds for Small-Set Vertex Expansion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Bounds for Matrix Multiplication: from Alpha to Omega": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Explicit Constant-Degree Lossless Expanders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New SDP Roundings and Certifiable Approximation for Cubic Optimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nibbling at Long Cycles: Dynamic (and Static) Edge Coloring in Optimal Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Odd Cycle Transversal on P5-free Graphs in Quasi-polynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On (1 + ɛ)-Approximate Flow Sparsifiers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Approximability of Steiner Tree in ℓp-metrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Deterministically Approximating Total Variation Distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Dynamic Graph Algorithms with Predictions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Supermodular Contracts and Dense Subgraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Extremal Functions of Acyclic Forbidden 0-1 Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the hardness of finding balanced independent sets in random bipartite graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Hardness of PosSLP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Unreasonable Effectiveness of Single Vector Krylov Methods for Low-Rank Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Duet between Metric Embeddings and Minimum-Weight Perfect Matchings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Robust Mean Estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Bounds on Private Graph Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal rates for ranking a permuted isotonic matrix in polynomial time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal thresholds for Latin squares, Steiner Triple Systems, and edge colorings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimality of Glauber dynamics for general-purpose Ising model sampling and free energy approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimally Repurposing Existing Algorithms to Obtain Exponential-Time Approximations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Oracle Efficient Online Multicalibration and Omniprediction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel Approximate Maximum Flows in Near-Linear Work and Polylogarithmic Depth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterized algorithms for block-structured integer programs with large entries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partial Coloring Complex, Vertex Decomposability and Tverberg's Theorem with Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Poly-logarithmic Competitiveness for the k-Taxi Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Positivity Certificates for Linear Recurrences": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Power of Posted-price Mechanisms for Prophet Inequalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prior-Independent Auctions for Heterogeneous Bidders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 2024 ACM-SIAM Symposium on Discrete Algorithms, SODA 2024, Alexandria, VA, USA, January 7-10, 2024": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Worst-Case to Average-Case Reductions for All Linear Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quotient sparsification for submodular functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Random Embeddings of Graphs: The Expected Number of Faces in Most Graphs is Logarithmic": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Randomized Communication and Implicit Representations for Matrices and Graphs of Small Sign-Rank": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rationality-Robust Information Design: Bayesian Persuasion under Quantal Response": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recovering the original simplicity: succinct and deterministic quantum algorithm for the welded tree problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Representative set statements for delta-matroids and the Mader delta-matroid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Revenue Maximization for Buyers with Costly Participation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust 1-bit Compressed Sensing with Iterative Hard Thresholding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Sparsification for Matroid Intersection with Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Santa Claus meets Makespan and Matroids: Algorithms and Reductions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "School Redistricting: Wiping Unfairness Off the Map": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Set Covering with Our Eyes Wide Shut": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shannon meets Gray: Noise-robust, Low-sensitivity Codes with Applications in Differential Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shortcut Partitions in Minor-Free Graphs: Steiner Point Removal, Distance Oracles, Tree Covers, and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shortest Disjoint Paths on a Grid": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simple Delegated Choice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Simpler and Higher Lower Bounds for Shortcut Sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Single-Source Unsplittable Flows in Planar Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Small But Unwieldy: A Lower Bound on Adjacency Labels for Small Classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smoothed Complexity of SWAP in Local Graph Partitioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving Fréchet Distance Problems by Algebraic Geometric Methods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sorting and Selection in Rounds with Adversarial Comparisons": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sorting Pattern-Avoiding Permutations via 0-1 Matrices Forbidding Product Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparse induced subgraphs in P6-free graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparse Regular Expression Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Strongly Polynomial Frame Scaling to High Precision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sub-Exponential Lower Bounds for Branch-and-Bound with General Disjunctions via Interpolation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sublinear Time Low-Rank Approximation of Toeplitz Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Cost of Parallelizing Boosting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Effect of Sparsity on k-Dominating Set and Related First-Order Graph Properties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Grid-Minor Theorem Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Hierarchy of Hereditary Sorting Operators": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Identity Problem in nilpotent groups of bounded class": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Minority Dynamics and the Power of Synchronicity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Sharp Power Law of Local Search on Expanders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Time Complexity of Fully Sparse Matrix Multiplication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight approximability of MAX 2-SAT and relatives, under UGC": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Lower Bound on Equivalence Testing in Conditional Sampling Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-Space Lower Bounds for Bounded-Error Computation in the Random-Query Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tree Containment Above Minimum Degree is FPT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Triangulations Admit Dominating Sets of Size 2n/7": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Uniformity Testing over Hypergrids with Subcube Conditioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universality of Spectral Independence with Applications to Fast Mixing in Spin Glasses": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Untangling Graphs on Surfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "VC Set Systems in Minor-free (Di)Graphs and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vertical Decomposition in 3D and 4D with Applications to Line Nearest-Neighbor Searching in 3D": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Viderman's algorithm for quantum LDPC codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2025": {
+      "(Almost) Ruling Out SETH Lower Bounds for All-Pairs Max-Flow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Cell Probe Lower Bound for the Predecessor Search Problem in PRAM": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A coarse Erdős-Pósa theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Cut-Matching Game for Constant-Hop Expanders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Dichotomy Hierarchy for Linear Time Subgraph Counting in Bounded Degeneracy Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Discrete Analog of Tutte's Barycentric Embeddings on Surfaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Fast Algorithm for Computing Zigzag Representatives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Lower Bound for Light Spanners in General Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Multi-Dimensional Online Contention Resolution Scheme for Revenue Maximization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Polylogarithmic Approximation for Directed Steiner Forest in Planar Digraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Quantum Speed-Up for Approximating the Top Eigenvectors of a Matrix": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Reduction from Multi-Parameter to Single-Parameter Bayesian Contract Design": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Refutation of the Pach-Tardos Conjecture for 0-1 Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Subexponential Time Algorithm for Makespan Scheduling of Unit Jobs with Precedence Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Sublinear-Time Algorithm for Nearly-Perfect Matchings in Regular Non-Bipartite Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tight (3/2 + ∈ )-Approximation Algorithm for Demand Strip Packing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tight VC-Dimension Analysis of Clustering Coresets with Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A topological proof of the Hell-Nešetřil dichotomy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "All-Hops Shortest Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Almost Tight Bounds for Differentially Private Densest Subgraph": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An analogue of Reed's conjecture for digraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Efficient Regularity Lemma for Semi-Algebraic Hypergraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Efficient Uniqueness Theorem for Overcomplete Tensor Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Elementary Predictor Obtaining Distance to Calibration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximately Counting Knapsack Solutions in Subquadratic Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Competitive Equilibrium by Nash Welfare": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Traveling Salesman Problems Using a Bridge Lemma": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Unrelated Machine Weighted Completion Time Using Iterative Rounding and Computer Assisted Proofs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Asynchronous 3-Majority Dynamics with Many Opinions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Average-Case Hardness of Parity Problems: Orthogonal Vectors, k-SUM and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balancing Notions of Equity: Trade-offs Between Fair Portfolio Sizes and Achievable Guarantees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beating Bellman's Algorithm for Subset Sum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beyond 2-Approximation for k-Center in Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bounding ε-scatter dimension via metric sparsity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaking the Two Approximation Barrier for Various Consensus Clustering Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Certificates in P and Subquadratic-Time Computation of Radius, Diameter, and all Eccentricities in Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Clock Auctions Augmented with Unreliable Advice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Clustering Mixtures of Bounded Covariance Distributions Under Optimal Separation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Clustering to Minimize Cluster-Aware Norm Objectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Competitive strategies to use \"warm start\" algorithms with predictions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Complexity of polytope diameters via perfect matchings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing the second and third systoles of a combinatorial surface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Congestion-Approximators from the Bottom Up": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Connectivity Labeling Schemes for Edge and Vertex Faults via Expander Hierarchies": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Constraint Satisfaction Problems with Advice": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coresets for Constrained Clustering: General Assignment Constraints and Improved Size Bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Counting Small Induced Subgraphs: Hardness via Fourier Analysis": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Crossing Number in Slightly Superexponential Time (Extended Abstract)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Designing Automated Market Makers for Combinatorial Securities: A Geometric Viewpoint": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Edge Connectivity and Max Flow using Subquadratic Cut Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Online Bipartite Edge Coloring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differentiable Approximations for Distance Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Consistent k-Center Clustering with Optimal Recourse": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Approximation Algorithm for Computing Wasserstein Barycenter under Euclidean Metric": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient d-ary Cuckoo Hashing at High Load Factors by Bubbling Up": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embedding Planar Graphs into Graphs of Treewidth O (log3 n )": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Embedding Probability Distributions into Low Dimensional ℓ1: Tree Ising Models via Truncated Metrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Entropy Regularization and Faster Decremental Matching in General Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Eulerian Graph Sparsification by Effective Resistance Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Even Faster (Δ + 1)-Edge Coloring via Shorter Multi-Step Vizing Chains": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Exact Thresholds for Noisy Non-Adaptive Group Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Facet-Hamiltonicity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast and Simple Sorting Using Partial Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Deterministic Chromatic Number under the Asymptotic Rank Conjecture": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fast Static and Dynamic Approximation Algorithms for Geometric Optimization Problems: Piercing, Independent Set, Vertex Cover, and Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Approximation Algorithms for Restricted Shortest Paths in Directed Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster single-source shortest paths with negative real weights via proper hop distance": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster two-dimensional pattern matching with k mismatches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Vizing and Near-Vizing Edge Coloring Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding irrelevant vertices in linear time on bounded-genus graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fine-Grained Optimality of Partially Dynamic Shortest Paths and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fixed-Parameter Tractability of Hedge Cut": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flip Dynamics for Sampling Colorings: Improving (11/6 - ε) Using A Simple Metric": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Flipping Non-Crossing Spanning Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Forall-exist statements in pseudopolynomial time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "FPTAS for Holant Problems with Log-Concave Signatures": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Graph Properties to Graph Parameters: Tight Bounds for Counting on Small Subgraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fréchet Distance in Subquadratic Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Dynamic (Δ + 1)-Coloring Against Adaptive Adversaries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Dynamic Algorithms for Graph Spanners via Low-Diameter Router Decomposition": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully Dynamic Approximate Minimum Cut in Subpolynomial Time per Operation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fully-Distributed Byzantine Agreement in Sparse Networks": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Gains-from-Trade in Bilateral Trade with a Broker": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Having Hope in Missing Spanners: New Distance Preservers and Light Hopsets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hermitian Diagonalization in Linear Precision": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Highway Dimension: a Metric View": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hiring for An Uncertain Task: Joint Design of Information and Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Bounds for Fully Dynamic Matching via Ordered Ruzsa-Szemerédi Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Differentially Private Continual Observation Using Group Algebra": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Explicit Near-Optimal Codes in the High-Noise Regimes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved List Size for Folded Reed-Solomon Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Online Reachability Preservers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Shortest Path Restoration Lemmas for Multiple Edge Failures: Trade-offs Between Fault-tolerance and Subpaths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Spectral Density Estimation via Explicit and Implicit Deflation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving the Leading Constant of Matrix Multiplication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Inapproximability of Maximum Diameter Clustering for Few Clusters": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Integer programs with nearly totally unimodular matrices: the cographic case": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lift-and-Project Integrality Gaps for Santa Claus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Linear equations with monomial constraints and decision problems in abelian-by-cyclic groups": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lipschitz Continuous Algorithms for Covering Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local Lipschitz Filters for Bounded-Range Functions with Applications to Arbitrary Real-Valued Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Locally Testable Tree Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Losing Treewidth In The Presence Of Weights": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low Degree Local Correction Over the Boolean Cube": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower Bounds for Convexity Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Majorized Bayesian Persuasion and Fair Selection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Massively Parallel Minimum Spanning Tree in General Metric Spaces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Matching Composition and Efficient Weight Reduction in Dynamic Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Maximum Span Hypothesis: A Potentially Weaker Assumption than Gap-ETH for Parameterized Complexity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Mean-field Potts and random-cluster dynamics from high-entropy initializations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Min-CSPs on Complete Instances": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimum Convex Hull and Maximum Overlap of Two Convex Polytopes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Asymmetry Yields Faster Matrix Multiplication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "More Efficient Approximate k-wise Independent Permutations from Random Reversible Circuits via log-Sobolev Inequalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Multi-Agent Combinatorial Contracts": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-optimal hierarchical matrix approximation from matrix-vector products": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Relative Error Streaming Quantile Estimation via Elastic Compactors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal-Time Quantum Algorithms for Approximate Pattern Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Optimal Dynamic Set Cover: Breaking the Quadratic-in-f Time Barrier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Tight Bounds on Testing of Metric Properties": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Applications of 3SUM-Counting in Fine-Grained Complexity and Pattern Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Approximation Algorithms and Reductions for n-Pairs Shortest Paths and All-Nodes Shortest Cycles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Combinatorial Insights for Monotone Apportionment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Philosopher Inequalities for Online Bayesian Matching, via Pivotal Sampling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Prophet Inequalities via Poissonization and Sharding": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Separations and Reductions for Directed Hopsets and Preservers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Estimating the Trace of Quantum State Powers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Decidability of Presburger Arithmetic Expanded with Powers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Locality of Hall's Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Uniqueness of Bayesian Coarse Correlated Equilibria in Standard First-Price and All-Pay Auctions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Dependent Rounding Schemes for Bipartite Matchings, with": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Scheduling via Gradient Descent for Weighted Flow Time Minimization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Mixing for Randomly Sampling Edge Colorings on Trees Down to the Max Degree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Outlier-robust Mean Estimation near the Breakdown Point via Sum-of-Squares": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Packing Short Cycles": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parallel and Distributed Expander Decomposition: Simple, Fast, and Near-Optimal": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterized Approximation for Capacitated d-Hitting Set with Hard Capacities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parameterizing the quantification of CMSO: model checking on minor-closed graph classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Parks and Recreation: Color Fault-Tolerant Spanners Made Local": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partial Synchrony for Free: New Upper Bounds for Byzantine Agreement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Partitioning a Polygon Into Small Pieces": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Path and Intersections: Characterization of Quasi-metrics in Directed Okamura-Seymour Instances": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Planar Graphs in Blowups of Fans": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Platforms for Efficient and Incentive-Aware Collaboration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial-Time Classical Simulation of Noisy IQP Circuits with Constant Depth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Potential Hessian Ascent: The Sherrington-Kirkpatrick Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Private Mean Estimation with Person-Level Differential Privacy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 2025 Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2025, New Orleans, LA, USA, January 12-15, 2025": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prophet Inequalities: Competing with the Top ℓ Items is Easy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prophet Secretary and Matching: the Significance of the Largest Item": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PTASes for Euclidean TSP with Unit Disk and Unit Square Neighborhoods": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Putting Off the Catching Up: Online Joint Replenishment Problem with Holding and Backlog Costs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Locally Recoverable Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quartic quantum speedups for planted inference": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quasi-Monte Carlo Beyond Hardy-Krause": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quasilinear-time eccentricities computation, and more, on median graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Randomized Greedy Online Edge Coloring Succeeds for Dense and Randomly-Ordered Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recognizing Sumsets is NP-Complete": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relating Interleaving and Fréchet Distances via Ordered Merge Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Relative-error monotonicity testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rényi-infinity constrained sampling with d3 membership queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Settling the Pass Complexity of Approximate Matchings in Dynamic Graph Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Solving Polynomial Equations Over Finite Fields": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spanners in Planar Domains via Steiner Spanners and non-Steiner Tree Covers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spectral Independence Beyond Total Influence on Trees and Related Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming Algorithms via Local Algorithms for Maximum Directed Cut": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming and Communication Complexity of Load-Balancing via Matching Contractors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Strict Self-Assembly of Discrete Self-Similar Fractals in the abstract Tile Assembly Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stronger adversaries grow cheaper forests: online node-weighted Steiner problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sublinear-Round Broadcast without Trusted Setup": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Subquadratic algorithms in minor-free digraphs: (weighted) distance oracles, decrementai reachability, and more": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sumsets, 3SUM, Subset Sum: Now for Real!": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Testing Approximate Stationarity Concepts for Piecewise Affine Functions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Change-of-Measure Method, Block Lewis Weights, and Approximating Matrix Block Norms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Johnson-Lindenstrauss Lemma for Clustering and Subspace Approximation: From Coresets to Dimension Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Power of Proportional Fairness for Non-Clairvoyant Scheduling under Polyhedral Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Primal Pathwidth SETH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Submodular Santa Claus Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Bounds and Phase Transitions for Incremental and Dynamic Retrieval": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Sampling Bounds for Eigenvalue Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Streaming Lower Bounds for Deterministic Approximate Counting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tolls for Dynamic Equilibrium Flows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Top-k Document Retrieval in Compressed Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tree Independence Number IV. Even-hole-free graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tree-Packing Revisited: Faster Fully Dynamic Min-Cut and Arboricity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Triply efficient shadow tomography": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unbreakable Decomposition in Close-to-Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Understanding Memory-Regret Trade-Off for Streaming Stochastic Multi-Armed Bandits": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unique-neighbor Expanders with Better Expansion for Polynomial-sized Sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Perfect Samplers for Incremental Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unweighted Layered Graph Traversal: Passing a Crown via Entropy Maximization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weak coloring numbers of minor-closed graph classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    },
+    "2026": {
+      "#CFG and #DNNF admit FPRAS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "(Almost) Perfect Discrete Iterative Load Balancing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "(Withdrawn)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "(α, β)-Spanners and Hybrid Spanners with Nearly Tight Bounds": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A (2 + ε)-approximation algorithm for the general scheduling problem in quasipolynomial time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Better-Than-2 Approximation for the Directed Tree Augmentation Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Better-Than-5/4-Approximation for Two-Edge Connectivity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Broader View on Clustering under Cluster-Aware Norm Objectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Classical Quadratic Speedup for Planted k xor": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Classification of Long-Refinement Graphs for Colour Refinement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A CSP approach to Graph Sandwich Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Deterministic Polylogarithmic Competitive Algorithm for Matching with Delays": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Few Good Choices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Logic-based Algorithmic Meta-Theorem for Treedepth: Single Exponential FPT Time and Polynomial Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Near-Complete Resolution of the Exponential-Time Complexity of k-opt for the Traveling Salesman Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A near-optimal quadratic Goldreich-Levin algorithm (extended abstract)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A parameterized linear formulation of the integer hull": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Post-Quantum Lower Bound for the Distributed Lovasz Local Lemma": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A quasi-polynomial bound for the minimal excluded minors for a surface": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Simple and Fast Reduction from Gomory-Hu Trees to Polylog Maxflows": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Truly Subcubic Combinatorial Algorithm for Induced 4-Cycle Detection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A Tutte-type canonical decomposition of 3- and 4-connected graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "A well-separated pair decomposition for low density graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Additive Approximation Schemes for Low-Dimensional Embeddings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algebraic Closure of Matrix Sets Recognized by 1-VASS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithmic Improvements to List Decoding of Folded Reed-Solomon Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Algorithms and Lower Bounds for the Maximum Overlap of Two Polygons Under Translation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "All-Pairs Minimum Cut using Õ(n7/4) Cut Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Efficient Massively Parallel Constant-Factor Approximation Algorithm for the k-Means Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An optimal algorithm for average distance in typical regular graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Optimal Density Bound for Discretized Point Patrolling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Optimal Online Algorithm for Robust Flow Time Scheduling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "An Unconditional Lower Bound for the Active-Set Method in Convex Quadratic Maximization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approaching Optimality for Solving Dense Linear Systems with Low-Rank Structure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Counting of Permutation Patterns": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximate Light Spanners in Planar Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximately Dominating Sets in Elections": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Asymmetric A Priori TSP beyond the Adaptivity Gap": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Approximating Matroid Basis Testing for Partition Matroids using Budget-In-Expectation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmenting Packing Dynamic Programs to Handle (Many) Additional Budget Constraints": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Augmenting to 4-vertex connectivity is fixed-parameter tractable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balanced Spanning Tree Distributions Have Separation Fairness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Balls and Bins and the Infinite Process with Random Deletions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Beating full state tomography for unentangled spectrum estimation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Better Bounds for Semi-Streaming Single-Source Shortest Paths": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Better Regret Rates in Bilateral Trade via Sublinear Budget Violation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Bounding the asymptotic quantum value of all multipartite compiled non-local games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Braiding Vineyards": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Breaching the 2-Approximation Barrier for Euclidean Capacitated Vehicle Routing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Burling Graphs in Graphs with Large Chromatic Number": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Catching Rats in H-minor-free Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Cell-Probe Lower Bounds via Semi-Random CSP Refutation: Simplified and the Odd-Locality Case": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Centered colorings in minor-closed graph classes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Circuits and Backdoors: Five Shades of the SETH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Collaborative Prediction: Tractable Information Aggregation via Agreement": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coloring 3-Colorable Graphs with Low Threshold Rank": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Coloring Graphs with Few Colors in the Streaming Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combinatorial Philosopher Inequalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Combinatorial Selection with Costly Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Comparison Theorems for the Mixing Times of Systematic and Random Scan Dynamics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Compatibility of Fairness and Nash Welfare under Subadditive Valuations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational barriers for permutation-based problems, and cumulants of weakly dependent random variables": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computational Complexity in Property Testing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Computing the Heaviest Disk and Related Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contextual Search in Principal-Agent Games: The Curse of Degeneracy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contract Design Beyond Hidden-Actions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Contract Design for Sequential Actions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Covering the Euclidean Plane by a Pair of Trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Derandomizing Pseudopolynomial Algorithms for Subset Sum": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Detecting Correlation Efficiently in Very Supercritical Stochastic Block Models: Breaking the Otter's Threshold Barrier": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic and Exact Fully-dynamic Minimum Cut of Superpolylogarithmic Size in Subpolynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Deterministic Dynamic Edge Colouring": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Determinization of Min-Plus Weighted Automata is Decidable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dichotomy for orderings?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differentially Private Algorithms for Graph Cuts: A Shifting Mechanism Approach and More": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Differentially Private Quasi-Concave Optimization: Bypassing the Lower Bound and Application to Geometric Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Disjoint Paths in Expanders in Deterministic Almost-Linear Time via Hypergraph Perfect Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Interactive Proofs for Planarity with Log-Star Communication": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distributed Quantum Advantage in Locally Checkable Labeling Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Distribution Testing in the Presence of Arbitrarily Dominant Noise with Verification Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Does block size matter in randomized block Krylov low-rank approximation?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Downward self-reducibility in the total function polynomial hierarchy": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic 3D Convex Hulls Revisited and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Connectivity with Expected Polylogarithmic Worst-Case Update Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Dynamic Hierarchical j-Tree Decomposition and Its Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficient Online Random Sampling via Randomness Recycling": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Efficiently Constructing Sparse Navigable Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Entrywise Approximation for Matrix Inversion and Linear Systems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Evasive sets, twisted varieties, and container-clique trees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Excluding a Line Minor via Design Matrices and Column Number Bounds for the Circuit Imbalance Measure": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Existence of Fair and Efficient Allocation of Indivisible Chores": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Expander Pruning with Polylogarithmic Worst-Case Recourse and Update Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explaining the Inherent Tradeoffs for Suffix Array Functionality: Equivalences between String Problems and Prefix Range Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Explicit Min-wise Hash Families with Optimal Size": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Extended VC-dimension, and Radon and Tverberg type theorems for unions of convex sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Fair Division Beyond Monotone Valuations with Applications to Equitable Graph Partitioning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Algorithms for Global Minimum Vertex-Cut in Directed Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster algorithms for packing forests in graphs and related problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Distributed Δ-Coloring via a Reduction to MIS": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Estimation of the Average Degree of a Graph Using Random Edges and Structural Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster negative length shortest paths by bootstrapping hop reducers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Faster Negative-Weight Shortest Paths and Directed Low-Diameter Decompositions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Feature Selection and Junta Testing are Statistically Equivalent": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finding sparse induced subgraphs on graphs of bounded induced matching treewidth": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Finite Pinwheel Scheduling: the k-Visits Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Incremental Transitive Cover to Strongly Polynomial Maximum Flow": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "From Unweighted to Weighted Dynamic Matching in Non-Bipartite Graphs: A Low-Loss Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Generating pivot Gray codes for spanning trees of complete graphs in constant amortized time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Halfspaces are hard to test with relative error": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hallucinating Flows for Optimal Mechanisms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Hardness of Approximation for Shortest Path with Vector Costs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Helly-Type Theorems for Splitting Point Sets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "History-Independent Load Balancing": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "History-Independent Maximal Matchings can be Surprisingly Efficient, and Lead to Better Worst-Case Guarantees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Additive Approximation Algorithms for APSP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Approximation for Ranking on General Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Maximin Share Guarantee for Additive Valuations": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improved Online Algorithms for Inventory Management Problems with Holding and Delay Costs: Riding the Wave Makes Things Simpler, Stronger, & More General": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Improving Algorithmic Efficiency using Cryptography: Trapdoored Matrices and Applications": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Interaction Between Skew-representability, Tensor Products, Extension Properties, and Rank Inequalities": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Is nasty noise actually harder than malicious noise?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "k-SUM Hardness Implies Treewidth-SETH": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Language Generation in the Limit: Noise, Loss, and Feedback": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning in an Echo Chamber: Online Learning with Replay Adversary": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Learning Packing and Covering from Samples": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Likelihood of the Existence of Average Justified Representation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Listing faces of polytopes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local Gibbs sampling beyond local uniformity": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Local Search for Clustering in Almost-linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Long Arithmetic Progressions in Sparse Subset Sums: A Computational Perspective": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Low-Sensitivity Matching via Sampling from Gibbs Distributions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower Bounds for CSP Hierarchies Through Ideal Reduction": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lower bounds for the universal TSP on the plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Lp Sampling in Distributed Data Streams with Applications to Adversarial Robustness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Matroids are Equitable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "MAX BISECTION might be harder to approximate than MAX CUT": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Minimum s t Cuts with Fewer Cut Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-linear time subhypergraph counting in bounded degeneracy hypergraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Centerpoints in Polynomial Time in the Ambient Dimension": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Four-Cycle Counting in Graph Streams": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Near-Optimal Min-Sum Multi-Robot Motion Planning in a Planar Polygonal Environment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Optimal Bounds for Stochastic Online Sorting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Tight Bounds for the Online Sorting Problem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Nearly Tight Sample Complexity for Matroid Online Contention Resolution": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Networked Information Aggregation via Machine Learning": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Algorithms and Hardness Results for Robust Satisfiability of (Promise) CSPs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "New Oracles and Labeling Schemes for Vertex Cut Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Numerical Linear Algebra in Linear Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On a Clique Game and the Erdős-Hajnal Problem on High-Chromatic High-Girth Subgraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Deterministically Finding an Element of High Order Modulo a Composite": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Distributed Colouring of Hyperbolic Random Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Independent Spanning Trees in Random Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On Lines Crossing Pairwise Intersecting Convex Sets in Three Dimensions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On sampling two spin models using the local connective constant": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Complexity of the Skolem Problem at Low Orders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Computation of Schrijver's Kernels": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the edge expansion of random polytopes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Quantum Chromatic Gap": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Structure of Replicable Hypothesis Testers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Universality of Round Elimination Fixed Points": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "On the Usefulness of Promises": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "One Attack to Rule Them All: Tight Quadratic Bounds for Adaptive Queries on Cardinality Sketches": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online 3-Taxi on General Metrics": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Conformal Prediction with Efficiency Guarantees": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Connectivity Augmentation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Joint Replenishment Problem with Arbitrary Holding and Backlog Costs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Learning with Limited Information in the Sliding Window Model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Orthogonal Vectors Revisited": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Proportional Apportionment": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Online Resource Allocation with Concave, Diminishing-Returns Objectives": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal mass estimation in the conditional sampling model": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Random Access and Conditional Lower Bounds for 2D Compressed Strings": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal randomized clustering for subsets of Lp when p > 2": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Rounding for Two-Stage Bipartite Matching": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Subspace Embeddings: Resolving Nelson-Nguyen Conjecture Up to Sub-Polylogarithmic Factors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimal Type-Dependent Liquid Welfare Guarantees for Autobidding Agents with Budgets": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Optimization Modulo Integer Linear-Exponential Programs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "PageRank Centrality in Directed Graphs with Bounded In-Degree": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Peeling Rotten Potatoes for a Faster Approximation of Convex Cover": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Perfect Matchings in Random Sparsifications of Dense Hypergraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Persuasive Calibration": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Phase transition of the Sinkhorn-Knopp algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Planar Disjoint Shortest Paths is Fixed-Parameter Tractable": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Plane vs. Plane Low Degree Test": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Polynomial-Time Classical Simulation of Noisy Quantum Circuits with Naturally Fault-Tolerant Gates": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Problems from Optimization and Computational Algebra Equivalent to Hilbert's Nullstellensatz": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Proceedings of the 2026 Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2026, Vancouver, BC, Canada, January 11-14, 2026": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Prophet Inequality from Samples: Is the More the Merrier?": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Advantage via Solving Multivariate Polynomials": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum Hamiltonian Certification": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Quantum State Preparation with Optimal T-Count": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rapid mixing for Gibbs states within a logical sector: a dynamical view of self-correcting quantum memories": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rapid Mixing of Glauber Dynamics for Monotone Systems via Entropic Independence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Recognizing Leaf Powers and Pairwise Compatibility Graphs is NP-Complete": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Robust Equilibria in Shared Resource Allocation via Strengthening Border's Theorem": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Rumour Spreading Depends on the Latent Geometry and Degree Distribution in Social Network Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sample-efficient Replicable Median in Polynomial Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Selfish, Local and Online Scheduling via Vector Fitting": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sensitivity Lower Bounds for Approximation Algorithms": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Separations between Oblivious and Adaptive Adversaries for Natural Dynamic Graph Problems": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Short circuit walks in fixed dimension": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Shortcuts and Transitive-Closure Spanners Approximation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Smooth Trade-off for Tensor PCA via Sharp Bounds for Kikuchi Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Space-Efficient k-Mismatch Text Indexes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Space-efficient population protocols for exact majority on general graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spanning Tree Embeddings Are Not Much Harder than Hierarchical Partitions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparse Navigable Graphs for Nearest Neighbor Search: Algorithms and Hardness": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparsifying Cayley Graphs on Every Group": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sparsifying Sums of Positive Semidefinite Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spectral clustering in birthday paradox time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Spectral Clustering with Side Information": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Stochastic Embedding of Digraphs into DAGs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Streaming and Massively Parallel Algorithms for Euclidean Max-Cut": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Strongly Polynomial Parallel Work-Depth Tradeoffs for Directed SSSP": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sublinear Metric Steiner Forest via Maximal Independent Set": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sublinear Time Low-Rank Approximation of Hankel Matrices": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Sublinear-Time Lower Bounds for Approximating Matching Size using Non-Adaptive Queries": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Succinct Dynamic Rank/Select: Bypassing the Tree-Structure Bottleneck": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Temporal Exploration of Random Spanning Tree Models": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Testing forbidden order-pattern properties on hypergrids": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Communication Complexity of Combinatorial Auctions with Additional Succinct Bidders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Complexity of Dynamic LZ77 is ?Θ(n2/3)": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Directed Disjoint Paths Problem with Congestion": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Division Barrier: Optimal Bounds and Structural Limits in Toom-Cook Interpolation": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Erdős-Pósa property for circle graphs as vertex-minors": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Parameterised Complexity of Counting Small Sub-Hypergraphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "The Power of Matching for Online Fractional Hedonic Games": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Three-edge-coloring (Tait coloring) cubic graphs and nowhere-zero 4-flow for graphs on the torus": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Differentially Private PCA via Matrix Coherence": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Lower Bounds for Central String Queries in Compressed Space": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tight Parameterized (In)tractability of Layered Crossing Minimization: Subexponential Algorithms and Kernelization": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Time-Biased Random Walks and Robustness of Expanders": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Traversing regions of supersolvable hyperplane arrangements and their lattice quotients": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tree covers of size 2 for the Euclidean plane": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Tree Embedding in High Dimensions: Dynamic and Massively Parallel": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unbounded Error Correcting Codes": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Universal Connection Schedules for Reconfigurable Networking": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Unsplittable Flow Cut Gap in Undirected Graphs": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Vizing's Theorem in Deterministic Almost-Linear Time": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weighted k-Server Admits an Exponentially Competitive Algorithm": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "Weighted Pseudorandom Generators for Read-Once Branching Programs via Weighted Pseudorandom Reductions": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "When Contracts Get Complex: Information-Theoretic Barriers": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "You (Almost) Can't Beat Brute Force for 3-Matroid Intersection": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      },
+      "ℋ-Planarity and Parametric Extensions: when Modulators Act Globally": {
+        "author": "",
+        "bib": "",
+        "url": ""
+      }
+    }
+  }
+}
