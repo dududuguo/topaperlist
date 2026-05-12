@@ -9,6 +9,7 @@ search --conference AAAI --year 2024 diffusion
 search --path PaperJson/A/ICML.json --year 2024 transformer
 search import --path PaperJson/A/ICML.json --input paper.json
 search remove --path PaperJson/A/ICML.json --title "Paper Title"
+search 'What Matters for Batch Online Reinforcement Learning in Robotics?' --bib
 ```
 
 ## A
@@ -153,6 +154,12 @@ Both install scripts finish with a smoke test against the installed command. Ins
 
 ```bash
 search --conference EMNLP --year 2020 attention is all you need
+```
+
+To get <paper title>'s biblatex, the command is
+
+```bash
+serach '<paper title>' --bib
 ```
 
 ### Development
