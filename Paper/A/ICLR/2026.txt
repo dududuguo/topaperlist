@@ -3850,7 +3850,7 @@ Concepts' Information Bottleneck Models
 Cite Pretrain: Retrieval-Free Knowledge Attribution for Large Language Models
 APC-RL: Exceeding data-driven behavior priors with adaptive policy composition
 Misaligned Roles, Misplaced Images: Structural Input Perturbations Expose Multimodal Alignment Blind Spots
-Zero-Sacrifice Lifelong Adversarial Defense for Pre-Trained Encoders
+Zero-Sacrifice Persistent-Robustness Adversarial Defense for Pre-Trained Encoders
 FACET: A Fragment-Aware Conformer Ensemble Transformer
 Resurfacing the Instance-only Dependent Label Noise Model through Loss Correction
 From Reproduction to Replication: Evaluating Research Agents with Progressive Code Masking

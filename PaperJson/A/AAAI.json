@@ -58402,9 +58402,9 @@
     },
     "2025": {
       "\"AlphAI\": Teaching AI Algorithms to K12 by Training Learning Robots and Visualizing How It Works.": {
-        "author": "",
-        "bib": "",
-        "url": ""
+        "author": "Marie Absalon, Thomas Deneux",
+        "bib": "@inproceedings{DBLP:conf/aaai/AbsalonD25,\n  author       = {Marie Absalon and\n                  Thomas Deneux},\n  editor       = {Toby Walsh and\n                  Julie Shah and\n                  Zico Kolter},\n  title        = {\"AlphAI\": Teaching {AI} Algorithms to {K12} by Training Learning Robots\n                  and Visualizing How It Works},\n  booktitle    = {Thirty-Ninth {AAAI} Conference on Artificial Intelligence, Thirty-Seventh\n                  Conference on Innovative Applications of Artificial Intelligence,\n                  Fifteenth Symposium on Educational Advances in Artificial Intelligence,\n                  {AAAI} 2025, Philadelphia, PA, USA, February 25 - March 4, 2025},\n  pages        = {29096--29103},\n  publisher    = {{AAAI} Press},\n  year         = {2025},\n  url          = {https://doi.org/10.1609/aaai.v39i28.35181},\n  doi          = {10.1609/AAAI.V39I28.35181},\n  timestamp    = {Wed, 18 Mar 2026 17:07:12 +0100},\n  biburl       = {https://dblp.org/rec/conf/aaai/AbsalonD25.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+        "url": "https://doi.org/10.1609/aaai.v39i28.35181"
       },
       "\"From Unseen Needs to Classroom Solutions\": Exploring AI Literacy Challenges & Opportunities with Project-Based Learning Toolkit in K-12 Education.": {
         "author": "",

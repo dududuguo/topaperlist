@@ -34,6 +34,7 @@ Options:
   -c, --columns <list>               Comma-separated columns to display.
                                      Available: level, conference, year, title.
                                      Output order is always: level, conference, year, title.
+      --bib                          Print title, conference, year, authors, and BibTeX for matches.
       --data-dir <path>              Override PaperJson data directory path.
       --paper-dir <path>             Alias of --data-dir.
       --path <path>                  Search one specific conference JSON file.
@@ -65,6 +66,7 @@ Examples:
   search --exclude-level B --exclude-year 2024
   search --conference NeurIPS --exclude survey --exclude-year 2023 --sort year:desc --sort title:asc
   search --level A --columns conference,year,title
+  search "Attention Is All You Need" --bib
   search --path PaperJson/A/ICML.json diffusion
   search import --path PaperJson/A/ICML.json --input paper.json --force
   search remove --path PaperJson/A/ICML.json --title "Paper Title"
@@ -124,6 +126,7 @@ struct Config {
     year_exclude_filters: Vec<String>,
     sort_specs: Vec<SortSpec>,
     display_fields: Vec<Field>,
+    print_bib: bool,
     paper_dir: Option<PathBuf>,
     paper_path: Option<PathBuf>,
 }
@@ -134,6 +137,9 @@ struct Record {
     conference: String,
     year: String,
     title: String,
+    author: String,
+    bib: String,
+    url: String,
 }
 
 #[derive(Clone, Debug, Default, PartialEq)]
@@ -220,8 +226,21 @@ fn run() -> Result<(), AppError> {
         records.sort_by(|left, right| compare_records(left, right, &config.sort_specs));
     }
 
-    for record in records {
-        println!("{}", format_record(&record, &config.display_fields));
+    if config.print_bib {
+        if records.is_empty() {
+            println!("not in database");
+            return Ok(());
+        }
+        for (index, record) in records.iter().enumerate() {
+            if index > 0 {
+                println!();
+            }
+            println!("{}", format_bib_record(record));
+        }
+    } else {
+        for record in records {
+            println!("{}", format_record(&record, &config.display_fields));
+        }
     }
 
     Ok(())
@@ -254,6 +273,7 @@ where
     let mut year_exclude_filters = Vec::new();
     let mut sort_specs = Vec::new();
     let mut display_fields = canonical_fields();
+    let mut print_bib = false;
     let mut paper_dir = None;
     let mut paper_path = None;
 
@@ -334,6 +354,7 @@ where
                     .ok_or_else(|| AppError::Message("missing value for --columns".to_string()))?;
                 display_fields = parse_columns(value)?;
             }
+            "--bib" => print_bib = true,
             "--data-dir" | "--paper-dir" => {
                 index += 1;
                 let value = args
@@ -443,11 +464,12 @@ where
         conference_exclude_filters,
         year_include_filters,
         year_exclude_filters,
-        sort_specs,
-        display_fields,
-        paper_dir,
-        paper_path,
-    })
+            sort_specs,
+            display_fields,
+            print_bib,
+            paper_dir,
+            paper_path,
+        })
 }
 
 fn parse_import_args<I>(args: I) -> Result<ImportConfig, AppError>
@@ -1574,7 +1596,7 @@ fn append_records_from_conference_json(
             continue;
         };
 
-        for title in title_entries.keys() {
+        for (title, entry) in title_entries {
             let trimmed = title.trim();
             if trimmed.is_empty() {
                 continue;
@@ -1584,11 +1606,24 @@ fn append_records_from_conference_json(
                 conference: conference.to_string(),
                 year: year.to_string(),
                 title: trimmed.to_string(),
+                author: metadata_string(entry, "author"),
+                bib: metadata_string(entry, "bib"),
+                url: metadata_string(entry, "url"),
             });
         }
     }
 
     Ok(())
+}
+
+fn metadata_string(entry: &Value, field: &str) -> String {
+    entry
+        .as_object()
+        .and_then(|object| object.get(field))
+        .and_then(Value::as_str)
+        .unwrap_or_default()
+        .trim()
+        .to_string()
 }
 
 fn is_year_key(value: &str) -> bool {
@@ -1693,17 +1728,26 @@ fn matches_title_keywords(
     include_keywords: &[String],
     exclude_keywords: &[String],
 ) -> bool {
-    let words: Vec<String> = title
-        .split_whitespace()
-        .map(|word| word.to_ascii_lowercase())
-        .collect();
+    let normalized_title = normalize_search_text(title);
 
     include_keywords
         .iter()
-        .all(|keyword| words.iter().any(|word| word.contains(keyword)))
+        .all(|keyword| normalized_title.contains(&normalize_search_text(keyword)))
         && !exclude_keywords
             .iter()
-            .any(|keyword| words.iter().any(|word| word.contains(keyword)))
+            .any(|keyword| normalized_title.contains(&normalize_search_text(keyword)))
+}
+
+fn normalize_search_text(value: &str) -> String {
+    let mut normalized = String::with_capacity(value.len());
+    for character in value.chars() {
+        if character.is_ascii_alphanumeric() {
+            normalized.push(character.to_ascii_lowercase());
+        } else {
+            normalized.push(' ');
+        }
+    }
+    normalized.split_whitespace().collect::<Vec<_>>().join(" ")
 }
 
 fn compare_records(left: &Record, right: &Record, sort_specs: &[SortSpec]) -> Ordering {
@@ -1753,6 +1797,29 @@ fn format_record(record: &Record, fields: &[Field]) -> String {
     parts.join("\t")
 }
 
+fn format_bib_record(record: &Record) -> String {
+    let authors = if record.author.is_empty() {
+        "(empty)"
+    } else {
+        &record.author
+    };
+    let bib = if record.bib.is_empty() {
+        "(empty)"
+    } else {
+        &record.bib
+    };
+    let url = if record.url.is_empty() {
+        "(empty)"
+    } else {
+        &record.url
+    };
+
+    format!(
+        "Title: {}\nConference: {}\nYear: {}\nAuthors: {}\nURL: {}\nBib:\n{}",
+        record.title, record.conference, record.year, authors, url, bib
+    )
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -1778,6 +1845,7 @@ mod tests {
                 "--exclude-year=2023",
                 "--sort=year:desc",
                 "--columns=title,conference,title",
+                "--bib",
                 "--data-dir=custom-data",
             ]
             .into_iter()
@@ -1810,6 +1878,7 @@ mod tests {
             }]
         );
         assert_eq!(config.display_fields, vec![Field::Conference, Field::Title]);
+        assert!(config.print_bib);
         assert_eq!(config.paper_dir, Some(PathBuf::from("custom-data")));
     }
 
@@ -1941,6 +2010,9 @@ mod tests {
             conference: "ICML".to_string(),
             year: "2024".to_string(),
             title: "Graph-aware Diffusion Models for Retrieval".to_string(),
+            author: String::new(),
+            bib: String::new(),
+            url: String::new(),
         };
         let config = Config {
             title_include_keywords: vec!["graph".to_string(), "diff".to_string()],
@@ -1953,6 +2025,7 @@ mod tests {
             year_exclude_filters: vec![],
             sort_specs: Vec::new(),
             display_fields: canonical_fields(),
+            print_bib: false,
             paper_dir: None,
             paper_path: None,
         };
@@ -1971,6 +2044,9 @@ mod tests {
             conference: "ICML".to_string(),
             year: "2024".to_string(),
             title: "Graph-aware Diffusion Models for Retrieval".to_string(),
+            author: String::new(),
+            bib: String::new(),
+            url: String::new(),
         };
         let config = Config {
             title_include_keywords: vec![],
@@ -1983,6 +2059,7 @@ mod tests {
             year_exclude_filters: vec!["2023".to_string()],
             sort_specs: Vec::new(),
             display_fields: canonical_fields(),
+            print_bib: false,
             paper_dir: None,
             paper_path: None,
         };
@@ -1995,10 +2072,15 @@ mod tests {
     }
 
     #[test]
-    fn title_keyword_matching_uses_space_split_and_substring_logic() {
+    fn title_keyword_matching_supports_words_phrases_and_punctuation() {
         assert!(matches_title_keywords(
             "Graph-aware Diffusion Models for Retrieval",
             &["graph".to_string(), "diff".to_string()],
+            &[]
+        ));
+        assert!(matches_title_keywords(
+            "Zero-Sacrifice Persistent-Robustness Adversarial Defense",
+            &["zero sacrifice persistent robustness".to_string()],
             &[]
         ));
         assert!(!matches_title_keywords(
@@ -2021,18 +2103,27 @@ mod tests {
                 conference: "ICML".to_string(),
                 year: "2023".to_string(),
                 title: "B".to_string(),
+                author: String::new(),
+                bib: String::new(),
+                url: String::new(),
             },
             Record {
                 level: "A".to_string(),
                 conference: "ICML".to_string(),
                 year: "2024".to_string(),
                 title: "A".to_string(),
+                author: String::new(),
+                bib: String::new(),
+                url: String::new(),
             },
             Record {
                 level: "B".to_string(),
                 conference: "ACL".to_string(),
                 year: "2024".to_string(),
                 title: "C".to_string(),
+                author: String::new(),
+                bib: String::new(),
+                url: String::new(),
             },
         ];
 
@@ -2277,6 +2368,8 @@ mod tests {
         assert_eq!(records[0].conference, "ICML");
         assert_eq!(records[0].year, "2024");
         assert_eq!(records[0].title, "JSON Paper");
+        assert_eq!(records[0].author, "A. Author");
+        assert_eq!(records[0].url, "https://example.com");
         assert_eq!(records[1].year, "2025");
         assert_eq!(records[1].title, "Another JSON Paper");
 
@@ -2318,6 +2411,9 @@ mod tests {
                 conference: "ICML".to_string(),
                 year: "2026".to_string(),
                 title: "Included Paper".to_string(),
+                author: String::new(),
+                bib: String::new(),
+                url: String::new(),
             }]
         );
 
@@ -2355,6 +2451,9 @@ mod tests {
                 conference: "TRIM".to_string(),
                 year: "2026".to_string(),
                 title: "Trimmed Paper".to_string(),
+                author: String::new(),
+                bib: String::new(),
+                url: String::new(),
             }]
         );
 
@@ -2368,6 +2467,9 @@ mod tests {
             conference: "ICML".to_string(),
             year: "2026".to_string(),
             title: "Same Paper".to_string(),
+            author: String::new(),
+            bib: String::new(),
+            url: String::new(),
         };
         let different_year = Record {
             year: "2025".to_string(),

@@ -1,0 +1,38 @@
+{
+  "default": {
+    "sources": ["openreview"]
+  },
+  "conferences": {
+    "AAAI": {
+      "sources": ["aaai_ojs"],
+      "aaai_ojs": {
+        "base_url": "https://ojs.aaai.org/index.php/AAAI",
+        "archive_url": "https://ojs.aaai.org/index.php/AAAI/issue/archive",
+        "max_archive_pages": 20,
+        "fetch_bib": true,
+        "sleep": 0.2
+      }
+    },
+    "ICLR": {
+      "sources": ["openreview"],
+      "openreview": {
+        "venue_id": "ICLR.cc/{year}/Conference",
+        "legacy_invitations": {
+          "2019": "ICLR.cc/2019/Conference/-/Blind_Submission"
+        }
+      }
+    },
+    "ICML": {
+      "sources": ["openreview"],
+      "openreview": {
+        "venue_id": "ICML.cc/{year}/Conference"
+      }
+    },
+    "NeurIPS": {
+      "sources": ["openreview"],
+      "openreview": {
+        "venue_id": "NeurIPS.cc/{year}/Conference"
+      }
+    }
+  }
+}
